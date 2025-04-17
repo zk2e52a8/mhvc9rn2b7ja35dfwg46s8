@@ -28,6 +28,7 @@ const crear_config_inicial = () => {
 		"patron_titulo": "",
 		"patron_capitulo": "",
 
+		"titulo_feed": "Nuevos capítulos", // Título en el JSON Feed
 		"ruta_feed": "feed.json", // Ruta donde se guardará el JSON Feed
 		"min_paginas": "2", // Mínimo de páginas a procesar
 		"timestamp_actualizacion": timestamp_actualizacion // Última actualización (epoch en milisegundos)
@@ -89,6 +90,7 @@ const leer_y_validar_config = () => {
 			"patron_ficha",
 			"patron_titulo",
 			"patron_capitulo",
+			"titulo_feed",
 			"min_paginas",
 			"timestamp_actualizacion"
 		];
@@ -333,10 +335,10 @@ const procesar_paginas = async (pagina, config, dominio_funcional, navegador, ru
 // JSON Feed
 // ##########
 
-const generar_feed_final = (feed_base) => {
+const generar_feed_final = (feed_base, config) => {
 	const feed_final = {
 		version: "https://jsonfeed.org/version/1.1",
-		title: "Nuevos capítulos",
+		title: config.titulo_feed,
 		items: []
 	};
 
@@ -400,7 +402,7 @@ const ejecutar_script = async () => {
 	const feed_base = await procesar_paginas(pagina, config, dominio_funcional, navegador, ruta_config);
 
 	// Generar el JSON Feed final en el formato deseado
-	const feed_final = generar_feed_final(feed_base);
+	const feed_final = generar_feed_final(feed_base, config);
 
 	// Escribir el feed y config en el disco
 	fs.writeFileSync(config.ruta_feed, JSON.stringify(feed_final, null, "\t"));
