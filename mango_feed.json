@@ -1,506 +1,156 @@
 {
 	"version": "https://jsonfeed.org/version/1.1",
-	"title": "Nuevos capítulos",
+	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
-			"id": "Cómic Amor fantasmal [Capítulo 8: Orckuro Translations - Fin]",
-			"title": "Cómic Amor fantasmal [Capítulo 8: Orckuro Translations - Fin]",
-			"url": "https://visualikigai.vrinari.org/series/amor-fantasmal/"
+			"id": "Cómic Mi último invierno [Capítulo 2]",
+			"title": "Cómic Mi último invierno [Capítulo 2]",
+			"url": "https://visualikigai.vrinari.org/series/mi-ultimo-invierno/"
 		},
 		{
-			"id": "Cómic Sujétala con más firmeza, para que no escape [Capítulo 19]",
-			"title": "Cómic Sujétala con más firmeza, para que no escape [Capítulo 19]",
-			"url": "https://visualikigai.vrinari.org/series/sujetala-con-mas-firmeza-para-que-no-escape/"
+			"id": "Cómic Lo Que Descubrí Después De La Muerte [Capítulo 27]",
+			"title": "Cómic Lo Que Descubrí Después De La Muerte [Capítulo 27]",
+			"url": "https://visualikigai.vrinari.org/series/lo-que-descubri-despues-de-la-muerte/"
 		},
 		{
-			"id": "Cómic Princesa Lotto [Capítulo 70]",
-			"title": "Cómic Princesa Lotto [Capítulo 70]",
-			"url": "https://visualikigai.vrinari.org/series/princesa-lotto/"
+			"id": "Cómic Un guia peligroso [Capítulo 58]",
+			"title": "Cómic Un guia peligroso [Capítulo 58]",
+			"url": "https://visualikigai.vrinari.org/series/un-guia-peligroso/"
 		},
 		{
-			"id": "Cómic Prohibido casarse [Capítulo 2]",
-			"title": "Cómic Prohibido casarse [Capítulo 2]",
-			"url": "https://visualikigai.vrinari.org/series/prohibido-casarse/"
+			"id": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 4]",
+			"title": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 4]",
+			"url": "https://visualikigai.vrinari.org/series/me-converti-en-la-hierba-gatera-de-bestias-despiadadas/"
 		},
 		{
-			"id": "Cómic Inapropiado [Capítulo 30]",
-			"title": "Cómic Inapropiado [Capítulo 30]",
-			"url": "https://visualikigai.vrinari.org/series/inapropiado/"
+			"id": "Cómic Ruégame [Capítulo 37]",
+			"title": "Cómic Ruégame [Capítulo 37]",
+			"url": "https://visualikigai.vrinari.org/series/ruegame/"
 		},
 		{
-			"id": "Cómic Un genio del futbol [Capítulo 16]",
-			"title": "Cómic Un genio del futbol [Capítulo 16]",
-			"url": "https://visualikigai.vrinari.org/series/un-genio-del-futbol/"
+			"id": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 4]",
+			"title": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 4]",
+			"url": "https://visualikigai.vrinari.org/series/cualquiera-puede-ver-que-es-una-bestia/"
 		},
 		{
-			"id": "Cómic 1LJ1N A C4RG0 DE 1LJ1N [Capítulo 134]",
-			"title": "Cómic 1LJ1N A C4RG0 DE 1LJ1N [Capítulo 134]",
-			"url": "https://visualikigai.vrinari.org/series/1lj1n-a-c4rg0-de-1lj1n/"
+			"id": "Cómic Soy una villana, pero no viviré como tal [Capítulo 18]",
+			"title": "Cómic Soy una villana, pero no viviré como tal [Capítulo 18]",
+			"url": "https://visualikigai.vrinari.org/series/soy-una-villana-pero-no-vivire-como-tal/"
 		},
 		{
-			"id": "Cómic Manipulación Extrema [Capítulo 18]",
-			"title": "Cómic Manipulación Extrema [Capítulo 18]",
-			"url": "https://visualikigai.vrinari.org/series/manipulacion-extrema/"
+			"id": "Cómic Fue solo un matrimonio por contrato [Capítulo 69]",
+			"title": "Cómic Fue solo un matrimonio por contrato [Capítulo 69]",
+			"url": "https://visualikigai.vrinari.org/series/fue-solo-un-matrimonio-por-contrato/"
 		},
 		{
-			"id": "Cómic Me convertí en la esposa de un tirano moribundo [Capítulo 37]",
-			"title": "Cómic Me convertí en la esposa de un tirano moribundo [Capítulo 37]",
-			"url": "https://visualikigai.vrinari.org/series/me-converti-en-la-esposa-de-un-tirano-moribundo/"
+			"id": "Cómic La Heroína Tiene Sus Ojos En Mí Como La Esposa De Su Hermano [Capítulo 76]",
+			"title": "Cómic La Heroína Tiene Sus Ojos En Mí Como La Esposa De Su Hermano [Capítulo 76]",
+			"url": "https://visualikigai.vrinari.org/series/la-heroina-tiene-sus-ojos-en-mi-como-la-esposa-de-su-hermano/"
 		},
 		{
-			"id": "Cómic En deuda contigo [Capítulo 3]",
-			"title": "Cómic En deuda contigo [Capítulo 3]",
-			"url": "https://visualikigai.vrinari.org/series/en-deuda-contigo/"
+			"id": "Cómic El Amante Muerto Regresa Como Un Tirano [Capítulo 27]",
+			"title": "Cómic El Amante Muerto Regresa Como Un Tirano [Capítulo 27]",
+			"url": "https://visualikigai.vrinari.org/series/el-amante-muerto-regresa-como-un-tirano/"
 		},
 		{
-			"id": "Cómic Noche de la novia [Capítulo 75]",
-			"title": "Cómic Noche de la novia [Capítulo 75]",
-			"url": "https://visualikigai.vrinari.org/series/noche-de-la-novia/"
+			"id": "Cómic Alerta amber [Capítulo 20]",
+			"title": "Cómic Alerta amber [Capítulo 20]",
+			"url": "https://visualikigai.vrinari.org/series/alerta-amber/"
 		},
 		{
-			"id": "Cómic Lady black está deprimida [Capítulo 20]",
-			"title": "Cómic Lady black está deprimida [Capítulo 20]",
-			"url": "https://visualikigai.vrinari.org/series/lady-black-esta-deprimida/"
+			"id": "Cómic Una Villana Con Una Enfermedad Terminal Que Rechaza La Adopción [Capítulo 54]",
+			"title": "Cómic Una Villana Con Una Enfermedad Terminal Que Rechaza La Adopción [Capítulo 54]",
+			"url": "https://visualikigai.vrinari.org/series/una-villana-con-una-enfermedad-terminal-que-rechaza-la-adopcion/"
 		},
 		{
-			"id": "Cómic Cómo ama Geumjogi (omegaverse) [Capítulo 3]",
-			"title": "Cómic Cómo ama Geumjogi (omegaverse) [Capítulo 3]",
-			"url": "https://visualikigai.vrinari.org/series/como-ama-geumjogi-omegaverse/"
+			"id": "Cómic Delicias prohibidas [Capítulo 57]",
+			"title": "Cómic Delicias prohibidas [Capítulo 57]",
+			"url": "https://visualikigai.vrinari.org/series/delicias-prohibidas/"
 		},
 		{
-			"id": "Cómic La musa [Capítulo 20]",
-			"title": "Cómic La musa [Capítulo 20]",
-			"url": "https://visualikigai.vrinari.org/series/la-musa/"
+			"id": "Cómic Noche de caos [Capítulo 66]",
+			"title": "Cómic Noche de caos [Capítulo 66]",
+			"url": "https://visualikigai.vrinari.org/series/noche-de-caos/"
 		},
 		{
-			"id": "Cómic Trampa amorosa [Capítulo 60]",
-			"title": "Cómic Trampa amorosa [Capítulo 60]",
-			"url": "https://visualikigai.vrinari.org/series/trampa-amorosa/"
+			"id": "Cómic Cuando La Hija Ilegítima Del Conde Se Casa [Capítulo 109]",
+			"title": "Cómic Cuando La Hija Ilegítima Del Conde Se Casa [Capítulo 109]",
+			"url": "https://visualikigai.vrinari.org/series/cuando-la-hija-ilegitima-del-conde-se-casa/"
 		},
 		{
-			"id": "Cómic Diario del maestro sirena [Capítulo 11]",
-			"title": "Cómic Diario del maestro sirena [Capítulo 11]",
-			"url": "https://visualikigai.vrinari.org/series/diario-del-maestro-sirena/"
+			"id": "Cómic Cazador Con Destino De Clase F [Capítulo 80]",
+			"title": "Cómic Cazador Con Destino De Clase F [Capítulo 80]",
+			"url": "https://visualikigai.vrinari.org/series/cazador-con-destino-de-clase-f/"
 		},
 		{
-			"id": "Cómic Flor sin nombre [Capítulo 22]",
-			"title": "Cómic Flor sin nombre [Capítulo 22]",
-			"url": "https://visualikigai.vrinari.org/series/flor-sin-nombre/"
+			"id": "Cómic Los primeros amores son así, Majestad [Capítulo 15]",
+			"title": "Cómic Los primeros amores son así, Majestad [Capítulo 15]",
+			"url": "https://visualikigai.vrinari.org/series/los-primeros-amores-son-asi-majestad/"
 		},
 		{
-			"id": "Cómic Hospital Nocturno [Capítulo 98]",
-			"title": "Cómic Hospital Nocturno [Capítulo 98]",
-			"url": "https://visualikigai.vrinari.org/series/hospital-nocturno/"
+			"id": "Cómic La vida después de la muerte [Capítulo 215]",
+			"title": "Cómic La vida después de la muerte [Capítulo 215]",
+			"url": "https://visualikigai.vrinari.org/series/la-vida-despues-de-la-muerte/"
 		},
 		{
-			"id": "Cómic Retornador de vidas pasadas [Capítulo 125]",
-			"title": "Cómic Retornador de vidas pasadas [Capítulo 125]",
-			"url": "https://visualikigai.vrinari.org/series/retornador-de-vidas-pasadas/"
+			"id": "Cómic Hice Una Huelga Porque Mi Tiempo Era Limitado [Capítulo 107]",
+			"title": "Cómic Hice Una Huelga Porque Mi Tiempo Era Limitado [Capítulo 107]",
+			"url": "https://visualikigai.vrinari.org/series/hice-una-huelga-porque-mi-tiempo-era-limitado/"
 		},
 		{
-			"id": "Cómic Mi Esposo Es Débil De Día, Fuerte De Noche [Capítulo 47]",
-			"title": "Cómic Mi Esposo Es Débil De Día, Fuerte De Noche [Capítulo 47]",
-			"url": "https://visualikigai.vrinari.org/series/mi-esposo-es-debil-de-dia-fuerte-de-noche/"
+			"id": "Cómic Solicitud Especial Para Recién Casados [Capítulo 45]",
+			"title": "Cómic Solicitud Especial Para Recién Casados [Capítulo 45]",
+			"url": "https://visualikigai.vrinari.org/series/solicitud-especial-para-recien-casados-manhwa/"
 		},
 		{
-			"id": "Cómic Otro típico romance de fantasía [Capítulo 93]",
-			"title": "Cómic Otro típico romance de fantasía [Capítulo 93]",
-			"url": "https://visualikigai.vrinari.org/series/otro-tipico-romance-de-fantasia/"
+			"id": "Cómic Soy Un Personaje Secundario En Un Juego De Terror, No Me Mates [Capítulo 63]",
+			"title": "Cómic Soy Un Personaje Secundario En Un Juego De Terror, No Me Mates [Capítulo 63]",
+			"url": "https://visualikigai.vrinari.org/series/soy-un-personaje-secundario-en-un-juego-de-terror-no-me-mates/"
 		},
 		{
-			"id": "Cómic La Primera Noche Del Señor [Capítulo 11]",
-			"title": "Cómic La Primera Noche Del Señor [Capítulo 11]",
-			"url": "https://visualikigai.vrinari.org/series/la-primera-noche-del-senor/"
+			"id": "Cómic Cosas Que No Sabía Porque Era La Primera Vez [Capítulo 21]",
+			"title": "Cómic Cosas Que No Sabía Porque Era La Primera Vez [Capítulo 21]",
+			"url": "https://visualikigai.vrinari.org/series/cosas-que-no-sabia-porque-era-la-primera-vez/"
 		},
 		{
-			"id": "Cómic La secretaria del emperador quiere sobrevivir [Capítulo 18]",
-			"title": "Cómic La secretaria del emperador quiere sobrevivir [Capítulo 18]",
-			"url": "https://visualikigai.vrinari.org/series/la-secretaria-del-emperador-quiere-sobrevivir/"
+			"id": "Cómic Moby Dick [Capítulo 67]",
+			"title": "Cómic Moby Dick [Capítulo 67]",
+			"url": "https://visualikigai.vrinari.org/series/moby-dick/"
 		},
 		{
-			"id": "Cómic Imperfectamente Nosotros [Capítulo 1]",
-			"title": "Cómic Imperfectamente Nosotros [Capítulo 1]",
-			"url": "https://visualikigai.vrinari.org/series/imperfectamente-nosotros/"
+			"id": "Cómic La Concubina Bebé Quiere Vivir Tranquila [Capítulo 119]",
+			"title": "Cómic La Concubina Bebé Quiere Vivir Tranquila [Capítulo 119]",
+			"url": "https://visualikigai.vrinari.org/series/la-concubina-bebe-quiere-vivir-tranquila/"
 		},
 		{
-			"id": "Cómic Guia De Gemelos [Capítulo 7]",
-			"title": "Cómic Guia De Gemelos [Capítulo 7]",
-			"url": "https://visualikigai.vrinari.org/series/guia-de-gemelos/"
+			"id": "Cómic Eres bonita [Capítulo 13]",
+			"title": "Cómic Eres bonita [Capítulo 13]",
+			"url": "https://visualikigai.vrinari.org/series/eres-bonita/"
 		},
 		{
-			"id": "Cómic El Dinero Del Señor No Disminuye [Capítulo 159]",
-			"title": "Cómic El Dinero Del Señor No Disminuye [Capítulo 159]",
-			"url": "https://visualikigai.vrinari.org/series/el-dinero-del-senor-no-disminuye/"
+			"id": "Cómic  La Nueva Bebé De La Familia Villana [Capítulo 46]",
+			"title": "Cómic  La Nueva Bebé De La Familia Villana [Capítulo 46]",
+			"url": "https://visualikigai.vrinari.org/series/la-nueva-bebe-de-la-familia-villana/"
 		},
 		{
-			"id": "Cómic ¡Soy la hija del heredero loco! [Capítulo 36]",
-			"title": "Cómic ¡Soy la hija del heredero loco! [Capítulo 36]",
-			"url": "https://visualikigai.vrinari.org/series/soy-la-hija-del-heredero-loco/"
+			"id": "Cómic La Basura De La Familia Del Conde [Capítulo 148]",
+			"title": "Cómic La Basura De La Familia Del Conde [Capítulo 148]",
+			"url": "https://visualikigai.vrinari.org/series/la-basura-de-la-familia-del-conde/"
 		},
 		{
-			"id": "Cómic Detras del escenario [Capítulo 1]",
-			"title": "Cómic Detras del escenario [Capítulo 1]",
-			"url": "https://visualikigai.vrinari.org/series/detras-del-escenario/"
+			"id": "Cómic Hombre Oscuro, ¡Haré Todo Por Ti Excepto El Matrimonio! [Capítulo 29]",
+			"title": "Cómic Hombre Oscuro, ¡Haré Todo Por Ti Excepto El Matrimonio! [Capítulo 29]",
+			"url": "https://visualikigai.vrinari.org/series/hombre-oscuro-hare-todo-por-ti-excepto-el-matrimonio/"
 		},
 		{
-			"id": "Cómic El genio eligió vivir una vida ordinaria [Capítulo 22]",
-			"title": "Cómic El genio eligió vivir una vida ordinaria [Capítulo 22]",
-			"url": "https://visualikigai.vrinari.org/series/el-genio-eligio-vivir-una-vida-ordinaria/"
+			"id": "Cómic La Princesa Que Oculta Su Fanatismo [Capítulo 61]",
+			"title": "Cómic La Princesa Que Oculta Su Fanatismo [Capítulo 61]",
+			"url": "https://visualikigai.vrinari.org/series/la-princesa-que-oculta-su-fanatismo/"
 		},
 		{
-			"id": "Cómic Codename Anastasia [Capítulo 50.4: 𝑩𝒓𝒆𝒂𝒌𝒊𝒏𝒈 𝒏𝒆𝒘𝒔! ♨︎]",
-			"title": "Cómic Codename Anastasia [Capítulo 50.4: 𝑩𝒓𝒆𝒂𝒌𝒊𝒏𝒈 𝒏𝒆𝒘𝒔! ♨︎]",
-			"url": "https://visualikigai.vrinari.org/series/codename-anastasia/"
-		},
-		{
-			"id": "Cómic Punto De Vista Del Lector Omnisciente [Capítulo 258]",
-			"title": "Cómic Punto De Vista Del Lector Omnisciente [Capítulo 258]",
-			"url": "https://visualikigai.vrinari.org/series/punto-de-vista-del-lector-omnisciente/"
-		},
-		{
-			"id": "Cómic Temporada de Amor [Capítulo 40: Fin de la 1ra. Temporada]",
-			"title": "Cómic Temporada de Amor [Capítulo 40: Fin de la 1ra. Temporada]",
-			"url": "https://visualikigai.vrinari.org/series/temporada-de-amor/"
-		},
-		{
-			"id": "Cómic La Bebé prisionera del castillo de invierno [Capítulo 60]",
-			"title": "Cómic La Bebé prisionera del castillo de invierno [Capítulo 60]",
-			"url": "https://visualikigai.vrinari.org/series/la-bebe-prisionero-del-castillo-de-invierno/"
-		},
-		{
-			"id": "Cómic Es un gran problema porque el padre del protagonista es muy lindo [Capítulo 37]",
-			"title": "Cómic Es un gran problema porque el padre del protagonista es muy lindo [Capítulo 37]",
-			"url": "https://visualikigai.vrinari.org/series/es-un-gran-problema-porque-el-padre-del-protagonista-es-muy-lindo/"
-		},
-		{
-			"id": "Cómic El protagonista masculino es el Gran Duque de cabello negro del norte [Capítulo 32]",
-			"title": "Cómic El protagonista masculino es el Gran Duque de cabello negro del norte [Capítulo 32]",
-			"url": "https://visualikigai.vrinari.org/series/el-protagonista-masculino-es-el-gran-duque-de-cabello-negro-del-norte/"
-		},
-		{
-			"id": "Cómic Interpreté Demasiado Bien El Papel De Hija Adoptiva [Capítulo 87]",
-			"title": "Cómic Interpreté Demasiado Bien El Papel De Hija Adoptiva [Capítulo 87]",
-			"url": "https://visualikigai.vrinari.org/series/interprete-demasiado-bien-el-papel-de-hija-adoptiva/"
-		},
-		{
-			"id": "Cómic Me Converti en La Familia Del Villano [Capítulo 139]",
-			"title": "Cómic Me Converti en La Familia Del Villano [Capítulo 139]",
-			"url": "https://visualikigai.vrinari.org/series/me-converti-en-la-familia-del-villano/"
-		},
-		{
-			"id": "Cómic Utilizando las habilidades de Eroge en la vida real [Capítulo 60: FINAL]",
-			"title": "Cómic Utilizando las habilidades de Eroge en la vida real [Capítulo 60: FINAL]",
-			"url": "https://visualikigai.vrinari.org/series/utilizando-las-habilidades-de-eroge-en-la-vida-real/"
-		},
-		{
-			"id": "Cómic Yo soy la Villana [Capítulo 73]",
-			"title": "Cómic Yo soy la Villana [Capítulo 73]",
-			"url": "https://visualikigai.vrinari.org/series/yo-soy-la-villana/"
-		},
-		{
-			"id": "Cómic Velocidad Eléctrica [Capítulo 346]",
-			"title": "Cómic Velocidad Eléctrica [Capítulo 346]",
-			"url": "https://visualikigai.vrinari.org/series/velocidad-electrica/"
-		},
-		{
-			"id": "Cómic Arte manz [Capítulo 43]",
-			"title": "Cómic Arte manz [Capítulo 43]",
-			"url": "https://visualikigai.vrinari.org/series/arte-manz/"
-		},
-		{
-			"id": "Cómic El Poder de Ver tus Deseos [Capítulo 27]",
-			"title": "Cómic El Poder de Ver tus Deseos [Capítulo 27]",
-			"url": "https://visualikigai.vrinari.org/series/el-poder-de-ver-tus-deseos/"
-		},
-		{
-			"id": "Cómic Mi Bella Julieta [Capítulo 43]",
-			"title": "Cómic Mi Bella Julieta [Capítulo 43]",
-			"url": "https://visualikigai.vrinari.org/series/mi-bella-julieta/"
-		},
-		{
-			"id": "Cómic Conexion Sanguinea [Capítulo 19]",
-			"title": "Cómic Conexion Sanguinea [Capítulo 19]",
-			"url": "https://visualikigai.vrinari.org/series/conexion-sanguinea/"
-		},
-		{
-			"id": "Cómic Relaciones amorosas después del trabajo [Capítulo 75]",
-			"title": "Cómic Relaciones amorosas después del trabajo [Capítulo 75]",
-			"url": "https://visualikigai.vrinari.org/series/relaciones-amorosas-despues-del-trabajo/"
-		},
-		{
-			"id": "Cómic Cazador de milfs de otro mundo [Capítulo 76]",
-			"title": "Cómic Cazador de milfs de otro mundo [Capítulo 76]",
-			"url": "https://visualikigai.vrinari.org/series/cazador-de-milfs-de-otro-mundo/"
-		},
-		{
-			"id": "Cómic No caeré por segunda vez [Capítulo 26]",
-			"title": "Cómic No caeré por segunda vez [Capítulo 26]",
-			"url": "https://visualikigai.vrinari.org/series/no-caere-por-segunda-vez/"
-		},
-		{
-			"id": "Cómic Dios te bendiga [Capítulo 32]",
-			"title": "Cómic Dios te bendiga [Capítulo 32]",
-			"url": "https://visualikigai.vrinari.org/series/dios-te-bendiga/"
-		},
-		{
-			"id": "Cómic Feliz locura [Capítulo 30]",
-			"title": "Cómic Feliz locura [Capítulo 30]",
-			"url": "https://visualikigai.vrinari.org/series/feliz-locura/"
-		},
-		{
-			"id": "Cómic No evites al hombre perfecto [Capítulo 37]",
-			"title": "Cómic No evites al hombre perfecto [Capítulo 37]",
-			"url": "https://visualikigai.vrinari.org/series/no-evites-al-hombre-perfecto/"
-		},
-		{
-			"id": "Cómic Mi Hija Adoptiva [Capítulo 9]",
-			"title": "Cómic Mi Hija Adoptiva [Capítulo 9]",
-			"url": "https://visualikigai.vrinari.org/series/mi-hija-adoptiva/"
-		},
-		{
-			"id": "Novela La Emperatriz Se Volvió A Casar - Novela [Capítulo 220: Gran Duque Kapmen odia a la reina (1)]",
-			"title": "Novela La Emperatriz Se Volvió A Casar - Novela [Capítulo 220: Gran Duque Kapmen odia a la reina (1)]",
-			"url": "https://visualikigai.vrinari.org/series/la-emperatriz-se-volvio-a-casar-novela/"
-		},
-		{
-			"id": "Cómic La Flor De Espina De Adinmir [Capítulo 1]",
-			"title": "Cómic La Flor De Espina De Adinmir [Capítulo 1]",
-			"url": "https://visualikigai.vrinari.org/series/la-flor-de-espina-de-adinmir/"
-		},
-		{
-			"id": "Cómic La Regresión 100 Del Jugador De Nivel Máximo [Capítulo 52]",
-			"title": "Cómic La Regresión 100 Del Jugador De Nivel Máximo [Capítulo 52]",
-			"url": "https://visualikigai.vrinari.org/series/la-regresion-100-del-jugador-de-nivel-maximo/"
-		},
-		{
-			"id": "Cómic Mi Cuerpo Ha Sido Poseído Por Alguien [Capítulo 65]",
-			"title": "Cómic Mi Cuerpo Ha Sido Poseído Por Alguien [Capítulo 65]",
-			"url": "https://visualikigai.vrinari.org/series/mi-cuerpo-ha-sido-poseido-por-alguien/"
-		},
-		{
-			"id": "Novela Regresión Inútil - Novela [Capítulo 94: Ogros]",
-			"title": "Novela Regresión Inútil - Novela [Capítulo 94: Ogros]",
-			"url": "https://visualikigai.vrinari.org/series/regresion-inutil-novela/"
-		},
-		{
-			"id": "Novela Incluso el Villano Tiene Una Historia - Novela [Capítulo 54: Entrenamiento especial (1)]",
-			"title": "Novela Incluso el Villano Tiene Una Historia - Novela [Capítulo 54: Entrenamiento especial (1)]",
-			"url": "https://visualikigai.vrinari.org/series/incluso-el-villano-tiene-una-historia-novela/"
-		},
-		{
-			"id": "Novela Me Encanta Destruir La Trama De Los Mundos - Novela [Capítulo 91: Tercera Estrella Azul - Habitación 0373 Reunión]",
-			"title": "Novela Me Encanta Destruir La Trama De Los Mundos - Novela [Capítulo 91: Tercera Estrella Azul - Habitación 0373 Reunión]",
-			"url": "https://visualikigai.vrinari.org/series/me-encanta-destruir-la-trama-de-los-mundos-novela/"
-		},
-		{
-			"id": "Cómic Vamos A Encontrarnos Vivos [Capítulo 21]",
-			"title": "Cómic Vamos A Encontrarnos Vivos [Capítulo 21]",
-			"url": "https://visualikigai.vrinari.org/series/vamos-a-encontrarnos-vivos/"
-		},
-		{
-			"id": "Novela Cómo Sobrevivir Como La Esposa Del Duque Monstruoso - Novela [Capítulo 163]",
-			"title": "Novela Cómo Sobrevivir Como La Esposa Del Duque Monstruoso - Novela [Capítulo 163]",
-			"url": "https://visualikigai.vrinari.org/series/como-sobrevivir-como-la-esposa-del-duque-monstruoso-novela/"
-		},
-		{
-			"id": "Cómic Mago Infinito [Capítulo 114]",
-			"title": "Cómic Mago Infinito [Capítulo 114]",
-			"url": "https://visualikigai.vrinari.org/series/mago-infinito/"
-		},
-		{
-			"id": "Cómic Las cosas quiero hacer antes de morir [Capítulo 24]",
-			"title": "Cómic Las cosas quiero hacer antes de morir [Capítulo 24]",
-			"url": "https://visualikigai.vrinari.org/series/las-cosas-quiero-hacer-antes-de-morir/"
-		},
-		{
-			"id": "Cómic Me Convertí en la Señora de la Casa [Capítulo 84]",
-			"title": "Cómic Me Convertí en la Señora de la Casa [Capítulo 84]",
-			"url": "https://visualikigai.vrinari.org/series/me-converti-en-la-senora-de-la-casa/"
-		},
-		{
-			"id": "Cómic Las chicas de la isla [Capítulo 10]",
-			"title": "Cómic Las chicas de la isla [Capítulo 10]",
-			"url": "https://visualikigai.vrinari.org/series/las-chicas-de-la-isla/"
-		},
-		{
-			"id": "Cómic El Taller de Sonidos Eróticos [Capítulo 43]",
-			"title": "Cómic El Taller de Sonidos Eróticos [Capítulo 43]",
-			"url": "https://visualikigai.vrinari.org/series/el-taller-de-sonidos-eroticos/"
-		},
-		{
-			"id": "Cómic Academia de preparación [Capítulo 12]",
-			"title": "Cómic Academia de preparación [Capítulo 12]",
-			"url": "https://visualikigai.vrinari.org/series/academia-de-preparacion/"
-		},
-		{
-			"id": "Cómic La vida de los atletas [Capítulo 27]",
-			"title": "Cómic La vida de los atletas [Capítulo 27]",
-			"url": "https://visualikigai.vrinari.org/series/la-vida-de-los-atletas/"
-		},
-		{
-			"id": "Cómic La Bella Es Deseada Por La Bestia [Capítulo 88]",
-			"title": "Cómic La Bella Es Deseada Por La Bestia [Capítulo 88]",
-			"url": "https://visualikigai.vrinari.org/series/la-bella-es-deseada-por-la-bestia-ik/"
-		},
-		{
-			"id": "Cómic Habitación del placer culpable [Capítulo 22]",
-			"title": "Cómic Habitación del placer culpable [Capítulo 22]",
-			"url": "https://visualikigai.vrinari.org/series/habitacion-del-placer-culpable/"
-		},
-		{
-			"id": "Cómic Me casé con la hermana menor de mi esposa [Capítulo 48]",
-			"title": "Cómic Me casé con la hermana menor de mi esposa [Capítulo 48]",
-			"url": "https://visualikigai.vrinari.org/series/me-case-con-la-hermana-menor-de-mi-esposa/"
-		},
-		{
-			"id": "Cómic Como ninguna otra [Capítulo 11]",
-			"title": "Cómic Como ninguna otra [Capítulo 11]",
-			"url": "https://visualikigai.vrinari.org/series/como-ninguna-otra/"
-		},
-		{
-			"id": "Cómic El Regreso Del Jugador Congelado [Capítulo 163]",
-			"title": "Cómic El Regreso Del Jugador Congelado [Capítulo 163]",
-			"url": "https://visualikigai.vrinari.org/series/el-regreso-del-jugador-congelado/"
-		},
-		{
-			"id": "Cómic Clases Secretas con mi hermanita [Capítulo 50]",
-			"title": "Cómic Clases Secretas con mi hermanita [Capítulo 50]",
-			"url": "https://visualikigai.vrinari.org/series/clases-secretas-con-mi-hermanita/"
-		},
-		{
-			"id": "Cómic Fui encarcelada por el perro loco que crié [Capítulo 36]",
-			"title": "Cómic Fui encarcelada por el perro loco que crié [Capítulo 36]",
-			"url": "https://visualikigai.vrinari.org/series/fui-encarcelada-por-el-perro-loco-que-crie-2/"
-		},
-		{
-			"id": "Cómic La Guardiana Extra perdió el momento adecuado para irse [Capítulo 56]",
-			"title": "Cómic La Guardiana Extra perdió el momento adecuado para irse [Capítulo 56]",
-			"url": "https://visualikigai.vrinari.org/series/la-guardiana-extra-perdio-el-momento-adecuado-para-irse/"
-		},
-		{
-			"id": "Cómic maestro ha cruzado la línea [Capítulo 94]",
-			"title": "Cómic maestro ha cruzado la línea [Capítulo 94]",
-			"url": "https://visualikigai.vrinari.org/series/maestro-ha-cruzado-la-linea/"
-		},
-		{
-			"id": "Cómic El cazador quiere vivir tranquilamente [Capítulo 34]",
-			"title": "Cómic El cazador quiere vivir tranquilamente [Capítulo 34]",
-			"url": "https://visualikigai.vrinari.org/series/el-cazador-quiere-vivir-tranquilamente/"
-		},
-		{
-			"id": "Cómic Triunfando en el Mundo del Cómic [Capítulo 29]",
-			"title": "Cómic Triunfando en el Mundo del Cómic [Capítulo 29]",
-			"url": "https://visualikigai.vrinari.org/series/triunfando-en-el-mundo-del-comic/"
-		},
-		{
-			"id": "Cómic Lobo [Capítulo 17]",
-			"title": "Cómic Lobo [Capítulo 17]",
-			"url": "https://visualikigai.vrinari.org/series/lobo/"
-		},
-		{
-			"id": "Cómic El palacio del placer [Capítulo 23]",
-			"title": "Cómic El palacio del placer [Capítulo 23]",
-			"url": "https://visualikigai.vrinari.org/series/el-palacio-del-placer/"
-		},
-		{
-			"id": "Cómic A la amante de mi esposo [Capítulo 75]",
-			"title": "Cómic A la amante de mi esposo [Capítulo 75]",
-			"url": "https://visualikigai.vrinari.org/series/a-la-amante-de-mi-esposo/"
-		},
-		{
-			"id": "Cómic Verano Sin Fin [Capítulo 28]",
-			"title": "Cómic Verano Sin Fin [Capítulo 28]",
-			"url": "https://visualikigai.vrinari.org/series/verano-sin-fin/"
-		},
-		{
-			"id": "Cómic La Selección de Bestias de la Emperatriz [Capítulo 48]",
-			"title": "Cómic La Selección de Bestias de la Emperatriz [Capítulo 48]",
-			"url": "https://visualikigai.vrinari.org/series/la-seleccion-de-bestias-de-la-emperatriz/"
-		},
-		{
-			"id": "Cómic Enséñame a Desear [Capítulo 21]",
-			"title": "Cómic Enséñame a Desear [Capítulo 21]",
-			"url": "https://visualikigai.vrinari.org/series/ensename-a-desear/"
-		},
-		{
-			"id": "Cómic La Poderosa Extra: Una Chica Cambia El Mundo [Capítulo 65]",
-			"title": "Cómic La Poderosa Extra: Una Chica Cambia El Mundo [Capítulo 65]",
-			"url": "https://visualikigai.vrinari.org/series/la-poderosa-extra-una-chica-cambia-el-mundo/"
-		},
-		{
-			"id": "Cómic Ella Ya No Empuña Su Espada [Capítulo 56]",
-			"title": "Cómic Ella Ya No Empuña Su Espada [Capítulo 56]",
-			"url": "https://visualikigai.vrinari.org/series/ella-ya-no-empuna-su-espada/"
-		},
-		{
-			"id": "Cómic Subir de nivel hasta que estés satisfecho [Capítulo 68]",
-			"title": "Cómic Subir de nivel hasta que estés satisfecho [Capítulo 68]",
-			"url": "https://visualikigai.vrinari.org/series/subir-de-nivel-hasta-que-estes-satisfecho/"
-		},
-		{
-			"id": "Cómic Acerca de la destrucción exclusiva [Capítulo 51]",
-			"title": "Cómic Acerca de la destrucción exclusiva [Capítulo 51]",
-			"url": "https://visualikigai.vrinari.org/series/acerca-de-la-destruccion-exclusiva/"
-		},
-		{
-			"id": "Cómic La Niña Joya No Derrama Lágrimas [Capítulo 50]",
-			"title": "Cómic La Niña Joya No Derrama Lágrimas [Capítulo 50]",
-			"url": "https://visualikigai.vrinari.org/series/la-nina-joya-no-derrama-lagrimas/"
-		},
-		{
-			"id": "Cómic Agarré La Correa De La Bestia Ciega [Capítulo 51]",
-			"title": "Cómic Agarré La Correa De La Bestia Ciega [Capítulo 51]",
-			"url": "https://visualikigai.vrinari.org/series/agarre-la-correa-de-la-bestia-ciega/"
-		},
-		{
-			"id": "Cómic Como Hacer que mi Marido Tirano me Ame [Capítulo 50]",
-			"title": "Cómic Como Hacer que mi Marido Tirano me Ame [Capítulo 50]",
-			"url": "https://visualikigai.vrinari.org/series/como-hacer-que-mi-marido-tirano-me-ame/"
-		},
-		{
-			"id": "Cómic No Puedo Esperar A Comerte [Capítulo 86]",
-			"title": "Cómic No Puedo Esperar A Comerte [Capítulo 86]",
-			"url": "https://visualikigai.vrinari.org/series/no-puedo-esperar-a-comerte/"
-		},
-		{
-			"id": "Cómic Pequeñ0 Hong0 [Capítulo 57]",
-			"title": "Cómic Pequeñ0 Hong0 [Capítulo 57]",
-			"url": "https://visualikigai.vrinari.org/series/pequen0-hong0/"
-		},
-		{
-			"id": "Cómic Mensajes de amor [Capítulo 9]",
-			"title": "Cómic Mensajes de amor [Capítulo 9]",
-			"url": "https://visualikigai.vrinari.org/series/mensajes-de-amor/"
-		},
-		{
-			"id": "Cómic Me convertí en esclavo del hombre que abandoné [Capítulo 27]",
-			"title": "Cómic Me convertí en esclavo del hombre que abandoné [Capítulo 27]",
-			"url": "https://visualikigai.vrinari.org/series/me-converti-en-esclavo-del-hombre-que-abandone/"
-		},
-		{
-			"id": "Cómic Depravación: caer en lo más bajo [Capítulo 29: Orckuro Translations]",
-			"title": "Cómic Depravación: caer en lo más bajo [Capítulo 29: Orckuro Translations]",
-			"url": "https://visualikigai.vrinari.org/series/depravacion-caer-en-lo-mas-bajo/"
-		},
-		{
-			"id": "Cómic El Príncipe no llora por meras cebollas. [Capítulo 34]",
-			"title": "Cómic El Príncipe no llora por meras cebollas. [Capítulo 34]",
-			"url": "https://visualikigai.vrinari.org/series/el-principe-no-llora-por-meras-cebollas/"
-		},
-		{
-			"id": "Cómic El Extra De La Novela - Remake [Capítulo 124]",
-			"title": "Cómic El Extra De La Novela - Remake [Capítulo 124]",
-			"url": "https://visualikigai.vrinari.org/series/el-extra-de-la-novela-remake/"
-		},
-		{
-			"id": "Cómic El Diablo Entrena Una Dama [Capítulo 65]",
-			"title": "Cómic El Diablo Entrena Una Dama [Capítulo 65]",
-			"url": "https://visualikigai.vrinari.org/series/el-diablo-entrena-una-dama/"
-		},
-		{
-			"id": "Cómic Di Mi Nombre [Capítulo 10]",
-			"title": "Cómic Di Mi Nombre [Capítulo 10]",
-			"url": "https://visualikigai.vrinari.org/series/di-mi-nombre/"
+			"id": "Cómic Cariño, ¿Por Qué No Podemos Divorciarnos? [Capítulo 51]",
+			"title": "Cómic Cariño, ¿Por Qué No Podemos Divorciarnos? [Capítulo 51]",
+			"url": "https://visualikigai.vrinari.org/series/carino-por-que-no-podemos-divorciarnos/"
 		}
 	]
 }
