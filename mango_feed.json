@@ -3,6 +3,26 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Empleado temporal asignado al más allá [Capítulo]",
+			"title": "Cómic Empleado temporal asignado al más allá [Capítulo]",
+			"url": "https://visualikigai.vrinari.org/series/empleado-temporal-asignado-al-mas-alla/"
+		},
+		{
+			"id": "Cómic Novato De Nivel Máximo [Capítulo 202]",
+			"title": "Cómic Novato De Nivel Máximo [Capítulo 202]",
+			"url": "https://visualikigai.vrinari.org/series/novato-de-nivel-maximo/"
+		},
+		{
+			"id": "Cómic Mi último invierno [Capítulo 4]",
+			"title": "Cómic Mi último invierno [Capítulo 4]",
+			"url": "https://visualikigai.vrinari.org/series/mi-ultimo-invierno/"
+		},
+		{
+			"id": "Cómic Proyecto Nerd [Capítulo 40]",
+			"title": "Cómic Proyecto Nerd [Capítulo 40]",
+			"url": "https://visualikigai.vrinari.org/series/proyecto-nerd/"
+		},
+		{
 			"id": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 5]",
 			"title": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 5]",
 			"url": "https://visualikigai.vrinari.org/series/me-converti-en-la-hierba-gatera-de-bestias-despiadadas/"
@@ -16,11 +36,6 @@
 			"id": "Cómic Todas son mías [Capítulo 67]",
 			"title": "Cómic Todas son mías [Capítulo 67]",
 			"url": "https://visualikigai.vrinari.org/series/todas-son-mias-manhwa/"
-		},
-		{
-			"id": "Cómic Mi último invierno [Capítulo 3]",
-			"title": "Cómic Mi último invierno [Capítulo 3]",
-			"url": "https://visualikigai.vrinari.org/series/mi-ultimo-invierno/"
 		},
 		{
 			"id": "Cómic Lo Que Descubrí Después De La Muerte [Capítulo 27]",
@@ -136,21 +151,6 @@
 			"id": "Cómic Eres bonita [Capítulo 13]",
 			"title": "Cómic Eres bonita [Capítulo 13]",
 			"url": "https://visualikigai.vrinari.org/series/eres-bonita/"
-		},
-		{
-			"id": "Cómic  La Nueva Bebé De La Familia Villana [Capítulo 46]",
-			"title": "Cómic  La Nueva Bebé De La Familia Villana [Capítulo 46]",
-			"url": "https://visualikigai.vrinari.org/series/la-nueva-bebe-de-la-familia-villana/"
-		},
-		{
-			"id": "Cómic La Basura De La Familia Del Conde [Capítulo 148]",
-			"title": "Cómic La Basura De La Familia Del Conde [Capítulo 148]",
-			"url": "https://visualikigai.vrinari.org/series/la-basura-de-la-familia-del-conde/"
-		},
-		{
-			"id": "Cómic Hombre Oscuro, ¡Haré Todo Por Ti Excepto El Matrimonio! [Capítulo 29]",
-			"title": "Cómic Hombre Oscuro, ¡Haré Todo Por Ti Excepto El Matrimonio! [Capítulo 29]",
-			"url": "https://visualikigai.vrinari.org/series/hombre-oscuro-hare-todo-por-ti-excepto-el-matrimonio/"
 		}
 	]
 }

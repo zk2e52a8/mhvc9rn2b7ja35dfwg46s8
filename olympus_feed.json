@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 326]",
+			"title": "Soldado Esqueleto [Capítulo 326]",
+			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m5m204-2025"
+		},
+		{
 			"id": "Nueva Cara [Capítulo 551]",
 			"title": "Nueva Cara [Capítulo 551]",
 			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m5281-25-0254me"
@@ -146,11 +151,6 @@
 			"id": "Apotheosis [Capítulo 1289]",
 			"title": "Apotheosis [Capítulo 1289]",
 			"url": "https://olympusbiblioteca.com/series/comic-apoteosico"
-		},
-		{
-			"id": "Devorador de Medicina [Capítulo 116]",
-			"title": "Devorador de Medicina [Capítulo 116]",
-			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m255208m-27-1n14"
 		}
 	]
 }
