@@ -3,6 +3,21 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Mi último invierno [Capítulo 5]",
+			"title": "Cómic Mi último invierno [Capítulo 5]",
+			"url": "https://visualikigai.vrinari.org/series/mi-ultimo-invierno/"
+		},
+		{
+			"id": "Cómic Aspectos [Capítulo 551]",
+			"title": "Cómic Aspectos [Capítulo 551]",
+			"url": "https://visualikigai.vrinari.org/series/aspectos/"
+		},
+		{
+			"id": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 7]",
+			"title": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 7]",
+			"url": "https://visualikigai.vrinari.org/series/cualquiera-puede-ver-que-es-una-bestia/"
+		},
+		{
 			"id": "Cómic Empleado temporal asignado al más allá [Capítulo]",
 			"title": "Cómic Empleado temporal asignado al más allá [Capítulo]",
 			"url": "https://visualikigai.vrinari.org/series/empleado-temporal-asignado-al-mas-alla/"
@@ -11,11 +26,6 @@
 			"id": "Cómic Novato De Nivel Máximo [Capítulo 202]",
 			"title": "Cómic Novato De Nivel Máximo [Capítulo 202]",
 			"url": "https://visualikigai.vrinari.org/series/novato-de-nivel-maximo/"
-		},
-		{
-			"id": "Cómic Mi último invierno [Capítulo 4]",
-			"title": "Cómic Mi último invierno [Capítulo 4]",
-			"url": "https://visualikigai.vrinari.org/series/mi-ultimo-invierno/"
 		},
 		{
 			"id": "Cómic Proyecto Nerd [Capítulo 40]",
@@ -51,11 +61,6 @@
 			"id": "Cómic Ruégame [Capítulo 37]",
 			"title": "Cómic Ruégame [Capítulo 37]",
 			"url": "https://visualikigai.vrinari.org/series/ruegame/"
-		},
-		{
-			"id": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 4]",
-			"title": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 4]",
-			"url": "https://visualikigai.vrinari.org/series/cualquiera-puede-ver-que-es-una-bestia/"
 		},
 		{
 			"id": "Cómic Soy una villana, pero no viviré como tal [Capítulo 18]",
@@ -146,11 +151,6 @@
 			"id": "Cómic La Concubina Bebé Quiere Vivir Tranquila [Capítulo 119]",
 			"title": "Cómic La Concubina Bebé Quiere Vivir Tranquila [Capítulo 119]",
 			"url": "https://visualikigai.vrinari.org/series/la-concubina-bebe-quiere-vivir-tranquila/"
-		},
-		{
-			"id": "Cómic Eres bonita [Capítulo 13]",
-			"title": "Cómic Eres bonita [Capítulo 13]",
-			"url": "https://visualikigai.vrinari.org/series/eres-bonita/"
 		}
 	]
 }
