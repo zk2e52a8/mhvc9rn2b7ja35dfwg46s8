@@ -3,6 +3,16 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Esa no era mi promesa [Capítulo 27]",
+			"title": "Cómic Esa no era mi promesa [Capítulo 27]",
+			"url": "https://visualikigai.vrinari.org/series/esa-no-era-mi-promesa/"
+		},
+		{
+			"id": "Cómic A la amante de mi esposo [Capítulo 76]",
+			"title": "Cómic A la amante de mi esposo [Capítulo 76]",
+			"url": "https://visualikigai.vrinari.org/series/a-la-amante-de-mi-esposo/"
+		},
+		{
 			"id": "Cómic Mi último invierno [Capítulo 5]",
 			"title": "Cómic Mi último invierno [Capítulo 5]",
 			"url": "https://visualikigai.vrinari.org/series/mi-ultimo-invierno/"
@@ -141,16 +151,6 @@
 			"id": "Cómic Cosas Que No Sabía Porque Era La Primera Vez [Capítulo 21]",
 			"title": "Cómic Cosas Que No Sabía Porque Era La Primera Vez [Capítulo 21]",
 			"url": "https://visualikigai.vrinari.org/series/cosas-que-no-sabia-porque-era-la-primera-vez/"
-		},
-		{
-			"id": "Cómic Moby Dick [Capítulo 67]",
-			"title": "Cómic Moby Dick [Capítulo 67]",
-			"url": "https://visualikigai.vrinari.org/series/moby-dick/"
-		},
-		{
-			"id": "Cómic La Concubina Bebé Quiere Vivir Tranquila [Capítulo 119]",
-			"title": "Cómic La Concubina Bebé Quiere Vivir Tranquila [Capítulo 119]",
-			"url": "https://visualikigai.vrinari.org/series/la-concubina-bebe-quiere-vivir-tranquila/"
 		}
 	]
 }
