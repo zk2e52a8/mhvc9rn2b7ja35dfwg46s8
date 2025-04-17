@@ -3,8 +3,23 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
-			"id": "Cómic Mi último invierno [Capítulo 2]",
-			"title": "Cómic Mi último invierno [Capítulo 2]",
+			"id": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 5]",
+			"title": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 5]",
+			"url": "https://visualikigai.vrinari.org/series/me-converti-en-la-hierba-gatera-de-bestias-despiadadas/"
+		},
+		{
+			"id": "Cómic Arbol sin raices [Capítulo 87]",
+			"title": "Cómic Arbol sin raices [Capítulo 87]",
+			"url": "https://visualikigai.vrinari.org/series/arbol-sin-raices/"
+		},
+		{
+			"id": "Cómic Todas son mías [Capítulo 67]",
+			"title": "Cómic Todas son mías [Capítulo 67]",
+			"url": "https://visualikigai.vrinari.org/series/todas-son-mias-manhwa/"
+		},
+		{
+			"id": "Cómic Mi último invierno [Capítulo 3]",
+			"title": "Cómic Mi último invierno [Capítulo 3]",
 			"url": "https://visualikigai.vrinari.org/series/mi-ultimo-invierno/"
 		},
 		{
@@ -16,11 +31,6 @@
 			"id": "Cómic Un guia peligroso [Capítulo 58]",
 			"title": "Cómic Un guia peligroso [Capítulo 58]",
 			"url": "https://visualikigai.vrinari.org/series/un-guia-peligroso/"
-		},
-		{
-			"id": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 4]",
-			"title": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 4]",
-			"url": "https://visualikigai.vrinari.org/series/me-converti-en-la-hierba-gatera-de-bestias-despiadadas/"
 		},
 		{
 			"id": "Cómic Ruégame [Capítulo 37]",
@@ -141,16 +151,6 @@
 			"id": "Cómic Hombre Oscuro, ¡Haré Todo Por Ti Excepto El Matrimonio! [Capítulo 29]",
 			"title": "Cómic Hombre Oscuro, ¡Haré Todo Por Ti Excepto El Matrimonio! [Capítulo 29]",
 			"url": "https://visualikigai.vrinari.org/series/hombre-oscuro-hare-todo-por-ti-excepto-el-matrimonio/"
-		},
-		{
-			"id": "Cómic La Princesa Que Oculta Su Fanatismo [Capítulo 61]",
-			"title": "Cómic La Princesa Que Oculta Su Fanatismo [Capítulo 61]",
-			"url": "https://visualikigai.vrinari.org/series/la-princesa-que-oculta-su-fanatismo/"
-		},
-		{
-			"id": "Cómic Cariño, ¿Por Qué No Podemos Divorciarnos? [Capítulo 51]",
-			"title": "Cómic Cariño, ¿Por Qué No Podemos Divorciarnos? [Capítulo 51]",
-			"url": "https://visualikigai.vrinari.org/series/carino-por-que-no-podemos-divorciarnos/"
 		}
 	]
 }
