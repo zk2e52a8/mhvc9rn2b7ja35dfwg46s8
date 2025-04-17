@@ -9,5 +9,5 @@
 	"patron_capitulo": ".flex.flex-col.gap-2.mt-4 a:first-child #name",
 	"ruta_feed": "olympus_feed.json",
 	"min_paginas": "2",
-	"timestamp_actualizacion": "1744675200000"
+	"timestamp_actualizacion": "1744919144000"
 }
