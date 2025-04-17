@@ -3,6 +3,16 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Emperador magico (magic emperor) [Capítulo 688]",
+			"title": "Emperador magico (magic emperor) [Capítulo 688]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos"
+		},
+		{
+			"id": "*Jugador devorador de artefactos [Capítulo 14]",
+			"title": "*Jugador devorador de artefactos [Capítulo 14]",
+			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m025-m2027rtefactos"
+		},
+		{
 			"id": "Roman demonio [Capítulo 153]",
 			"title": "Roman demonio [Capítulo 153]",
 			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m25m07-16-4-5-0229-03"
@@ -66,11 +76,6 @@
 			"id": "Sin fin skills [Capítulo 202]",
 			"title": "Sin fin skills [Capítulo 202]",
 			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m2025429-03"
-		},
-		{
-			"id": "Stream del Arquero Genio [Capítulo 59]",
-			"title": "Stream del Arquero Genio [Capítulo 59]",
-			"url": "https://olympusbiblioteca.com/series/comic-streaming-del-arquero-genio"
 		},
 		{
 			"id": "Emperador de Acero [Capítulo 37]",
@@ -146,11 +151,6 @@
 			"id": "La Constelación que Regresa del Infierno [Capítulo 200]",
 			"title": "La Constelación que Regresa del Infierno [Capítulo 200]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-constelacion-que-regresa-del-infierno"
-		},
-		{
-			"id": "Iniciando sesión en 10,000 años en el futuro [Capítulo 210]",
-			"title": "Iniciando sesión en 10,000 años en el futuro [Capítulo 210]",
-			"url": "https://olympusbiblioteca.com/series/comic-isecaikrarochino13424"
 		}
 	]
 }

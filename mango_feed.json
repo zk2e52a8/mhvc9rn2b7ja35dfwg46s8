@@ -3,6 +3,36 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Enséñame a Desear [Capítulo 22]",
+			"title": "Cómic Enséñame a Desear [Capítulo 22]",
+			"url": "https://visualikigai.vrinari.org/series/ensename-a-desear/"
+		},
+		{
+			"id": "Cómic Contrato de Sometimiento [Capítulo 1]",
+			"title": "Cómic Contrato de Sometimiento [Capítulo 1]",
+			"url": "https://visualikigai.vrinari.org/series/contrato-de-sometimiento/"
+		},
+		{
+			"id": "Cómic No quiero casarme, Deseo arruinarme [Capítulo 20]",
+			"title": "Cómic No quiero casarme, Deseo arruinarme [Capítulo 20]",
+			"url": "https://visualikigai.vrinari.org/series/no-quiero-casarme-deseo-arruinarme/"
+		},
+		{
+			"id": "Cómic Grace en el país de las maravillas [Capítulo 17]",
+			"title": "Cómic Grace en el país de las maravillas [Capítulo 17]",
+			"url": "https://visualikigai.vrinari.org/series/grace-en-el-pais-de-las-maravillas/"
+		},
+		{
+			"id": "Cómic Por Favor, Trata Bien A Tu Amigo [Capítulo 62]",
+			"title": "Cómic Por Favor, Trata Bien A Tu Amigo [Capítulo 62]",
+			"url": "https://visualikigai.vrinari.org/series/por-favor-trata-bien-a-tu-amigo/"
+		},
+		{
+			"id": "Cómic Me convertiré en la primera heredera del Imperio [Capítulo 41]",
+			"title": "Cómic Me convertiré en la primera heredera del Imperio [Capítulo 41]",
+			"url": "https://visualikigai.vrinari.org/series/me-convertire-en-la-primera-heredera-del-imperio/"
+		},
+		{
 			"id": "Cómic Esa no era mi promesa [Capítulo 27]",
 			"title": "Cómic Esa no era mi promesa [Capítulo 27]",
 			"url": "https://visualikigai.vrinari.org/series/esa-no-era-mi-promesa/"
@@ -121,36 +151,6 @@
 			"id": "Cómic Cazador Con Destino De Clase F [Capítulo 80]",
 			"title": "Cómic Cazador Con Destino De Clase F [Capítulo 80]",
 			"url": "https://visualikigai.vrinari.org/series/cazador-con-destino-de-clase-f/"
-		},
-		{
-			"id": "Cómic Los primeros amores son así, Majestad [Capítulo 15]",
-			"title": "Cómic Los primeros amores son así, Majestad [Capítulo 15]",
-			"url": "https://visualikigai.vrinari.org/series/los-primeros-amores-son-asi-majestad/"
-		},
-		{
-			"id": "Cómic La vida después de la muerte [Capítulo 215]",
-			"title": "Cómic La vida después de la muerte [Capítulo 215]",
-			"url": "https://visualikigai.vrinari.org/series/la-vida-despues-de-la-muerte/"
-		},
-		{
-			"id": "Cómic Hice Una Huelga Porque Mi Tiempo Era Limitado [Capítulo 107]",
-			"title": "Cómic Hice Una Huelga Porque Mi Tiempo Era Limitado [Capítulo 107]",
-			"url": "https://visualikigai.vrinari.org/series/hice-una-huelga-porque-mi-tiempo-era-limitado/"
-		},
-		{
-			"id": "Cómic Solicitud Especial Para Recién Casados [Capítulo 45]",
-			"title": "Cómic Solicitud Especial Para Recién Casados [Capítulo 45]",
-			"url": "https://visualikigai.vrinari.org/series/solicitud-especial-para-recien-casados-manhwa/"
-		},
-		{
-			"id": "Cómic Soy Un Personaje Secundario En Un Juego De Terror, No Me Mates [Capítulo 63]",
-			"title": "Cómic Soy Un Personaje Secundario En Un Juego De Terror, No Me Mates [Capítulo 63]",
-			"url": "https://visualikigai.vrinari.org/series/soy-un-personaje-secundario-en-un-juego-de-terror-no-me-mates/"
-		},
-		{
-			"id": "Cómic Cosas Que No Sabía Porque Era La Primera Vez [Capítulo 21]",
-			"title": "Cómic Cosas Que No Sabía Porque Era La Primera Vez [Capítulo 21]",
-			"url": "https://visualikigai.vrinari.org/series/cosas-que-no-sabia-porque-era-la-primera-vez/"
 		}
 	]
 }
