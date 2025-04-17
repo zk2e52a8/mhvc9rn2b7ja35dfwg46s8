@@ -7,6 +7,7 @@
 	"patron_ficha": "ul.grid > li[q\\:key]",
 	"patron_titulo": "a > div.w-full > div:first-child",
 	"patron_capitulo": "a > div.w-full > h2",
+	"titulo_feed": "Mango/Ikigai - Nuevos capítulos",
 	"ruta_feed": "mango_feed.json",
 	"min_paginas": "2",
 	"timestamp_actualizacion": "1744919890000"
