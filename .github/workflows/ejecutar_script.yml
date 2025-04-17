@@ -22,8 +22,12 @@ jobs:
           echo "${{ secrets.WG_CONFIG }}" | sudo tee /etc/wireguard/wg0.conf > /dev/null
           sudo chmod 600 /etc/wireguard/wg0.conf
 
-      - name: Iniciar conexión WireGuard
-        run: sudo wg-quick up wg0
+      - name: Iniciar conexión WireGuard (timeout 30 s)
+        run: |
+          # --foreground para que timeout pueda interrumpir correctamente wg-quick
+          # 30s: tiempo máximo de espera
+          sudo timeout --foreground 30s wg-quick up wg0 \
+            || { echo "::error:: No se logró conectarse a WireGuard wg0"; exit 1; }
 
       - name: Verificar conexión WireGuard
         run: |
