@@ -363,9 +363,9 @@ const generar_feed_final = (feed_base) => {
 	// Transferir los valores del mapa al array final
 	feed_final.items = Array.from(mapa_items.values());
 
-	// Eliminar los items más antiguos si el total supera 100, hasta quedar solo 100
-	if (feed_final.items.length > 100) {
-		feed_final.items = feed_final.items.slice(-100);
+	// Eliminar los items más antiguos si el total supera 500, hasta quedar solo 500
+	if (feed_final.items.length > 500) {
+		feed_final.items = feed_final.items.slice(-500);
 	}
 
 	return feed_final;
