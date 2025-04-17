@@ -1,0 +1,13 @@
+{
+	"dominio_principal": "",
+	"dominio_redireccion": "https://olympus.pages.dev/",
+	"patron_boton_nuevo_dominio": "a.bg-zinc-800.hover\\:before\\:shadow-emerald-400",
+	"ruta_scraping": "/capitulos",
+	"url_paginacion": "?page=",
+	"patron_ficha": ".bg-gray-800.p-4.rounded-xl.relative",
+	"patron_titulo": "figcaption",
+	"patron_capitulo": ".flex.flex-col.gap-2.mt-4 a:first-child #name",
+	"ruta_feed": "olympus_feed.json",
+	"min_paginas": "2",
+	"timestamp_actualizacion": "1744675200000"
+}
