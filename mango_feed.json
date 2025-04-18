@@ -3,6 +3,16 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Lady black está deprimida [Capítulo 21]",
+			"title": "Cómic Lady black está deprimida [Capítulo 21]",
+			"url": "https://visualikigai.vrinari.org/series/lady-black-esta-deprimida/"
+		},
+		{
+			"id": "Cómic Hospital Nocturno [Capítulo 99]",
+			"title": "Cómic Hospital Nocturno [Capítulo 99]",
+			"url": "https://visualikigai.vrinari.org/series/hospital-nocturno/"
+		},
+		{
 			"id": "Cómic ¿Podemos Convertirnos En Familia? [Capítulo 136]",
 			"title": "Cómic ¿Podemos Convertirnos En Familia? [Capítulo 136]",
 			"url": "https://visualikigai.vrinari.org/series/podemos-convertirnos-en-familia/"
@@ -141,16 +151,6 @@
 			"id": "Cómic Me convertiré en la primera heredera del Imperio [Capítulo 41]",
 			"title": "Cómic Me convertiré en la primera heredera del Imperio [Capítulo 41]",
 			"url": "https://visualikigai.vrinari.org/series/me-convertire-en-la-primera-heredera-del-imperio/"
-		},
-		{
-			"id": "Cómic Esa no era mi promesa [Capítulo 27]",
-			"title": "Cómic Esa no era mi promesa [Capítulo 27]",
-			"url": "https://visualikigai.vrinari.org/series/esa-no-era-mi-promesa/"
-		},
-		{
-			"id": "Cómic A la amante de mi esposo [Capítulo 76]",
-			"title": "Cómic A la amante de mi esposo [Capítulo 76]",
-			"url": "https://visualikigai.vrinari.org/series/a-la-amante-de-mi-esposo/"
 		}
 	]
 }
