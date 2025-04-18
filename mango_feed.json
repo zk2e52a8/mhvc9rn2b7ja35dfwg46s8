@@ -3,6 +3,16 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Maullidos de amor [Capítulo 39]",
+			"title": "Cómic Maullidos de amor [Capítulo 39]",
+			"url": "https://visualikigai.igujud.net/series/maullidos-de-amor/"
+		},
+		{
+			"id": "Cómic Los secretos de la emperatriz mentirosa [Capítulo 3]",
+			"title": "Cómic Los secretos de la emperatriz mentirosa [Capítulo 3]",
+			"url": "https://visualikigai.igujud.net/series/los-secretos-de-la-emperatriz-mentirosa/"
+		},
+		{
 			"id": "Cómic Descarga Imparable [Capítulo 14]",
 			"title": "Cómic Descarga Imparable [Capítulo 14]",
 			"url": "https://visualikigai.igujud.net/series/descarga-imparable/"
@@ -68,14 +78,9 @@
 			"url": "https://visualikigai.igujud.net/series/sigrid/"
 		},
 		{
-			"id": "Cómic La Azotea Secreta de Kim [Capítulo 17]",
-			"title": "Cómic La Azotea Secreta de Kim [Capítulo 17]",
-			"url": "https://visualikigai.igujud.net/series/la-azotea-secreta-de-kim/"
-		},
-		{
-			"id": "Cómic Ona inalámbrica [Capítulo 13]",
-			"title": "Cómic Ona inalámbrica [Capítulo 13]",
-			"url": "https://visualikigai.igujud.net/series/ona-inalambrica/"
+			"id": "Cómic No Quiero Ser la Nuera Adoptiva del Duque [Capítulo 88]",
+			"title": "Cómic No Quiero Ser la Nuera Adoptiva del Duque [Capítulo 88]",
+			"url": "https://visualikigai.igujud.net/series/no-quiero-ser-la-nuera-adoptiva-del-duque/"
 		}
 	]
 }
