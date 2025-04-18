@@ -3,6 +3,11 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic El manager de la streaming. [Capítulo 25: Orckuro Translations]",
+			"title": "Cómic El manager de la streaming. [Capítulo 25: Orckuro Translations]",
+			"url": "https://visualikigai.vrinari.org/series/el-manager-de-la-streaming/"
+		},
+		{
 			"id": "Cómic Ofertas Prohibidas [Capítulo 25: Orckuro Translations]",
 			"title": "Cómic Ofertas Prohibidas [Capítulo 25: Orckuro Translations]",
 			"url": "https://visualikigai.vrinari.org/series/ofertas-prohibidas/"
@@ -146,11 +151,6 @@
 			"id": "Cómic Aspectos [Capítulo 551]",
 			"title": "Cómic Aspectos [Capítulo 551]",
 			"url": "https://visualikigai.vrinari.org/series/aspectos/"
-		},
-		{
-			"id": "Cómic Novato De Nivel Máximo [Capítulo 202]",
-			"title": "Cómic Novato De Nivel Máximo [Capítulo 202]",
-			"url": "https://visualikigai.vrinari.org/series/novato-de-nivel-maximo/"
 		}
 	]
 }
