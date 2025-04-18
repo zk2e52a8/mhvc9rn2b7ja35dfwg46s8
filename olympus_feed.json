@@ -3,6 +3,16 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "La voluntad de supervivencia del villano [Capítulo 31]",
+			"title": "La voluntad de supervivencia del villano [Capítulo 31]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-voluntad-de-supervivencia-del-villano"
+		},
+		{
+			"id": "Bjorn el barbaro [Capítulo 102]",
+			"title": "Bjorn el barbaro [Capítulo 102]",
+			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m25md-m203-251417"
+		},
+		{
 			"id": "El bastardo devorador de armas. [Capítulo 26]",
 			"title": "El bastardo devorador de armas. [Capítulo 26]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-bastardo-devorador-de-armas"
@@ -141,16 +151,6 @@
 			"id": "Sin fin skills [Capítulo 202]",
 			"title": "Sin fin skills [Capítulo 202]",
 			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m2025429-03"
-		},
-		{
-			"id": "Stream del Arquero Genio [Capítulo 59]",
-			"title": "Stream del Arquero Genio [Capítulo 59]",
-			"url": "https://olympusbiblioteca.com/series/comic-streaming-del-arquero-genio"
-		},
-		{
-			"id": "Emperador de Acero [Capítulo 37]",
-			"title": "Emperador de Acero [Capítulo 37]",
-			"url": "https://olympusbiblioteca.com/series/comic-emperador-de-acero"
 		}
 	]
 }
