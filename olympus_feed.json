@@ -3,9 +3,19 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
-			"id": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 124]",
-			"title": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 124]",
+			"id": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 126]",
+			"title": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 126]",
 			"url": "https://olympusbiblioteca.com/series/comic-maestra-este-discipulo-villano-no-puede-ser-el-hijo-sagrado5324"
+		},
+		{
+			"id": "Creador de Leyendas Urbanas [Capítulo 25]",
+			"title": "Creador de Leyendas Urbanas [Capítulo 25]",
+			"url": "https://olympusbiblioteca.com/series/comic-creador-de-leyendas-urbanas"
+		},
+		{
+			"id": "Conviértete en un Dios - Mito de Cthulhu [Capítulo 75]",
+			"title": "Conviértete en un Dios - Mito de Cthulhu [Capítulo 75]",
+			"url": "https://olympusbiblioteca.com/series/comic-conviertete-en-un-dios-mito-de-cthulhu"
 		},
 		{
 			"id": "Mi Evolución a Partir de un Árbol Gigante [Capítulo 359]",
@@ -141,16 +151,6 @@
 			"id": "Nueva Cara [Capítulo 551]",
 			"title": "Nueva Cara [Capítulo 551]",
 			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m5281-25-0254me"
-		},
-		{
-			"id": "Regresión del heredero del clan Yong [Capítulo 22]",
-			"title": "Regresión del heredero del clan Yong [Capítulo 22]",
-			"url": "https://olympusbiblioteca.com/series/comic-06-05-2025es030320254"
-		},
-		{
-			"id": "Los gemelos Baek [Capítulo 105]",
-			"title": "Los gemelos Baek [Capítulo 105]",
-			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m25025m208275-baek"
 		}
 	]
 }
