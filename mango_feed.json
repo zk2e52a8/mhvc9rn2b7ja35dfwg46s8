@@ -3,6 +3,16 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Deja de fumar [Capítulo 39]",
+			"title": "Cómic Deja de fumar [Capítulo 39]",
+			"url": "https://visualikigai.vrinari.org/series/deja-de-fumar/"
+		},
+		{
+			"id": "Cómic Contrato de Sometimiento [Capítulo 2]",
+			"title": "Cómic Contrato de Sometimiento [Capítulo 2]",
+			"url": "https://visualikigai.vrinari.org/series/contrato-de-sometimiento/"
+		},
+		{
 			"id": "Cómic El manager de la streaming. [Capítulo 25: Orckuro Translations]",
 			"title": "Cómic El manager de la streaming. [Capítulo 25: Orckuro Translations]",
 			"url": "https://visualikigai.vrinari.org/series/el-manager-de-la-streaming/"
@@ -108,11 +118,6 @@
 			"url": "https://visualikigai.vrinari.org/series/ensename-a-desear/"
 		},
 		{
-			"id": "Cómic Contrato de Sometimiento [Capítulo 1]",
-			"title": "Cómic Contrato de Sometimiento [Capítulo 1]",
-			"url": "https://visualikigai.vrinari.org/series/contrato-de-sometimiento/"
-		},
-		{
 			"id": "Cómic No quiero casarme, Deseo arruinarme [Capítulo 20]",
 			"title": "Cómic No quiero casarme, Deseo arruinarme [Capítulo 20]",
 			"url": "https://visualikigai.vrinari.org/series/no-quiero-casarme-deseo-arruinarme/"
@@ -146,11 +151,6 @@
 			"id": "Cómic Mi último invierno [Capítulo 5]",
 			"title": "Cómic Mi último invierno [Capítulo 5]",
 			"url": "https://visualikigai.vrinari.org/series/mi-ultimo-invierno/"
-		},
-		{
-			"id": "Cómic Aspectos [Capítulo 551]",
-			"title": "Cómic Aspectos [Capítulo 551]",
-			"url": "https://visualikigai.vrinari.org/series/aspectos/"
 		}
 	]
 }
