@@ -3,6 +3,16 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Devoto Caballero [Capítulo 108]",
+			"title": "El Devoto Caballero [Capítulo 108]",
+			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m55mm208-4-2542629-03"
+		},
+		{
+			"id": "Regresión inútil [Capítulo 81]",
+			"title": "Regresión inútil [Capítulo 81]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresion-inutil"
+		},
+		{
 			"id": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 126]",
 			"title": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 126]",
 			"url": "https://olympusbiblioteca.com/series/comic-maestra-este-discipulo-villano-no-puede-ser-el-hijo-sagrado5324"
@@ -141,16 +151,6 @@
 			"id": "Roman demonio [Capítulo 153]",
 			"title": "Roman demonio [Capítulo 153]",
 			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m25m07-16-4-5-0229-03"
-		},
-		{
-			"id": "Soldado Esqueleto [Capítulo 326]",
-			"title": "Soldado Esqueleto [Capítulo 326]",
-			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m5m204-2025"
-		},
-		{
-			"id": "Nueva Cara [Capítulo 551]",
-			"title": "Nueva Cara [Capítulo 551]",
-			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m5281-25-0254me"
 		}
 	]
 }
