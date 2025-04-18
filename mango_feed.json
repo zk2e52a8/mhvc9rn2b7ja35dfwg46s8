@@ -3,6 +3,11 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Matrimonio Depredador [Capítulo 63]",
+			"title": "Cómic Matrimonio Depredador [Capítulo 63]",
+			"url": "https://visualikigai.vrinari.org/series/matrimonio-depredador/"
+		},
+		{
 			"id": "Cómic La princesa monstruosa de las montañas nevadas [Capítulo 55]",
 			"title": "Cómic La princesa monstruosa de las montañas nevadas [Capítulo 55]",
 			"url": "https://visualikigai.vrinari.org/series/la-princesa-monstruosa-de-las-montanas-nevadas/"
@@ -146,11 +151,6 @@
 			"id": "Cómic Enséñame a Desear [Capítulo 22]",
 			"title": "Cómic Enséñame a Desear [Capítulo 22]",
 			"url": "https://visualikigai.vrinari.org/series/ensename-a-desear/"
-		},
-		{
-			"id": "Cómic No quiero casarme, Deseo arruinarme [Capítulo 20]",
-			"title": "Cómic No quiero casarme, Deseo arruinarme [Capítulo 20]",
-			"url": "https://visualikigai.vrinari.org/series/no-quiero-casarme-deseo-arruinarme/"
 		}
 	]
 }
