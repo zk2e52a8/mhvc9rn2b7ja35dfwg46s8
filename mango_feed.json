@@ -3,14 +3,24 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
-			"id": "Cómic mi novio mutante [Capítulo 17]",
-			"title": "Cómic mi novio mutante [Capítulo 17]",
+			"id": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 16]",
+			"title": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 16]",
+			"url": "https://visualikigai.vrinari.org/series/cualquiera-puede-ver-que-es-una-bestia/"
+		},
+		{
+			"id": "Cómic mi novio mutante [Capítulo 19]",
+			"title": "Cómic mi novio mutante [Capítulo 19]",
 			"url": "https://visualikigai.vrinari.org/series/mi-novio-mutante/"
 		},
 		{
-			"id": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 12]",
-			"title": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 12]",
-			"url": "https://visualikigai.vrinari.org/series/cualquiera-puede-ver-que-es-una-bestia/"
+			"id": "Novela ¿Desde cuando eres el villano? - Novela [Capítulo 64]",
+			"title": "Novela ¿Desde cuando eres el villano? - Novela [Capítulo 64]",
+			"url": "https://visualikigai.vrinari.org/series/desde-cuando-eres-el-villano-novela/"
+		},
+		{
+			"id": "Cómic Pensamientos secretos [Capítulo 30]",
+			"title": "Cómic Pensamientos secretos [Capítulo 30]",
+			"url": "https://visualikigai.vrinari.org/series/pensamientos-secretos/"
 		},
 		{
 			"id": "Cómic ¡El tanque de rango C que regresó no morirá! [Capítulo 16]",
@@ -141,16 +151,6 @@
 			"id": "Cómic Lo Que Descubrí Después De La Muerte [Capítulo 27]",
 			"title": "Cómic Lo Que Descubrí Después De La Muerte [Capítulo 27]",
 			"url": "https://visualikigai.vrinari.org/series/lo-que-descubri-despues-de-la-muerte/"
-		},
-		{
-			"id": "Cómic Un guia peligroso [Capítulo 58]",
-			"title": "Cómic Un guia peligroso [Capítulo 58]",
-			"url": "https://visualikigai.vrinari.org/series/un-guia-peligroso/"
-		},
-		{
-			"id": "Cómic Ruégame [Capítulo 37]",
-			"title": "Cómic Ruégame [Capítulo 37]",
-			"url": "https://visualikigai.vrinari.org/series/ruegame/"
 		}
 	]
 }
