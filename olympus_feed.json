@@ -3,6 +3,16 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "134. Una carta de amor del futuro [Capítulo 29]",
+			"title": "134. Una carta de amor del futuro [Capítulo 29]",
+			"url": "https://olympusbiblioteca.com/series/comic-134-una-carta-de-amor-del-futuro"
+		},
+		{
+			"id": "Caballero en Eterna Regresión [Capítulo 54]",
+			"title": "Caballero en Eterna Regresión [Capítulo 54]",
+			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-mmm208-124-2-54-3"
+		},
+		{
 			"id": "Parca de Medio Tiempo [Capítulo 0]",
 			"title": "Parca de Medio Tiempo [Capítulo 0]",
 			"url": "https://olympusbiblioteca.com/series/comic-parca-de-medio-tiempo"
@@ -141,16 +151,6 @@
 			"id": "El héroe expulsado es demasiado fuerte. [Capítulo 49]",
 			"title": "El héroe expulsado es demasiado fuerte. [Capítulo 49]",
 			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m-16-0254exp"
-		},
-		{
-			"id": "¡Que abundante cosecha, señor demonio! [Capítulo 11]",
-			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 11]",
-			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m5-cosecha-senor-demonio"
-		},
-		{
-			"id": "Jugador de nivel máximo [Capítulo 100]",
-			"title": "Jugador de nivel máximo [Capítulo 100]",
-			"url": "https://olympusbiblioteca.com/series/comic-jugador-de-nivel-maximo-olympus513424"
 		}
 	]
 }
