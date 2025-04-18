@@ -3,6 +3,21 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 126]",
+			"title": "Crónicas del Retorno del Dios Marcial [Capítulo 126]",
+			"url": "https://olympusbiblioteca.com/series/comic-cronicas-del-retorno-del-dios-marcial13424"
+		},
+		{
+			"id": "La leyenda del dios demonio reencarnado [Capítulo 40]",
+			"title": "La leyenda del dios demonio reencarnado [Capítulo 40]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-leyenda-del-dios-demonio-reencarnado"
+		},
+		{
+			"id": "Helmut: El Niño Abandonado [Capítulo 88]",
+			"title": "Helmut: El Niño Abandonado [Capítulo 88]",
+			"url": "https://olympusbiblioteca.com/series/comic-helmut-el-nino-abandonado13424"
+		},
+		{
 			"id": "El hombre mas fuerte del manicomio [Capítulo 302]",
 			"title": "El hombre mas fuerte del manicomio [Capítulo 302]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-hombre-mas-fuerte-del-manicomio13424"
@@ -136,21 +151,6 @@
 			"id": "Espada de la inquisición celestial [Capítulo 118]",
 			"title": "Espada de la inquisición celestial [Capítulo 118]",
 			"url": "https://olympusbiblioteca.com/series/comic-inquisicion-celestia13424"
-		},
-		{
-			"id": "Subo de nivel solo [Capítulo 169]",
-			"title": "Subo de nivel solo [Capítulo 169]",
-			"url": "https://olympusbiblioteca.com/series/comic-subo-de-nivel-solo5324"
-		},
-		{
-			"id": "Cazador de destinos de clase F [Capítulo 80]",
-			"title": "Cazador de destinos de clase F [Capítulo 80]",
-			"url": "https://olympusbiblioteca.com/series/comic-cazador-de-destinos-de-clase-13424"
-		},
-		{
-			"id": "Tengo la guía exclusiva de la torre [Capítulo 62]",
-			"title": "Tengo la guía exclusiva de la torre [Capítulo 62]",
-			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m02574-s-m-22"
 		}
 	]
 }
