@@ -3,6 +3,31 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Adiestrando a la Líder Rebelde en el Chat Aleatorio [Capítulo 42]",
+			"title": "Cómic Adiestrando a la Líder Rebelde en el Chat Aleatorio [Capítulo 42]",
+			"url": "https://visualikigai.vrinari.org/series/adiestrando-a-la-lider-rebelde-en-el-chat-aleatorio/"
+		},
+		{
+			"id": "Cómic Emperatriz María [Capítulo 14]",
+			"title": "Cómic Emperatriz María [Capítulo 14]",
+			"url": "https://visualikigai.vrinari.org/series/emperatriz-maria/"
+		},
+		{
+			"id": "Cómic Diario perverso [Capítulo 110]",
+			"title": "Cómic Diario perverso [Capítulo 110]",
+			"url": "https://visualikigai.vrinari.org/series/diario-perverso/"
+		},
+		{
+			"id": "Cómic Lagrimas En Las Flores Marchitas [Capítulo 49]",
+			"title": "Cómic Lagrimas En Las Flores Marchitas [Capítulo 49]",
+			"url": "https://visualikigai.vrinari.org/series/lagrimas-en-las-flores-marchitas/"
+		},
+		{
+			"id": "Cómic Mi marido y yo no podemos vivir en el mismo mundo [Capítulo 31]",
+			"title": "Cómic Mi marido y yo no podemos vivir en el mismo mundo [Capítulo 31]",
+			"url": "https://visualikigai.vrinari.org/series/mi-marido-y-yo-no-podemos-vivir-en-el-mismo-mundo/"
+		},
+		{
 			"id": "Cómic Cuando El Destino Nos Encuentra [Capítulo 76]",
 			"title": "Cómic Cuando El Destino Nos Encuentra [Capítulo 76]",
 			"url": "https://visualikigai.vrinari.org/series/cuando-el-destino-nos-encuentra/"
@@ -126,31 +151,6 @@
 			"id": "Cómic Ofertas Prohibidas [Capítulo 25: Orckuro Translations]",
 			"title": "Cómic Ofertas Prohibidas [Capítulo 25: Orckuro Translations]",
 			"url": "https://visualikigai.vrinari.org/series/ofertas-prohibidas/"
-		},
-		{
-			"id": "Cómic Los postres son la mejor medicina [Capítulo 8]",
-			"title": "Cómic Los postres son la mejor medicina [Capítulo 8]",
-			"url": "https://visualikigai.vrinari.org/series/los-postres-son-la-mejor-medicina/"
-		},
-		{
-			"id": "Cómic Segunda Vida Para Ser Un Ranker [Capítulo 205]",
-			"title": "Cómic Segunda Vida Para Ser Un Ranker [Capítulo 205]",
-			"url": "https://visualikigai.vrinari.org/series/segunda-vida-para-ser-un-ranker/"
-		},
-		{
-			"id": "Cómic mi novio mutante [Capítulo 20]",
-			"title": "Cómic mi novio mutante [Capítulo 20]",
-			"url": "https://visualikigai.vrinari.org/series/mi-novio-mutante/"
-		},
-		{
-			"id": "Cómic Empleado temporal asignado al más allá [Capítulo 2]",
-			"title": "Cómic Empleado temporal asignado al más allá [Capítulo 2]",
-			"url": "https://visualikigai.vrinari.org/series/empleado-temporal-asignado-al-mas-alla/"
-		},
-		{
-			"id": "Cómic El Segundo Protagonista Masculino es en Realidad una Mujer [Capítulo 61]",
-			"title": "Cómic El Segundo Protagonista Masculino es en Realidad una Mujer [Capítulo 61]",
-			"url": "https://visualikigai.vrinari.org/series/el-segundo-protagonista-masculino-es-en-realidad-una-mujer/"
 		}
 	]
 }

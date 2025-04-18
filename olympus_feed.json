@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El bastardo devorador de armas. [Capítulo 26]",
+			"title": "El bastardo devorador de armas. [Capítulo 26]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-bastardo-devorador-de-armas"
+		},
+		{
 			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 126]",
 			"title": "Crónicas del Retorno del Dios Marcial [Capítulo 126]",
 			"url": "https://olympusbiblioteca.com/series/comic-cronicas-del-retorno-del-dios-marcial13424"
@@ -146,11 +151,6 @@
 			"id": "Emperador de Acero [Capítulo 37]",
 			"title": "Emperador de Acero [Capítulo 37]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-de-acero"
-		},
-		{
-			"id": "Espada de la inquisición celestial [Capítulo 118]",
-			"title": "Espada de la inquisición celestial [Capítulo 118]",
-			"url": "https://olympusbiblioteca.com/series/comic-inquisicion-celestia13424"
 		}
 	]
 }
