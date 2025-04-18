@@ -3,6 +3,21 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Ofertas Prohibidas [Capítulo 25: Orckuro Translations]",
+			"title": "Cómic Ofertas Prohibidas [Capítulo 25: Orckuro Translations]",
+			"url": "https://visualikigai.vrinari.org/series/ofertas-prohibidas/"
+		},
+		{
+			"id": "Cómic Los postres son la mejor medicina [Capítulo 8]",
+			"title": "Cómic Los postres son la mejor medicina [Capítulo 8]",
+			"url": "https://visualikigai.vrinari.org/series/los-postres-son-la-mejor-medicina/"
+		},
+		{
+			"id": "Cómic Segunda Vida Para Ser Un Ranker [Capítulo 205]",
+			"title": "Cómic Segunda Vida Para Ser Un Ranker [Capítulo 205]",
+			"url": "https://visualikigai.vrinari.org/series/segunda-vida-para-ser-un-ranker/"
+		},
+		{
 			"id": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 19]",
 			"title": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 19]",
 			"url": "https://visualikigai.vrinari.org/series/cualquiera-puede-ver-que-es-una-bestia/"
@@ -136,21 +151,6 @@
 			"id": "Cómic Novato De Nivel Máximo [Capítulo 202]",
 			"title": "Cómic Novato De Nivel Máximo [Capítulo 202]",
 			"url": "https://visualikigai.vrinari.org/series/novato-de-nivel-maximo/"
-		},
-		{
-			"id": "Cómic Proyecto Nerd [Capítulo 40]",
-			"title": "Cómic Proyecto Nerd [Capítulo 40]",
-			"url": "https://visualikigai.vrinari.org/series/proyecto-nerd/"
-		},
-		{
-			"id": "Cómic Arbol sin raices [Capítulo 87]",
-			"title": "Cómic Arbol sin raices [Capítulo 87]",
-			"url": "https://visualikigai.vrinari.org/series/arbol-sin-raices/"
-		},
-		{
-			"id": "Cómic Todas son mías [Capítulo 67]",
-			"title": "Cómic Todas son mías [Capítulo 67]",
-			"url": "https://visualikigai.vrinari.org/series/todas-son-mias-manhwa/"
 		}
 	]
 }
