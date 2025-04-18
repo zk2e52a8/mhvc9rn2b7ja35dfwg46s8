@@ -3,6 +3,11 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic La Emperatriz Se Volvió A Casar [Capítulo 214]",
+			"title": "Cómic La Emperatriz Se Volvió A Casar [Capítulo 214]",
+			"url": "https://visualikigai.igujud.net/series/la-emperatriz-se-volvio-a-casar/"
+		},
+		{
 			"id": "Cómic El punto del éxtasis [Capítulo 49]",
 			"title": "Cómic El punto del éxtasis [Capítulo 49]",
 			"url": "https://visualikigai.igujud.net/series/el-punto-del-extasis/"
@@ -73,9 +78,64 @@
 			"url": "https://visualikigai.igujud.net/series/la-duquesa-del-oeste/"
 		},
 		{
-			"id": "Cómic Adiestrando a la Líder Rebelde en el Chat Aleatorio [Capítulo 42]",
-			"title": "Cómic Adiestrando a la Líder Rebelde en el Chat Aleatorio [Capítulo 42]",
-			"url": "https://visualikigai.igujud.net/series/adiestrando-a-la-lider-rebelde-en-el-chat-aleatorio/"
+			"id": "Cómic La línea que nos separa. [Capítulo 3]",
+			"title": "Cómic La línea que nos separa. [Capítulo 3]",
+			"url": "https://visualikigai.igujud.net/series/la-linea-que-nos-separa/"
+		},
+		{
+			"id": "Cómic La línea que nos separa. [Capítulo 4]",
+			"title": "Cómic La línea que nos separa. [Capítulo 4]",
+			"url": "https://visualikigai.igujud.net/series/la-linea-que-nos-separa/"
+		},
+		{
+			"id": "Cómic Confinada Junto Con El Protagonista Masculino De Un Juego De Terror [Capítulo 63]",
+			"title": "Cómic Confinada Junto Con El Protagonista Masculino De Un Juego De Terror [Capítulo 63]",
+			"url": "https://visualikigai.igujud.net/series/confinada-junto-con-el-protagonista-masculino-de-un-juego-de-terror/"
+		},
+		{
+			"id": "Cómic La Novia Obsidiana [Capítulo 88]",
+			"title": "Cómic La Novia Obsidiana [Capítulo 88]",
+			"url": "https://visualikigai.igujud.net/series/la-novia-obsidiana/"
+		},
+		{
+			"id": "Cómic Crié mal a mi marido. [Capítulo 38: Inicio Segunda Temporada]",
+			"title": "Cómic Crié mal a mi marido. [Capítulo 38: Inicio Segunda Temporada]",
+			"url": "https://visualikigai.igujud.net/series/crie-mal-a-mi-marido/"
+		},
+		{
+			"id": "Cómic Crié mal a mi marido. [Capítulo 39]",
+			"title": "Cómic Crié mal a mi marido. [Capítulo 39]",
+			"url": "https://visualikigai.igujud.net/series/crie-mal-a-mi-marido/"
+		},
+		{
+			"id": "Cómic Crié mal a mi marido. [Capítulo 40]",
+			"title": "Cómic Crié mal a mi marido. [Capítulo 40]",
+			"url": "https://visualikigai.igujud.net/series/crie-mal-a-mi-marido/"
+		},
+		{
+			"id": "Cómic Un cuento de un villano (boys love) [Capítulo 12]",
+			"title": "Cómic Un cuento de un villano (boys love) [Capítulo 12]",
+			"url": "https://visualikigai.igujud.net/series/un-cuento-de-un-villano-boys-love/"
+		},
+		{
+			"id": "Cómic oleo sobre lienzo [Capítulo 20]",
+			"title": "Cómic oleo sobre lienzo [Capítulo 20]",
+			"url": "https://visualikigai.igujud.net/series/oleo-sobre-lienzo/"
+		},
+		{
+			"id": "Cómic oleo sobre lienzo [Capítulo 21]",
+			"title": "Cómic oleo sobre lienzo [Capítulo 21]",
+			"url": "https://visualikigai.igujud.net/series/oleo-sobre-lienzo/"
+		},
+		{
+			"id": "Cómic Cuna del todopoderoso [Capítulo 17]",
+			"title": "Cómic Cuna del todopoderoso [Capítulo 17]",
+			"url": "https://visualikigai.igujud.net/series/cuna-del-todopoderoso/"
+		},
+		{
+			"id": "Cómic como el guía escapa del maniaco obsesivo [Capítulo 4]",
+			"title": "Cómic como el guía escapa del maniaco obsesivo [Capítulo 4]",
+			"url": "https://visualikigai.igujud.net/series/como-el-guia-escapa-del-maniaco-obsesivo/"
 		}
 	]
 }
