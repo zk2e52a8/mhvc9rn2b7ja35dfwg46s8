@@ -3,6 +3,11 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic ¿Podemos Convertirnos En Familia? [Capítulo 136]",
+			"title": "Cómic ¿Podemos Convertirnos En Familia? [Capítulo 136]",
+			"url": "https://visualikigai.vrinari.org/series/podemos-convertirnos-en-familia/"
+		},
+		{
 			"id": "Cómic Deja de fumar [Capítulo 39]",
 			"title": "Cómic Deja de fumar [Capítulo 39]",
 			"url": "https://visualikigai.vrinari.org/series/deja-de-fumar/"
@@ -146,11 +151,6 @@
 			"id": "Cómic A la amante de mi esposo [Capítulo 76]",
 			"title": "Cómic A la amante de mi esposo [Capítulo 76]",
 			"url": "https://visualikigai.vrinari.org/series/a-la-amante-de-mi-esposo/"
-		},
-		{
-			"id": "Cómic Mi último invierno [Capítulo 5]",
-			"title": "Cómic Mi último invierno [Capítulo 5]",
-			"url": "https://visualikigai.vrinari.org/series/mi-ultimo-invierno/"
 		}
 	]
 }
