@@ -3,6 +3,41 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Los secretos de la emperatriz mentirosa [Capítulo 1]",
+			"title": "Cómic Los secretos de la emperatriz mentirosa [Capítulo 1]",
+			"url": "https://visualikigai.vrinari.org/series/los-secretos-de-la-emperatriz-mentirosa/"
+		},
+		{
+			"id": "Cómic Gestión de relaciones laborales [Capítulo 14]",
+			"title": "Cómic Gestión de relaciones laborales [Capítulo 14]",
+			"url": "https://visualikigai.vrinari.org/series/gestion-de-relaciones-laborales/"
+		},
+		{
+			"id": "Cómic Yerno Diabólico [Capítulo 6]",
+			"title": "Cómic Yerno Diabólico [Capítulo 6]",
+			"url": "https://visualikigai.vrinari.org/series/yerno-diabolico/"
+		},
+		{
+			"id": "Cómic La Bebe Leopardo De Las Nieves De La Familia De Leopardos Negros [Capítulo 31]",
+			"title": "Cómic La Bebe Leopardo De Las Nieves De La Familia De Leopardos Negros [Capítulo 31]",
+			"url": "https://visualikigai.vrinari.org/series/la-bebe-leopardo-de-las-nieves-de-la-familia-de-leopardos-negros/"
+		},
+		{
+			"id": "Cómic ¡Vete, Romeo! [Capítulo 101: FINAL]",
+			"title": "Cómic ¡Vete, Romeo! [Capítulo 101: FINAL]",
+			"url": "https://visualikigai.vrinari.org/series/vete-romeo/"
+		},
+		{
+			"id": "Cómic La Basura Que Se Tira No Se Recoge De Nuevo [Capítulo 105]",
+			"title": "Cómic La Basura Que Se Tira No Se Recoge De Nuevo [Capítulo 105]",
+			"url": "https://visualikigai.vrinari.org/series/la-basura-que-se-tira-no-se-recoge-de-nuevo/"
+		},
+		{
+			"id": "Cómic Generando finales ocultos [Capítulo 1]",
+			"title": "Cómic Generando finales ocultos [Capítulo 1]",
+			"url": "https://visualikigai.vrinari.org/series/generando-finales-ocultos/"
+		},
+		{
 			"id": "Cómic Matrimonio Depredador [Capítulo 63]",
 			"title": "Cómic Matrimonio Depredador [Capítulo 63]",
 			"url": "https://visualikigai.vrinari.org/series/matrimonio-depredador/"
@@ -116,41 +151,6 @@
 			"id": "Cómic Cruzando La Línea [Capítulo 94]",
 			"title": "Cómic Cruzando La Línea [Capítulo 94]",
 			"url": "https://visualikigai.vrinari.org/series/cruzando-la-linea/"
-		},
-		{
-			"id": "Cómic El hombre que se lleva todo [Capítulo 49]",
-			"title": "Cómic El hombre que se lleva todo [Capítulo 49]",
-			"url": "https://visualikigai.vrinari.org/series/el-hombre-que-se-lleva-todo/"
-		},
-		{
-			"id": "Cómic El Jugador Esconde Su Pasado [Capítulo 66]",
-			"title": "Cómic El Jugador Esconde Su Pasado [Capítulo 66]",
-			"url": "https://visualikigai.vrinari.org/series/el-jugador-esconde-su-pasado/"
-		},
-		{
-			"id": "Cómic Cazador Suicida de Clase SSS [Capítulo 134]",
-			"title": "Cómic Cazador Suicida de Clase SSS [Capítulo 134]",
-			"url": "https://visualikigai.vrinari.org/series/cazador-suicida-de-clase-sss/"
-		},
-		{
-			"id": "Cómic Sobreviviendo Como Una Sirvienta En Un Juego De Terror [Capítulo 65]",
-			"title": "Cómic Sobreviviendo Como Una Sirvienta En Un Juego De Terror [Capítulo 65]",
-			"url": "https://visualikigai.vrinari.org/series/sobreviviendo-como-una-sirvienta-en-un-juego-de-terror/"
-		},
-		{
-			"id": "Cómic Perros y Pájaros [Capítulo 53]",
-			"title": "Cómic Perros y Pájaros [Capítulo 53]",
-			"url": "https://visualikigai.vrinari.org/series/perros-y-pajaros/"
-		},
-		{
-			"id": "Cómic No Hay Perdón Para Quien Traiciona [Capítulo 30]",
-			"title": "Cómic No Hay Perdón Para Quien Traiciona [Capítulo 30]",
-			"url": "https://visualikigai.vrinari.org/series/no-hay-perdon-para-quien-traiciona/"
-		},
-		{
-			"id": "Cómic Enséñame a Desear [Capítulo 22]",
-			"title": "Cómic Enséñame a Desear [Capítulo 22]",
-			"url": "https://visualikigai.vrinari.org/series/ensename-a-desear/"
 		}
 	]
 }
