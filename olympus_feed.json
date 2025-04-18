@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Maestro De Bestias Legendarias [Capítulo 27]",
+			"title": "Maestro De Bestias Legendarias [Capítulo 27]",
+			"url": "https://olympusbiblioteca.com/series/comic-maestro-de-bestias-legendarias"
+		},
+		{
 			"id": "La voluntad de supervivencia del villano [Capítulo 31]",
 			"title": "La voluntad de supervivencia del villano [Capítulo 31]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-voluntad-de-supervivencia-del-villano"
@@ -146,11 +151,6 @@
 			"id": "Me hice cargo de la Academia con un solo cuchillo de sashimi [Capítulo 35]",
 			"title": "Me hice cargo de la Academia con un solo cuchillo de sashimi [Capítulo 35]",
 			"url": "https://olympusbiblioteca.com/series/comic-me-hice-cargo-de-la-academia-con-un-solo-cuchillo-de-sashimi"
-		},
-		{
-			"id": "Sin fin skills [Capítulo 202]",
-			"title": "Sin fin skills [Capítulo 202]",
-			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m2025429-03"
 		}
 	]
 }

@@ -3,6 +3,16 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic ¡Arrodíllese, Su Gracia! [Capítulo 13]",
+			"title": "Cómic ¡Arrodíllese, Su Gracia! [Capítulo 13]",
+			"url": "https://visualikigai.vrinari.org/series/arrodillese-su-gracia/"
+		},
+		{
+			"id": "Cómic El Hermano Más Fuerte Perdió La Memoria (Manhwa) [Capítulo 29]",
+			"title": "Cómic El Hermano Más Fuerte Perdió La Memoria (Manhwa) [Capítulo 29]",
+			"url": "https://visualikigai.vrinari.org/series/el-hermano-mas-fuerte-perdio-la-memoria-manhwa/"
+		},
+		{
 			"id": "Cómic Subir De Nivel Con Habilidades [Capítulo 104]",
 			"title": "Cómic Subir De Nivel Con Habilidades [Capítulo 104]",
 			"url": "https://visualikigai.vrinari.org/series/subir-de-nivel-con-habilidades/"
@@ -141,16 +151,6 @@
 			"id": "Cómic Lady black está deprimida [Capítulo 21]",
 			"title": "Cómic Lady black está deprimida [Capítulo 21]",
 			"url": "https://visualikigai.vrinari.org/series/lady-black-esta-deprimida/"
-		},
-		{
-			"id": "Cómic Hospital Nocturno [Capítulo 99]",
-			"title": "Cómic Hospital Nocturno [Capítulo 99]",
-			"url": "https://visualikigai.vrinari.org/series/hospital-nocturno/"
-		},
-		{
-			"id": "Cómic ¿Podemos Convertirnos En Familia? [Capítulo 136]",
-			"title": "Cómic ¿Podemos Convertirnos En Familia? [Capítulo 136]",
-			"url": "https://visualikigai.vrinari.org/series/podemos-convertirnos-en-familia/"
 		}
 	]
 }
