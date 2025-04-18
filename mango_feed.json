@@ -3,6 +3,11 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic El punto del éxtasis [Capítulo 49]",
+			"title": "Cómic El punto del éxtasis [Capítulo 49]",
+			"url": "https://visualikigai.igujud.net/series/el-punto-del-extasis/"
+		},
+		{
 			"id": "Cómic Sigrid [Capítulo 141]",
 			"title": "Cómic Sigrid [Capítulo 141]",
 			"url": "https://visualikigai.igujud.net/series/sigrid/"
@@ -71,16 +76,6 @@
 			"id": "Cómic Adiestrando a la Líder Rebelde en el Chat Aleatorio [Capítulo 42]",
 			"title": "Cómic Adiestrando a la Líder Rebelde en el Chat Aleatorio [Capítulo 42]",
 			"url": "https://visualikigai.igujud.net/series/adiestrando-a-la-lider-rebelde-en-el-chat-aleatorio/"
-		},
-		{
-			"id": "Cómic Emperatriz María [Capítulo 14]",
-			"title": "Cómic Emperatriz María [Capítulo 14]",
-			"url": "https://visualikigai.igujud.net/series/emperatriz-maria/"
-		},
-		{
-			"id": "Cómic El punto del éxtasis [Capítulo 49]",
-			"title": "Cómic El punto del éxtasis [Capítulo 49]",
-			"url": "https://visualikigai.igujud.net/series/el-punto-del-extasis/"
 		}
 	]
 }
