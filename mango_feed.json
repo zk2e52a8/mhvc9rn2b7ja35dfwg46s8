@@ -3,6 +3,41 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic El hombre que se lleva todo [Capítulo 49]",
+			"title": "Cómic El hombre que se lleva todo [Capítulo 49]",
+			"url": "https://visualikigai.vrinari.org/series/el-hombre-que-se-lleva-todo/"
+		},
+		{
+			"id": "Cómic El Jugador Esconde Su Pasado [Capítulo 66]",
+			"title": "Cómic El Jugador Esconde Su Pasado [Capítulo 66]",
+			"url": "https://visualikigai.vrinari.org/series/el-jugador-esconde-su-pasado/"
+		},
+		{
+			"id": "Cómic Empleado temporal asignado al más allá [Capítulo 1]",
+			"title": "Cómic Empleado temporal asignado al más allá [Capítulo 1]",
+			"url": "https://visualikigai.vrinari.org/series/empleado-temporal-asignado-al-mas-alla/"
+		},
+		{
+			"id": "Cómic Cazador Suicida de Clase SSS [Capítulo 134]",
+			"title": "Cómic Cazador Suicida de Clase SSS [Capítulo 134]",
+			"url": "https://visualikigai.vrinari.org/series/cazador-suicida-de-clase-sss/"
+		},
+		{
+			"id": "Cómic Sobreviviendo Como Una Sirvienta En Un Juego De Terror [Capítulo 65]",
+			"title": "Cómic Sobreviviendo Como Una Sirvienta En Un Juego De Terror [Capítulo 65]",
+			"url": "https://visualikigai.vrinari.org/series/sobreviviendo-como-una-sirvienta-en-un-juego-de-terror/"
+		},
+		{
+			"id": "Cómic Perros y Pájaros [Capítulo 53]",
+			"title": "Cómic Perros y Pájaros [Capítulo 53]",
+			"url": "https://visualikigai.vrinari.org/series/perros-y-pajaros/"
+		},
+		{
+			"id": "Cómic No Hay Perdón Para Quien Traiciona [Capítulo 30]",
+			"title": "Cómic No Hay Perdón Para Quien Traiciona [Capítulo 30]",
+			"url": "https://visualikigai.vrinari.org/series/no-hay-perdon-para-quien-traiciona/"
+		},
+		{
 			"id": "Cómic Enséñame a Desear [Capítulo 22]",
 			"title": "Cómic Enséñame a Desear [Capítulo 22]",
 			"url": "https://visualikigai.vrinari.org/series/ensename-a-desear/"
@@ -56,11 +91,6 @@
 			"id": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 7]",
 			"title": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 7]",
 			"url": "https://visualikigai.vrinari.org/series/cualquiera-puede-ver-que-es-una-bestia/"
-		},
-		{
-			"id": "Cómic Empleado temporal asignado al más allá [Capítulo]",
-			"title": "Cómic Empleado temporal asignado al más allá [Capítulo]",
-			"url": "https://visualikigai.vrinari.org/series/empleado-temporal-asignado-al-mas-alla/"
 		},
 		{
 			"id": "Cómic Novato De Nivel Máximo [Capítulo 202]",
@@ -121,36 +151,6 @@
 			"id": "Cómic El Amante Muerto Regresa Como Un Tirano [Capítulo 27]",
 			"title": "Cómic El Amante Muerto Regresa Como Un Tirano [Capítulo 27]",
 			"url": "https://visualikigai.vrinari.org/series/el-amante-muerto-regresa-como-un-tirano/"
-		},
-		{
-			"id": "Cómic Alerta amber [Capítulo 20]",
-			"title": "Cómic Alerta amber [Capítulo 20]",
-			"url": "https://visualikigai.vrinari.org/series/alerta-amber/"
-		},
-		{
-			"id": "Cómic Una Villana Con Una Enfermedad Terminal Que Rechaza La Adopción [Capítulo 54]",
-			"title": "Cómic Una Villana Con Una Enfermedad Terminal Que Rechaza La Adopción [Capítulo 54]",
-			"url": "https://visualikigai.vrinari.org/series/una-villana-con-una-enfermedad-terminal-que-rechaza-la-adopcion/"
-		},
-		{
-			"id": "Cómic Delicias prohibidas [Capítulo 57]",
-			"title": "Cómic Delicias prohibidas [Capítulo 57]",
-			"url": "https://visualikigai.vrinari.org/series/delicias-prohibidas/"
-		},
-		{
-			"id": "Cómic Noche de caos [Capítulo 66]",
-			"title": "Cómic Noche de caos [Capítulo 66]",
-			"url": "https://visualikigai.vrinari.org/series/noche-de-caos/"
-		},
-		{
-			"id": "Cómic Cuando La Hija Ilegítima Del Conde Se Casa [Capítulo 109]",
-			"title": "Cómic Cuando La Hija Ilegítima Del Conde Se Casa [Capítulo 109]",
-			"url": "https://visualikigai.vrinari.org/series/cuando-la-hija-ilegitima-del-conde-se-casa/"
-		},
-		{
-			"id": "Cómic Cazador Con Destino De Clase F [Capítulo 80]",
-			"title": "Cómic Cazador Con Destino De Clase F [Capítulo 80]",
-			"url": "https://visualikigai.vrinari.org/series/cazador-con-destino-de-clase-f/"
 		}
 	]
 }
