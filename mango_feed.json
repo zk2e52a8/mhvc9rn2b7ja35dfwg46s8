@@ -3,6 +3,11 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic El Objeto Extraño Era Yo [Capítulo 37]",
+			"title": "Cómic El Objeto Extraño Era Yo [Capítulo 37]",
+			"url": "https://visualikigai.vrinari.org/series/el-objeto-extrano-era-yo/"
+		},
+		{
 			"id": "Cómic Los secretos de la emperatriz mentirosa [Capítulo 1]",
 			"title": "Cómic Los secretos de la emperatriz mentirosa [Capítulo 1]",
 			"url": "https://visualikigai.vrinari.org/series/los-secretos-de-la-emperatriz-mentirosa/"
@@ -146,11 +151,6 @@
 			"id": "Cómic Estudio Neulsom [Capítulo 49]",
 			"title": "Cómic Estudio Neulsom [Capítulo 49]",
 			"url": "https://visualikigai.vrinari.org/series/estudio-neulsom/"
-		},
-		{
-			"id": "Cómic Cruzando La Línea [Capítulo 94]",
-			"title": "Cómic Cruzando La Línea [Capítulo 94]",
-			"url": "https://visualikigai.vrinari.org/series/cruzando-la-linea/"
 		}
 	]
 }
