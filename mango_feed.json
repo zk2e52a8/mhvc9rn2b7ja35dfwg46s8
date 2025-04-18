@@ -3,6 +3,36 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic mi novio mutante [Capítulo 17]",
+			"title": "Cómic mi novio mutante [Capítulo 17]",
+			"url": "https://visualikigai.vrinari.org/series/mi-novio-mutante/"
+		},
+		{
+			"id": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 12]",
+			"title": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 12]",
+			"url": "https://visualikigai.vrinari.org/series/cualquiera-puede-ver-que-es-una-bestia/"
+		},
+		{
+			"id": "Cómic ¡El tanque de rango C que regresó no morirá! [Capítulo 16]",
+			"title": "Cómic ¡El tanque de rango C que regresó no morirá! [Capítulo 16]",
+			"url": "https://visualikigai.vrinari.org/series/el-tanque-de-rango-c-que-regreso-no-morira/"
+		},
+		{
+			"id": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 6]",
+			"title": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 6]",
+			"url": "https://visualikigai.vrinari.org/series/me-converti-en-la-hierba-gatera-de-bestias-despiadadas/"
+		},
+		{
+			"id": "Cómic Estudio Neulsom [Capítulo 49]",
+			"title": "Cómic Estudio Neulsom [Capítulo 49]",
+			"url": "https://visualikigai.vrinari.org/series/estudio-neulsom/"
+		},
+		{
+			"id": "Cómic Cruzando La Línea [Capítulo 94]",
+			"title": "Cómic Cruzando La Línea [Capítulo 94]",
+			"url": "https://visualikigai.vrinari.org/series/cruzando-la-linea/"
+		},
+		{
 			"id": "Cómic El hombre que se lleva todo [Capítulo 49]",
 			"title": "Cómic El hombre que se lleva todo [Capítulo 49]",
 			"url": "https://visualikigai.vrinari.org/series/el-hombre-que-se-lleva-todo/"
@@ -88,11 +118,6 @@
 			"url": "https://visualikigai.vrinari.org/series/aspectos/"
 		},
 		{
-			"id": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 7]",
-			"title": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 7]",
-			"url": "https://visualikigai.vrinari.org/series/cualquiera-puede-ver-que-es-una-bestia/"
-		},
-		{
 			"id": "Cómic Novato De Nivel Máximo [Capítulo 202]",
 			"title": "Cómic Novato De Nivel Máximo [Capítulo 202]",
 			"url": "https://visualikigai.vrinari.org/series/novato-de-nivel-maximo/"
@@ -101,11 +126,6 @@
 			"id": "Cómic Proyecto Nerd [Capítulo 40]",
 			"title": "Cómic Proyecto Nerd [Capítulo 40]",
 			"url": "https://visualikigai.vrinari.org/series/proyecto-nerd/"
-		},
-		{
-			"id": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 5]",
-			"title": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 5]",
-			"url": "https://visualikigai.vrinari.org/series/me-converti-en-la-hierba-gatera-de-bestias-despiadadas/"
 		},
 		{
 			"id": "Cómic Arbol sin raices [Capítulo 87]",
@@ -131,26 +151,6 @@
 			"id": "Cómic Ruégame [Capítulo 37]",
 			"title": "Cómic Ruégame [Capítulo 37]",
 			"url": "https://visualikigai.vrinari.org/series/ruegame/"
-		},
-		{
-			"id": "Cómic Soy una villana, pero no viviré como tal [Capítulo 18]",
-			"title": "Cómic Soy una villana, pero no viviré como tal [Capítulo 18]",
-			"url": "https://visualikigai.vrinari.org/series/soy-una-villana-pero-no-vivire-como-tal/"
-		},
-		{
-			"id": "Cómic Fue solo un matrimonio por contrato [Capítulo 69]",
-			"title": "Cómic Fue solo un matrimonio por contrato [Capítulo 69]",
-			"url": "https://visualikigai.vrinari.org/series/fue-solo-un-matrimonio-por-contrato/"
-		},
-		{
-			"id": "Cómic La Heroína Tiene Sus Ojos En Mí Como La Esposa De Su Hermano [Capítulo 76]",
-			"title": "Cómic La Heroína Tiene Sus Ojos En Mí Como La Esposa De Su Hermano [Capítulo 76]",
-			"url": "https://visualikigai.vrinari.org/series/la-heroina-tiene-sus-ojos-en-mi-como-la-esposa-de-su-hermano/"
-		},
-		{
-			"id": "Cómic El Amante Muerto Regresa Como Un Tirano [Capítulo 27]",
-			"title": "Cómic El Amante Muerto Regresa Como Un Tirano [Capítulo 27]",
-			"url": "https://visualikigai.vrinari.org/series/el-amante-muerto-regresa-como-un-tirano/"
 		}
 	]
 }
