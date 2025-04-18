@@ -3,6 +3,36 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic La Azotea Secreta de Kim [Capítulo 17]",
+			"title": "Cómic La Azotea Secreta de Kim [Capítulo 17]",
+			"url": "https://visualikigai.vrinari.org/series/la-azotea-secreta-de-kim/"
+		},
+		{
+			"id": "Cómic Ona inalámbrica [Capítulo 13]",
+			"title": "Cómic Ona inalámbrica [Capítulo 13]",
+			"url": "https://visualikigai.vrinari.org/series/ona-inalambrica/"
+		},
+		{
+			"id": "Cómic Servicio de limpieza [Capítulo 26]",
+			"title": "Cómic Servicio de limpieza [Capítulo 26]",
+			"url": "https://visualikigai.vrinari.org/series/servicio-de-limpieza1/"
+		},
+		{
+			"id": "Cómic No Quiero Ser la Nuera Adoptiva del Duque [Capítulo 86]",
+			"title": "Cómic No Quiero Ser la Nuera Adoptiva del Duque [Capítulo 86]",
+			"url": "https://visualikigai.vrinari.org/series/no-quiero-ser-la-nuera-adoptiva-del-duque/"
+		},
+		{
+			"id": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 7]",
+			"title": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 7]",
+			"url": "https://visualikigai.vrinari.org/series/me-converti-en-la-hierba-gatera-de-bestias-despiadadas/"
+		},
+		{
+			"id": "Cómic De casualidad terminamos siendo perfectos para el otro [Capítulo 109]",
+			"title": "Cómic De casualidad terminamos siendo perfectos para el otro [Capítulo 109]",
+			"url": "https://visualikigai.vrinari.org/series/de-casualidad-terminamos-siendo-perfectos-para-el-otro/"
+		},
+		{
 			"id": "Cómic Espadachín adolescente [Capítulo 80: regreso del hiatus]",
 			"title": "Cómic Espadachín adolescente [Capítulo 80: regreso del hiatus]",
 			"url": "https://visualikigai.vrinari.org/series/espadachin-adolescente/"
@@ -121,36 +151,6 @@
 			"id": "Cómic Generando finales ocultos [Capítulo 1]",
 			"title": "Cómic Generando finales ocultos [Capítulo 1]",
 			"url": "https://visualikigai.vrinari.org/series/generando-finales-ocultos/"
-		},
-		{
-			"id": "Cómic Matrimonio Depredador [Capítulo 63]",
-			"title": "Cómic Matrimonio Depredador [Capítulo 63]",
-			"url": "https://visualikigai.vrinari.org/series/matrimonio-depredador/"
-		},
-		{
-			"id": "Cómic La princesa monstruosa de las montañas nevadas [Capítulo 55]",
-			"title": "Cómic La princesa monstruosa de las montañas nevadas [Capítulo 55]",
-			"url": "https://visualikigai.vrinari.org/series/la-princesa-monstruosa-de-las-montanas-nevadas/"
-		},
-		{
-			"id": "Cómic La bruja del caballo pálido [Capítulo 47]",
-			"title": "Cómic La bruja del caballo pálido [Capítulo 47]",
-			"url": "https://visualikigai.vrinari.org/series/la-bruja-del-caballo-palido/"
-		},
-		{
-			"id": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 20]",
-			"title": "Cómic Cualquiera Puede Ver Que Es Una Bestia [Capítulo 20]",
-			"url": "https://visualikigai.vrinari.org/series/cualquiera-puede-ver-que-es-una-bestia/"
-		},
-		{
-			"id": "Cómic La Hermana Malvada Esconde Su Riqueza [Capítulo 33]",
-			"title": "Cómic La Hermana Malvada Esconde Su Riqueza [Capítulo 33]",
-			"url": "https://visualikigai.vrinari.org/series/la-hermana-malvada-esconde-su-riqueza/"
-		},
-		{
-			"id": "Cómic Contrato de Sometimiento [Capítulo 3]",
-			"title": "Cómic Contrato de Sometimiento [Capítulo 3]",
-			"url": "https://visualikigai.vrinari.org/series/contrato-de-sometimiento/"
 		}
 	]
 }

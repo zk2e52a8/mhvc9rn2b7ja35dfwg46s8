@@ -3,6 +3,21 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Parca de Medio Tiempo [Capítulo 0]",
+			"title": "Parca de Medio Tiempo [Capítulo 0]",
+			"url": "https://olympusbiblioteca.com/series/comic-parca-de-medio-tiempo"
+		},
+		{
+			"id": "La Super Tienda de Mascotas Estelares [Capítulo 175.5]",
+			"title": "La Super Tienda de Mascotas Estelares [Capítulo 175.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-13424la-super-tienda-de-mascotas-estelares5324"
+		},
+		{
+			"id": "El nigromante inigualable [Capítulo 79]",
+			"title": "El nigromante inigualable [Capítulo 79]",
+			"url": "https://olympusbiblioteca.com/series/comic-cara-casper13424"
+		},
+		{
 			"id": "Maestro De Bestias Legendarias [Capítulo 27]",
 			"title": "Maestro De Bestias Legendarias [Capítulo 27]",
 			"url": "https://olympusbiblioteca.com/series/comic-maestro-de-bestias-legendarias"
@@ -136,21 +151,6 @@
 			"id": "Jugador de nivel máximo [Capítulo 100]",
 			"title": "Jugador de nivel máximo [Capítulo 100]",
 			"url": "https://olympusbiblioteca.com/series/comic-jugador-de-nivel-maximo-olympus513424"
-		},
-		{
-			"id": "El Demonio Celestial del Espacio 3077 [Capítulo 28]",
-			"title": "El Demonio Celestial del Espacio 3077 [Capítulo 28]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-demonio-celestial-del-espacio-3077"
-		},
-		{
-			"id": "Sobreviviendo como un genio con tiempo prestado [Capítulo 34]",
-			"title": "Sobreviviendo como un genio con tiempo prestado [Capítulo 34]",
-			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m5m-m205-24-fdfd"
-		},
-		{
-			"id": "Me hice cargo de la Academia con un solo cuchillo de sashimi [Capítulo 35]",
-			"title": "Me hice cargo de la Academia con un solo cuchillo de sashimi [Capítulo 35]",
-			"url": "https://olympusbiblioteca.com/series/comic-me-hice-cargo-de-la-academia-con-un-solo-cuchillo-de-sashimi"
 		}
 	]
 }
