@@ -3,6 +3,16 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El hombre mas fuerte del manicomio [Capítulo 302]",
+			"title": "El hombre mas fuerte del manicomio [Capítulo 302]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-hombre-mas-fuerte-del-manicomio13424"
+		},
+		{
+			"id": "Voy a Aniquilar Esta Tierra [Capítulo 31]",
+			"title": "Voy a Aniquilar Esta Tierra [Capítulo 31]",
+			"url": "https://olympusbiblioteca.com/series/comic-voy-a-aniquilar-esta-tierra"
+		},
+		{
 			"id": "Subiendo de nivel con las mejores habilidades [Capítulo 104]",
 			"title": "Subiendo de nivel con las mejores habilidades [Capítulo 104]",
 			"url": "https://olympusbiblioteca.com/series/comic-subiendo-de-level-mejores-221r1234"
@@ -141,16 +151,6 @@
 			"id": "Tengo la guía exclusiva de la torre [Capítulo 62]",
 			"title": "Tengo la guía exclusiva de la torre [Capítulo 62]",
 			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m02574-s-m-22"
-		},
-		{
-			"id": "Cambiando la masmorra [Capítulo 243]",
-			"title": "Cambiando la masmorra [Capítulo 243]",
-			"url": "https://olympusbiblioteca.com/series/comic-cambiando-la-masmorra13424"
-		},
-		{
-			"id": "Jugador a partir de hoy [Capítulo 146]",
-			"title": "Jugador a partir de hoy [Capítulo 146]",
-			"url": "https://olympusbiblioteca.com/series/comic-ahora-soy-un-jugador53213424"
 		}
 	]
 }

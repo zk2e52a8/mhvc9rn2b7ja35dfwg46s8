@@ -3,6 +3,26 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Estrategia de divorcio [Capítulo 51]",
+			"title": "Cómic Estrategia de divorcio [Capítulo 51]",
+			"url": "https://visualikigai.vrinari.org/series/estrategia-de-divorcio/"
+		},
+		{
+			"id": "Cómic Tiempos de crisis [Capítulo 60]",
+			"title": "Cómic Tiempos de crisis [Capítulo 60]",
+			"url": "https://visualikigai.vrinari.org/series/tiempos-de-crisis/"
+		},
+		{
+			"id": "Cómic El Monstruoso Duque Me Confundió Con Su Esposa [Capítulo 55]",
+			"title": "Cómic El Monstruoso Duque Me Confundió Con Su Esposa [Capítulo 55]",
+			"url": "https://visualikigai.vrinari.org/series/el-monstruoso-duque-me-confundio-con-su-esposa/"
+		},
+		{
+			"id": "Cómic No Hay Lugar Para la Falsa [Capítulo 88]",
+			"title": "Cómic No Hay Lugar Para la Falsa [Capítulo 88]",
+			"url": "https://visualikigai.vrinari.org/series/no-hay-lugar-para-la-falsa/"
+		},
+		{
 			"id": "Cómic El Objeto Extraño Era Yo [Capítulo 37]",
 			"title": "Cómic El Objeto Extraño Era Yo [Capítulo 37]",
 			"url": "https://visualikigai.vrinari.org/series/el-objeto-extrano-era-yo/"
@@ -131,26 +151,6 @@
 			"id": "Novela ¿Desde cuando eres el villano? - Novela [Capítulo 64]",
 			"title": "Novela ¿Desde cuando eres el villano? - Novela [Capítulo 64]",
 			"url": "https://visualikigai.vrinari.org/series/desde-cuando-eres-el-villano-novela/"
-		},
-		{
-			"id": "Cómic Pensamientos secretos [Capítulo 30]",
-			"title": "Cómic Pensamientos secretos [Capítulo 30]",
-			"url": "https://visualikigai.vrinari.org/series/pensamientos-secretos/"
-		},
-		{
-			"id": "Cómic ¡El tanque de rango C que regresó no morirá! [Capítulo 16]",
-			"title": "Cómic ¡El tanque de rango C que regresó no morirá! [Capítulo 16]",
-			"url": "https://visualikigai.vrinari.org/series/el-tanque-de-rango-c-que-regreso-no-morira/"
-		},
-		{
-			"id": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 6]",
-			"title": "Cómic Me convertí en la hierba gatera de bestias despiadadas [Capítulo 6]",
-			"url": "https://visualikigai.vrinari.org/series/me-converti-en-la-hierba-gatera-de-bestias-despiadadas/"
-		},
-		{
-			"id": "Cómic Estudio Neulsom [Capítulo 49]",
-			"title": "Cómic Estudio Neulsom [Capítulo 49]",
-			"url": "https://visualikigai.vrinari.org/series/estudio-neulsom/"
 		}
 	]
 }
