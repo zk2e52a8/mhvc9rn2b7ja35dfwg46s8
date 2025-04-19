@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Novato es Muy Fuerte [Capítulo 131]",
+			"title": "El Novato es Muy Fuerte [Capítulo 131]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-novato-es-muy-fuerte13424142124"
+		},
+		{
 			"id": "Construyendo un imperio industrial en un mundo mágico [Capítulo 30]",
 			"title": "Construyendo un imperio industrial en un mundo mágico [Capítulo 30]",
 			"url": "https://olympusbiblioteca.com/series/comic-construyendo-un-imperio-industrial-en-un-mundo-magico"
@@ -146,11 +151,6 @@
 			"id": "El hombre mas fuerte del manicomio [Capítulo 302]",
 			"title": "El hombre mas fuerte del manicomio [Capítulo 302]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-hombre-mas-fuerte-del-manicomio13424"
-		},
-		{
-			"id": "Voy a Aniquilar Esta Tierra [Capítulo 31]",
-			"title": "Voy a Aniquilar Esta Tierra [Capítulo 31]",
-			"url": "https://olympusbiblioteca.com/series/comic-voy-a-aniquilar-esta-tierra"
 		}
 	]
 }
