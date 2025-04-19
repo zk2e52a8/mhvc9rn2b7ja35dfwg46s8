@@ -3,6 +3,11 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Contrato de Sometimiento [Capítulo 4]",
+			"title": "Cómic Contrato de Sometimiento [Capítulo 4]",
+			"url": "https://visualikigai.igujud.net/series/contrato-de-sometimiento/"
+		},
+		{
 			"id": "Cómic Pequeñ0 Hong0 [Capítulo 58]",
 			"title": "Cómic Pequeñ0 Hong0 [Capítulo 58]",
 			"url": "https://visualikigai.igujud.net/series/pequen0-hong0/"
@@ -71,11 +76,6 @@
 			"id": "Cómic Sobreviviendo Como Una Princesa Ilegitima [Capítulo 114]",
 			"title": "Cómic Sobreviviendo Como Una Princesa Ilegitima [Capítulo 114]",
 			"url": "https://visualikigai.igujud.net/series/sobreviviendo-como-una-princesa-ilegitima-3/"
-		},
-		{
-			"id": "Cómic Luz De Fondo [Capítulo 39]",
-			"title": "Cómic Luz De Fondo [Capítulo 39]",
-			"url": "https://visualikigai.igujud.net/series/luz-de-fondo/"
 		}
 	]
 }
