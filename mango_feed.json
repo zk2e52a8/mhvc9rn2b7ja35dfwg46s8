@@ -3,6 +3,21 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Romance no romantico [Capítulo 47: Extra 09]",
+			"title": "Cómic Romance no romantico [Capítulo 47: Extra 09]",
+			"url": "https://visualikigai.igujud.net/series/romance-no-romantico/"
+		},
+		{
+			"id": "Cómic De Nuevo a la Primavera [Capítulo 20]",
+			"title": "Cómic De Nuevo a la Primavera [Capítulo 20]",
+			"url": "https://visualikigai.igujud.net/series/de-nuevo-a-la-primavera/"
+		},
+		{
+			"id": "Cómic 2020 [Capítulo 37]",
+			"title": "Cómic 2020 [Capítulo 37]",
+			"url": "https://visualikigai.igujud.net/series/2020/"
+		},
+		{
 			"id": "Cómic Siete domingos [Capítulo 8]",
 			"title": "Cómic Siete domingos [Capítulo 8]",
 			"url": "https://visualikigai.igujud.net/series/siete-domingos/"
@@ -63,24 +78,9 @@
 			"url": "https://visualikigai.igujud.net/series/encontre-una-familia-que-no-estaba-en-mi-plan-de-adopcion/"
 		},
 		{
-			"id": "Cómic Baño De Hombres [Capítulo 23]",
-			"title": "Cómic Baño De Hombres [Capítulo 23]",
-			"url": "https://visualikigai.igujud.net/series/bano-de-hombres/"
-		},
-		{
-			"id": "Cómic La Princesa Zorro Del Gran Duque - Manhwa [Capítulo 74]",
-			"title": "Cómic La Princesa Zorro Del Gran Duque - Manhwa [Capítulo 74]",
-			"url": "https://visualikigai.igujud.net/series/la-princesa-zorro-del-gran-duque-manhwa/"
-		},
-		{
-			"id": "Cómic El bateador tramposo lo gana todo [Capítulo 76]",
-			"title": "Cómic El bateador tramposo lo gana todo [Capítulo 76]",
-			"url": "https://visualikigai.igujud.net/series/el-bateador-tramposo-lo-gana-todo/"
-		},
-		{
-			"id": "Cómic 2020 [Capítulo 37]",
-			"title": "Cómic 2020 [Capítulo 37]",
-			"url": "https://visualikigai.igujud.net/series/2020/"
+			"id": "Cómic Yo soy la Villana [Capítulo 74]",
+			"title": "Cómic Yo soy la Villana [Capítulo 74]",
+			"url": "https://visualikigai.igujud.net/series/yo-soy-la-villana/"
 		}
 	]
 }

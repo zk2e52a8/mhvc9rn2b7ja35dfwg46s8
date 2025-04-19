@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El hombre mas fuerte del manicomio [Capítulo 320]",
+			"title": "El hombre mas fuerte del manicomio [Capítulo 320]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-hombre-mas-fuerte-del-manicomio13424"
+		},
+		{
 			"id": "*Instructor Estelar Maestro Baek [Capítulo 121]",
 			"title": "*Instructor Estelar Maestro Baek [Capítulo 121]",
 			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-m02507-19-baek"
@@ -146,11 +151,6 @@
 			"id": "Regresión inútil [Capítulo 81]",
 			"title": "Regresión inútil [Capítulo 81]",
 			"url": "https://olympusbiblioteca.com/series/comic-regresion-inutil"
-		},
-		{
-			"id": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 126]",
-			"title": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 126]",
-			"url": "https://olympusbiblioteca.com/series/comic-maestra-este-discipulo-villano-no-puede-ser-el-hijo-sagrado5324"
 		}
 	]
 }
