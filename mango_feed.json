@@ -3,6 +3,21 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Estrella de las Olas [Capítulo 16]",
+			"title": "Cómic Estrella de las Olas [Capítulo 16]",
+			"url": "https://visualikigai.igujud.net/series/estrella-de-las-olas/"
+		},
+		{
+			"id": "Cómic Los Perros Del Infierno [Capítulo 14]",
+			"title": "Cómic Los Perros Del Infierno [Capítulo 14]",
+			"url": "https://visualikigai.igujud.net/series/los-perros-del-infierno/"
+		},
+		{
+			"id": "Cómic La Flor De Espina De Adinmir [Capítulo 7]",
+			"title": "Cómic La Flor De Espina De Adinmir [Capítulo 7]",
+			"url": "https://visualikigai.igujud.net/series/la-flor-de-espina-de-adinmir/"
+		},
+		{
 			"id": "Cómic Debuté cómo exorcista en vez de ser idol [Capítulo 13]",
 			"title": "Cómic Debuté cómo exorcista en vez de ser idol [Capítulo 13]",
 			"url": "https://visualikigai.igujud.net/series/debute-como-exorcista-en-vez-de-ser-idol/"
@@ -63,19 +78,9 @@
 			"url": "https://visualikigai.igujud.net/series/el-personaje-secundario-no-contraataca/"
 		},
 		{
-			"id": "Cómic Mi último invierno [Capítulo 6]",
-			"title": "Cómic Mi último invierno [Capítulo 6]",
-			"url": "https://visualikigai.igujud.net/series/mi-ultimo-invierno/"
-		},
-		{
-			"id": "Cómic El Regreso De La Ex Esposa [Capítulo 54]",
-			"title": "Cómic El Regreso De La Ex Esposa [Capítulo 54]",
-			"url": "https://visualikigai.igujud.net/series/el-regreso-de-la-ex-esposa/"
-		},
-		{
-			"id": "Cómic Principio de relación [Capítulo 17]",
-			"title": "Cómic Principio de relación [Capítulo 17]",
-			"url": "https://visualikigai.igujud.net/series/principio-de-relacion/"
+			"id": "Cómic La Guardiana Extra perdió el momento adecuado para irse [Capítulo 57]",
+			"title": "Cómic La Guardiana Extra perdió el momento adecuado para irse [Capítulo 57]",
+			"url": "https://visualikigai.igujud.net/series/la-guardiana-extra-perdio-el-momento-adecuado-para-irse/"
 		}
 	]
 }
