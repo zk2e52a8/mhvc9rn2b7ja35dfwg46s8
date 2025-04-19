@@ -3,6 +3,11 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic El Retorno Del Ranker (Remake) [Capítulo 183]",
+			"title": "Cómic El Retorno Del Ranker (Remake) [Capítulo 183]",
+			"url": "https://visualikigai.igujud.net/series/el-retorno-del-ranker-remake/"
+		},
+		{
 			"id": "Cómic ¡Salte de mi cuerpo! [Capítulo 3: Orckuro Translation]",
 			"title": "Cómic ¡Salte de mi cuerpo! [Capítulo 3: Orckuro Translation]",
 			"url": "https://visualikigai.igujud.net/series/salte-de-mi-cuerpo/"
@@ -71,16 +76,6 @@
 			"id": "Cómic Adicción [Capítulo 38]",
 			"title": "Cómic Adicción [Capítulo 38]",
 			"url": "https://visualikigai.igujud.net/series/adiccion/"
-		},
-		{
-			"id": "Cómic La fea esposa del duque sombrío [Capítulo 38]",
-			"title": "Cómic La fea esposa del duque sombrío [Capítulo 38]",
-			"url": "https://visualikigai.igujud.net/series/la-fea-esposa-del-duque-sombrio/"
-		},
-		{
-			"id": "Cómic El Retorno Del Ranker (Remake) [Capítulo 183]",
-			"title": "Cómic El Retorno Del Ranker (Remake) [Capítulo 183]",
-			"url": "https://visualikigai.igujud.net/series/el-retorno-del-ranker-remake/"
 		}
 	]
 }
