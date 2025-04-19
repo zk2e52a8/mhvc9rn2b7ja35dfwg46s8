@@ -3,6 +3,21 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic DentArt [BL] [Capítulo 32]",
+			"title": "Cómic DentArt [BL] [Capítulo 32]",
+			"url": "https://visualikigai.igujud.net/series/dentart-bl/"
+		},
+		{
+			"id": "Cómic Me Convertí en la Señora de la Casa [Capítulo 85]",
+			"title": "Cómic Me Convertí en la Señora de la Casa [Capítulo 85]",
+			"url": "https://visualikigai.igujud.net/series/me-converti-en-la-senora-de-la-casa/"
+		},
+		{
+			"id": "Cómic Todo fluye [Capítulo 1]",
+			"title": "Cómic Todo fluye [Capítulo 1]",
+			"url": "https://visualikigai.igujud.net/series/todo-fluye/"
+		},
+		{
 			"id": "Cómic Crié a Un Sirviente Obsesivo [Capítulo 112]",
 			"title": "Cómic Crié a Un Sirviente Obsesivo [Capítulo 112]",
 			"url": "https://visualikigai.igujud.net/series/crie-a-un-sirviente-obsesivo/"
@@ -61,21 +76,6 @@
 			"id": "Cómic Me Converti En La Madre Del Hijo Del Segundo Protagonista Masculino [Capítulo 23]",
 			"title": "Cómic Me Converti En La Madre Del Hijo Del Segundo Protagonista Masculino [Capítulo 23]",
 			"url": "https://visualikigai.igujud.net/series/me-converti-en-la-madre-del-hijo-del-segundo-protagonista-masculino/"
-		},
-		{
-			"id": "Cómic Enséñame a Desear [Capítulo 23]",
-			"title": "Cómic Enséñame a Desear [Capítulo 23]",
-			"url": "https://visualikigai.igujud.net/series/ensename-a-desear/"
-		},
-		{
-			"id": "Cómic La resurrección de la villana en 24 horas [Capítulo 39]",
-			"title": "Cómic La resurrección de la villana en 24 horas [Capítulo 39]",
-			"url": "https://visualikigai.igujud.net/series/la-resurreccion-de-la-villana-en-24-horas/"
-		},
-		{
-			"id": "Cómic No Quiero Ser la Nuera Adoptiva del Duque [Capítulo 88]",
-			"title": "Cómic No Quiero Ser la Nuera Adoptiva del Duque [Capítulo 88]",
-			"url": "https://visualikigai.igujud.net/series/no-quiero-ser-la-nuera-adoptiva-del-duque/"
 		}
 	]
 }
