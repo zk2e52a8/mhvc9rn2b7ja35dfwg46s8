@@ -3,6 +3,16 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Principio de relación [Capítulo 12]",
+			"title": "Cómic Principio de relación [Capítulo 12]",
+			"url": "https://visualikigai.igujud.net/series/principio-de-relacion/"
+		},
+		{
+			"id": "Cómic Sobreviviendo Como Una Princesa Ilegitima [Capítulo 114]",
+			"title": "Cómic Sobreviviendo Como Una Princesa Ilegitima [Capítulo 114]",
+			"url": "https://visualikigai.igujud.net/series/sobreviviendo-como-una-princesa-ilegitima-3/"
+		},
+		{
 			"id": "Cómic Crié a Un Sirviente Obsesivo [Capítulo 109]",
 			"title": "Cómic Crié a Un Sirviente Obsesivo [Capítulo 109]",
 			"url": "https://visualikigai.igujud.net/series/crie-a-un-sirviente-obsesivo/"
@@ -68,14 +78,9 @@
 			"url": "https://visualikigai.igujud.net/series/los-secretos-de-la-emperatriz-mentirosa/"
 		},
 		{
-			"id": "Cómic Descarga Imparable [Capítulo 14]",
-			"title": "Cómic Descarga Imparable [Capítulo 14]",
-			"url": "https://visualikigai.igujud.net/series/descarga-imparable/"
-		},
-		{
-			"id": "Cómic Sombra de luna (guideverse) [Capítulo 43]",
-			"title": "Cómic Sombra de luna (guideverse) [Capítulo 43]",
-			"url": "https://visualikigai.igujud.net/series/sombra-de-luna-guideverse/"
+			"id": "Cómic Anónimo 7 [Capítulo 8]",
+			"title": "Cómic Anónimo 7 [Capítulo 8]",
+			"url": "https://visualikigai.igujud.net/series/anonimo-7/"
 		}
 	]
 }
