@@ -3,6 +3,16 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Academia religiosa [Capítulo 111]",
+			"title": "Cómic Academia religiosa [Capítulo 111]",
+			"url": "https://visualikigai.igujud.net/series/academia-religiosa/"
+		},
+		{
+			"id": "Cómic La emperatriz asesina [Capítulo 1]",
+			"title": "Cómic La emperatriz asesina [Capítulo 1]",
+			"url": "https://visualikigai.igujud.net/series/la-emperatriz-asesina/"
+		},
+		{
 			"id": "Cómic Contrato de Sometimiento [Capítulo 4]",
 			"title": "Cómic Contrato de Sometimiento [Capítulo 4]",
 			"url": "https://visualikigai.igujud.net/series/contrato-de-sometimiento/"
@@ -68,14 +78,9 @@
 			"url": "https://visualikigai.igujud.net/series/anonimo-7/"
 		},
 		{
-			"id": "Cómic Principio de relación [Capítulo 12]",
-			"title": "Cómic Principio de relación [Capítulo 12]",
-			"url": "https://visualikigai.igujud.net/series/principio-de-relacion/"
-		},
-		{
-			"id": "Cómic Sobreviviendo Como Una Princesa Ilegitima [Capítulo 114]",
-			"title": "Cómic Sobreviviendo Como Una Princesa Ilegitima [Capítulo 114]",
-			"url": "https://visualikigai.igujud.net/series/sobreviviendo-como-una-princesa-ilegitima-3/"
+			"id": "Cómic Amo del tiempo [Capítulo 140]",
+			"title": "Cómic Amo del tiempo [Capítulo 140]",
+			"url": "https://visualikigai.igujud.net/series/amo-del-tiempo/"
 		}
 	]
 }
