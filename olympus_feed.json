@@ -3,9 +3,14 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El soberano del hogar [Capítulo 26.5]",
+			"title": "El soberano del hogar [Capítulo 26.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-253-2025"
+		},
+		{
 			"id": "Palo De Madera [Capítulo 124.2]",
 			"title": "Palo De Madera [Capítulo 124.2]",
-			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m505-4-9-eto14"
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-m505-4-9-eto14"
 		},
 		{
 			"id": "El Novato es Muy Fuerte [Capítulo 131]",
@@ -30,12 +35,12 @@
 		{
 			"id": "El demonio celestial quiere una vida tranquila [Capítulo 28]",
 			"title": "El demonio celestial quiere una vida tranquila [Capítulo 28]",
-			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m4-03-2025"
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-m4-03-2025"
 		},
 		{
 			"id": "Jugador devorador de acero [Capítulo 62]",
 			"title": "Jugador devorador de acero [Capítulo 62]",
-			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m7-19-2554654"
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-7-19-2554654"
 		},
 		{
 			"id": "El Chetado (Overgeared) [Capítulo 266]",
@@ -70,7 +75,7 @@
 		{
 			"id": "El Devoto Caballero [Capítulo 108]",
 			"title": "El Devoto Caballero [Capítulo 108]",
-			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m55mm208-4-2542629-03"
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-55mm208-4-2542629-03"
 		},
 		{
 			"id": "Regresión inútil [Capítulo 81]",
@@ -100,7 +105,7 @@
 		{
 			"id": "Caballero en Eterna Regresión [Capítulo 54]",
 			"title": "Caballero en Eterna Regresión [Capítulo 54]",
-			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-mmm208-124-2-54-3"
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-mmm208-124-2-54-3"
 		},
 		{
 			"id": "Parca de Medio Tiempo [Capítulo 0]",
@@ -130,7 +135,7 @@
 		{
 			"id": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el barbaro) [Capítulo 102]",
 			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el barbaro) [Capítulo 102]",
-			"url": "https://olympusbiblioteca.com/series/comic-16-04-m-m25md-m203-251417"
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-md-m203-251417"
 		},
 		{
 			"id": "El bastardo devorador de armas. [Capítulo 26]",
@@ -146,11 +151,6 @@
 			"id": "La leyenda del dios demonio reencarnado [Capítulo 40]",
 			"title": "La leyenda del dios demonio reencarnado [Capítulo 40]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-leyenda-del-dios-demonio-reencarnado"
-		},
-		{
-			"id": "Helmut: El Niño Abandonado [Capítulo 88]",
-			"title": "Helmut: El Niño Abandonado [Capítulo 88]",
-			"url": "https://olympusbiblioteca.com/series/comic-helmut-el-nino-abandonado13424"
 		}
 	]
 }

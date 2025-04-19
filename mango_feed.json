@@ -3,6 +3,21 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Amigo Secreto [Capítulo 35: Orckuro Translation]",
+			"title": "Cómic Amigo Secreto [Capítulo 35: Orckuro Translation]",
+			"url": "https://visualikigai.igujud.net/series/amigo-secreto-universitario/"
+		},
+		{
+			"id": "Cómic Soy la doctora del emperador moribundo [Capítulo 18]",
+			"title": "Cómic Soy la doctora del emperador moribundo [Capítulo 18]",
+			"url": "https://visualikigai.igujud.net/series/soy-la-doctora-del-emperador-moribundo/"
+		},
+		{
+			"id": "Cómic Contrato de Sometimiento [Capítulo 5]",
+			"title": "Cómic Contrato de Sometimiento [Capítulo 5]",
+			"url": "https://visualikigai.igujud.net/series/contrato-de-sometimiento/"
+		},
+		{
 			"id": "Cómic Amo del tiempo [Capítulo 140]",
 			"title": "Cómic Amo del tiempo [Capítulo 140]",
 			"url": "https://visualikigai.igujud.net/series/amo-del-tiempo/"
@@ -16,11 +31,6 @@
 			"id": "Cómic La emperatriz asesina [Capítulo 1]",
 			"title": "Cómic La emperatriz asesina [Capítulo 1]",
 			"url": "https://visualikigai.igujud.net/series/la-emperatriz-asesina/"
-		},
-		{
-			"id": "Cómic Contrato de Sometimiento [Capítulo 4]",
-			"title": "Cómic Contrato de Sometimiento [Capítulo 4]",
-			"url": "https://visualikigai.igujud.net/series/contrato-de-sometimiento/"
 		},
 		{
 			"id": "Cómic Pequeñ0 Hong0 [Capítulo 58]",
@@ -68,14 +78,9 @@
 			"url": "https://visualikigai.igujud.net/series/todo-fluye/"
 		},
 		{
-			"id": "Cómic Crié a Un Sirviente Obsesivo [Capítulo 112]",
-			"title": "Cómic Crié a Un Sirviente Obsesivo [Capítulo 112]",
-			"url": "https://visualikigai.igujud.net/series/crie-a-un-sirviente-obsesivo/"
-		},
-		{
-			"id": "Cómic Deseo Irresistible [Capítulo 34]",
-			"title": "Cómic Deseo Irresistible [Capítulo 34]",
-			"url": "https://visualikigai.igujud.net/series/deseo-irresistible/"
+			"id": "Cómic La tienda del placer [Capítulo 123]",
+			"title": "Cómic La tienda del placer [Capítulo 123]",
+			"url": "https://visualikigai.igujud.net/series/la-tienda-del-placer/"
 		}
 	]
 }
