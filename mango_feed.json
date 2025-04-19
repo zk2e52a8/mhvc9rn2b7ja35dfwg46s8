@@ -3,6 +3,41 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Contrato de Sometimiento [Capítulo 6]",
+			"title": "Cómic Contrato de Sometimiento [Capítulo 6]",
+			"url": "https://visualikigai.igujud.net/series/contrato-de-sometimiento/"
+		},
+		{
+			"id": "Cómic El chico de las perlas: Explicación [Capítulo 1]",
+			"title": "Cómic El chico de las perlas: Explicación [Capítulo 1]",
+			"url": "https://visualikigai.igujud.net/series/el-chico-de-las-perlas-explicacion/"
+		},
+		{
+			"id": "Cómic Luna Nueva [Capítulo 1]",
+			"title": "Cómic Luna Nueva [Capítulo 1]",
+			"url": "https://visualikigai.igujud.net/series/luna-nueva/"
+		},
+		{
+			"id": "Cómic Las Flores Son Cebo [Capítulo 23]",
+			"title": "Cómic Las Flores Son Cebo [Capítulo 23]",
+			"url": "https://visualikigai.igujud.net/series/las-flores-son-cebo/"
+		},
+		{
+			"id": "Cómic Jugando con el zorro [Capítulo 31]",
+			"title": "Cómic Jugando con el zorro [Capítulo 31]",
+			"url": "https://visualikigai.igujud.net/series/jugando-con-el-zorro/"
+		},
+		{
+			"id": "Cómic Despues de comer [Capítulo 11]",
+			"title": "Cómic Despues de comer [Capítulo 11]",
+			"url": "https://visualikigai.igujud.net/series/despues-de-comer/"
+		},
+		{
+			"id": "Cómic La encrucijada de la reencarnación [Capítulo 2]",
+			"title": "Cómic La encrucijada de la reencarnación [Capítulo 2]",
+			"url": "https://visualikigai.igujud.net/series/la-encrucijada-de-la-reencarnacion/"
+		},
+		{
 			"id": "Cómic Domaré a tu mamá primero [Capítulo 99]",
 			"title": "Cómic Domaré a tu mamá primero [Capítulo 99]",
 			"url": "https://visualikigai.igujud.net/series/domare-a-tu-mama-primero/"
@@ -33,11 +68,6 @@
 			"url": "https://visualikigai.igujud.net/series/soy-la-doctora-del-emperador-moribundo/"
 		},
 		{
-			"id": "Cómic Contrato de Sometimiento [Capítulo 5]",
-			"title": "Cómic Contrato de Sometimiento [Capítulo 5]",
-			"url": "https://visualikigai.igujud.net/series/contrato-de-sometimiento/"
-		},
-		{
 			"id": "Cómic Amo del tiempo [Capítulo 140]",
 			"title": "Cómic Amo del tiempo [Capítulo 140]",
 			"url": "https://visualikigai.igujud.net/series/amo-del-tiempo/"
@@ -48,69 +78,29 @@
 			"url": "https://visualikigai.igujud.net/series/academia-religiosa/"
 		},
 		{
-			"id": "Cómic La emperatriz asesina [Capítulo 1]",
-			"title": "Cómic La emperatriz asesina [Capítulo 1]",
-			"url": "https://visualikigai.igujud.net/series/la-emperatriz-asesina/"
+			"id": "Cómic El rey del juego en solitario [Capítulo 1]",
+			"title": "Cómic El rey del juego en solitario [Capítulo 1]",
+			"url": "https://visualikigai.igujud.net/series/el-rey-del-juego-en-solitario/"
 		},
 		{
-			"id": "Cómic Pequeñ0 Hong0 [Capítulo 58]",
-			"title": "Cómic Pequeñ0 Hong0 [Capítulo 58]",
-			"url": "https://visualikigai.igujud.net/series/pequen0-hong0/"
+			"id": "Cómic Una funcionaria de bajo rango quiere ascender [Capítulo 1]",
+			"title": "Cómic Una funcionaria de bajo rango quiere ascender [Capítulo 1]",
+			"url": "https://visualikigai.igujud.net/series/una-funcionaria-de-bajo-rango-quiere-ascender/"
 		},
 		{
-			"id": "Cómic Redención [Capítulo 14]",
-			"title": "Cómic Redención [Capítulo 14]",
-			"url": "https://visualikigai.igujud.net/series/redencion/"
+			"id": "Cómic La Hada Bebé Es Un Villana [Capítulo 24]",
+			"title": "Cómic La Hada Bebé Es Un Villana [Capítulo 24]",
+			"url": "https://visualikigai.igujud.net/series/la-hada-bebe-es-un-villana/"
 		},
 		{
-			"id": "Cómic El Retorno Del Ranker (Remake) [Capítulo 183]",
-			"title": "Cómic El Retorno Del Ranker (Remake) [Capítulo 183]",
-			"url": "https://visualikigai.igujud.net/series/el-retorno-del-ranker-remake/"
+			"id": "Cómic Todos Se Obsesionaron Conmigo Después De Convertirme En La Favorita De La Joven Princesa [Capítulo 25]",
+			"title": "Cómic Todos Se Obsesionaron Conmigo Después De Convertirme En La Favorita De La Joven Princesa [Capítulo 25]",
+			"url": "https://visualikigai.igujud.net/series/todos-se-obsesionaron-conmigo-despues-de-convertirme-en-la-favorita-de-la-joven-princesa/"
 		},
 		{
-			"id": "Cómic ¡Salte de mi cuerpo! [Capítulo 3: Orckuro Translation]",
-			"title": "Cómic ¡Salte de mi cuerpo! [Capítulo 3: Orckuro Translation]",
-			"url": "https://visualikigai.igujud.net/series/salte-de-mi-cuerpo/"
-		},
-		{
-			"id": "Cómic Mi respuesta [Capítulo 24: Orckuro Translations]",
-			"title": "Cómic Mi respuesta [Capítulo 24: Orckuro Translations]",
-			"url": "https://visualikigai.igujud.net/series/mi-respuesta/"
-		},
-		{
-			"id": "Cómic La encrucijada de la reencarnación [Capítulo 2]",
-			"title": "Cómic La encrucijada de la reencarnación [Capítulo 2]",
-			"url": "https://visualikigai.igujud.net/series/la-encrucijada-de-la-reencarnacion/"
-		},
-		{
-			"id": "Cómic Despues de comer [Capítulo 11]",
-			"title": "Cómic Despues de comer [Capítulo 11]",
-			"url": "https://visualikigai.igujud.net/series/despues-de-comer/"
-		},
-		{
-			"id": "Cómic Jugando con el zorro [Capítulo 29]",
-			"title": "Cómic Jugando con el zorro [Capítulo 29]",
-			"url": "https://visualikigai.igujud.net/series/jugando-con-el-zorro/"
-		},
-		{
-			"id": "Cómic Jugando con el zorro [Capítulo 31]",
-			"title": "Cómic Jugando con el zorro [Capítulo 31]",
-			"url": "https://visualikigai.igujud.net/series/jugando-con-el-zorro/"
-		},
-		{
-			"id": "Cómic Las Flores Son Cebo [Capítulo 23]",
-			"title": "Cómic Las Flores Son Cebo [Capítulo 23]",
-			"url": "https://visualikigai.igujud.net/series/las-flores-son-cebo/"
-		},
-		{
-			"id": "Cómic Luna Nueva [Capítulo 1]",
-			"title": "Cómic Luna Nueva [Capítulo 1]",
-			"url": "https://visualikigai.igujud.net/series/luna-nueva/"
-		},
-		{
-			"id": "Cómic El chico de las perlas: Explicación [Capítulo 1]",
-			"title": "Cómic El chico de las perlas: Explicación [Capítulo 1]",
-			"url": "https://visualikigai.igujud.net/series/el-chico-de-las-perlas-explicacion/"
+			"id": "Cómic Caí En Los Brazos De Un Villano Loco [Capítulo 68]",
+			"title": "Cómic Caí En Los Brazos De Un Villano Loco [Capítulo 68]",
+			"url": "https://visualikigai.igujud.net/series/cai-en-los-brazos-de-un-villano-loco/"
 		}
 	]
 }
