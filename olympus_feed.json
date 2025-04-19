@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El chico problemático de la torre mágica [Capítulo 9]",
+			"title": "El chico problemático de la torre mágica [Capítulo 9]",
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-o-de-la-torre-magica"
+		},
+		{
 			"id": "cultivador del dao bizarro [Capítulo 32]",
 			"title": "cultivador del dao bizarro [Capítulo 32]",
 			"url": "https://olympusbiblioteca.com/series/comic-cultivador-del-dao-bizarro"
@@ -146,11 +151,6 @@
 			"id": "Conviértete en un Dios - Mito de Cthulhu [Capítulo 75]",
 			"title": "Conviértete en un Dios - Mito de Cthulhu [Capítulo 75]",
 			"url": "https://olympusbiblioteca.com/series/comic-conviertete-en-un-dios-mito-de-cthulhu"
-		},
-		{
-			"id": "134. Una carta de amor del futuro [Capítulo 29]",
-			"title": "134. Una carta de amor del futuro [Capítulo 29]",
-			"url": "https://olympusbiblioteca.com/series/comic-134-una-carta-de-amor-del-futuro"
 		}
 	]
 }
