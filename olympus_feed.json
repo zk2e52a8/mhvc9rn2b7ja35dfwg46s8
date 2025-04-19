@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Villano antihéroe [Capítulo 182]",
+			"title": "Villano antihéroe [Capítulo 182]",
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-9-5o25-0229-03"
+		},
+		{
 			"id": "Emperador del Juego en Solitario [Capítulo 7]",
 			"title": "Emperador del Juego en Solitario [Capítulo 7]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-del-juego-en-solitario"
@@ -146,11 +151,6 @@
 			"id": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 180]",
 			"title": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 180]",
 			"url": "https://olympusbiblioteca.com/series/comic-llevo-mil-anos-atrapado-en-el-mismo-dia"
-		},
-		{
-			"id": "Cazador Carnívoro [Capítulo 116]",
-			"title": "Cazador Carnívoro [Capítulo 116]",
-			"url": "https://olympusbiblioteca.com/series/comic-cazador-carnivoro13424"
 		}
 	]
 }
