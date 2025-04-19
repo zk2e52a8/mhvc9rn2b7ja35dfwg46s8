@@ -3,6 +3,26 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Crié a Un Sirviente Obsesivo [Capítulo 109]",
+			"title": "Cómic Crié a Un Sirviente Obsesivo [Capítulo 109]",
+			"url": "https://visualikigai.igujud.net/series/crie-a-un-sirviente-obsesivo/"
+		},
+		{
+			"id": "Cómic Luz De Fondo [Capítulo 39]",
+			"title": "Cómic Luz De Fondo [Capítulo 39]",
+			"url": "https://visualikigai.igujud.net/series/luz-de-fondo/"
+		},
+		{
+			"id": "Cómic Doble vida [Capítulo 11]",
+			"title": "Cómic Doble vida [Capítulo 11]",
+			"url": "https://visualikigai.igujud.net/series/doble-vida/"
+		},
+		{
+			"id": "Cómic Adicción [Capítulo 38]",
+			"title": "Cómic Adicción [Capítulo 38]",
+			"url": "https://visualikigai.igujud.net/series/adiccion/"
+		},
+		{
 			"id": "Cómic La fea esposa del duque sombrío [Capítulo 38]",
 			"title": "Cómic La fea esposa del duque sombrío [Capítulo 38]",
 			"url": "https://visualikigai.igujud.net/series/la-fea-esposa-del-duque-sombrio/"
@@ -56,26 +76,6 @@
 			"id": "Cómic Sombra de luna (guideverse) [Capítulo 43]",
 			"title": "Cómic Sombra de luna (guideverse) [Capítulo 43]",
 			"url": "https://visualikigai.igujud.net/series/sombra-de-luna-guideverse/"
-		},
-		{
-			"id": "Cómic como el guía escapa del maniaco obsesivo [Capítulo 4]",
-			"title": "Cómic como el guía escapa del maniaco obsesivo [Capítulo 4]",
-			"url": "https://visualikigai.igujud.net/series/como-el-guia-escapa-del-maniaco-obsesivo/"
-		},
-		{
-			"id": "Cómic Cuna del todopoderoso [Capítulo 17]",
-			"title": "Cómic Cuna del todopoderoso [Capítulo 17]",
-			"url": "https://visualikigai.igujud.net/series/cuna-del-todopoderoso/"
-		},
-		{
-			"id": "Cómic oleo sobre lienzo [Capítulo 21]",
-			"title": "Cómic oleo sobre lienzo [Capítulo 21]",
-			"url": "https://visualikigai.igujud.net/series/oleo-sobre-lienzo/"
-		},
-		{
-			"id": "Cómic Un cuento de un villano (boys love) [Capítulo 12]",
-			"title": "Cómic Un cuento de un villano (boys love) [Capítulo 12]",
-			"url": "https://visualikigai.igujud.net/series/un-cuento-de-un-villano-boys-love/"
 		}
 	]
 }
