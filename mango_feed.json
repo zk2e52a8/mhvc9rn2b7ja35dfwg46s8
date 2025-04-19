@@ -3,6 +3,11 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic ¡Salte de mi cuerpo! [Capítulo 3: Orckuro Translation]",
+			"title": "Cómic ¡Salte de mi cuerpo! [Capítulo 3: Orckuro Translation]",
+			"url": "https://visualikigai.igujud.net/series/salte-de-mi-cuerpo/"
+		},
+		{
 			"id": "Cómic Mi respuesta [Capítulo 24: Orckuro Translations]",
 			"title": "Cómic Mi respuesta [Capítulo 24: Orckuro Translations]",
 			"url": "https://visualikigai.igujud.net/series/mi-respuesta/"
@@ -73,9 +78,9 @@
 			"url": "https://visualikigai.igujud.net/series/la-fea-esposa-del-duque-sombrio/"
 		},
 		{
-			"id": "Cómic Detrás de la alegre sonrisa de la Princesa [Capítulo 17]",
-			"title": "Cómic Detrás de la alegre sonrisa de la Princesa [Capítulo 17]",
-			"url": "https://visualikigai.igujud.net/series/detras-de-la-alegre-sonrisa-de-la-princesa/"
+			"id": "Cómic El Retorno Del Ranker (Remake) [Capítulo 183]",
+			"title": "Cómic El Retorno Del Ranker (Remake) [Capítulo 183]",
+			"url": "https://visualikigai.igujud.net/series/el-retorno-del-ranker-remake/"
 		}
 	]
 }
