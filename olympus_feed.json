@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Blinker genio de la academia mágica [Capítulo 53]",
+			"title": "El Blinker genio de la academia mágica [Capítulo 53]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-blinker-genio-de-la-academia-magica"
+		},
+		{
 			"id": "El soberano del hogar [Capítulo 26.5]",
 			"title": "El soberano del hogar [Capítulo 26.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-253-2025"
@@ -146,11 +151,6 @@
 			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 126]",
 			"title": "Crónicas del Retorno del Dios Marcial [Capítulo 126]",
 			"url": "https://olympusbiblioteca.com/series/comic-cronicas-del-retorno-del-dios-marcial13424"
-		},
-		{
-			"id": "La leyenda del dios demonio reencarnado [Capítulo 40]",
-			"title": "La leyenda del dios demonio reencarnado [Capítulo 40]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-leyenda-del-dios-demonio-reencarnado"
 		}
 	]
 }

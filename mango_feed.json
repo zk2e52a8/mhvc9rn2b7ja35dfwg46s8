@@ -3,6 +3,26 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Domaré a tu mamá primero [Capítulo 99]",
+			"title": "Cómic Domaré a tu mamá primero [Capítulo 99]",
+			"url": "https://visualikigai.igujud.net/series/domare-a-tu-mama-primero/"
+		},
+		{
+			"id": "Cómic Yo Era La Verdadera Dueña De Elheim [Capítulo 51]",
+			"title": "Cómic Yo Era La Verdadera Dueña De Elheim [Capítulo 51]",
+			"url": "https://visualikigai.igujud.net/series/yo-era-la-verdadera-duena-de-elheim/"
+		},
+		{
+			"id": "Cómic Me Convertí En La Cuñada Más Joven De Los Protagonistas Masculinos Del Arruinado Harén Inverso [Capítulo 35]",
+			"title": "Cómic Me Convertí En La Cuñada Más Joven De Los Protagonistas Masculinos Del Arruinado Harén Inverso [Capítulo 35]",
+			"url": "https://visualikigai.igujud.net/series/me-converti-en-la-cunada-mas-joven-de-los-protagonistas-masculinos-del-arruinado-haren-inverso/"
+		},
+		{
+			"id": "Cómic La tienda del placer [Capítulo 123]",
+			"title": "Cómic La tienda del placer [Capítulo 123]",
+			"url": "https://visualikigai.igujud.net/series/la-tienda-del-placer/"
+		},
+		{
 			"id": "Cómic Amigo Secreto [Capítulo 35: Orckuro Translation]",
 			"title": "Cómic Amigo Secreto [Capítulo 35: Orckuro Translation]",
 			"url": "https://visualikigai.igujud.net/series/amigo-secreto-universitario/"
@@ -58,29 +78,39 @@
 			"url": "https://visualikigai.igujud.net/series/mi-respuesta/"
 		},
 		{
-			"id": "Cómic Que comience el juego [Capítulo 3: Orckuro Translations]",
-			"title": "Cómic Que comience el juego [Capítulo 3: Orckuro Translations]",
-			"url": "https://visualikigai.igujud.net/series/que-comience-el-juego/"
+			"id": "Cómic La encrucijada de la reencarnación [Capítulo 2]",
+			"title": "Cómic La encrucijada de la reencarnación [Capítulo 2]",
+			"url": "https://visualikigai.igujud.net/series/la-encrucijada-de-la-reencarnacion/"
 		},
 		{
-			"id": "Cómic DentArt [BL] [Capítulo 32]",
-			"title": "Cómic DentArt [BL] [Capítulo 32]",
-			"url": "https://visualikigai.igujud.net/series/dentart-bl/"
+			"id": "Cómic Despues de comer [Capítulo 11]",
+			"title": "Cómic Despues de comer [Capítulo 11]",
+			"url": "https://visualikigai.igujud.net/series/despues-de-comer/"
 		},
 		{
-			"id": "Cómic Me Convertí en la Señora de la Casa [Capítulo 85]",
-			"title": "Cómic Me Convertí en la Señora de la Casa [Capítulo 85]",
-			"url": "https://visualikigai.igujud.net/series/me-converti-en-la-senora-de-la-casa/"
+			"id": "Cómic Jugando con el zorro [Capítulo 29]",
+			"title": "Cómic Jugando con el zorro [Capítulo 29]",
+			"url": "https://visualikigai.igujud.net/series/jugando-con-el-zorro/"
 		},
 		{
-			"id": "Cómic Todo fluye [Capítulo 1]",
-			"title": "Cómic Todo fluye [Capítulo 1]",
-			"url": "https://visualikigai.igujud.net/series/todo-fluye/"
+			"id": "Cómic Jugando con el zorro [Capítulo 31]",
+			"title": "Cómic Jugando con el zorro [Capítulo 31]",
+			"url": "https://visualikigai.igujud.net/series/jugando-con-el-zorro/"
 		},
 		{
-			"id": "Cómic La tienda del placer [Capítulo 123]",
-			"title": "Cómic La tienda del placer [Capítulo 123]",
-			"url": "https://visualikigai.igujud.net/series/la-tienda-del-placer/"
+			"id": "Cómic Las Flores Son Cebo [Capítulo 23]",
+			"title": "Cómic Las Flores Son Cebo [Capítulo 23]",
+			"url": "https://visualikigai.igujud.net/series/las-flores-son-cebo/"
+		},
+		{
+			"id": "Cómic Luna Nueva [Capítulo 1]",
+			"title": "Cómic Luna Nueva [Capítulo 1]",
+			"url": "https://visualikigai.igujud.net/series/luna-nueva/"
+		},
+		{
+			"id": "Cómic El chico de las perlas: Explicación [Capítulo 1]",
+			"title": "Cómic El chico de las perlas: Explicación [Capítulo 1]",
+			"url": "https://visualikigai.igujud.net/series/el-chico-de-las-perlas-explicacion/"
 		}
 	]
 }
