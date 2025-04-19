@@ -3,6 +3,16 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "*Instructor Estelar Maestro Baek [Capítulo 121]",
+			"title": "*Instructor Estelar Maestro Baek [Capítulo 121]",
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-m02507-19-baek"
+		},
+		{
+			"id": "Al Comienzo del Período Primordial, Tomé a Minghe como mi Hija Adoptiva [Capítulo 32]",
+			"title": "Al Comienzo del Período Primordial, Tomé a Minghe como mi Hija Adoptiva [Capítulo 32]",
+			"url": "https://olympusbiblioteca.com/series/comic-al-comienzo-del-periodo-primordial-tome-a-minghe-como-mi-hija-adoptiva"
+		},
+		{
 			"id": "Cuando Enfrento a los Fuertes, me Vuelvo Aún más Fuerte [Capítulo 37]",
 			"title": "Cuando Enfrento a los Fuertes, me Vuelvo Aún más Fuerte [Capítulo 37]",
 			"url": "https://olympusbiblioteca.com/series/comic-cuando-enfrento-a-los-fuertes-me-vuelvo-aun-mas-fuerte"
@@ -113,11 +123,6 @@
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos"
 		},
 		{
-			"id": "Al Comienzo del Período Primordial, Tomé a Minghe como mi Hija Adoptiva [Capítulo 31]",
-			"title": "Al Comienzo del Período Primordial, Tomé a Minghe como mi Hija Adoptiva [Capítulo 31]",
-			"url": "https://olympusbiblioteca.com/series/comic-al-comienzo-del-periodo-primordial-tome-a-minghe-como-mi-hija-adoptiva"
-		},
-		{
 			"id": "Mi Evolución a Partir de un Árbol Gigante [Capítulo 360]",
 			"title": "Mi Evolución a Partir de un Árbol Gigante [Capítulo 360]",
 			"url": "https://olympusbiblioteca.com/series/comic-arbol-mamadisimo77213124"
@@ -146,11 +151,6 @@
 			"id": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 126]",
 			"title": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 126]",
 			"url": "https://olympusbiblioteca.com/series/comic-maestra-este-discipulo-villano-no-puede-ser-el-hijo-sagrado5324"
-		},
-		{
-			"id": "Creador de Leyendas Urbanas [Capítulo 25]",
-			"title": "Creador de Leyendas Urbanas [Capítulo 25]",
-			"url": "https://olympusbiblioteca.com/series/comic-creador-de-leyendas-urbanas"
 		}
 	]
 }
