@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cuando Enfrento a los Fuertes, me Vuelvo Aún más Fuerte [Capítulo 37]",
+			"title": "Cuando Enfrento a los Fuertes, me Vuelvo Aún más Fuerte [Capítulo 37]",
+			"url": "https://olympusbiblioteca.com/series/comic-cuando-enfrento-a-los-fuertes-me-vuelvo-aun-mas-fuerte"
+		},
+		{
 			"id": "El chico problemático de la torre mágica [Capítulo 9]",
 			"title": "El chico problemático de la torre mágica [Capítulo 9]",
 			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-o-de-la-torre-magica"
@@ -146,11 +151,6 @@
 			"id": "Creador de Leyendas Urbanas [Capítulo 25]",
 			"title": "Creador de Leyendas Urbanas [Capítulo 25]",
 			"url": "https://olympusbiblioteca.com/series/comic-creador-de-leyendas-urbanas"
-		},
-		{
-			"id": "Conviértete en un Dios - Mito de Cthulhu [Capítulo 75]",
-			"title": "Conviértete en un Dios - Mito de Cthulhu [Capítulo 75]",
-			"url": "https://olympusbiblioteca.com/series/comic-conviertete-en-un-dios-mito-de-cthulhu"
 		}
 	]
 }

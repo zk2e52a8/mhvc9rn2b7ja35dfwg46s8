@@ -3,6 +3,11 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Cómo sobrevivir como un jugador [Capítulo 66]",
+			"title": "Cómic Cómo sobrevivir como un jugador [Capítulo 66]",
+			"url": "https://visualikigai.igujud.net/series/como-sobrevivir-como-un-jugador/"
+		},
+		{
 			"id": "Cómic Mi Esposo Es Débil De Día, Fuerte De Noche [Capítulo 48]",
 			"title": "Cómic Mi Esposo Es Débil De Día, Fuerte De Noche [Capítulo 48]",
 			"url": "https://visualikigai.igujud.net/series/mi-esposo-es-debil-de-dia-fuerte-de-noche/"
@@ -71,16 +76,6 @@
 			"id": "Cómic Contrato de Sometimiento [Capítulo 7]",
 			"title": "Cómic Contrato de Sometimiento [Capítulo 7]",
 			"url": "https://visualikigai.igujud.net/series/contrato-de-sometimiento/"
-		},
-		{
-			"id": "Cómic Caí En Los Brazos De Un Villano Loco [Capítulo 68]",
-			"title": "Cómic Caí En Los Brazos De Un Villano Loco [Capítulo 68]",
-			"url": "https://visualikigai.igujud.net/series/cai-en-los-brazos-de-un-villano-loco/"
-		},
-		{
-			"id": "Cómic Cómo sobrevivir como un jugador [Capítulo 66]",
-			"title": "Cómic Cómo sobrevivir como un jugador [Capítulo 66]",
-			"url": "https://visualikigai.igujud.net/series/como-sobrevivir-como-un-jugador/"
 		}
 	]
 }
