@@ -3,6 +3,16 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Mi respuesta [Capítulo 24: Orckuro Translations]",
+			"title": "Cómic Mi respuesta [Capítulo 24: Orckuro Translations]",
+			"url": "https://visualikigai.igujud.net/series/mi-respuesta/"
+		},
+		{
+			"id": "Cómic Que comience el juego [Capítulo 3: Orckuro Translations]",
+			"title": "Cómic Que comience el juego [Capítulo 3: Orckuro Translations]",
+			"url": "https://visualikigai.igujud.net/series/que-comience-el-juego/"
+		},
+		{
 			"id": "Cómic DentArt [BL] [Capítulo 32]",
 			"title": "Cómic DentArt [BL] [Capítulo 32]",
 			"url": "https://visualikigai.igujud.net/series/dentart-bl/"
@@ -66,16 +76,6 @@
 			"id": "Cómic Detrás de la alegre sonrisa de la Princesa [Capítulo 17]",
 			"title": "Cómic Detrás de la alegre sonrisa de la Princesa [Capítulo 17]",
 			"url": "https://visualikigai.igujud.net/series/detras-de-la-alegre-sonrisa-de-la-princesa/"
-		},
-		{
-			"id": "Cómic Sobreviviendo Como Una Sirvienta En Un Juego De Terror [Capítulo 66]",
-			"title": "Cómic Sobreviviendo Como Una Sirvienta En Un Juego De Terror [Capítulo 66]",
-			"url": "https://visualikigai.igujud.net/series/sobreviviendo-como-una-sirvienta-en-un-juego-de-terror/"
-		},
-		{
-			"id": "Cómic Me Converti En La Madre Del Hijo Del Segundo Protagonista Masculino [Capítulo 23]",
-			"title": "Cómic Me Converti En La Madre Del Hijo Del Segundo Protagonista Masculino [Capítulo 23]",
-			"url": "https://visualikigai.igujud.net/series/me-converti-en-la-madre-del-hijo-del-segundo-protagonista-masculino/"
 		}
 	]
 }
