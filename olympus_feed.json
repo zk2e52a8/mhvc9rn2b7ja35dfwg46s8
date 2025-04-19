@@ -3,6 +3,21 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "*Me convertí en el sucesor del dios marcial [Capítulo 22]",
+			"title": "*Me convertí en el sucesor del dios marcial [Capítulo 22]",
+			"url": "https://olympusbiblioteca.com/series/comic-me-converti-en-el-sucesor-del-dios-marcial"
+		},
+		{
+			"id": "El heroe de nivel legendario prodigio de la academia. [Capítulo 36]",
+			"title": "El heroe de nivel legendario prodigio de la academia. [Capítulo 36]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-de-nivel-legendario-prodigio-de-la-academia"
+		},
+		{
+			"id": "*El villano de mirada cortante de la Academia Demoniaca [Capítulo 21]",
+			"title": "*El villano de mirada cortante de la Academia Demoniaca [Capítulo 21]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-villano-de-mirada-cortante-de-la-academia-demoniaca"
+		},
+		{
 			"id": "Heroe, regresa [Capítulo 122]",
 			"title": "Heroe, regresa [Capítulo 122]",
 			"url": "https://olympusbiblioteca.com/series/comic-dragon-y-heroe13424"
@@ -78,6 +93,11 @@
 			"url": "https://olympusbiblioteca.com/series/comic-llevo-mil-anos-atrapado-en-el-mismo-dia"
 		},
 		{
+			"id": "Cazador Carnívoro [Capítulo 116]",
+			"title": "Cazador Carnívoro [Capítulo 116]",
+			"url": "https://olympusbiblioteca.com/series/comic-cazador-carnivoro13424"
+		},
+		{
 			"id": "El Devoto Caballero [Capítulo 108]",
 			"title": "El Devoto Caballero [Capítulo 108]",
 			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-55mm208-4-2542629-03"
@@ -131,26 +151,6 @@
 			"id": "Maestro De Bestias Legendarias [Capítulo 27]",
 			"title": "Maestro De Bestias Legendarias [Capítulo 27]",
 			"url": "https://olympusbiblioteca.com/series/comic-maestro-de-bestias-legendarias"
-		},
-		{
-			"id": "La voluntad de supervivencia del villano [Capítulo 31]",
-			"title": "La voluntad de supervivencia del villano [Capítulo 31]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-voluntad-de-supervivencia-del-villano"
-		},
-		{
-			"id": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el barbaro) [Capítulo 102]",
-			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el barbaro) [Capítulo 102]",
-			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-md-m203-251417"
-		},
-		{
-			"id": "El bastardo devorador de armas. [Capítulo 26]",
-			"title": "El bastardo devorador de armas. [Capítulo 26]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-bastardo-devorador-de-armas"
-		},
-		{
-			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 126]",
-			"title": "Crónicas del Retorno del Dios Marcial [Capítulo 126]",
-			"url": "https://olympusbiblioteca.com/series/comic-cronicas-del-retorno-del-dios-marcial13424"
 		}
 	]
 }

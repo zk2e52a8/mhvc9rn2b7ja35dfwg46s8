@@ -3,6 +3,31 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Caí En Los Brazos De Un Villano Loco [Capítulo 68]",
+			"title": "Cómic Caí En Los Brazos De Un Villano Loco [Capítulo 68]",
+			"url": "https://visualikigai.igujud.net/series/cai-en-los-brazos-de-un-villano-loco/"
+		},
+		{
+			"id": "Cómic Todos Se Obsesionaron Conmigo Después De Convertirme En La Favorita De La Joven Princesa [Capítulo 25]",
+			"title": "Cómic Todos Se Obsesionaron Conmigo Después De Convertirme En La Favorita De La Joven Princesa [Capítulo 25]",
+			"url": "https://visualikigai.igujud.net/series/todos-se-obsesionaron-conmigo-despues-de-convertirme-en-la-favorita-de-la-joven-princesa/"
+		},
+		{
+			"id": "Cómic La Hada Bebé Es Un Villana [Capítulo 24]",
+			"title": "Cómic La Hada Bebé Es Un Villana [Capítulo 24]",
+			"url": "https://visualikigai.igujud.net/series/la-hada-bebe-es-un-villana/"
+		},
+		{
+			"id": "Cómic Una funcionaria de bajo rango quiere ascender [Capítulo 1]",
+			"title": "Cómic Una funcionaria de bajo rango quiere ascender [Capítulo 1]",
+			"url": "https://visualikigai.igujud.net/series/una-funcionaria-de-bajo-rango-quiere-ascender/"
+		},
+		{
+			"id": "Cómic El rey del juego en solitario [Capítulo 1]",
+			"title": "Cómic El rey del juego en solitario [Capítulo 1]",
+			"url": "https://visualikigai.igujud.net/series/el-rey-del-juego-en-solitario/"
+		},
+		{
 			"id": "Cómic Contrato de Sometimiento [Capítulo 6]",
 			"title": "Cómic Contrato de Sometimiento [Capítulo 6]",
 			"url": "https://visualikigai.igujud.net/series/contrato-de-sometimiento/"
@@ -51,56 +76,6 @@
 			"id": "Cómic Me Convertí En La Cuñada Más Joven De Los Protagonistas Masculinos Del Arruinado Harén Inverso [Capítulo 35]",
 			"title": "Cómic Me Convertí En La Cuñada Más Joven De Los Protagonistas Masculinos Del Arruinado Harén Inverso [Capítulo 35]",
 			"url": "https://visualikigai.igujud.net/series/me-converti-en-la-cunada-mas-joven-de-los-protagonistas-masculinos-del-arruinado-haren-inverso/"
-		},
-		{
-			"id": "Cómic La tienda del placer [Capítulo 123]",
-			"title": "Cómic La tienda del placer [Capítulo 123]",
-			"url": "https://visualikigai.igujud.net/series/la-tienda-del-placer/"
-		},
-		{
-			"id": "Cómic Amigo Secreto [Capítulo 35: Orckuro Translation]",
-			"title": "Cómic Amigo Secreto [Capítulo 35: Orckuro Translation]",
-			"url": "https://visualikigai.igujud.net/series/amigo-secreto-universitario/"
-		},
-		{
-			"id": "Cómic Soy la doctora del emperador moribundo [Capítulo 18]",
-			"title": "Cómic Soy la doctora del emperador moribundo [Capítulo 18]",
-			"url": "https://visualikigai.igujud.net/series/soy-la-doctora-del-emperador-moribundo/"
-		},
-		{
-			"id": "Cómic Amo del tiempo [Capítulo 140]",
-			"title": "Cómic Amo del tiempo [Capítulo 140]",
-			"url": "https://visualikigai.igujud.net/series/amo-del-tiempo/"
-		},
-		{
-			"id": "Cómic Academia religiosa [Capítulo 111]",
-			"title": "Cómic Academia religiosa [Capítulo 111]",
-			"url": "https://visualikigai.igujud.net/series/academia-religiosa/"
-		},
-		{
-			"id": "Cómic El rey del juego en solitario [Capítulo 1]",
-			"title": "Cómic El rey del juego en solitario [Capítulo 1]",
-			"url": "https://visualikigai.igujud.net/series/el-rey-del-juego-en-solitario/"
-		},
-		{
-			"id": "Cómic Una funcionaria de bajo rango quiere ascender [Capítulo 1]",
-			"title": "Cómic Una funcionaria de bajo rango quiere ascender [Capítulo 1]",
-			"url": "https://visualikigai.igujud.net/series/una-funcionaria-de-bajo-rango-quiere-ascender/"
-		},
-		{
-			"id": "Cómic La Hada Bebé Es Un Villana [Capítulo 24]",
-			"title": "Cómic La Hada Bebé Es Un Villana [Capítulo 24]",
-			"url": "https://visualikigai.igujud.net/series/la-hada-bebe-es-un-villana/"
-		},
-		{
-			"id": "Cómic Todos Se Obsesionaron Conmigo Después De Convertirme En La Favorita De La Joven Princesa [Capítulo 25]",
-			"title": "Cómic Todos Se Obsesionaron Conmigo Después De Convertirme En La Favorita De La Joven Princesa [Capítulo 25]",
-			"url": "https://visualikigai.igujud.net/series/todos-se-obsesionaron-conmigo-despues-de-convertirme-en-la-favorita-de-la-joven-princesa/"
-		},
-		{
-			"id": "Cómic Caí En Los Brazos De Un Villano Loco [Capítulo 68]",
-			"title": "Cómic Caí En Los Brazos De Un Villano Loco [Capítulo 68]",
-			"url": "https://visualikigai.igujud.net/series/cai-en-los-brazos-de-un-villano-loco/"
 		}
 	]
 }
