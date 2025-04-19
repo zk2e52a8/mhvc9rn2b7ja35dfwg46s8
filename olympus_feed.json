@@ -3,6 +3,16 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Emperador del Juego en Solitario [Capítulo 7]",
+			"title": "Emperador del Juego en Solitario [Capítulo 7]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-del-juego-en-solitario"
+		},
+		{
+			"id": "Parca de Medio Tiempo [Capítulo 5]",
+			"title": "Parca de Medio Tiempo [Capítulo 5]",
+			"url": "https://olympusbiblioteca.com/series/comic-parca-de-medio-tiempo"
+		},
+		{
 			"id": "El hombre mas fuerte del manicomio [Capítulo 320]",
 			"title": "El hombre mas fuerte del manicomio [Capítulo 320]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-hombre-mas-fuerte-del-manicomio13424"
@@ -141,16 +151,6 @@
 			"id": "Cazador Carnívoro [Capítulo 116]",
 			"title": "Cazador Carnívoro [Capítulo 116]",
 			"url": "https://olympusbiblioteca.com/series/comic-cazador-carnivoro13424"
-		},
-		{
-			"id": "El Devoto Caballero [Capítulo 108]",
-			"title": "El Devoto Caballero [Capítulo 108]",
-			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-55mm208-4-2542629-03"
-		},
-		{
-			"id": "Regresión inútil [Capítulo 81]",
-			"title": "Regresión inútil [Capítulo 81]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresion-inutil"
 		}
 	]
 }

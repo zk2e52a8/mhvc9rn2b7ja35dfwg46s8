@@ -3,6 +3,21 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Nuestro encuentro en el ultimo tren. [Capítulo 24]",
+			"title": "Cómic Nuestro encuentro en el ultimo tren. [Capítulo 24]",
+			"url": "https://visualikigai.igujud.net/series/nuestro-encuentro-en-el-ultimo-tren/"
+		},
+		{
+			"id": "Cómic Nuevos comienzos en el vecindario [Capítulo 24]",
+			"title": "Cómic Nuevos comienzos en el vecindario [Capítulo 24]",
+			"url": "https://visualikigai.igujud.net/series/nuevos-comienzos-en-el-vecindario/"
+		},
+		{
+			"id": "Cómic Yo soy la Villana [Capítulo 74]",
+			"title": "Cómic Yo soy la Villana [Capítulo 74]",
+			"url": "https://visualikigai.igujud.net/series/yo-soy-la-villana/"
+		},
+		{
 			"id": "Cómic Romance no romantico [Capítulo 47: Extra 09]",
 			"title": "Cómic Romance no romantico [Capítulo 47: Extra 09]",
 			"url": "https://visualikigai.igujud.net/series/romance-no-romantico/"
@@ -63,24 +78,9 @@
 			"url": "https://visualikigai.igujud.net/series/arte-manz/"
 		},
 		{
-			"id": "Cómic La esposa del jefe [Capítulo 52]",
-			"title": "Cómic La esposa del jefe [Capítulo 52]",
-			"url": "https://visualikigai.igujud.net/series/la-esposa-del-jefe/"
-		},
-		{
-			"id": "Cómic El Tiempo Limite Esta Corriendo En La Ventana De Estado [Capítulo 53]",
-			"title": "Cómic El Tiempo Limite Esta Corriendo En La Ventana De Estado [Capítulo 53]",
-			"url": "https://visualikigai.igujud.net/series/el-tiempo-limite-esta-corriendo-en-la-ventana-de-estado/"
-		},
-		{
-			"id": "Cómic Encontré Una Familia Que No Estaba En Mi Plan De Adopción [Capítulo 31]",
-			"title": "Cómic Encontré Una Familia Que No Estaba En Mi Plan De Adopción [Capítulo 31]",
-			"url": "https://visualikigai.igujud.net/series/encontre-una-familia-que-no-estaba-en-mi-plan-de-adopcion/"
-		},
-		{
-			"id": "Cómic Yo soy la Villana [Capítulo 74]",
-			"title": "Cómic Yo soy la Villana [Capítulo 74]",
-			"url": "https://visualikigai.igujud.net/series/yo-soy-la-villana/"
+			"id": "Cómic La Concubina [Capítulo 7]",
+			"title": "Cómic La Concubina [Capítulo 7]",
+			"url": "https://visualikigai.igujud.net/series/la-concubina/"
 		}
 	]
 }
