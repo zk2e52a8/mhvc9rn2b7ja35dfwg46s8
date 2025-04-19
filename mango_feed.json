@@ -3,6 +3,16 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Pequeñ0 Hong0 [Capítulo 58]",
+			"title": "Cómic Pequeñ0 Hong0 [Capítulo 58]",
+			"url": "https://visualikigai.igujud.net/series/pequen0-hong0/"
+		},
+		{
+			"id": "Cómic Redención [Capítulo 14]",
+			"title": "Cómic Redención [Capítulo 14]",
+			"url": "https://visualikigai.igujud.net/series/redencion/"
+		},
+		{
 			"id": "Cómic El Retorno Del Ranker (Remake) [Capítulo 183]",
 			"title": "Cómic El Retorno Del Ranker (Remake) [Capítulo 183]",
 			"url": "https://visualikigai.igujud.net/series/el-retorno-del-ranker-remake/"
@@ -66,16 +76,6 @@
 			"id": "Cómic Luz De Fondo [Capítulo 39]",
 			"title": "Cómic Luz De Fondo [Capítulo 39]",
 			"url": "https://visualikigai.igujud.net/series/luz-de-fondo/"
-		},
-		{
-			"id": "Cómic Doble vida [Capítulo 11]",
-			"title": "Cómic Doble vida [Capítulo 11]",
-			"url": "https://visualikigai.igujud.net/series/doble-vida/"
-		},
-		{
-			"id": "Cómic Adicción [Capítulo 38]",
-			"title": "Cómic Adicción [Capítulo 38]",
-			"url": "https://visualikigai.igujud.net/series/adiccion/"
 		}
 	]
 }
