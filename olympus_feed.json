@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Tu talento ahora es mio! [Capítulo 101]",
+			"title": "Tu talento ahora es mio! [Capítulo 101]",
+			"url": "https://olympusbiblioteca.com/series/comic-tu-talento-ahora-es-mio13424"
+		},
+		{
 			"id": "Restaurante del mago [Capítulo 78]",
 			"title": "Restaurante del mago [Capítulo 78]",
 			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-2087-1-24-mago"
@@ -146,11 +151,6 @@
 			"id": "Palo De Madera [Capítulo 124.2]",
 			"title": "Palo De Madera [Capítulo 124.2]",
 			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-m505-4-9-eto14"
-		},
-		{
-			"id": "El Novato es Muy Fuerte [Capítulo 131]",
-			"title": "El Novato es Muy Fuerte [Capítulo 131]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-novato-es-muy-fuerte13424142124"
 		}
 	]
 }
