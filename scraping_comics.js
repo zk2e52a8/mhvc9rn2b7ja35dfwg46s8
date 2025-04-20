@@ -31,6 +31,7 @@ const crear_config_inicial = () => {
 		"titulo_feed": "Nuevos capítulos", // Título en el JSON Feed
 		"ruta_feed": "feed.json", // Ruta donde se guardará el JSON Feed
 		"min_paginas": "2", // Mínimo de páginas a procesar
+		"max_paginas": "50", // Máximo de páginas a procesar
 		"timestamp_actualizacion": timestamp_actualizacion // Última actualización (epoch en milisegundos)
 	};
 
@@ -92,6 +93,7 @@ const leer_y_validar_config = () => {
 			"patron_capitulo",
 			"titulo_feed",
 			"min_paginas",
+			"max_paginas",
 			"timestamp_actualizacion"
 		];
 		for (const clave of claves_necesarias) {
@@ -172,7 +174,7 @@ const redirigir_dominio = async (pagina, config, navegador) => {
 
 const procesar_paginas = async (pagina, config, dominio_funcional, navegador, ruta_config) => {
 	let pagina_actual = 1;
-	const max_paginas = parseInt(config.max_paginas || 100, 10); // Valor predeterminado de 100 si no está definido
+	const min_paginas = parseInt(config.min_paginas, 10);
 
 	// Construir la URL inicial para scraping
 	let url_scraping = `${dominio_funcional.replace(/\/$/, '')}/${config.ruta_scraping.replace(/^\//, '')}${config.url_paginacion}${pagina_actual}`;
