@@ -1,4 +1,4 @@
-// TODO lógica en max_paginas es defectuosa
+// TODO la lógica en max_paginas es defectuosa
 
 const fs = require('fs');
 const path = require('path');
@@ -365,7 +365,18 @@ const procesar_paginas = async (pagina, config, dominio_funcional, navegador, ru
 // JSON Feed
 // ##########
 
-const generar_feed_final = (feed_base, config, feed_existente = { items: [] }) => {
+const generar_feed_final = (feed_base, config, ruta_feed) => {
+	// Leer feed existente si existe
+	let feed_existente = { items: [] };
+	try {
+		if (fs.existsSync(ruta_feed)) {
+			const datos = fs.readFileSync(ruta_feed, 'utf8');
+			feed_existente = JSON.parse(datos);
+		}
+	} catch (error) {
+		console.log(`Creando nuevo feed en ${ruta_feed}`);
+	}
+
 	const feed_final = {
 		version: "https://jsonfeed.org/version/1.1",
 		title: config.titulo_feed,
@@ -446,7 +457,7 @@ const ejecutar_script = async () => {
 	const feed_base = await procesar_paginas(pagina, config, dominio_funcional, navegador, ruta_config);
 
 	// Generar el JSON Feed final en el formato deseado
-	const feed_final = generar_feed_final(feed_base, config);
+	const feed_final = generar_feed_final(feed_base, config, config.ruta_feed);
 
 	// Escribir el feed y config en el disco
 	fs.writeFileSync(config.ruta_feed, JSON.stringify(feed_final, null, "\t"));
