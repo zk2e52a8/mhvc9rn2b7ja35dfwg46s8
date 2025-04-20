@@ -119,23 +119,26 @@ const leer_y_validar_config = () => {
 // Se redirige a la web funcional si 'dominio_principal' está vacío y se usa 'dominio_redireccion'
 const redirigir_dominio = async (pagina, config, navegador) => {
 	console.log('Accediendo a dominio_redireccion:', config.dominio_redireccion);
-	// Ir a la URL de redirección y esperar que la red esté inactiva
-	await pagina.goto(config.dominio_redireccion, { waitUntil: 'networkidle2' });
+	// Ir a la URL de redirección y esperar a que no haya peticiones en curso
+	await pagina.goto(config.dominio_redireccion, {
+		waitUntil: 'networkidle0',
+		timeout: 30000
+	});
 
 	console.log('Esperando a que aparezca el botón de redirección...');
-	await pagina.waitForSelector(config.patron_boton_nuevo_dominio, { timeout: 10000 });
+	await pagina.waitForSelector(config.patron_boton_nuevo_dominio, {
+		timeout: 20000
+	});
 
 	console.log('Botón encontrado. Preparando clic y detección de redirección...');
-	// Promesa de navegación en la misma pestaña
 	const promesa_navegacion = pagina.waitForNavigation({
 		waitUntil: 'networkidle0',
-		timeout:    10000
+		timeout: 30000
 	}).catch(() => null);
 
-    // Promesa que espera a que se abra una nueva pestaña iniciada desde la pestaña actual
 	const promesa_nueva_pestana = navegador.waitForTarget(
 		target => target.opener() === pagina.target(),
-		{ timeout: 10000 }
+		{ timeout: 30000 }
 	)
 	.then(target => target.page())
 	.catch(() => null);
@@ -418,9 +421,13 @@ const ejecutar_script = async () => {
 		pagina = await redirigir_dominio(pagina, config, navegador);
 	}
 
-	// Determinar el dominio funcional para el scraping
+	// Obtener URL actual y extraer sólo protocolo + dominio
 	const url_actual = pagina.url();
-	const dominio_funcional = config.dominio_principal || url_actual;
+	const dominio_limpio = (new URL(url_actual)).origin;
+	console.log('Dominio limpio tras redirección:', dominio_limpio);
+
+	// Determinar el dominio funcional para el scraping
+	const dominio_funcional = config.dominio_principal || dominio_limpio;
 	console.log('Dominio funcional para el scraping:', dominio_funcional);
 
 	// Ejecutar el scraping
