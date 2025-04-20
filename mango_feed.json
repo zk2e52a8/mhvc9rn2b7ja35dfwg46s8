@@ -3,6 +3,16 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Ella es linda sólo conmigo [Capítulo 17]",
+			"title": "Cómic Ella es linda sólo conmigo [Capítulo 17]",
+			"url": "https://visualikigai.igujud.net/series/ella-es-linda-solo-conmigo/"
+		},
+		{
+			"id": "Cómic La Guardiana Extra perdió el momento adecuado para irse [Capítulo 57]",
+			"title": "Cómic La Guardiana Extra perdió el momento adecuado para irse [Capítulo 57]",
+			"url": "https://visualikigai.igujud.net/series/la-guardiana-extra-perdio-el-momento-adecuado-para-irse/"
+		},
+		{
 			"id": "Cómic Estrella de las Olas [Capítulo 16]",
 			"title": "Cómic Estrella de las Olas [Capítulo 16]",
 			"url": "https://visualikigai.igujud.net/series/estrella-de-las-olas/"
@@ -68,19 +78,29 @@
 			"url": "https://visualikigai.igujud.net/series/la-linea-que-nos-separa/"
 		},
 		{
-			"id": "Cómic El Chico De Las Perlas [Capítulo 113.5: Aviso De Serie]",
-			"title": "Cómic El Chico De Las Perlas [Capítulo 113.5: Aviso De Serie]",
-			"url": "https://visualikigai.igujud.net/series/el-chico-de-las-perlas/"
+			"id": "Cómic Reencarnación sorprendente [Capítulo 24]",
+			"title": "Cómic Reencarnación sorprendente [Capítulo 24]",
+			"url": "https://visualikigai.igujud.net/series/reencarnacion-sorprendente/"
 		},
 		{
-			"id": "Cómic El personaje secundario no contraataca [Capítulo 20]",
-			"title": "Cómic El personaje secundario no contraataca [Capítulo 20]",
-			"url": "https://visualikigai.igujud.net/series/el-personaje-secundario-no-contraataca/"
+			"id": "Cómic Más que hermanos [Capítulo 75]",
+			"title": "Cómic Más que hermanos [Capítulo 75]",
+			"url": "https://visualikigai.igujud.net/series/mas-que-hermanos/"
 		},
 		{
-			"id": "Cómic La Guardiana Extra perdió el momento adecuado para irse [Capítulo 57]",
-			"title": "Cómic La Guardiana Extra perdió el momento adecuado para irse [Capítulo 57]",
-			"url": "https://visualikigai.igujud.net/series/la-guardiana-extra-perdio-el-momento-adecuado-para-irse/"
+			"id": "Cómic El hijo secreto del Presidente [Capítulo 15]",
+			"title": "Cómic El hijo secreto del Presidente [Capítulo 15]",
+			"url": "https://visualikigai.igujud.net/series/el-hijo-secreto-del-presidente/"
+		},
+		{
+			"id": "Cómic Las cosas quiero hacer antes de morir [Capítulo 25]",
+			"title": "Cómic Las cosas quiero hacer antes de morir [Capítulo 25]",
+			"url": "https://visualikigai.igujud.net/series/las-cosas-quiero-hacer-antes-de-morir/"
+		},
+		{
+			"id": "Cómic Las cosas quiero hacer antes de morir [Capítulo 25.5]",
+			"title": "Cómic Las cosas quiero hacer antes de morir [Capítulo 25.5]",
+			"url": "https://visualikigai.igujud.net/series/las-cosas-quiero-hacer-antes-de-morir/"
 		}
 	]
 }
