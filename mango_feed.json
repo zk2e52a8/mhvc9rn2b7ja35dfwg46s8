@@ -3,6 +3,11 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Le Quité La Virginidad Al Tirano [Capítulo 78]",
+			"title": "Cómic Le Quité La Virginidad Al Tirano [Capítulo 78]",
+			"url": "https://visualikigai.igujud.net/series/le-quite-la-virginidad-al-tirano/"
+		},
+		{
 			"id": "Cómic La venganza del hijo ilegítimo de una familia mágica [Capítulo 22]",
 			"title": "Cómic La venganza del hijo ilegítimo de una familia mágica [Capítulo 22]",
 			"url": "https://visualikigai.igujud.net/series/la-venganza-del-hijo-ilegitimo-de-una-familia-magica/"
@@ -71,16 +76,6 @@
 			"id": "Cómic Deseo Irresistible [Capítulo 35]",
 			"title": "Cómic Deseo Irresistible [Capítulo 35]",
 			"url": "https://visualikigai.igujud.net/series/deseo-irresistible/"
-		},
-		{
-			"id": "Cómic Hasta que el crimen nos separe [Capítulo 11]",
-			"title": "Cómic Hasta que el crimen nos separe [Capítulo 11]",
-			"url": "https://visualikigai.igujud.net/series/hasta-que-el-crimen-nos-separe/"
-		},
-		{
-			"id": "Cómic Le Quité La Virginidad Al Tirano [Capítulo 78]",
-			"title": "Cómic Le Quité La Virginidad Al Tirano [Capítulo 78]",
-			"url": "https://visualikigai.igujud.net/series/le-quite-la-virginidad-al-tirano/"
 		}
 	]
 }
