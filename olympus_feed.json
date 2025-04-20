@@ -3,14 +3,44 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Héroe Regresa a la Academia [Capítulo 3]",
+			"title": "El Héroe Regresa a la Academia [Capítulo 3]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-regresa-a-la-academia"
+		},
+		{
+			"id": "Providencia De Primer Nivel: Cultiva En Silencio Durante Miles de Años [Capítulo 210]",
+			"title": "Providencia De Primer Nivel: Cultiva En Silencio Durante Miles de Años [Capítulo 210]",
+			"url": "https://olympusbiblioteca.com/series/comic-providencia-de-primer-nivel-cultiva-en-silencio-durante-miles-de-anos532490687"
+		},
+		{
+			"id": "Las constelaciones son mis discípulos [Capítulo 114]",
+			"title": "Las constelaciones son mis discípulos [Capítulo 114]",
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-0pulos29-03"
+		},
+		{
+			"id": "El Novato es Muy Fuerte [Capítulo 132]",
+			"title": "El Novato es Muy Fuerte [Capítulo 132]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-novato-es-muy-fuerte13424142124"
+		},
+		{
+			"id": "*El asesino que retornó como el hijo del duque [Capítulo 71]",
+			"title": "*El asesino que retornó como el hijo del duque [Capítulo 71]",
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-mm207-1-duque29-03"
+		},
+		{
+			"id": "La Regresión Inigualable del Caza Dragones [Capítulo 36]",
+			"title": "La Regresión Inigualable del Caza Dragones [Capítulo 36]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-regresion-inigualable-del-caza-dragones"
+		},
+		{
+			"id": "*El jugador que no puede subir de nivel [Capítulo 186]",
+			"title": "*El jugador que no puede subir de nivel [Capítulo 186]",
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-0-que-no-puede-subir-de-nivel"
+		},
+		{
 			"id": "Jugador que regresó 10.000 años después [Capítulo 111]",
 			"title": "Jugador que regresó 10.000 años después [Capítulo 111]",
 			"url": "https://olympusbiblioteca.com/series/comic-jugador-que-regreso-10000-anos-despues13424"
-		},
-		{
-			"id": "El Héroe Regresa a la Academia [Capítulo 1]",
-			"title": "El Héroe Regresa a la Academia [Capítulo 1]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-regresa-a-la-academia"
 		},
 		{
 			"id": "La venganza del sabueso de sangre de hierro [Capítulo 109]",
@@ -116,41 +146,6 @@
 			"id": "El chico problemático de la torre mágica [Capítulo 9]",
 			"title": "El chico problemático de la torre mágica [Capítulo 9]",
 			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-o-de-la-torre-magica"
-		},
-		{
-			"id": "cultivador del dao bizarro [Capítulo 32]",
-			"title": "cultivador del dao bizarro [Capítulo 32]",
-			"url": "https://olympusbiblioteca.com/series/comic-cultivador-del-dao-bizarro"
-		},
-		{
-			"id": "El maestro de la espada Genio de la academia [Capítulo 97]",
-			"title": "El maestro de la espada Genio de la academia [Capítulo 97]",
-			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-m-0145129-03"
-		},
-		{
-			"id": "Despues De Dejar De Actuar Como Un Perro, Me Convertí En Un Magnate Celestial Urbano [Capítulo 196]",
-			"title": "Despues De Dejar De Actuar Como Un Perro, Me Convertí En Un Magnate Celestial Urbano [Capítulo 196]",
-			"url": "https://olympusbiblioteca.com/series/comic-despues-de-dejar-de-actuar-como-un-perro-me-converti-en-un-magnate-celestial-urbano"
-		},
-		{
-			"id": "Mis Discípulos son Todos Grandes Villanos [Capítulo 320]",
-			"title": "Mis Discípulos son Todos Grandes Villanos [Capítulo 320]",
-			"url": "https://olympusbiblioteca.com/series/comic-mis-discipulos-son-todos-grandes-villanos5324"
-		},
-		{
-			"id": "El Asesino Yu Ijin [Capítulo 234]",
-			"title": "El Asesino Yu Ijin [Capítulo 234]",
-			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-5-22-0529-03"
-		},
-		{
-			"id": "*Me convertí en el sucesor del dios marcial [Capítulo 22]",
-			"title": "*Me convertí en el sucesor del dios marcial [Capítulo 22]",
-			"url": "https://olympusbiblioteca.com/series/comic-me-converti-en-el-sucesor-del-dios-marcial"
-		},
-		{
-			"id": "El heroe de nivel legendario prodigio de la academia. [Capítulo 36]",
-			"title": "El heroe de nivel legendario prodigio de la academia. [Capítulo 36]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-de-nivel-legendario-prodigio-de-la-academia"
 		}
 	]
 }
