@@ -3,6 +3,16 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic La venganza del hijo ilegítimo de una familia mágica [Capítulo 22]",
+			"title": "Cómic La venganza del hijo ilegítimo de una familia mágica [Capítulo 22]",
+			"url": "https://visualikigai.igujud.net/series/la-venganza-del-hijo-ilegitimo-de-una-familia-magica/"
+		},
+		{
+			"id": "Cómic Contrato de Sometimiento [Capítulo 7.5: 𝑫𝒊́𝒂 𝒅𝒆 𝒂𝒄𝒕𝒖𝒂𝒍𝒊𝒛𝒂𝒄𝒊𝒐́𝒏]",
+			"title": "Cómic Contrato de Sometimiento [Capítulo 7.5: 𝑫𝒊́𝒂 𝒅𝒆 𝒂𝒄𝒕𝒖𝒂𝒍𝒊𝒛𝒂𝒄𝒊𝒐́𝒏]",
+			"url": "https://visualikigai.igujud.net/series/contrato-de-sometimiento/"
+		},
+		{
 			"id": "Cómic Luna Nueva [Capítulo 7]",
 			"title": "Cómic Luna Nueva [Capítulo 7]",
 			"url": "https://visualikigai.igujud.net/series/luna-nueva/"
@@ -68,19 +78,9 @@
 			"url": "https://visualikigai.igujud.net/series/hasta-que-el-crimen-nos-separe/"
 		},
 		{
-			"id": "Cómic Posesión De La Muñeca De Algodón Del Maníaco Obsesivo [Capítulo 22]",
-			"title": "Cómic Posesión De La Muñeca De Algodón Del Maníaco Obsesivo [Capítulo 22]",
-			"url": "https://visualikigai.igujud.net/series/posesion-de-la-muneca-de-algodon-del-maniaco-obsesivo/"
-		},
-		{
-			"id": "Cómic La emperatriz asesina [Capítulo 2]",
-			"title": "Cómic La emperatriz asesina [Capítulo 2]",
-			"url": "https://visualikigai.igujud.net/series/la-emperatriz-asesina/"
-		},
-		{
-			"id": "Cómic Contrato de Sometimiento [Capítulo 7.5: 𝑫𝒊́𝒂 𝒅𝒆 𝒂𝒄𝒕𝒖𝒂𝒍𝒊𝒛𝒂𝒄𝒊𝒐́𝒏]",
-			"title": "Cómic Contrato de Sometimiento [Capítulo 7.5: 𝑫𝒊́𝒂 𝒅𝒆 𝒂𝒄𝒕𝒖𝒂𝒍𝒊𝒛𝒂𝒄𝒊𝒐́𝒏]",
-			"url": "https://visualikigai.igujud.net/series/contrato-de-sometimiento/"
+			"id": "Cómic Le Quité La Virginidad Al Tirano [Capítulo 78]",
+			"title": "Cómic Le Quité La Virginidad Al Tirano [Capítulo 78]",
+			"url": "https://visualikigai.igujud.net/series/le-quite-la-virginidad-al-tirano/"
 		}
 	]
 }
