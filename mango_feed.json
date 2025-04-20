@@ -3,6 +3,11 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Reencuentro retorcido [Capítulo 1]",
+			"title": "Cómic Reencuentro retorcido [Capítulo 1]",
+			"url": "https://visualikigai.igujud.net/series/reencuentro-retorcido/"
+		},
+		{
 			"id": "Cómic El regreso de la madrastra [Capítulo 28: Orckuro Translations]",
 			"title": "Cómic El regreso de la madrastra [Capítulo 28: Orckuro Translations]",
 			"url": "https://visualikigai.igujud.net/series/el-regreso-de-la-madrastra/"
@@ -71,16 +76,6 @@
 			"id": "Cómic La emperatriz asesina [Capítulo 2]",
 			"title": "Cómic La emperatriz asesina [Capítulo 2]",
 			"url": "https://visualikigai.igujud.net/series/la-emperatriz-asesina/"
-		},
-		{
-			"id": "Cómic Manual del Deseo [Capítulo 30]",
-			"title": "Cómic Manual del Deseo [Capítulo 30]",
-			"url": "https://visualikigai.igujud.net/series/manual-del-deseo/"
-		},
-		{
-			"id": "Cómic Reencuentro retorcido [Capítulo 1]",
-			"title": "Cómic Reencuentro retorcido [Capítulo 1]",
-			"url": "https://visualikigai.igujud.net/series/reencuentro-retorcido/"
 		}
 	]
 }
