@@ -3,6 +3,26 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic El regreso de la madrastra [Capítulo 28: Orckuro Translations]",
+			"title": "Cómic El regreso de la madrastra [Capítulo 28: Orckuro Translations]",
+			"url": "https://visualikigai.igujud.net/series/el-regreso-de-la-madrastra/"
+		},
+		{
+			"id": "Cómic Eres diferente conmigo [Capítulo 12]",
+			"title": "Cómic Eres diferente conmigo [Capítulo 12]",
+			"url": "https://visualikigai.igujud.net/series/eres-diferente-conmigo/"
+		},
+		{
+			"id": "Cómic ¿Te amo? [Capítulo 11: Orckuro Translations]",
+			"title": "Cómic ¿Te amo? [Capítulo 11: Orckuro Translations]",
+			"url": "https://visualikigai.igujud.net/series/pero-te-amo/"
+		},
+		{
+			"id": "Cómic mercenario [Capítulo 234]",
+			"title": "Cómic mercenario [Capítulo 234]",
+			"url": "https://visualikigai.igujud.net/series/mercenario/"
+		},
+		{
 			"id": "Cómic Casualidad [Capítulo 46]",
 			"title": "Cómic Casualidad [Capítulo 46]",
 			"url": "https://visualikigai.igujud.net/series/casualidad/"
@@ -58,24 +78,9 @@
 			"url": "https://visualikigai.igujud.net/series/manual-del-deseo/"
 		},
 		{
-			"id": "Cómic Las cosas quiero hacer antes de morir [Capítulo 25.5]",
-			"title": "Cómic Las cosas quiero hacer antes de morir [Capítulo 25.5]",
-			"url": "https://visualikigai.igujud.net/series/las-cosas-quiero-hacer-antes-de-morir/"
-		},
-		{
-			"id": "Cómic El hijo secreto del Presidente [Capítulo 15]",
-			"title": "Cómic El hijo secreto del Presidente [Capítulo 15]",
-			"url": "https://visualikigai.igujud.net/series/el-hijo-secreto-del-presidente/"
-		},
-		{
-			"id": "Cómic Más que hermanos [Capítulo 75]",
-			"title": "Cómic Más que hermanos [Capítulo 75]",
-			"url": "https://visualikigai.igujud.net/series/mas-que-hermanos/"
-		},
-		{
-			"id": "Cómic Reencarnación sorprendente [Capítulo 24]",
-			"title": "Cómic Reencarnación sorprendente [Capítulo 24]",
-			"url": "https://visualikigai.igujud.net/series/reencarnacion-sorprendente/"
+			"id": "Cómic Reencuentro retorcido [Capítulo 1]",
+			"title": "Cómic Reencuentro retorcido [Capítulo 1]",
+			"url": "https://visualikigai.igujud.net/series/reencuentro-retorcido/"
 		}
 	]
 }
