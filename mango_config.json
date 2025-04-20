@@ -10,5 +10,6 @@
 	"titulo_feed": "Mango/Ikigai - Nuevos capítulos",
 	"ruta_feed": "mango_feed.json",
 	"min_paginas": "2",
+	"max_paginas": "50",
 	"timestamp_actualizacion": "1745159649000"
 }
