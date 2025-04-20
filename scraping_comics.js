@@ -1,3 +1,5 @@
+// TODO lógica en max_paginas es defectuosa
+
 const fs = require('fs');
 const path = require('path');
 const puppeteer = require('puppeteer-extra');
@@ -363,16 +365,22 @@ const procesar_paginas = async (pagina, config, dominio_funcional, navegador, ru
 // JSON Feed
 // ##########
 
-const generar_feed_final = (feed_base, config) => {
+const generar_feed_final = (feed_base, config, feed_existente = { items: [] }) => {
 	const feed_final = {
 		version: "https://jsonfeed.org/version/1.1",
 		title: config.titulo_feed,
 		items: []
 	};
 
-	// Mapa para garantizar unicidad por título+capítulo y permitir actualizar URL
+	// Mapa para garantizar unicidad, inicializado con los items existentes
 	const mapa_items = new Map();
 
+	// Añadir los items existentes al mapa
+	feed_existente.items.forEach((item) => {
+		mapa_items.set(item.id, item);
+	});
+
+	// Procesar los nuevos items
 	feed_base.items.forEach((item) => {
 		const titulo_completo = `${item.title.trim()} [${item.chapter.trim()}]`;
 
@@ -381,7 +389,8 @@ const generar_feed_final = (feed_base, config) => {
 			mapa_items.set(titulo_completo, {
 				id: titulo_completo,
 				title: titulo_completo,
-				url: item.url
+				url: item.url,
+				date_published: new Date().toISOString() // Para ordenar por reciente
 			});
 		} else {
 			// Si ya existe, solo se actualiza la URL
@@ -393,9 +402,12 @@ const generar_feed_final = (feed_base, config) => {
 	// Transferir los valores del mapa al array final
 	feed_final.items = Array.from(mapa_items.values());
 
-	// Eliminar los items más antiguos si el total supera 500, hasta quedar solo 500
+	// Ordenar por fecha de modificación (más reciente primero)
+	feed_final.items.sort((a, b) => new Date(b.date_published) - new Date(a.date_published));
+
+	// Eliminar los items más antiguos si el total supera 500
 	if (feed_final.items.length > 500) {
-		feed_final.items = feed_final.items.slice(-500);
+		feed_final.items = feed_final.items.slice(0, 500);
 	}
 
 	return feed_final;
