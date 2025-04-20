@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Evolución Demoníaca [Capítulo 102]",
+			"title": "Evolución Demoníaca [Capítulo 102]",
+			"url": "https://olympusbiblioteca.com/series/comic-evolucion-demoniac1342-1n"
+		},
+		{
 			"id": "Tengo la guía exclusiva de la torre [Capítulo 63]",
 			"title": "Tengo la guía exclusiva de la torre [Capítulo 63]",
 			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-02574-s-m-22"
@@ -146,11 +151,6 @@
 			"id": "El Blinker genio de la academia mágica [Capítulo 53]",
 			"title": "El Blinker genio de la academia mágica [Capítulo 53]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-blinker-genio-de-la-academia-magica"
-		},
-		{
-			"id": "El soberano del hogar [Capítulo 26.5]",
-			"title": "El soberano del hogar [Capítulo 26.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-253-2025"
 		}
 	]
 }
