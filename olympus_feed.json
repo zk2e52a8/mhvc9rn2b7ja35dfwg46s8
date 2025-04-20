@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Tengo la guía exclusiva de la torre [Capítulo 63]",
+			"title": "Tengo la guía exclusiva de la torre [Capítulo 63]",
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-02574-s-m-22"
+		},
+		{
 			"id": "Tu talento ahora es mio! [Capítulo 101]",
 			"title": "Tu talento ahora es mio! [Capítulo 101]",
 			"url": "https://olympusbiblioteca.com/series/comic-tu-talento-ahora-es-mio13424"
@@ -146,11 +151,6 @@
 			"id": "El soberano del hogar [Capítulo 26.5]",
 			"title": "El soberano del hogar [Capítulo 26.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-253-2025"
-		},
-		{
-			"id": "Palo De Madera [Capítulo 124.2]",
-			"title": "Palo De Madera [Capítulo 124.2]",
-			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-m505-4-9-eto14"
 		}
 	]
 }
