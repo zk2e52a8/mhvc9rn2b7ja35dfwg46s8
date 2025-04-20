@@ -3,6 +3,36 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Manual del Deseo [Capítulo 30]",
+			"title": "Cómic Manual del Deseo [Capítulo 30]",
+			"url": "https://visualikigai.igujud.net/series/manual-del-deseo/"
+		},
+		{
+			"id": "Cómic Luna Nueva [Capítulo 3]",
+			"title": "Cómic Luna Nueva [Capítulo 3]",
+			"url": "https://visualikigai.igujud.net/series/luna-nueva/"
+		},
+		{
+			"id": "Cómic Las cosas quiero hacer antes de morir [Capítulo 25.5]",
+			"title": "Cómic Las cosas quiero hacer antes de morir [Capítulo 25.5]",
+			"url": "https://visualikigai.igujud.net/series/las-cosas-quiero-hacer-antes-de-morir/"
+		},
+		{
+			"id": "Cómic El hijo secreto del Presidente [Capítulo 15]",
+			"title": "Cómic El hijo secreto del Presidente [Capítulo 15]",
+			"url": "https://visualikigai.igujud.net/series/el-hijo-secreto-del-presidente/"
+		},
+		{
+			"id": "Cómic Más que hermanos [Capítulo 75]",
+			"title": "Cómic Más que hermanos [Capítulo 75]",
+			"url": "https://visualikigai.igujud.net/series/mas-que-hermanos/"
+		},
+		{
+			"id": "Cómic Reencarnación sorprendente [Capítulo 24]",
+			"title": "Cómic Reencarnación sorprendente [Capítulo 24]",
+			"url": "https://visualikigai.igujud.net/series/reencarnacion-sorprendente/"
+		},
+		{
 			"id": "Cómic Ella es linda sólo conmigo [Capítulo 17]",
 			"title": "Cómic Ella es linda sólo conmigo [Capítulo 17]",
 			"url": "https://visualikigai.igujud.net/series/ella-es-linda-solo-conmigo/"
@@ -48,59 +78,19 @@
 			"url": "https://visualikigai.igujud.net/series/la-bolsa-secreta-de-la-dama-fea/"
 		},
 		{
-			"id": "Cómic Soñando con el Dokkaebi [Capítulo 47]",
-			"title": "Cómic Soñando con el Dokkaebi [Capítulo 47]",
-			"url": "https://visualikigai.igujud.net/series/sonando-con-el-dokkaebi/"
+			"id": "Cómic La emperatriz asesina [Capítulo 2]",
+			"title": "Cómic La emperatriz asesina [Capítulo 2]",
+			"url": "https://visualikigai.igujud.net/series/la-emperatriz-asesina/"
 		},
 		{
-			"id": "Cómic Costa de las olas [Capítulo 34]",
-			"title": "Cómic Costa de las olas [Capítulo 34]",
-			"url": "https://visualikigai.igujud.net/series/costa-de-las-olas/"
+			"id": "Cómic Posesión De La Muñeca De Algodón Del Maníaco Obsesivo [Capítulo 22]",
+			"title": "Cómic Posesión De La Muñeca De Algodón Del Maníaco Obsesivo [Capítulo 22]",
+			"url": "https://visualikigai.igujud.net/series/posesion-de-la-muneca-de-algodon-del-maniaco-obsesivo/"
 		},
 		{
-			"id": "Cómic En El Horizonte [Capítulo 33]",
-			"title": "Cómic En El Horizonte [Capítulo 33]",
-			"url": "https://visualikigai.igujud.net/series/en-el-horizonte/"
-		},
-		{
-			"id": "Cómic Soy amada por los muertos [Capítulo 28]",
-			"title": "Cómic Soy amada por los muertos [Capítulo 28]",
-			"url": "https://visualikigai.igujud.net/series/soy-amada-por-los-muertos/"
-		},
-		{
-			"id": "Cómic Escandalo en el escaparate de una tienda [Capítulo 25]",
-			"title": "Cómic Escandalo en el escaparate de una tienda [Capítulo 25]",
-			"url": "https://visualikigai.igujud.net/series/escandalo-en-el-escaparate-de-una-tienda/"
-		},
-		{
-			"id": "Cómic La línea que nos separa. [Capítulo 6]",
-			"title": "Cómic La línea que nos separa. [Capítulo 6]",
-			"url": "https://visualikigai.igujud.net/series/la-linea-que-nos-separa/"
-		},
-		{
-			"id": "Cómic Reencarnación sorprendente [Capítulo 24]",
-			"title": "Cómic Reencarnación sorprendente [Capítulo 24]",
-			"url": "https://visualikigai.igujud.net/series/reencarnacion-sorprendente/"
-		},
-		{
-			"id": "Cómic Más que hermanos [Capítulo 75]",
-			"title": "Cómic Más que hermanos [Capítulo 75]",
-			"url": "https://visualikigai.igujud.net/series/mas-que-hermanos/"
-		},
-		{
-			"id": "Cómic El hijo secreto del Presidente [Capítulo 15]",
-			"title": "Cómic El hijo secreto del Presidente [Capítulo 15]",
-			"url": "https://visualikigai.igujud.net/series/el-hijo-secreto-del-presidente/"
-		},
-		{
-			"id": "Cómic Las cosas quiero hacer antes de morir [Capítulo 25]",
-			"title": "Cómic Las cosas quiero hacer antes de morir [Capítulo 25]",
-			"url": "https://visualikigai.igujud.net/series/las-cosas-quiero-hacer-antes-de-morir/"
-		},
-		{
-			"id": "Cómic Las cosas quiero hacer antes de morir [Capítulo 25.5]",
-			"title": "Cómic Las cosas quiero hacer antes de morir [Capítulo 25.5]",
-			"url": "https://visualikigai.igujud.net/series/las-cosas-quiero-hacer-antes-de-morir/"
+			"id": "Cómic Luna Nueva [Capítulo 4]",
+			"title": "Cómic Luna Nueva [Capítulo 4]",
+			"url": "https://visualikigai.igujud.net/series/luna-nueva/"
 		}
 	]
 }
