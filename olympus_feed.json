@@ -3,6 +3,21 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Jugador que regresó 10.000 años después [Capítulo 111]",
+			"title": "Jugador que regresó 10.000 años después [Capítulo 111]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugador-que-regreso-10000-anos-despues13424"
+		},
+		{
+			"id": "El Héroe Regresa a la Academia [Capítulo 1]",
+			"title": "El Héroe Regresa a la Academia [Capítulo 1]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-regresa-a-la-academia"
+		},
+		{
+			"id": "La venganza del sabueso de sangre de hierro [Capítulo 109]",
+			"title": "La venganza del sabueso de sangre de hierro [Capítulo 109]",
+			"url": "https://olympusbiblioteca.com/series/comic-sabueso13424"
+		},
+		{
 			"id": "Evolución Demoníaca [Capítulo 102]",
 			"title": "Evolución Demoníaca [Capítulo 102]",
 			"url": "https://olympusbiblioteca.com/series/comic-evolucion-demoniac1342-1n"
@@ -136,21 +151,6 @@
 			"id": "El heroe de nivel legendario prodigio de la academia. [Capítulo 36]",
 			"title": "El heroe de nivel legendario prodigio de la academia. [Capítulo 36]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-de-nivel-legendario-prodigio-de-la-academia"
-		},
-		{
-			"id": "*El villano de mirada cortante de la Academia Demoniaca [Capítulo 21]",
-			"title": "*El villano de mirada cortante de la Academia Demoniaca [Capítulo 21]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villano-de-mirada-cortante-de-la-academia-demoniaca"
-		},
-		{
-			"id": "Heroe, regresa [Capítulo 122]",
-			"title": "Heroe, regresa [Capítulo 122]",
-			"url": "https://olympusbiblioteca.com/series/comic-dragon-y-heroe13424"
-		},
-		{
-			"id": "El Blinker genio de la academia mágica [Capítulo 53]",
-			"title": "El Blinker genio de la academia mágica [Capítulo 53]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-blinker-genio-de-la-academia-magica"
 		}
 	]
 }
