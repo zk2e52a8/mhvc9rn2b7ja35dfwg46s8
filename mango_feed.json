@@ -3,6 +3,11 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Luna Nueva [Capítulo 7]",
+			"title": "Cómic Luna Nueva [Capítulo 7]",
+			"url": "https://visualikigai.igujud.net/series/luna-nueva/"
+		},
+		{
 			"id": "Cómic Reencuentro retorcido [Capítulo 1]",
 			"title": "Cómic Reencuentro retorcido [Capítulo 1]",
 			"url": "https://visualikigai.igujud.net/series/reencuentro-retorcido/"
@@ -58,11 +63,6 @@
 			"url": "https://visualikigai.igujud.net/series/deseo-irresistible/"
 		},
 		{
-			"id": "Cómic Luna Nueva [Capítulo 5]",
-			"title": "Cómic Luna Nueva [Capítulo 5]",
-			"url": "https://visualikigai.igujud.net/series/luna-nueva/"
-		},
-		{
 			"id": "Cómic Hasta que el crimen nos separe [Capítulo 11]",
 			"title": "Cómic Hasta que el crimen nos separe [Capítulo 11]",
 			"url": "https://visualikigai.igujud.net/series/hasta-que-el-crimen-nos-separe/"
@@ -76,6 +76,11 @@
 			"id": "Cómic La emperatriz asesina [Capítulo 2]",
 			"title": "Cómic La emperatriz asesina [Capítulo 2]",
 			"url": "https://visualikigai.igujud.net/series/la-emperatriz-asesina/"
+		},
+		{
+			"id": "Cómic Contrato de Sometimiento [Capítulo 7.5: 𝑫𝒊́𝒂 𝒅𝒆 𝒂𝒄𝒕𝒖𝒂𝒍𝒊𝒛𝒂𝒄𝒊𝒐́𝒏]",
+			"title": "Cómic Contrato de Sometimiento [Capítulo 7.5: 𝑫𝒊́𝒂 𝒅𝒆 𝒂𝒄𝒕𝒖𝒂𝒍𝒊𝒛𝒂𝒄𝒊𝒐́𝒏]",
+			"url": "https://visualikigai.igujud.net/series/contrato-de-sometimiento/"
 		}
 	]
 }
