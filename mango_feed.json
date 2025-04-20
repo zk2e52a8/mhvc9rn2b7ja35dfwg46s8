@@ -3,6 +3,11 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic La emperatriz asesina [Capítulo 3]",
+			"title": "Cómic La emperatriz asesina [Capítulo 3]",
+			"url": "https://visualikigai.igujud.net/series/la-emperatriz-asesina/"
+		},
+		{
 			"id": "Cómic El Maestro Del Veneno En El Clan Tang Sichuan [Capítulo 32]",
 			"title": "Cómic El Maestro Del Veneno En El Clan Tang Sichuan [Capítulo 32]",
 			"url": "https://visualikigai.igujud.net/series/el-maestro-del-veneno-en-el-clan-tang-sichuan/"
@@ -146,11 +151,6 @@
 			"id": "Cómic El Heredero de la Venganza [Capítulo 31]",
 			"title": "Cómic El Heredero de la Venganza [Capítulo 31]",
 			"url": "https://visualikigai.igujud.net/series/el-heredero-de-la-venganza/"
-		},
-		{
-			"id": "Cómic La Cacería de Seo Jin-tae el 9no dragon [Capítulo 25]",
-			"title": "Cómic La Cacería de Seo Jin-tae el 9no dragon [Capítulo 25]",
-			"url": "https://visualikigai.igujud.net/series/la-caceria-de-seo-jin-tae-el-9no-dragon/"
 		}
 	]
 }
