@@ -175,6 +175,7 @@ const redirigir_dominio = async (pagina, config, navegador) => {
 const procesar_paginas = async (pagina, config, dominio_funcional, navegador, ruta_config) => {
 	let pagina_actual = 1;
 	const min_paginas = parseInt(config.min_paginas, 10);
+	const max_paginas = parseInt(config.min_paginas, 10);
 
 	// Construir la URL inicial para scraping
 	let url_scraping = `${dominio_funcional.replace(/\/$/, '')}/${config.ruta_scraping.replace(/^\//, '')}${config.url_paginacion}${pagina_actual}`;
