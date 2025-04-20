@@ -3,14 +3,29 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Hasta que el crimen nos separe [Capítulo 11]",
+			"title": "Cómic Hasta que el crimen nos separe [Capítulo 11]",
+			"url": "https://visualikigai.igujud.net/series/hasta-que-el-crimen-nos-separe/"
+		},
+		{
+			"id": "Cómic Luna Nueva [Capítulo 4]",
+			"title": "Cómic Luna Nueva [Capítulo 4]",
+			"url": "https://visualikigai.igujud.net/series/luna-nueva/"
+		},
+		{
+			"id": "Cómic Posesión De La Muñeca De Algodón Del Maníaco Obsesivo [Capítulo 22]",
+			"title": "Cómic Posesión De La Muñeca De Algodón Del Maníaco Obsesivo [Capítulo 22]",
+			"url": "https://visualikigai.igujud.net/series/posesion-de-la-muneca-de-algodon-del-maniaco-obsesivo/"
+		},
+		{
+			"id": "Cómic La emperatriz asesina [Capítulo 2]",
+			"title": "Cómic La emperatriz asesina [Capítulo 2]",
+			"url": "https://visualikigai.igujud.net/series/la-emperatriz-asesina/"
+		},
+		{
 			"id": "Cómic Manual del Deseo [Capítulo 30]",
 			"title": "Cómic Manual del Deseo [Capítulo 30]",
 			"url": "https://visualikigai.igujud.net/series/manual-del-deseo/"
-		},
-		{
-			"id": "Cómic Luna Nueva [Capítulo 3]",
-			"title": "Cómic Luna Nueva [Capítulo 3]",
-			"url": "https://visualikigai.igujud.net/series/luna-nueva/"
 		},
 		{
 			"id": "Cómic Las cosas quiero hacer antes de morir [Capítulo 25.5]",
@@ -63,34 +78,14 @@
 			"url": "https://visualikigai.igujud.net/series/debute-como-exorcista-en-vez-de-ser-idol/"
 		},
 		{
-			"id": "Cómic Estoy planeando eliminar este país [Capítulo 31]",
-			"title": "Cómic Estoy planeando eliminar este país [Capítulo 31]",
-			"url": "https://visualikigai.igujud.net/series/estoy-planeando-eliminar-este-pais/"
-		},
-		{
-			"id": "Cómic Semillero [Capítulo 62]",
-			"title": "Cómic Semillero [Capítulo 62]",
-			"url": "https://visualikigai.igujud.net/series/semillero/"
-		},
-		{
-			"id": "Cómic La Bolsa Secreta De La Dama Fea [Capítulo 66]",
-			"title": "Cómic La Bolsa Secreta De La Dama Fea [Capítulo 66]",
-			"url": "https://visualikigai.igujud.net/series/la-bolsa-secreta-de-la-dama-fea/"
-		},
-		{
-			"id": "Cómic La emperatriz asesina [Capítulo 2]",
-			"title": "Cómic La emperatriz asesina [Capítulo 2]",
-			"url": "https://visualikigai.igujud.net/series/la-emperatriz-asesina/"
-		},
-		{
-			"id": "Cómic Posesión De La Muñeca De Algodón Del Maníaco Obsesivo [Capítulo 22]",
-			"title": "Cómic Posesión De La Muñeca De Algodón Del Maníaco Obsesivo [Capítulo 22]",
-			"url": "https://visualikigai.igujud.net/series/posesion-de-la-muneca-de-algodon-del-maniaco-obsesivo/"
-		},
-		{
-			"id": "Cómic Luna Nueva [Capítulo 4]",
-			"title": "Cómic Luna Nueva [Capítulo 4]",
+			"id": "Cómic Luna Nueva [Capítulo 5]",
+			"title": "Cómic Luna Nueva [Capítulo 5]",
 			"url": "https://visualikigai.igujud.net/series/luna-nueva/"
+		},
+		{
+			"id": "Cómic Deseo Irresistible [Capítulo 35]",
+			"title": "Cómic Deseo Irresistible [Capítulo 35]",
+			"url": "https://visualikigai.igujud.net/series/deseo-irresistible/"
 		}
 	]
 }
