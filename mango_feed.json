@@ -3,6 +3,16 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic El Maestro Del Veneno En El Clan Tang Sichuan [Capítulo 32]",
+			"title": "Cómic El Maestro Del Veneno En El Clan Tang Sichuan [Capítulo 32]",
+			"url": "https://visualikigai.igujud.net/series/el-maestro-del-veneno-en-el-clan-tang-sichuan/"
+		},
+		{
+			"id": "Cómic Origen [Capítulo 4]",
+			"title": "Cómic Origen [Capítulo 4]",
+			"url": "https://visualikigai.igujud.net/series/origen/"
+		},
+		{
 			"id": "Cómic Se Parte De Mi Familia [Capítulo 58.1: Revision De La Segunda Temporada]",
 			"title": "Cómic Se Parte De Mi Familia [Capítulo 58.1: Revision De La Segunda Temporada]",
 			"url": "https://visualikigai.igujud.net/series/se-parte-de-mi-familia/"
@@ -141,16 +151,6 @@
 			"id": "Cómic La Cacería de Seo Jin-tae el 9no dragon [Capítulo 25]",
 			"title": "Cómic La Cacería de Seo Jin-tae el 9no dragon [Capítulo 25]",
 			"url": "https://visualikigai.igujud.net/series/la-caceria-de-seo-jin-tae-el-9no-dragon/"
-		},
-		{
-			"id": "Cómic La Bebé Orca Negra [Capítulo 59]",
-			"title": "Cómic La Bebé Orca Negra [Capítulo 59]",
-			"url": "https://visualikigai.igujud.net/series/la-bebe-orca-negra/"
-		},
-		{
-			"id": "Cómic EL DICIPULO DE LOS REYES [Capítulo 38]",
-			"title": "Cómic EL DICIPULO DE LOS REYES [Capítulo 38]",
-			"url": "https://visualikigai.igujud.net/series/el-dicipulo-de-los-reyes/"
 		}
 	]
 }
