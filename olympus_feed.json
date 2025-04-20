@@ -3,6 +3,11 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Restaurante del mago [Capítulo 78]",
+			"title": "Restaurante del mago [Capítulo 78]",
+			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-2087-1-24-mago"
+		},
+		{
 			"id": "Genio del Linaje único [Capítulo 108]",
 			"title": "Genio del Linaje único [Capítulo 108]",
 			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-m2050254-2"
@@ -146,11 +151,6 @@
 			"id": "El Novato es Muy Fuerte [Capítulo 131]",
 			"title": "El Novato es Muy Fuerte [Capítulo 131]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-novato-es-muy-fuerte13424142124"
-		},
-		{
-			"id": "Construyendo un imperio industrial en un mundo mágico [Capítulo 30]",
-			"title": "Construyendo un imperio industrial en un mundo mágico [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-construyendo-un-imperio-industrial-en-un-mundo-magico"
 		}
 	]
 }

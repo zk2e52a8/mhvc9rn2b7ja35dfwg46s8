@@ -3,14 +3,19 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Deseo Irresistible [Capítulo 35]",
+			"title": "Cómic Deseo Irresistible [Capítulo 35]",
+			"url": "https://visualikigai.igujud.net/series/deseo-irresistible/"
+		},
+		{
+			"id": "Cómic Luna Nueva [Capítulo 5]",
+			"title": "Cómic Luna Nueva [Capítulo 5]",
+			"url": "https://visualikigai.igujud.net/series/luna-nueva/"
+		},
+		{
 			"id": "Cómic Hasta que el crimen nos separe [Capítulo 11]",
 			"title": "Cómic Hasta que el crimen nos separe [Capítulo 11]",
 			"url": "https://visualikigai.igujud.net/series/hasta-que-el-crimen-nos-separe/"
-		},
-		{
-			"id": "Cómic Luna Nueva [Capítulo 4]",
-			"title": "Cómic Luna Nueva [Capítulo 4]",
-			"url": "https://visualikigai.igujud.net/series/luna-nueva/"
 		},
 		{
 			"id": "Cómic Posesión De La Muñeca De Algodón Del Maníaco Obsesivo [Capítulo 22]",
@@ -71,21 +76,6 @@
 			"id": "Cómic La Flor De Espina De Adinmir [Capítulo 7]",
 			"title": "Cómic La Flor De Espina De Adinmir [Capítulo 7]",
 			"url": "https://visualikigai.igujud.net/series/la-flor-de-espina-de-adinmir/"
-		},
-		{
-			"id": "Cómic Debuté cómo exorcista en vez de ser idol [Capítulo 13]",
-			"title": "Cómic Debuté cómo exorcista en vez de ser idol [Capítulo 13]",
-			"url": "https://visualikigai.igujud.net/series/debute-como-exorcista-en-vez-de-ser-idol/"
-		},
-		{
-			"id": "Cómic Luna Nueva [Capítulo 5]",
-			"title": "Cómic Luna Nueva [Capítulo 5]",
-			"url": "https://visualikigai.igujud.net/series/luna-nueva/"
-		},
-		{
-			"id": "Cómic Deseo Irresistible [Capítulo 35]",
-			"title": "Cómic Deseo Irresistible [Capítulo 35]",
-			"url": "https://visualikigai.igujud.net/series/deseo-irresistible/"
 		}
 	]
 }
