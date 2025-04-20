@@ -172,6 +172,7 @@ const redirigir_dominio = async (pagina, config, navegador) => {
 
 const procesar_paginas = async (pagina, config, dominio_funcional, navegador, ruta_config) => {
 	let pagina_actual = 1;
+	const max_paginas = parseInt(config.max_paginas || 100, 10); // Valor predeterminado de 100 si no está definido
 
 	// Construir la URL inicial para scraping
 	let url_scraping = `${dominio_funcional.replace(/\/$/, '')}/${config.ruta_scraping.replace(/^\//, '')}${config.url_paginacion}${pagina_actual}`;
@@ -191,6 +192,9 @@ const procesar_paginas = async (pagina, config, dominio_funcional, navegador, ru
 	// Depósito temporal para las fichas
 	const json_feed_base = { items: [] };
 
+	// Set para rastrear fichas duplicadas
+	const fichas_procesadas = new Set();
+
 	let continuar_scrapeo = true;
 
 	// Obtener el timestamp del archivo de configuración
@@ -201,6 +205,12 @@ const procesar_paginas = async (pagina, config, dominio_funcional, navegador, ru
 
 	while (continuar_scrapeo) {
 		console.log(`\nProcesando página ${pagina_actual}...`);
+
+		// Verificar si se alcanzó el límite máximo de páginas
+		if (pagina_actual > max_paginas) {
+			console.log(`Se alcanzó el límite máximo de páginas (${max_paginas}). Finalizando scraping.`);
+			break;
+		}
 
 		try {
 			await pagina.goto(url_scraping, { waitUntil: 'networkidle2' });
@@ -267,6 +277,18 @@ const procesar_paginas = async (pagina, config, dominio_funcional, navegador, ru
 				console.warn(`Ficha ignorada por falta de capítulo: "${ficha.titulo}" | "${ficha.capitulo}" | "${ficha.fecha}" | "${ficha.url}"`);
 				continue;
 			}
+
+			// Crear un identificador único para la ficha
+			const ficha_id = `${ficha.titulo}|${ficha.capitulo}|${ficha.url}`;
+
+			// Verificar si la ficha ya ha sido procesada
+			if (fichas_procesadas.has(ficha_id)) {
+				console.warn(`Ficha duplicada ignorada: "${ficha.titulo}" | "${ficha.capitulo}" | "${ficha.fecha}" | "${ficha.url}"`);
+				continue;
+			}
+
+			// Marcar la ficha como procesada
+			fichas_procesadas.add(ficha_id);
 
 			// Se obtiene la fecha (en timestamp), si se dispone de ella
 			let fecha_ficha = null;
