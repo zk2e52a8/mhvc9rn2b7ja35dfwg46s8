@@ -3,6 +3,26 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Casualidad [Capítulo 46]",
+			"title": "Cómic Casualidad [Capítulo 46]",
+			"url": "https://visualikigai.igujud.net/series/casualidad/"
+		},
+		{
+			"id": "Novela Fui engañada por mi esposo - Novela [Capítulo 104]",
+			"title": "Novela Fui engañada por mi esposo - Novela [Capítulo 104]",
+			"url": "https://visualikigai.igujud.net/series/fui-enganada-por-mi-esposo-novela/"
+		},
+		{
+			"id": "Novela Es un malentendido que estoy saliendo con el villano - Novela [Capítulo 52]",
+			"title": "Novela Es un malentendido que estoy saliendo con el villano - Novela [Capítulo 52]",
+			"url": "https://visualikigai.igujud.net/series/es-un-malentendido-que-estoy-saliendo-con-el-villano-novela/"
+		},
+		{
+			"id": "Cómic Historia de amor en el norte invernal [Capítulo 6]",
+			"title": "Cómic Historia de amor en el norte invernal [Capítulo 6]",
+			"url": "https://visualikigai.igujud.net/series/historia-de-amor-en-el-norte-invernal/"
+		},
+		{
 			"id": "Cómic El Retorno Del Ranker (Remake) [Capítulo 184]",
 			"title": "Cómic El Retorno Del Ranker (Remake) [Capítulo 184]",
 			"url": "https://visualikigai.igujud.net/series/el-retorno-del-ranker-remake/"
@@ -56,56 +76,6 @@
 			"id": "Cómic Reencarnación sorprendente [Capítulo 24]",
 			"title": "Cómic Reencarnación sorprendente [Capítulo 24]",
 			"url": "https://visualikigai.igujud.net/series/reencarnacion-sorprendente/"
-		},
-		{
-			"id": "Cómic Ella es linda sólo conmigo [Capítulo 17]",
-			"title": "Cómic Ella es linda sólo conmigo [Capítulo 17]",
-			"url": "https://visualikigai.igujud.net/series/ella-es-linda-solo-conmigo/"
-		},
-		{
-			"id": "Cómic La Guardiana Extra perdió el momento adecuado para irse [Capítulo 57]",
-			"title": "Cómic La Guardiana Extra perdió el momento adecuado para irse [Capítulo 57]",
-			"url": "https://visualikigai.igujud.net/series/la-guardiana-extra-perdio-el-momento-adecuado-para-irse/"
-		},
-		{
-			"id": "Cómic Estrella de las Olas [Capítulo 16]",
-			"title": "Cómic Estrella de las Olas [Capítulo 16]",
-			"url": "https://visualikigai.igujud.net/series/estrella-de-las-olas/"
-		},
-		{
-			"id": "Cómic Los Perros Del Infierno [Capítulo 14]",
-			"title": "Cómic Los Perros Del Infierno [Capítulo 14]",
-			"url": "https://visualikigai.igujud.net/series/los-perros-del-infierno/"
-		},
-		{
-			"id": "Cómic Historia de amor en el norte invernal [Capítulo 6]",
-			"title": "Cómic Historia de amor en el norte invernal [Capítulo 6]",
-			"url": "https://visualikigai.igujud.net/series/historia-de-amor-en-el-norte-invernal/"
-		},
-		{
-			"id": "Novela Es un malentendido que estoy saliendo con el villano - Novela [Capítulo 51]",
-			"title": "Novela Es un malentendido que estoy saliendo con el villano - Novela [Capítulo 51]",
-			"url": "https://visualikigai.igujud.net/series/es-un-malentendido-que-estoy-saliendo-con-el-villano-novela/"
-		},
-		{
-			"id": "Novela Es un malentendido que estoy saliendo con el villano - Novela [Capítulo 52]",
-			"title": "Novela Es un malentendido que estoy saliendo con el villano - Novela [Capítulo 52]",
-			"url": "https://visualikigai.igujud.net/series/es-un-malentendido-que-estoy-saliendo-con-el-villano-novela/"
-		},
-		{
-			"id": "Novela Fui engañada por mi esposo - Novela [Capítulo 103]",
-			"title": "Novela Fui engañada por mi esposo - Novela [Capítulo 103]",
-			"url": "https://visualikigai.igujud.net/series/fui-enganada-por-mi-esposo-novela/"
-		},
-		{
-			"id": "Novela Fui engañada por mi esposo - Novela [Capítulo 104]",
-			"title": "Novela Fui engañada por mi esposo - Novela [Capítulo 104]",
-			"url": "https://visualikigai.igujud.net/series/fui-enganada-por-mi-esposo-novela/"
-		},
-		{
-			"id": "Cómic Casualidad [Capítulo 46]",
-			"title": "Cómic Casualidad [Capítulo 46]",
-			"url": "https://visualikigai.igujud.net/series/casualidad/"
 		}
 	]
 }
