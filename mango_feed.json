@@ -3,6 +3,12 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Un cuento de hadas para magos [Capítulo 22]",
+			"title": "Cómic Un cuento de hadas para magos [Capítulo 22]",
+			"url": "https://visualikigai.skcar.xyz/series/un-cuento-de-hadas-para-magos/",
+			"date_published": "2025-04-24T10:21:39.431Z"
+		},
+		{
 			"id": "Cómic Elizabeth [Capítulo 83]",
 			"title": "Cómic Elizabeth [Capítulo 83]",
 			"url": "https://visualikigai.skcar.xyz/series/elizabeth/",
@@ -2994,12 +3000,6 @@
 			"id": "Cómic como el guía escapa del maniaco obsesivo [Capítulo 4]",
 			"title": "Cómic como el guía escapa del maniaco obsesivo [Capítulo 4]",
 			"url": "https://visualikigai.igujud.net/series/como-el-guia-escapa-del-maniaco-obsesivo/",
-			"date_published": "2025-04-20T19:25:09.234Z"
-		},
-		{
-			"id": "Cómic Cuna del todopoderoso [Capítulo 17]",
-			"title": "Cómic Cuna del todopoderoso [Capítulo 17]",
-			"url": "https://visualikigai.igujud.net/series/cuna-del-todopoderoso/",
 			"date_published": "2025-04-20T19:25:09.234Z"
 		}
 	]
