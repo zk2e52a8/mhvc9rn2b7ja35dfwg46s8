@@ -3,6 +3,12 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Los primeros amores son así, Majestad [Capítulo 21]",
+			"title": "Cómic Los primeros amores son así, Majestad [Capítulo 21]",
+			"url": "https://visualikigai.skteq.xyz/series/los-primeros-amores-son-asi-majestad/",
+			"date_published": "2025-04-25T08:26:22.175Z"
+		},
+		{
 			"id": "Cómic Diario de Depravacion [Capítulo 26: Orckuro Translations]",
 			"title": "Cómic Diario de Depravacion [Capítulo 26: Orckuro Translations]",
 			"url": "https://visualikigai.skteq.xyz/series/diario-de-depravacion/",
@@ -2994,12 +3000,6 @@
 			"id": "Cómic mercenario [Capítulo 234]",
 			"title": "Cómic mercenario [Capítulo 234]",
 			"url": "https://visualikigai.igujud.net/series/mercenario/",
-			"date_published": "2025-04-20T19:25:09.234Z"
-		},
-		{
-			"id": "Cómic Casualidad [Capítulo 46]",
-			"title": "Cómic Casualidad [Capítulo 46]",
-			"url": "https://visualikigai.igujud.net/series/casualidad/",
 			"date_published": "2025-04-20T19:25:09.234Z"
 		}
 	]
