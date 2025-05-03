@@ -3,6 +3,12 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Señorita Pendleton [Capítulo 20]",
+			"title": "Cómic Señorita Pendleton [Capítulo 20]",
+			"url": "https://visorikigai.kennyhowes.com/series/senorita-pendleton/",
+			"date_published": "2025-05-03T04:22:51.727Z"
+		},
+		{
 			"id": "Cómic Soy amada por los muertos [Capítulo 30]",
 			"title": "Cómic Soy amada por los muertos [Capítulo 30]",
 			"url": "https://visorikigai.kennyhowes.com/series/soy-amada-por-los-muertos/",
@@ -2994,12 +3000,6 @@
 			"id": "Novela Bailando En Un Mar Legendario - Novela [Capítulo 102]",
 			"title": "Novela Bailando En Un Mar Legendario - Novela [Capítulo 102]",
 			"url": "https://visualikigai.foodib.net/series/bailando-en-un-mar-legendario-novela/",
-			"date_published": "2025-04-27T06:26:25.641Z"
-		},
-		{
-			"id": "Cómic Los postres son la mejor medicina [Capítulo 13]",
-			"title": "Cómic Los postres son la mejor medicina [Capítulo 13]",
-			"url": "https://visualikigai.foodib.net/series/los-postres-son-la-mejor-medicina/",
 			"date_published": "2025-04-27T06:26:25.641Z"
 		}
 	]
