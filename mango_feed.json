@@ -3,6 +3,24 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic La Princesa Bebe Ve a Través de la Ventana de Estado [Capítulo 139]",
+			"title": "Cómic La Princesa Bebe Ve a Través de la Ventana de Estado [Capítulo 139]",
+			"url": "https://visorikigai.kennyhowes.com/series/la-princesa-bebe-ve-a-traves-de-la-ventana-de-estado/",
+			"date_published": "2025-05-04T20:20:21.103Z"
+		},
+		{
+			"id": "Cómic Por Favor Dame Ese Chupete [Capítulo 110]",
+			"title": "Cómic Por Favor Dame Ese Chupete [Capítulo 110]",
+			"url": "https://visorikigai.kennyhowes.com/series/por-favor-dame-ese-chupete/",
+			"date_published": "2025-05-04T20:20:21.103Z"
+		},
+		{
+			"id": "Cómic Vamos A Encontrarnos Vivos [Capítulo 23]",
+			"title": "Cómic Vamos A Encontrarnos Vivos [Capítulo 23]",
+			"url": "https://visorikigai.kennyhowes.com/series/vamos-a-encontrarnos-vivos/",
+			"date_published": "2025-05-04T20:20:21.103Z"
+		},
+		{
 			"id": "Cómic El Legendario Hijo Menor De La Casa Del Marqués [Capítulo 130]",
 			"title": "Cómic El Legendario Hijo Menor De La Casa Del Marqués [Capítulo 130]",
 			"url": "https://visorikigai.kennyhowes.com/series/el-legendario-hijo-menor-de-la-casa-del-marques/",
@@ -2983,24 +3001,6 @@
 			"title": "Cómic Hasta Que Aparezca La Autentica [Capítulo 68]",
 			"url": "https://visualikigai.foodib.net/series/hasta-que-aparezca-la-autentica/",
 			"date_published": "2025-04-28T22:19:28.879Z"
-		},
-		{
-			"id": "Cómic Hechizo del Viento [Capítulo 2.5]",
-			"title": "Cómic Hechizo del Viento [Capítulo 2.5]",
-			"url": "https://visualikigai.foodib.net/series/hechizo-del-viento/",
-			"date_published": "2025-04-28T22:19:28.879Z"
-		},
-		{
-			"id": "Cómic Mis amigos de la infancia intentan matarme [Capítulo 36]",
-			"title": "Cómic Mis amigos de la infancia intentan matarme [Capítulo 36]",
-			"url": "https://visualikigai.foodib.net/series/mis-amigos-de-la-infancia-intentan-matarme/",
-			"date_published": "2025-04-28T22:19:28.878Z"
-		},
-		{
-			"id": "Cómic Mi Segundo Esposo Esta Deprimido y Desesperado [Capítulo 124]",
-			"title": "Cómic Mi Segundo Esposo Esta Deprimido y Desesperado [Capítulo 124]",
-			"url": "https://visualikigai.foodib.net/series/mi-segundo-esposo-esta-deprimido-y-desesperado/",
-			"date_published": "2025-04-28T20:21:14.445Z"
 		}
 	]
 }
