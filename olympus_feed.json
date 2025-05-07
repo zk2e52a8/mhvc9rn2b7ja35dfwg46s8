@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El hombre más guapo se convirtió en esqueleto [Capítulo 36]",
+			"title": "El hombre más guapo se convirtió en esqueleto [Capítulo 36]",
+			"url": "https://olympusbiblioteca.com/series/comic-a2507-squeleto14",
+			"date_published": "2025-05-07T03:10:00.186Z"
+		},
+		{
 			"id": "El creador de Artefactos [Capítulo 50]",
 			"title": "El creador de Artefactos [Capítulo 50]",
 			"url": "https://olympusbiblioteca.com/series/comic-d101asa-075-25s-m-22",
@@ -2995,12 +3001,6 @@
 			"title": "Me hice cargo de la Academia con un solo cuchillo de sashimi [Capítulo 35]",
 			"url": "https://olympusbiblioteca.com/series/comic-me-hice-cargo-de-la-academia-con-un-solo-cuchillo-de-sashimi",
 			"date_published": "2025-04-20T19:23:20.249Z"
-		},
-		{
-			"id": "Reencarnado [Capítulo 78]",
-			"title": "Reencarnado [Capítulo 78]",
-			"url": "https://olympusbiblioteca.com/series/comic-s-a-19-m8-1-0254fff",
-			"date_published": "2025-04-20T19:23:20.248Z"
 		}
 	]
 }
