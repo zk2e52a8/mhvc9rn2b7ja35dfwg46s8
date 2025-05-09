@@ -3,6 +3,12 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Chica Sucia [Capítulo 3]",
+			"title": "Cómic Chica Sucia [Capítulo 3]",
+			"url": "https://visualikigai.prriegeurfhefieof.xyz/series/chica-sucia/",
+			"date_published": "2025-05-09T08:27:22.787Z"
+		},
+		{
 			"id": "Cómic Director Nopor [Capítulo 4: Orckuro Translation]",
 			"title": "Cómic Director Nopor [Capítulo 4: Orckuro Translation]",
 			"url": "https://visualikigai.prriegeurfhefieof.xyz/series/director-nopor/",
@@ -2995,12 +3001,6 @@
 			"title": "Cómic Señorita Pendleton [Capítulo 20]",
 			"url": "https://visorikigai.kennyhowes.com/series/senorita-pendleton/",
 			"date_published": "2025-05-03T04:22:51.727Z"
-		},
-		{
-			"id": "Cómic Soy amada por los muertos [Capítulo 30]",
-			"title": "Cómic Soy amada por los muertos [Capítulo 30]",
-			"url": "https://visorikigai.kennyhowes.com/series/soy-amada-por-los-muertos/",
-			"date_published": "2025-05-03T03:04:39.641Z"
 		}
 	]
 }
