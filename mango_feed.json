@@ -3,6 +3,12 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Aza [Capítulo 31]",
+			"title": "Cómic Aza [Capítulo 31]",
+			"url": "https://ikigaitoon.eltanews.com/series/aza/",
+			"date_published": "2025-05-15T08:27:48.249Z"
+		},
+		{
 			"id": "Cómic Mi Hermana Casada [Capítulo 23: Orckuro Translations]",
 			"title": "Cómic Mi Hermana Casada [Capítulo 23: Orckuro Translations]",
 			"url": "https://ikigaitoon.eltanews.com/series/mi-hermana-casada/",
@@ -2994,12 +3000,6 @@
 			"id": "Cómic Venganza carnal [Capítulo 8]",
 			"title": "Cómic Venganza carnal [Capítulo 8]",
 			"url": "https://visualikigai.prriegeurfhefieof.xyz/series/venganza-carnal/",
-			"date_published": "2025-05-09T16:25:04.371Z"
-		},
-		{
-			"id": "Cómic Gestión de relaciones laborales [Capítulo 16]",
-			"title": "Cómic Gestión de relaciones laborales [Capítulo 16]",
-			"url": "https://visualikigai.prriegeurfhefieof.xyz/series/gestion-de-relaciones-laborales/",
 			"date_published": "2025-05-09T16:25:04.371Z"
 		}
 	]
