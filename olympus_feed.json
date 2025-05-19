@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Item Chetado [Capítulo 130]",
+			"title": "Item Chetado [Capítulo 130]",
+			"url": "https://olympusbiblioteca.com/series/comic-item-chetado20250518-111133731",
+			"date_published": "2025-05-19T03:18:55.602Z"
+		},
+		{
+			"id": "La luz de Arad: Aquel que camina primero [Capítulo 53]",
+			"title": "La luz de Arad: Aquel que camina primero [Capítulo 53]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-luz-de-arad-aquel-que-camina-primero20250518-110656293",
+			"date_published": "2025-05-19T03:18:55.602Z"
+		},
+		{
+			"id": "El Profesor Encubierto de la Academia [Capítulo 119]",
+			"title": "El Profesor Encubierto de la Academia [Capítulo 119]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-profesor-encubierto-de-la-academia20250518-110145597",
+			"date_published": "2025-05-19T03:18:55.602Z"
+		},
+		{
 			"id": "El Guerrero Escolta Reencarnado [Capítulo 107]",
 			"title": "El Guerrero Escolta Reencarnado [Capítulo 107]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-gu10-05-2025encarnado",
@@ -2983,24 +3001,6 @@
 			"title": "El último aventurero [Capítulo 68]",
 			"url": "https://olympusbiblioteca.com/series/comic-s-a-05-02-abc19-4-228259-7-4zxzx29m-23-04-25-03",
 			"date_published": "2025-05-02T22:18:43.893Z"
-		},
-		{
-			"id": "El soberano del hogar [Capítulo 28]",
-			"title": "El soberano del hogar [Capítulo 28]",
-			"url": "https://olympusbiblioteca.com/series/comic-228254tdd101asa-04-25-253-2025",
-			"date_published": "2025-05-02T22:18:43.893Z"
-		},
-		{
-			"id": "¿De Influencer Gymbro a un Perdedor de Webtoon? [Capítulo 4]",
-			"title": "¿De Influencer Gymbro a un Perdedor de Webtoon? [Capítulo 4]",
-			"url": "https://olympusbiblioteca.com/series/comic-de-influencer-gymbro-a-un-perdedor-de-webtoon",
-			"date_published": "2025-05-02T22:18:43.893Z"
-		},
-		{
-			"id": "La leyenda del dios demonio reencarnado [Capítulo 42]",
-			"title": "La leyenda del dios demonio reencarnado [Capítulo 42]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-leyenda-del-dios-demonio-reencarnado",
-			"date_published": "2025-05-02T20:21:39.946Z"
 		}
 	]
 }
