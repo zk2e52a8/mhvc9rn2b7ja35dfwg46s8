@@ -3,6 +3,18 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Circulitos [Capítulo 215.5: Epílogo]",
+			"title": "Cómic Circulitos [Capítulo 215.5: Epílogo]",
+			"url": "https://visualikigai.udonun.net/series/circulitos/",
+			"date_published": "2025-05-19T08:29:26.346Z"
+		},
+		{
+			"id": "Cómic Cuando recoges a un esposo sospechoso [Capítulo 9]",
+			"title": "Cómic Cuando recoges a un esposo sospechoso [Capítulo 9]",
+			"url": "https://visualikigai.udonun.net/series/cuando-recoges-a-un-esposo-sospechoso/",
+			"date_published": "2025-05-19T08:29:26.346Z"
+		},
+		{
 			"id": "Cómic Chica Sucia [Capítulo 6: Orckuro Translation]",
 			"title": "Cómic Chica Sucia [Capítulo 6: Orckuro Translation]",
 			"url": "https://visualikigai.udonun.net/series/chica-sucia/",
@@ -2989,18 +3001,6 @@
 			"title": "Cómic De debilucho a némesis [Capítulo 10]",
 			"url": "https://visualikigai.prriegeurfhefieof.xyz/series/de-debilucho-a-nemesis/",
 			"date_published": "2025-05-13T16:27:21.540Z"
-		},
-		{
-			"id": "Cómic El Padre Y La Hija [Capítulo 28]",
-			"title": "Cómic El Padre Y La Hija [Capítulo 28]",
-			"url": "https://visualikigai.prriegeurfhefieof.xyz/series/el-padre-y-la-hija/",
-			"date_published": "2025-05-13T14:21:04.391Z"
-		},
-		{
-			"id": "Cómic La princesa demoníaca [Capítulo 6]",
-			"title": "Cómic La princesa demoníaca [Capítulo 6]",
-			"url": "https://visualikigai.prriegeurfhefieof.xyz/series/la-princesa-demoniaca/",
-			"date_published": "2025-05-13T14:21:04.391Z"
 		}
 	]
 }
