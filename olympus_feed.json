@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El último aventurero [Capítulo 71]",
+			"title": "El último aventurero [Capítulo 71]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-ultimo-aventurero20250519-110835144",
+			"date_published": "2025-05-20T03:14:02.218Z"
+		},
+		{
 			"id": "El bárbaro de la estación de Seúl [Capítulo 35]",
 			"title": "El bárbaro de la estación de Seúl [Capítulo 35]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-barbaro-de-la-estacion-de-seul20250519-111132828",
@@ -2995,12 +3001,6 @@
 			"title": "El Extra es Demasiado Fuerte [Capítulo 87.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-baki-coreano13424",
 			"date_published": "2025-05-03T14:17:01.786Z"
-		},
-		{
-			"id": "Guia de supervivencia del extra de la academia [Capítulo 76]",
-			"title": "Guia de supervivencia del extra de la academia [Capítulo 76]",
-			"url": "https://olympusbiblioteca.com/series/comic-2282505-02-abc4-25-19-m5es429-03",
-			"date_published": "2025-05-03T12:35:43.320Z"
 		}
 	]
 }
