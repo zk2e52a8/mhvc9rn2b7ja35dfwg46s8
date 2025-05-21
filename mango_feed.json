@@ -3,6 +3,18 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Amante de 4 Semanas [Capítulo 115]",
+			"title": "Cómic Amante de 4 Semanas [Capítulo 115]",
+			"url": "https://visualikigai.tutorialesminecraft.com/series/amante-de-4-semanas/",
+			"date_published": "2025-05-21T10:21:50.721Z"
+		},
+		{
+			"id": "Cómic Feliz locura [Capítulo 35]",
+			"title": "Cómic Feliz locura [Capítulo 35]",
+			"url": "https://visualikigai.tutorialesminecraft.com/series/feliz-locura/",
+			"date_published": "2025-05-21T10:21:50.721Z"
+		},
+		{
 			"id": "Cómic Ella doma a los Héroes [Capítulo 5]",
 			"title": "Cómic Ella doma a los Héroes [Capítulo 5]",
 			"url": "https://visualikigai.tutorialesminecraft.com/series/ella-doma-a-los-heroes/",
@@ -2988,18 +3000,6 @@
 			"id": "Cómic ¡Moe Moe Byuun! [Capítulo 2: Orckuro Translations]",
 			"title": "Cómic ¡Moe Moe Byuun! [Capítulo 2: Orckuro Translations]",
 			"url": "https://ikigaitoon.eltanews.com/series/moe-moe-byuun/",
-			"date_published": "2025-05-15T06:30:21.995Z"
-		},
-		{
-			"id": "Cómic El caballero de la joven dama [Capítulo 1]",
-			"title": "Cómic El caballero de la joven dama [Capítulo 1]",
-			"url": "https://ikigaitoon.eltanews.com/series/el-caballero-de-la-joven-dama/",
-			"date_published": "2025-05-15T06:30:21.995Z"
-		},
-		{
-			"id": "Cómic La emperatriz asesina [Capítulo 14]",
-			"title": "Cómic La emperatriz asesina [Capítulo 14]",
-			"url": "https://ikigaitoon.eltanews.com/series/la-emperatriz-asesina/",
 			"date_published": "2025-05-15T06:30:21.995Z"
 		}
 	]
