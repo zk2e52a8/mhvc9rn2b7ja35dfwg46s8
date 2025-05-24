@@ -3,6 +3,30 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Querido cielo de verano [Capítulo 7: Orckuro Translations]",
+			"title": "Cómic Querido cielo de verano [Capítulo 7: Orckuro Translations]",
+			"url": "https://ikigaitoon.fraviral.com/series/querido-cielo-de-verano/",
+			"date_published": "2025-05-24T08:23:19.084Z"
+		},
+		{
+			"id": "Cómic maldicion de media noche [Capítulo 23: Orckuro Translations]",
+			"title": "Cómic maldicion de media noche [Capítulo 23: Orckuro Translations]",
+			"url": "https://ikigaitoon.fraviral.com/series/maldicion-de-media-noche/",
+			"date_published": "2025-05-24T08:23:19.084Z"
+		},
+		{
+			"id": "Cómic La Princesa Monstruo [Capítulo 69]",
+			"title": "Cómic La Princesa Monstruo [Capítulo 69]",
+			"url": "https://ikigaitoon.fraviral.com/series/la-princesa-monstruo/",
+			"date_published": "2025-05-24T08:23:19.084Z"
+		},
+		{
+			"id": "Cómic No le prestes atención a la villana [Capítulo 4]",
+			"title": "Cómic No le prestes atención a la villana [Capítulo 4]",
+			"url": "https://ikigaitoon.fraviral.com/series/no-le-prestes-atencion-a-la-villana/",
+			"date_published": "2025-05-24T08:23:19.083Z"
+		},
+		{
 			"id": "Cómic Biblioteca A La Luz De La Luna [Capítulo 87]",
 			"title": "Cómic Biblioteca A La Luz De La Luna [Capítulo 87]",
 			"url": "https://ikigaitoon.fraviral.com/series/biblioteca-a-la-luz-de-la-luna/",
@@ -2977,30 +3001,6 @@
 			"title": "Cómic Buscando esposa para Hwanung [Capítulo 3]",
 			"url": "https://visualikigai.udonun.net/series/buscando-esposa-para-hwanung/",
 			"date_published": "2025-05-18T22:18:16.549Z"
-		},
-		{
-			"id": "Cómic La bestia de Bahal no pierde su presa [Capítulo 2]",
-			"title": "Cómic La bestia de Bahal no pierde su presa [Capítulo 2]",
-			"url": "https://visualikigai.udonun.net/series/la-bestia-de-bahal-no-pierde-su-presa/",
-			"date_published": "2025-05-18T22:18:16.549Z"
-		},
-		{
-			"id": "Cómic Cambio de trabajo. [Capítulo 14]",
-			"title": "Cómic Cambio de trabajo. [Capítulo 14]",
-			"url": "https://visualikigai.udonun.net/series/cambio-de-trabajo/",
-			"date_published": "2025-05-18T22:18:16.548Z"
-		},
-		{
-			"id": "Cómic Escándalo Inmoral [Capítulo 8]",
-			"title": "Cómic Escándalo Inmoral [Capítulo 8]",
-			"url": "https://visualikigai.udonun.net/series/escandalo-inmoral/",
-			"date_published": "2025-05-18T20:21:14.099Z"
-		},
-		{
-			"id": "Cómic Cariño, Es Un Malentendido [Capítulo 26]",
-			"title": "Cómic Cariño, Es Un Malentendido [Capítulo 26]",
-			"url": "https://visualikigai.udonun.net/series/carino-es-un-malentendido/",
-			"date_published": "2025-05-18T20:21:14.099Z"
 		}
 	]
 }
