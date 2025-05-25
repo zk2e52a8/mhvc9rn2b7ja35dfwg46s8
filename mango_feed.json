@@ -3,6 +3,30 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Chica Sucia [Capítulo 7: Orckuro Translation]",
+			"title": "Cómic Chica Sucia [Capítulo 7: Orckuro Translation]",
+			"url": "https://ikigaitoon.fraviral.com/series/chica-sucia/",
+			"date_published": "2025-05-25T04:26:35.821Z"
+		},
+		{
+			"id": "Cómic No le prestes atención a la villana [Capítulo 9]",
+			"title": "Cómic No le prestes atención a la villana [Capítulo 9]",
+			"url": "https://ikigaitoon.fraviral.com/series/no-le-prestes-atencion-a-la-villana/",
+			"date_published": "2025-05-25T04:26:35.821Z"
+		},
+		{
+			"id": "Cómic La nuera del villano está hecha para mandar [Capítulo 3]",
+			"title": "Cómic La nuera del villano está hecha para mandar [Capítulo 3]",
+			"url": "https://ikigaitoon.fraviral.com/series/la-nuera-del-villano-esta-hecha-para-mandar/",
+			"date_published": "2025-05-25T04:26:35.821Z"
+		},
+		{
+			"id": "Cómic Amigo Secreto [Capítulo 40: Orckuro Translation]",
+			"title": "Cómic Amigo Secreto [Capítulo 40: Orckuro Translation]",
+			"url": "https://ikigaitoon.fraviral.com/series/amigo-secreto-universitario/",
+			"date_published": "2025-05-25T04:26:35.821Z"
+		},
+		{
 			"id": "Cómic Caí En Los Brazos De Un Villano Loco [Capítulo 73]",
 			"title": "Cómic Caí En Los Brazos De Un Villano Loco [Capítulo 73]",
 			"url": "https://ikigaitoon.fraviral.com/series/cai-en-los-brazos-de-un-villano-loco/",
@@ -2977,30 +3001,6 @@
 			"title": "Cómic Adicción [Capítulo 42]",
 			"url": "https://visualikigai.udonun.net/series/adiccion/",
 			"date_published": "2025-05-19T22:19:38.309Z"
-		},
-		{
-			"id": "Cómic Deseo sucio [Capítulo 6]",
-			"title": "Cómic Deseo sucio [Capítulo 6]",
-			"url": "https://visualikigai.udonun.net/series/deseo-sucio/",
-			"date_published": "2025-05-19T22:19:38.309Z"
-		},
-		{
-			"id": "Cómic El marido contratado se parece al protagonista masculino [Capítulo 9]",
-			"title": "Cómic El marido contratado se parece al protagonista masculino [Capítulo 9]",
-			"url": "https://visualikigai.udonun.net/series/el-marido-contratado-se-parece-al-protagonista-masculino/",
-			"date_published": "2025-05-19T20:22:57.203Z"
-		},
-		{
-			"id": "Cómic Las lecciones secretas de la reina [Capítulo 57]",
-			"title": "Cómic Las lecciones secretas de la reina [Capítulo 57]",
-			"url": "https://visualikigai.udonun.net/series/las-lecciones-secretas-de-la-reina-0/",
-			"date_published": "2025-05-19T20:22:57.203Z"
-		},
-		{
-			"id": "Cómic No soy tu guía destinado. [Capítulo 1]",
-			"title": "Cómic No soy tu guía destinado. [Capítulo 1]",
-			"url": "https://visualikigai.udonun.net/series/no-soy-tu-guia-destinado/",
-			"date_published": "2025-05-19T20:22:57.203Z"
 		}
 	]
 }
