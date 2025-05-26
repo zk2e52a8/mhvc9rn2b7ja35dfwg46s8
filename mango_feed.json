@@ -3,57 +3,183 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic La Fuga [Capítulo 3]",
+			"title": "Cómic La Fuga [Capítulo 3]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/la-fuga/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic Un barrio sin nada especial [Capítulo]",
+			"title": "Cómic Un barrio sin nada especial [Capítulo]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/un-barrio-sin-nada-especial/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic Mago genio rompedor de límites [Capítulo 3]",
+			"title": "Cómic Mago genio rompedor de límites [Capítulo 3]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/mago-genio-rompedor-de-limites/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic La Piedra Arrojada Al Lago [Capítulo 38]",
+			"title": "Cómic La Piedra Arrojada Al Lago [Capítulo 38]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/la-piedra-arrojada-al-lago/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic CLASIFICACION SALVAJE [Capítulo 5]",
+			"title": "Cómic CLASIFICACION SALVAJE [Capítulo 5]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/clasificacion-salvaje/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic Alerta amber [Capítulo 26]",
+			"title": "Cómic Alerta amber [Capítulo 26]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/alerta-amber/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic cumpleaños de tigre [Capítulo 6]",
+			"title": "Cómic cumpleaños de tigre [Capítulo 6]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/cumpleanos-de-tigre/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic creador de finales ocultos [Capítulo 12]",
+			"title": "Cómic creador de finales ocultos [Capítulo 12]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/creador-de-finales-ocultos/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic Recién casados ​​ [Capítulo 8]",
+			"title": "Cómic Recién casados ​​ [Capítulo 8]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/recien-casados/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic La bruja del caballo pálido [Capítulo 63]",
+			"title": "Cómic La bruja del caballo pálido [Capítulo 63]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/la-bruja-del-caballo-palido/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic Chispa aromatica (omegaverse) [Capítulo 32]",
+			"title": "Cómic Chispa aromatica (omegaverse) [Capítulo 32]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/chispa-aromatica-omegaverse/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic Cuna del tigre (omegaverse) [Capítulo 42]",
+			"title": "Cómic Cuna del tigre (omegaverse) [Capítulo 42]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/cuna-del-tigre-omegaverse/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic Diario de observación del diente de león (omegaverse) [Capítulo 31]",
+			"title": "Cómic Diario de observación del diente de león (omegaverse) [Capítulo 31]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/diario-de-observacion-del-diente-de-leon-omegaverse/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic Yo domé al Príncipe Monstruo [Capítulo 15.5: 𝑫𝒊́𝒂 𝒅𝒆 𝒂𝒄𝒕𝒖𝒂𝒍𝒊𝒛𝒂𝒄𝒊𝒐́𝒏]",
+			"title": "Cómic Yo domé al Príncipe Monstruo [Capítulo 15.5: 𝑫𝒊́𝒂 𝒅𝒆 𝒂𝒄𝒕𝒖𝒂𝒍𝒊𝒛𝒂𝒄𝒊𝒐́𝒏]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/yo-dome-al-principe-monstruo/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic La nuera del villano está hecha para mandar [Capítulo 13]",
+			"title": "Cómic La nuera del villano está hecha para mandar [Capítulo 13]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/la-nuera-del-villano-esta-hecha-para-mandar/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic No le prestes atención a la villana [Capítulo 15]",
+			"title": "Cómic No le prestes atención a la villana [Capítulo 15]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/no-le-prestes-atencion-a-la-villana/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic Cuando la arrogancia cayó a mis pies [Capítulo 10]",
+			"title": "Cómic Cuando la arrogancia cayó a mis pies [Capítulo 10]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/cuando-la-arrogancia-cayo-a-mis-pies/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic Administrador del Deseo de la Cazadora [Capítulo 49]",
+			"title": "Cómic Administrador del Deseo de la Cazadora [Capítulo 49]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/administrador-del-deseo-de-la-cazadora/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic Pedro el Asesino [Capítulo 94]",
+			"title": "Cómic Pedro el Asesino [Capítulo 94]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/pedro-el-asesino/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic Venganza Imparable [Capítulo 20]",
+			"title": "Cómic Venganza Imparable [Capítulo 20]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/venganza-imparable/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
+			"id": "Cómic Las consecuencias de cambiar la historia original [Capítulo 23]",
+			"title": "Cómic Las consecuencias de cambiar la historia original [Capítulo 23]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/las-consecuencias-de-cambiar-la-historia-original/",
+			"date_published": "2025-05-26T22:19:52.005Z"
+		},
+		{
 			"id": "Cómic ¡Hasta un hombre salvaje quiere amar! [Capítulo 1]",
 			"title": "Cómic ¡Hasta un hombre salvaje quiere amar! [Capítulo 1]",
-			"url": "https://ikigaitoon.fraviral.com/series/hasta-un-hombre-salvaje-quiere-amar/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/hasta-un-hombre-salvaje-quiere-amar/",
 			"date_published": "2025-05-26T18:27:12.302Z"
 		},
 		{
 			"id": "Cómic Clases Secretas con mi hermanita [Capítulo 60]",
 			"title": "Cómic Clases Secretas con mi hermanita [Capítulo 60]",
-			"url": "https://ikigaitoon.fraviral.com/series/clases-secretas-con-mi-hermanita/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/clases-secretas-con-mi-hermanita/",
 			"date_published": "2025-05-26T18:27:12.302Z"
 		},
 		{
 			"id": "Cómic La vida de los atletas [Capítulo 33]",
 			"title": "Cómic La vida de los atletas [Capítulo 33]",
-			"url": "https://ikigaitoon.fraviral.com/series/la-vida-de-los-atletas/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/la-vida-de-los-atletas/",
 			"date_published": "2025-05-26T18:27:12.302Z"
 		},
 		{
 			"id": "Cómic Triunfando en el Mundo del Cómic [Capítulo 36]",
 			"title": "Cómic Triunfando en el Mundo del Cómic [Capítulo 36]",
-			"url": "https://ikigaitoon.fraviral.com/series/triunfando-en-el-mundo-del-comic/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/triunfando-en-el-mundo-del-comic/",
 			"date_published": "2025-05-26T18:27:12.302Z"
 		},
 		{
 			"id": "Cómic ¡Subí como la espuma en el mundo de las criptomonedas! [Capítulo 31]",
 			"title": "Cómic ¡Subí como la espuma en el mundo de las criptomonedas! [Capítulo 31]",
-			"url": "https://ikigaitoon.fraviral.com/series/subi-como-la-espuma-en-el-mundo-de-las-criptomonedas/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/subi-como-la-espuma-en-el-mundo-de-las-criptomonedas/",
 			"date_published": "2025-05-26T18:27:12.302Z"
 		},
 		{
 			"id": "Cómic Amor de Caramelo de Menta [Capítulo 12]",
 			"title": "Cómic Amor de Caramelo de Menta [Capítulo 12]",
-			"url": "https://ikigaitoon.fraviral.com/series/amor-de-caramelo-de-menta/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/amor-de-caramelo-de-menta/",
 			"date_published": "2025-05-26T18:27:12.302Z"
 		},
 		{
 			"id": "Cómic El guardian del Dragón [Capítulo 35]",
 			"title": "Cómic El guardian del Dragón [Capítulo 35]",
-			"url": "https://ikigaitoon.fraviral.com/series/el-guardian-del-dragon/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/el-guardian-del-dragon/",
 			"date_published": "2025-05-26T18:27:12.302Z"
 		},
 		{
 			"id": "Cómic El límite del engaño [Capítulo 22]",
 			"title": "Cómic El límite del engaño [Capítulo 22]",
-			"url": "https://ikigaitoon.fraviral.com/series/el-limite-del-engano/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/el-limite-del-engano/",
 			"date_published": "2025-05-26T18:27:12.302Z"
 		},
 		{
 			"id": "Cómic Escapa de mí si puedes [Capítulo 5]",
 			"title": "Cómic Escapa de mí si puedes [Capítulo 5]",
-			"url": "https://ikigaitoon.fraviral.com/series/escapa-de-mi-si-puedes/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/escapa-de-mi-si-puedes/",
 			"date_published": "2025-05-26T18:27:12.302Z"
 		},
 		{
@@ -71,7 +197,7 @@
 		{
 			"id": "Cómic Ojo de la tormenta [Capítulo 13]",
 			"title": "Cómic Ojo de la tormenta [Capítulo 13]",
-			"url": "https://ikigaitoon.fraviral.com/series/ojo-de-la-tormenta/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/ojo-de-la-tormenta/",
 			"date_published": "2025-05-26T18:27:12.302Z"
 		},
 		{
@@ -83,25 +209,25 @@
 		{
 			"id": "Cómic La chica de las gachas de al lado [Capítulo 52]",
 			"title": "Cómic La chica de las gachas de al lado [Capítulo 52]",
-			"url": "https://ikigaitoon.fraviral.com/series/la-chica-de-las-gachas-de-al-lado/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/la-chica-de-las-gachas-de-al-lado/",
 			"date_published": "2025-05-26T16:24:36.139Z"
 		},
 		{
 			"id": "Cómic Camino a ver a mi madre [Capítulo 29]",
 			"title": "Cómic Camino a ver a mi madre [Capítulo 29]",
-			"url": "https://ikigaitoon.fraviral.com/series/camino-a-ver-a-mi-madre/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/camino-a-ver-a-mi-madre/",
 			"date_published": "2025-05-26T16:24:36.139Z"
 		},
 		{
 			"id": "Cómic El Extra De La Novela - Remake [Capítulo 129]",
 			"title": "Cómic El Extra De La Novela - Remake [Capítulo 129]",
-			"url": "https://ikigaitoon.fraviral.com/series/el-extra-de-la-novela-remake/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/el-extra-de-la-novela-remake/",
 			"date_published": "2025-05-26T16:24:36.139Z"
 		},
 		{
 			"id": "Cómic El Romance de Lee Seob [Capítulo 76]",
 			"title": "Cómic El Romance de Lee Seob [Capítulo 76]",
-			"url": "https://ikigaitoon.fraviral.com/series/el-romance-de-lee-seob/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/el-romance-de-lee-seob/",
 			"date_published": "2025-05-26T16:24:36.139Z"
 		},
 		{
@@ -113,7 +239,7 @@
 		{
 			"id": "Cómic ¡El Héroe De Nivel Máximo Ha Retornado! [Capítulo 204]",
 			"title": "Cómic ¡El Héroe De Nivel Máximo Ha Retornado! [Capítulo 204]",
-			"url": "https://ikigaitoon.fraviral.com/series/el-heroe-de-nivel-maximo-ha-retornado/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/el-heroe-de-nivel-maximo-ha-retornado/",
 			"date_published": "2025-05-26T16:24:36.139Z"
 		},
 		{
@@ -125,25 +251,25 @@
 		{
 			"id": "Cómic El Príncipe no llora por meras cebollas. [Capítulo 40]",
 			"title": "Cómic El Príncipe no llora por meras cebollas. [Capítulo 40]",
-			"url": "https://ikigaitoon.fraviral.com/series/el-principe-no-llora-por-meras-cebollas/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/el-principe-no-llora-por-meras-cebollas/",
 			"date_published": "2025-05-26T16:24:36.139Z"
 		},
 		{
 			"id": "Cómic Vi Una Obra De Teatro [Capítulo 28]",
 			"title": "Cómic Vi Una Obra De Teatro [Capítulo 28]",
-			"url": "https://ikigaitoon.fraviral.com/series/vi-una-obra-de-teatro/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/vi-una-obra-de-teatro/",
 			"date_published": "2025-05-26T16:24:36.139Z"
 		},
 		{
 			"id": "Cómic Me Convertí En La Sirvienta De Un Tirano [Capítulo 76]",
 			"title": "Cómic Me Convertí En La Sirvienta De Un Tirano [Capítulo 76]",
-			"url": "https://ikigaitoon.fraviral.com/series/me-converti-en-la-sirvienta-de-un-tirano/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/me-converti-en-la-sirvienta-de-un-tirano/",
 			"date_published": "2025-05-26T16:24:36.139Z"
 		},
 		{
 			"id": "Cómic Me Convertí En La Madrastra De Una Familia Oscura Irrevocable [Capítulo 62]",
 			"title": "Cómic Me Convertí En La Madrastra De Una Familia Oscura Irrevocable [Capítulo 62]",
-			"url": "https://ikigaitoon.fraviral.com/series/me-converti-en-la-madrastra-de-una-familia-oscura-irrevocable/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/me-converti-en-la-madrastra-de-una-familia-oscura-irrevocable/",
 			"date_published": "2025-05-26T14:20:18.711Z"
 		},
 		{
@@ -161,7 +287,7 @@
 		{
 			"id": "Cómic Me Convertí En El Genio Bastardo De Un Noble Clan Oscuro [Capítulo 33]",
 			"title": "Cómic Me Convertí En El Genio Bastardo De Un Noble Clan Oscuro [Capítulo 33]",
-			"url": "https://ikigaitoon.fraviral.com/series/me-converti-en-el-genio-bastardo-de-un-noble-clan-oscuro/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/me-converti-en-el-genio-bastardo-de-un-noble-clan-oscuro/",
 			"date_published": "2025-05-26T14:20:18.711Z"
 		},
 		{
@@ -173,13 +299,13 @@
 		{
 			"id": "Cómic Me Convertí En La Sierva Del Tirano [Capítulo 74]",
 			"title": "Cómic Me Convertí En La Sierva Del Tirano [Capítulo 74]",
-			"url": "https://ikigaitoon.fraviral.com/series/me-converti-en-la-sierva-del-tirano/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/me-converti-en-la-sierva-del-tirano/",
 			"date_published": "2025-05-26T14:20:18.711Z"
 		},
 		{
 			"id": "Cómic Comienza la caza [Capítulo 9]",
 			"title": "Cómic Comienza la caza [Capítulo 9]",
-			"url": "https://ikigaitoon.fraviral.com/series/comienza-la-caza/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/comienza-la-caza/",
 			"date_published": "2025-05-26T14:20:18.711Z"
 		},
 		{
@@ -191,7 +317,7 @@
 		{
 			"id": "Cómic El Trabajo de los Profesores [Capítulo 46]",
 			"title": "Cómic El Trabajo de los Profesores [Capítulo 46]",
-			"url": "https://ikigaitoon.fraviral.com/series/el-trabajo-de-los-profesores/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/el-trabajo-de-los-profesores/",
 			"date_published": "2025-05-26T12:40:00.686Z"
 		},
 		{
@@ -227,7 +353,7 @@
 		{
 			"id": "Cómic no toques el perro [Capítulo 44]",
 			"title": "Cómic no toques el perro [Capítulo 44]",
-			"url": "https://ikigaitoon.fraviral.com/series/no-toques-el-perro/",
+			"url": "https://visualikigai.veterinariasenperu.one/series/no-toques-el-perro/",
 			"date_published": "2025-05-26T04:26:49.805Z"
 		},
 		{
@@ -2875,132 +3001,6 @@
 			"title": "Cómic ¡¿Mi hija tiene la misma edad que tú?! [Capítulo 30]",
 			"url": "https://visualikigai.tutorialesminecraft.com/series/mi-hija-tiene-la-misma-edad-que-tu/",
 			"date_published": "2025-05-21T14:20:37.252Z"
-		},
-		{
-			"id": "Cómic Manzana podrida [Capítulo 1]",
-			"title": "Cómic Manzana podrida [Capítulo 1]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/manzana-podrida/",
-			"date_published": "2025-05-21T14:20:37.252Z"
-		},
-		{
-			"id": "Cómic Cuando recoges a un esposo sospechoso [Capítulo 17]",
-			"title": "Cómic Cuando recoges a un esposo sospechoso [Capítulo 17]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/cuando-recoges-a-un-esposo-sospechoso/",
-			"date_published": "2025-05-21T12:41:26.253Z"
-		},
-		{
-			"id": "Cómic Los primeros amores son así, Majestad [Capítulo 24]",
-			"title": "Cómic Los primeros amores son así, Majestad [Capítulo 24]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/los-primeros-amores-son-asi-majestad/",
-			"date_published": "2025-05-21T12:41:26.253Z"
-		},
-		{
-			"id": "Cómic Amante de 4 Semanas [Capítulo 115]",
-			"title": "Cómic Amante de 4 Semanas [Capítulo 115]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/amante-de-4-semanas/",
-			"date_published": "2025-05-21T10:21:50.721Z"
-		},
-		{
-			"id": "Cómic Feliz locura [Capítulo 35]",
-			"title": "Cómic Feliz locura [Capítulo 35]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/feliz-locura/",
-			"date_published": "2025-05-21T10:21:50.721Z"
-		},
-		{
-			"id": "Cómic Ella doma a los Héroes [Capítulo 5]",
-			"title": "Cómic Ella doma a los Héroes [Capítulo 5]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/ella-doma-a-los-heroes/",
-			"date_published": "2025-05-21T08:27:36.501Z"
-		},
-		{
-			"id": "Cómic A la sombra de la familia [Capítulo 6]",
-			"title": "Cómic A la sombra de la familia [Capítulo 6]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/sombra-de-la-familia/",
-			"date_published": "2025-05-21T06:29:51.660Z"
-		},
-		{
-			"id": "Cómic Cuando recoges a un esposo sospechoso [Capítulo 16]",
-			"title": "Cómic Cuando recoges a un esposo sospechoso [Capítulo 16]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/cuando-recoges-a-un-esposo-sospechoso/",
-			"date_published": "2025-05-21T06:29:51.660Z"
-		},
-		{
-			"id": "Cómic Mi Hermana Casada [Capítulo 29: Orckuro Translations]",
-			"title": "Cómic Mi Hermana Casada [Capítulo 29: Orckuro Translations]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/mi-hermana-casada/",
-			"date_published": "2025-05-21T06:29:51.660Z"
-		},
-		{
-			"id": "Cómic Le di mi cuerpo al amigo de mi hijo [Capítulo 3: Orckuro Translations]",
-			"title": "Cómic Le di mi cuerpo al amigo de mi hijo [Capítulo 3: Orckuro Translations]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/le-di-mi-cuerpo-al-amigo-de-mi-hijo/",
-			"date_published": "2025-05-21T06:29:51.660Z"
-		},
-		{
-			"id": "Cómic La Bebe Es Una Tirana [Capítulo 111]",
-			"title": "Cómic La Bebe Es Una Tirana [Capítulo 111]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/la-bebe-es-una-tirana/",
-			"date_published": "2025-05-21T06:29:51.660Z"
-		},
-		{
-			"id": "Cómic ¡Capitan!¿Es este el campo de batalla? [Capítulo 95]",
-			"title": "Cómic ¡Capitan!¿Es este el campo de batalla? [Capítulo 95]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/capitanes-este-el-campo-de-batalla/",
-			"date_published": "2025-05-21T06:29:51.660Z"
-		},
-		{
-			"id": "Cómic Me Convertí En La Hija Contratada De Una Familia Arruinada [Capítulo 55]",
-			"title": "Cómic Me Convertí En La Hija Contratada De Una Familia Arruinada [Capítulo 55]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/me-converti-en-la-hija-contratada-de-una-familia-arruinada/",
-			"date_published": "2025-05-21T04:25:09.137Z"
-		},
-		{
-			"id": "Cómic Al lado vive un tigre [Capítulo 12]",
-			"title": "Cómic Al lado vive un tigre [Capítulo 12]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/al-lado-vive-un-tigre/",
-			"date_published": "2025-05-21T04:25:09.137Z"
-		},
-		{
-			"id": "Cómic Grace en el país de las maravillas [Capítulo 22]",
-			"title": "Cómic Grace en el país de las maravillas [Capítulo 22]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/grace-en-el-pais-de-las-maravillas/",
-			"date_published": "2025-05-21T04:25:09.137Z"
-		},
-		{
-			"id": "Cómic Seres de Oscuridad [Capítulo 29: Orckuro Translation]",
-			"title": "Cómic Seres de Oscuridad [Capítulo 29: Orckuro Translation]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/seres-de-oscuridad/",
-			"date_published": "2025-05-21T04:25:09.137Z"
-		},
-		{
-			"id": "Cómic Cuando recoges a un esposo sospechoso [Capítulo 15]",
-			"title": "Cómic Cuando recoges a un esposo sospechoso [Capítulo 15]",
-			"url": "https://visualikigai.udonun.net/series/cuando-recoges-a-un-esposo-sospechoso/",
-			"date_published": "2025-05-21T04:25:09.137Z"
-		},
-		{
-			"id": "Cómic Dios de los infectados [Capítulo 14]",
-			"title": "Cómic Dios de los infectados [Capítulo 14]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/dios-de-los-infectados/",
-			"date_published": "2025-05-21T04:25:09.137Z"
-		},
-		{
-			"id": "Cómic EL DICIPULO DE LOS REYES [Capítulo 43]",
-			"title": "Cómic EL DICIPULO DE LOS REYES [Capítulo 43]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/el-dicipulo-de-los-reyes/",
-			"date_published": "2025-05-21T04:25:09.137Z"
-		},
-		{
-			"id": "Cómic La Cacería de Seo Jin-tae el 9no dragon [Capítulo 30]",
-			"title": "Cómic La Cacería de Seo Jin-tae el 9no dragon [Capítulo 30]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/la-caceria-de-seo-jin-tae-el-9no-dragon/",
-			"date_published": "2025-05-21T04:25:09.137Z"
-		},
-		{
-			"id": "Cómic En Esta Vida Yo Seré La Reina Hermana Mía [Capítulo 149]",
-			"title": "Cómic En Esta Vida Yo Seré La Reina Hermana Mía [Capítulo 149]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/en-esta-vida-yo-sere-la-reina-hermana-mia/",
-			"date_published": "2025-05-21T04:25:09.137Z"
 		}
 	]
 }
