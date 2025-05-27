@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Grupo de Estudio [Capítulo 268]",
+			"title": "Grupo de Estudio [Capítulo 268]",
+			"url": "https://olympusbiblioteca.com/series/comic-grupo-de-estudio20250526-111700321",
+			"date_published": "2025-05-27T03:11:10.882Z"
+		},
+		{
+			"id": "Me Convertí en el Prodigio de la Espada de una Familia de Renombre [Capítulo 154]",
+			"title": "Me Convertí en el Prodigio de la Espada de una Familia de Renombre [Capítulo 154]",
+			"url": "https://olympusbiblioteca.com/series/comic-me-converti-en-el-prodigio-de-la-espada-de-una-familia-de-renombre20250526-111250676",
+			"date_published": "2025-05-27T03:11:10.882Z"
+		},
+		{
 			"id": "El Mago Genio Destructor de Límites [Capítulo 5]",
 			"title": "El Mago Genio Destructor de Límites [Capítulo 5]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites",
@@ -2989,18 +3001,6 @@
 			"title": "Guia de supervivencia del extra de la academia [Capítulo 77]",
 			"url": "https://olympusbiblioteca.com/series/comic-9-m20-225-5es429-03",
 			"date_published": "2025-05-09T20:22:21.253Z"
-		},
-		{
-			"id": "El soberano del hogar [Capítulo 29]",
-			"title": "El soberano del hogar [Capítulo 29]",
-			"url": "https://olympusbiblioteca.com/series/comic-101defda5zxzasa-04-25-253-2025",
-			"date_published": "2025-05-09T18:27:32.529Z"
-		},
-		{
-			"id": "La leyenda del dios demonio reencarnado [Capítulo 43]",
-			"title": "La leyenda del dios demonio reencarnado [Capítulo 43]",
-			"url": "https://olympusbiblioteca.com/series/comic-o5324o-reencarnado",
-			"date_published": "2025-05-09T18:27:32.528Z"
 		}
 	]
 }
