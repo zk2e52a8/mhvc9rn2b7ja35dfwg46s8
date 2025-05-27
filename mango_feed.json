@@ -3,6 +3,12 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic La Fuga [Capítulo 8]",
+			"title": "Cómic La Fuga [Capítulo 8]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/la-fuga/",
+			"date_published": "2025-05-27T06:29:42.063Z"
+		},
+		{
 			"id": "Cómic Tristeza matrimonial [Capítulo 8]",
 			"title": "Cómic Tristeza matrimonial [Capítulo 8]",
 			"url": "https://visualikigai.veterinariasenperu.one/series/tristeza-matrimonial/",
@@ -2994,12 +3000,6 @@
 			"id": "Cómic Acerca de la destrucción exclusiva [Capítulo 56]",
 			"title": "Cómic Acerca de la destrucción exclusiva [Capítulo 56]",
 			"url": "https://visualikigai.tutorialesminecraft.com/series/acerca-de-la-destruccion-exclusiva/",
-			"date_published": "2025-05-21T18:29:10.566Z"
-		},
-		{
-			"id": "Cómic ¡Recógeme! [Capítulo 149]",
-			"title": "Cómic ¡Recógeme! [Capítulo 149]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/recogeme/",
 			"date_published": "2025-05-21T18:29:10.566Z"
 		}
 	]
