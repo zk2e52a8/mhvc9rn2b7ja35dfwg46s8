@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cambiando la masmorra [Capítulo 248]",
+			"title": "Cambiando la masmorra [Capítulo 248]",
+			"url": "https://olympusbiblioteca.com/series/comic-cambiando10-05-2025-la-masmorra13424",
+			"date_published": "2025-05-27T08:27:28.573Z"
+		},
+		{
 			"id": "El demonio celestial quiere una vida tranquila [Capítulo 32]",
 			"title": "El demonio celestial quiere una vida tranquila [Capítulo 32]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-demonio-celestial-quiere-una-vida-tranquila20250526-111023184",
@@ -2995,12 +3001,6 @@
 			"title": "Cazador Carnívoro [Capítulo 118]",
 			"url": "https://olympusbiblioteca.com/series/comic-cazador10-05-2025-carnivoro13424",
 			"date_published": "2025-05-09T22:18:37.354Z"
-		},
-		{
-			"id": "El demonio celestial quiere una vida tranquila [Capítulo 30]",
-			"title": "El demonio celestial quiere una vida tranquila [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-23-045zxz-2defda5-03-2025",
-			"date_published": "2025-05-09T20:22:21.253Z"
 		}
 	]
 }
