@@ -3,6 +3,30 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Inflitrado [Capítulo 19]",
+			"title": "Cómic Inflitrado [Capítulo 19]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/inflitrado/",
+			"date_published": "2025-05-28T12:41:40.241Z"
+		},
+		{
+			"id": "Cómic El único hombre en la unidad militar [Capítulo 8]",
+			"title": "Cómic El único hombre en la unidad militar [Capítulo 8]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/el-unico-hombre-en-la-unidad-militar/",
+			"date_published": "2025-05-28T12:41:40.241Z"
+		},
+		{
+			"id": "Cómic Recogi a una chica de la Basura [Capítulo 10: Orckuro Translation]",
+			"title": "Cómic Recogi a una chica de la Basura [Capítulo 10: Orckuro Translation]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/recogi-a-una-chica-de-la-basura/",
+			"date_published": "2025-05-28T12:41:40.241Z"
+		},
+		{
+			"id": "Cómic ¡El tanque de rango C que regresó no morirá! [Capítulo 20]",
+			"title": "Cómic ¡El tanque de rango C que regresó no morirá! [Capítulo 20]",
+			"url": "https://visualikigai.veterinariasenperu.one/series/el-tanque-de-rango-c-que-regreso-no-morira/",
+			"date_published": "2025-05-28T12:41:40.241Z"
+		},
+		{
 			"id": "Cómic La emperatriz asesina [Capítulo 16]",
 			"title": "Cómic La emperatriz asesina [Capítulo 16]",
 			"url": "https://visualikigai.veterinariasenperu.one/series/la-emperatriz-asesina/",
@@ -2977,30 +3001,6 @@
 			"title": "Cómic El Emperador Esclavo [Capítulo 10]",
 			"url": "https://visualikigai.tutorialesminecraft.com/series/el-emperador-esclavo/",
 			"date_published": "2025-05-23T03:11:58.913Z"
-		},
-		{
-			"id": "Novela Olvídate De Mi Esposo, Iré a Ganar Dinero - Novela [Capítulo 399: Historia Paralela 21 Final]",
-			"title": "Novela Olvídate De Mi Esposo, Iré a Ganar Dinero - Novela [Capítulo 399: Historia Paralela 21 Final]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/olvidate-de-mi-esposo-ire-a-ganar-dinero-novela/",
-			"date_published": "2025-05-23T03:11:58.913Z"
-		},
-		{
-			"id": "Cómic Mi Padre, El Semidios Posesivo [Capítulo 103]",
-			"title": "Cómic Mi Padre, El Semidios Posesivo [Capítulo 103]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/mi-padre-el-semidios-posesivo/",
-			"date_published": "2025-05-23T03:11:58.913Z"
-		},
-		{
-			"id": "Cómic Los primeros amores son así, Majestad [Capítulo 25]",
-			"title": "Cómic Los primeros amores son así, Majestad [Capítulo 25]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/los-primeros-amores-son-asi-majestad/",
-			"date_published": "2025-05-23T01:41:30.243Z"
-		},
-		{
-			"id": "Novela Trabajando En Una Mansión Embrujada - Novela [Capítulo 3]",
-			"title": "Novela Trabajando En Una Mansión Embrujada - Novela [Capítulo 3]",
-			"url": "https://visualikigai.tutorialesminecraft.com/series/trabajando-en-una-mansion-embrujada-novela/",
-			"date_published": "2025-05-23T01:41:30.243Z"
 		}
 	]
 }
