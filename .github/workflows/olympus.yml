@@ -1,5 +1,9 @@
 name: olympus
 
+concurrency:
+  group: scraping
+  cancel-in-progress: false
+
 on:
   schedule:
     - cron: '0 */2 * * *'
