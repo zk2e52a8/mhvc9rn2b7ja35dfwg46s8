@@ -1,0 +1,59 @@
+name: olympus
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  ejecutar_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar WireGuard
+        run: sudo apt-get update && sudo apt-get install -y wireguard-tools
+
+      - name: Configurar WireGuard
+        run: |
+          sudo mkdir -p /etc/wireguard/
+          echo "${{ secrets.WG_CONFIG }}" | sudo tee /etc/wireguard/wg0.conf > /dev/null
+          sudo chmod 600 /etc/wireguard/wg0.conf
+
+      - name: Iniciar conexión WireGuard (timeout 30s)
+        run: |
+          sudo timeout --foreground 30s wg-quick up wg0 \
+            || { echo "::error:: No se logró conectarse a WireGuard wg0"; exit 1; }
+
+      - name: Verificar conexión WireGuard
+        run: |
+          if ! curl --max-time 10 -s https://google.com > /dev/null; then
+            echo "::error:: Conexión no establecida; revisar credenciales"
+            exit 1
+          fi
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+
+      - name: Instalar dependencias
+        run: |
+          npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
+          npx puppeteer browsers install chrome
+
+      - name: Configurar git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Ejecutar script
+        run: |
+          node ./scraping_comics.js "olympus_config.json"
+
+      - name: Subir cambios
+        run: |
+          git add -A
+          git commit -m "Actualizado" || echo "Sin cambios"
+          git pull origin main --rebase
+          git push origin main
