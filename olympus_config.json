@@ -6,7 +6,7 @@
 	"url_paginacion": "?page=",
 	"patron_ficha": ".bg-gray-800.p-4.rounded-xl.relative",
 	"patron_titulo": "figcaption",
-	"patron_capitulo": ".flex.flex-col.gap-2.mt-4 a:first-child #name",
+	"patron_capitulo": ".flex.flex-col.gap-2.mt-4 a:first-child .chapter-name",
 	"titulo_feed": "Olympus - Nuevos capítulos",
 	"ruta_feed": "olympus_feed.json",
 	"min_paginas": "2",
