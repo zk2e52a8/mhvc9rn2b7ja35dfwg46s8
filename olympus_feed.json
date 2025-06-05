@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Emperador de Acero [Capítulo 44]",
+			"title": "Emperador de Acero [Capítulo 44]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperado10-05-2025r-de-acero",
+			"date_published": "2025-06-05T22:13:47.581Z"
+		},
+		{
+			"id": "Nueva Cara [Capítulo 558]",
+			"title": "Nueva Cara [Capítulo 558]",
+			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20250605-111355295",
+			"date_published": "2025-06-05T22:13:47.581Z"
+		},
+		{
 			"id": "BJ Archimago [Capítulo 139]",
 			"title": "BJ Archimago [Capítulo 139]",
 			"url": "https://olympusbiblioteca.com/series/comic-bj-arc10-05-2025himago5324",
@@ -2989,18 +3001,6 @@
 			"title": "Espada OP [Capítulo 142]",
 			"url": "https://olympusbiblioteca.com/series/comic-podero20-225-202313424",
 			"date_published": "2025-05-17T18:25:39.939Z"
-		},
-		{
-			"id": "El heroe de nivel legendario prodigio de la academia. [Capítulo 40]",
-			"title": "El heroe de nivel legendario prodigio de la academia. [Capítulo 40]",
-			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025rio-prodigio-de-la-academia",
-			"date_published": "2025-05-17T18:25:39.939Z"
-		},
-		{
-			"id": "El villano de mirada cortante de la Academia Demoniaca [Capítulo 25]",
-			"title": "El villano de mirada cortante de la Academia Demoniaca [Capítulo 25]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villano-de-mirada-cortante-de-la-academia-demoniaca20250518-110952839",
-			"date_published": "2025-05-17T16:22:53.148Z"
 		}
 	]
 }
