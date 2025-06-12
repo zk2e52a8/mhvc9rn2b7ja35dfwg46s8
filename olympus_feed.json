@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Emperador de Acero [Capítulo 45]",
+			"title": "Emperador de Acero [Capítulo 45]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperado10-05-2025r-de-acero",
+			"date_published": "2025-06-12T16:19:23.868Z"
+		},
+		{
+			"id": "El bastardo devorador de armas. [Capítulo 37]",
+			"title": "El bastardo devorador de armas. [Capítulo 37]",
+			"url": "https://olympusbiblioteca.com/series/comic-o5324evorador-de-armas",
+			"date_published": "2025-06-12T16:19:23.868Z"
+		},
+		{
+			"id": "El asesino que reencarnó como un genio espadachín [Capítulo 67]",
+			"title": "El asesino que reencarnó como un genio espadachín [Capítulo 67]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-asesi20-225-genio-espadachin13424",
+			"date_published": "2025-06-12T16:19:23.867Z"
+		},
+		{
 			"id": "Archimago trascendiendo a través de la regresión [Capítulo 154]",
 			"title": "Archimago trascendiendo a través de la regresión [Capítulo 154]",
 			"url": "https://olympusbiblioteca.com/series/comic-archima20-225-de-la-regresion13424",
@@ -2983,24 +3001,6 @@
 			"title": "Asesino de Dragones [Capítulo 152]",
 			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-dragones20250525-111439892",
 			"date_published": "2025-05-24T20:20:26.364Z"
-		},
-		{
-			"id": "El Regreso del Tirano del Apocalipsis [Capítulo 41]",
-			"title": "El Regreso del Tirano del Apocalipsis [Capítulo 41]",
-			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025tirano-del-apocalipsis13424",
-			"date_published": "2025-05-24T18:25:33.929Z"
-		},
-		{
-			"id": "Espada OP [Capítulo 143]",
-			"title": "Espada OP [Capítulo 143]",
-			"url": "https://olympusbiblioteca.com/series/comic-podero20-225-202313424",
-			"date_published": "2025-05-24T18:25:33.929Z"
-		},
-		{
-			"id": "El Asesino Yu Ijin [Capítulo 239]",
-			"title": "El Asesino Yu Ijin [Capítulo 239]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-yu-ijin20250525-110916084",
-			"date_published": "2025-05-24T16:22:48.014Z"
 		}
 	]
 }
