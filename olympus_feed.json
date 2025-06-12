@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Artes Marciales Globales [Capítulo 310]",
+			"title": "Artes Marciales Globales [Capítulo 310]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-m10-05-2025en-de-las-peleas",
+			"date_published": "2025-06-12T03:13:12.794Z"
+		},
+		{
+			"id": "Soy un Dios Maligno [Capítulo 481]",
+			"title": "Soy un Dios Maligno [Capítulo 481]",
+			"url": "https://olympusbiblioteca.com/series/comic-soy-u20-225-maligno",
+			"date_published": "2025-06-12T03:13:12.794Z"
+		},
+		{
 			"id": "Estandar de la Reencarnación [Capítulo 138.05]",
 			"title": "Estandar de la Reencarnación [Capítulo 138.05]",
 			"url": "https://olympusbiblioteca.com/series/comic-elmancochet20-225-o532413424",
@@ -2989,18 +3001,6 @@
 			"title": "El Blinker genio de la academia mágica [Capítulo 57]",
 			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica",
 			"date_published": "2025-05-24T16:22:48.014Z"
-		},
-		{
-			"id": "El maestro de la espada Genio de la academia [Capítulo 102]",
-			"title": "El maestro de la espada Genio de la academia [Capítulo 102]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-genio-de-la-academia20250525-111855335",
-			"date_published": "2025-05-24T16:22:48.013Z"
-		},
-		{
-			"id": "El Sentido Absoluto de las Espadas [Capítulo 133]",
-			"title": "El Sentido Absoluto de las Espadas [Capítulo 133]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-sentido-absoluto-de-las-espadas20250525-110519780",
-			"date_published": "2025-05-24T14:16:42.471Z"
 		}
 	]
 }
