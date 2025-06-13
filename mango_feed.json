@@ -3,6 +3,18 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Una vez más [Capítulo 19: Orckuro Translations]",
+			"title": "Cómic Una vez más [Capítulo 19: Orckuro Translations]",
+			"url": "https://lectorikigai.rxdog.xyz/series/una-vez-mas/",
+			"date_published": "2025-06-13T09:24:39.795Z"
+		},
+		{
+			"id": "Cómic Mi Novia Cosplayer [Capítulo 5: Orckuro Translations]",
+			"title": "Cómic Mi Novia Cosplayer [Capítulo 5: Orckuro Translations]",
+			"url": "https://lectorikigai.rxdog.xyz/series/mi-novia-cosplayer/",
+			"date_published": "2025-06-13T09:24:39.795Z"
+		},
+		{
 			"id": "Cómic Linea De Corte [Capítulo 101]",
 			"title": "Cómic Linea De Corte [Capítulo 101]",
 			"url": "https://lectorikigai.rxdog.xyz/series/linea-de-corte/",
@@ -2989,18 +3001,6 @@
 			"title": "Novela Las Flores son Cebo - Novela [Capítulo 141]",
 			"url": "https://lectorikigai.vteam.online/series/las-flores-son-cebo-novela/",
 			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Cómic La Consorte del Líder Demoníaco [Capítulo 14]",
-			"title": "Cómic La Consorte del Líder Demoníaco [Capítulo 14]",
-			"url": "https://lectorikigai.vteam.online/series/la-consorte-del-lider-demoniaco/",
-			"date_published": "2025-06-07T03:44:34.006Z"
-		},
-		{
-			"id": "Cómic Lechita de Fresa [Capítulo 1]",
-			"title": "Cómic Lechita de Fresa [Capítulo 1]",
-			"url": "https://lectorikigai.vteam.online/series/lechita-de-fresa/",
-			"date_published": "2025-06-07T03:44:34.006Z"
 		}
 	]
 }
