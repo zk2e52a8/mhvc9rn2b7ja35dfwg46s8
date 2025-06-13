@@ -3,57 +3,153 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Tiempo en Pareja [Capítulo 2]",
+			"title": "Cómic Tiempo en Pareja [Capítulo 2]",
+			"url": "https://lectorikigai.damilok.xyz/series/tiempo-en-pareja/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic Tacticas del recogepelotas [Capítulo 44]",
+			"title": "Cómic Tacticas del recogepelotas [Capítulo 44]",
+			"url": "https://lectorikigai.damilok.xyz/series/tacticas-del-recogepelotas/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic Miembro del gremio de vecinos [Capítulo 82]",
+			"title": "Cómic Miembro del gremio de vecinos [Capítulo 82]",
+			"url": "https://lectorikigai.damilok.xyz/series/miembro-del-gremio-de-vecinos/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic Almas Perdidas [Capítulo 33]",
+			"title": "Cómic Almas Perdidas [Capítulo 33]",
+			"url": "https://lectorikigai.damilok.xyz/series/almas-perdidas/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic La aguja de Su Majestad la Emperatriz [Capítulo 5]",
+			"title": "Cómic La aguja de Su Majestad la Emperatriz [Capítulo 5]",
+			"url": "https://lectorikigai.damilok.xyz/series/la-aguja-de-su-majestad-la-emperatriz/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic Desapareceré, Su Alteza. [Capítulo 2]",
+			"title": "Cómic Desapareceré, Su Alteza. [Capítulo 2]",
+			"url": "https://lectorikigai.damilok.xyz/series/desaparecere-su-alteza/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic Servicio de limpieza [Capítulo 34]",
+			"title": "Cómic Servicio de limpieza [Capítulo 34]",
+			"url": "https://lectorikigai.damilok.xyz/series/servicio-de-limpieza1/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic La Azotea Secreta de Kim [Capítulo 25]",
+			"title": "Cómic La Azotea Secreta de Kim [Capítulo 25]",
+			"url": "https://lectorikigai.damilok.xyz/series/la-azotea-secreta-de-kim/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic Adiestrando a la Líder Rebelde en el Chat Aleatorio [Capítulo 49]",
+			"title": "Cómic Adiestrando a la Líder Rebelde en el Chat Aleatorio [Capítulo 49]",
+			"url": "https://lectorikigai.damilok.xyz/series/adiestrando-a-la-lider-rebelde-en-el-chat-aleatorio/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic Ona inalámbrica [Capítulo 25]",
+			"title": "Cómic Ona inalámbrica [Capítulo 25]",
+			"url": "https://lectorikigai.damilok.xyz/series/ona-inalambrica/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic El punto del éxtasis [Capítulo 57]",
+			"title": "Cómic El punto del éxtasis [Capítulo 57]",
+			"url": "https://lectorikigai.damilok.xyz/series/el-punto-del-extasis/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic ¡Estoy Lista Para El Divorcio! [Capítulo 27]",
+			"title": "Cómic ¡Estoy Lista Para El Divorcio! [Capítulo 27]",
+			"url": "https://lectorikigai.damilok.xyz/series/estoy-lista-para-el-divorcio/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic Estrategia de divorcio [Capítulo 58]",
+			"title": "Cómic Estrategia de divorcio [Capítulo 58]",
+			"url": "https://lectorikigai.damilok.xyz/series/estrategia-de-divorcio/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic Lagrimas En Las Flores Marchitas [Capítulo 56.1: Aviso]",
+			"title": "Cómic Lagrimas En Las Flores Marchitas [Capítulo 56.1: Aviso]",
+			"url": "https://lectorikigai.damilok.xyz/series/lagrimas-en-las-flores-marchitas/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic Fue solo un matrimonio por contrato [Capítulo 77]",
+			"title": "Cómic Fue solo un matrimonio por contrato [Capítulo 77]",
+			"url": "https://lectorikigai.damilok.xyz/series/fue-solo-un-matrimonio-por-contrato/",
+			"date_published": "2025-06-13T18:31:49.262Z"
+		},
+		{
+			"id": "Cómic Eras mi esclavo [Capítulo 31: Segunda temporada - inicio]",
+			"title": "Cómic Eras mi esclavo [Capítulo 31: Segunda temporada - inicio]",
+			"url": "https://lectorikigai.damilok.xyz/series/eras-mi-esclavo/",
+			"date_published": "2025-06-13T18:31:49.261Z"
+		},
+		{
 			"id": "Cómic La Duquesa Del Oeste [Capítulo 34]",
 			"title": "Cómic La Duquesa Del Oeste [Capítulo 34]",
-			"url": "https://lectorikigai.rxdog.xyz/series/la-duquesa-del-oeste/",
+			"url": "https://lectorikigai.damilok.xyz/series/la-duquesa-del-oeste/",
 			"date_published": "2025-06-13T15:23:58.083Z"
 		},
 		{
 			"id": "Cómic Cuando El Destino Nos Encuentra [Capítulo 84]",
 			"title": "Cómic Cuando El Destino Nos Encuentra [Capítulo 84]",
-			"url": "https://lectorikigai.rxdog.xyz/series/cuando-el-destino-nos-encuentra/",
+			"url": "https://lectorikigai.damilok.xyz/series/cuando-el-destino-nos-encuentra/",
 			"date_published": "2025-06-13T15:23:58.083Z"
 		},
 		{
 			"id": "Cómic La línea que nos separa. [Capítulo 14]",
 			"title": "Cómic La línea que nos separa. [Capítulo 14]",
-			"url": "https://lectorikigai.rxdog.xyz/series/la-linea-que-nos-separa/",
+			"url": "https://lectorikigai.damilok.xyz/series/la-linea-que-nos-separa/",
 			"date_published": "2025-06-13T15:23:58.083Z"
 		},
 		{
 			"id": "Cómic El desenlace de un matrimonio por contrato [Capítulo 7]",
 			"title": "Cómic El desenlace de un matrimonio por contrato [Capítulo 7]",
-			"url": "https://lectorikigai.rxdog.xyz/series/el-desenlace-de-un-matrimonio-por-contrato/",
+			"url": "https://lectorikigai.damilok.xyz/series/el-desenlace-de-un-matrimonio-por-contrato/",
 			"date_published": "2025-06-13T15:23:58.083Z"
 		},
 		{
 			"id": "Cómic ¡Por favor, Dispárame! [Capítulo 17]",
 			"title": "Cómic ¡Por favor, Dispárame! [Capítulo 17]",
-			"url": "https://lectorikigai.rxdog.xyz/series/por-favor-disparame/",
+			"url": "https://lectorikigai.damilok.xyz/series/por-favor-disparame/",
 			"date_published": "2025-06-13T15:23:58.083Z"
 		},
 		{
 			"id": "Cómic El cordero perdido [Capítulo 5]",
 			"title": "Cómic El cordero perdido [Capítulo 5]",
-			"url": "https://lectorikigai.rxdog.xyz/series/el-cordero-perdido/",
+			"url": "https://lectorikigai.damilok.xyz/series/el-cordero-perdido/",
 			"date_published": "2025-06-13T15:23:58.083Z"
 		},
 		{
 			"id": "Cómic La Bebe Leopardo De Las Nieves De La Familia De Leopardos Negros [Capítulo 37.1]",
 			"title": "Cómic La Bebe Leopardo De Las Nieves De La Familia De Leopardos Negros [Capítulo 37.1]",
-			"url": "https://lectorikigai.rxdog.xyz/series/la-bebe-leopardo-de-las-nieves-de-la-familia-de-leopardos-negros/",
+			"url": "https://lectorikigai.damilok.xyz/series/la-bebe-leopardo-de-las-nieves-de-la-familia-de-leopardos-negros/",
 			"date_published": "2025-06-13T15:23:58.083Z"
 		},
 		{
 			"id": "Cómic Tiempos de crisis [Capítulo 68]",
 			"title": "Cómic Tiempos de crisis [Capítulo 68]",
-			"url": "https://lectorikigai.rxdog.xyz/series/tiempos-de-crisis/",
+			"url": "https://lectorikigai.damilok.xyz/series/tiempos-de-crisis/",
 			"date_published": "2025-06-13T15:23:58.083Z"
 		},
 		{
 			"id": "Cómic Matrimonio Depredador [Capítulo 69]",
 			"title": "Cómic Matrimonio Depredador [Capítulo 69]",
-			"url": "https://lectorikigai.rxdog.xyz/series/matrimonio-depredador/",
+			"url": "https://lectorikigai.damilok.xyz/series/matrimonio-depredador/",
 			"date_published": "2025-06-13T15:23:58.083Z"
 		},
 		{
@@ -65,121 +161,121 @@
 		{
 			"id": "Cómic Soy Una Concubina Abandonada, Pero Quiero Enamorarme, Así Que Por Favor Divórciate De Mí [Capítulo 50]",
 			"title": "Cómic Soy Una Concubina Abandonada, Pero Quiero Enamorarme, Así Que Por Favor Divórciate De Mí [Capítulo 50]",
-			"url": "https://lectorikigai.rxdog.xyz/series/soy-una-concubina-abandonada-pero-quiero-enamorarme-asi-que-por-favor-divorciate-de-mi/",
+			"url": "https://lectorikigai.damilok.xyz/series/soy-una-concubina-abandonada-pero-quiero-enamorarme-asi-que-por-favor-divorciate-de-mi/",
 			"date_published": "2025-06-13T12:45:13.570Z"
 		},
 		{
 			"id": "Cómic Una vez más [Capítulo 19: Orckuro Translations]",
 			"title": "Cómic Una vez más [Capítulo 19: Orckuro Translations]",
-			"url": "https://lectorikigai.rxdog.xyz/series/una-vez-mas/",
+			"url": "https://lectorikigai.damilok.xyz/series/una-vez-mas/",
 			"date_published": "2025-06-13T09:24:39.795Z"
 		},
 		{
 			"id": "Cómic Mi Novia Cosplayer [Capítulo 5: Orckuro Translations]",
 			"title": "Cómic Mi Novia Cosplayer [Capítulo 5: Orckuro Translations]",
-			"url": "https://lectorikigai.rxdog.xyz/series/mi-novia-cosplayer/",
+			"url": "https://lectorikigai.damilok.xyz/series/mi-novia-cosplayer/",
 			"date_published": "2025-06-13T09:24:39.795Z"
 		},
 		{
 			"id": "Cómic Linea De Corte [Capítulo 101]",
 			"title": "Cómic Linea De Corte [Capítulo 101]",
-			"url": "https://lectorikigai.rxdog.xyz/series/linea-de-corte/",
+			"url": "https://lectorikigai.damilok.xyz/series/linea-de-corte/",
 			"date_published": "2025-06-13T06:33:00.857Z"
 		},
 		{
 			"id": "Cómic Guia De Gemelos [Capítulo 15]",
 			"title": "Cómic Guia De Gemelos [Capítulo 15]",
-			"url": "https://lectorikigai.rxdog.xyz/series/guia-de-gemelos/",
+			"url": "https://lectorikigai.damilok.xyz/series/guia-de-gemelos/",
 			"date_published": "2025-06-13T06:33:00.857Z"
 		},
 		{
 			"id": "Cómic Combustion incompleta [Capítulo 13]",
 			"title": "Cómic Combustion incompleta [Capítulo 13]",
-			"url": "https://lectorikigai.rxdog.xyz/series/combustion-incompleta/",
+			"url": "https://lectorikigai.damilok.xyz/series/combustion-incompleta/",
 			"date_published": "2025-06-13T06:33:00.857Z"
 		},
 		{
 			"id": "Cómic Director Nopor [Capítulo 10: Orckuro Translation]",
 			"title": "Cómic Director Nopor [Capítulo 10: Orckuro Translation]",
-			"url": "https://lectorikigai.rxdog.xyz/series/director-nopor/",
+			"url": "https://lectorikigai.damilok.xyz/series/director-nopor/",
 			"date_published": "2025-06-13T06:33:00.857Z"
 		},
 		{
 			"id": "Cómic Novio de alquiler [Capítulo]",
 			"title": "Cómic Novio de alquiler [Capítulo]",
-			"url": "https://lectorikigai.rxdog.xyz/series/mi-novio-de-alquiler/",
+			"url": "https://lectorikigai.damilok.xyz/series/mi-novio-de-alquiler/",
 			"date_published": "2025-06-13T03:49:30.566Z"
 		},
 		{
 			"id": "Cómic Por Favor Dame Ese Chupete [Capítulo 115]",
 			"title": "Cómic Por Favor Dame Ese Chupete [Capítulo 115]",
-			"url": "https://lectorikigai.rxdog.xyz/series/por-favor-dame-ese-chupete/",
+			"url": "https://lectorikigai.damilok.xyz/series/por-favor-dame-ese-chupete/",
 			"date_published": "2025-06-13T03:49:30.566Z"
 		},
 		{
 			"id": "Cómic Costa de las olas [Capítulo 40]",
 			"title": "Cómic Costa de las olas [Capítulo 40]",
-			"url": "https://lectorikigai.rxdog.xyz/series/costa-de-las-olas/",
+			"url": "https://lectorikigai.damilok.xyz/series/costa-de-las-olas/",
 			"date_published": "2025-06-13T03:49:30.566Z"
 		},
 		{
 			"id": "Cómic ¿Podemos Convertirnos En Familia? [Capítulo 140]",
 			"title": "Cómic ¿Podemos Convertirnos En Familia? [Capítulo 140]",
-			"url": "https://lectorikigai.rxdog.xyz/series/podemos-convertirnos-en-familia/",
+			"url": "https://lectorikigai.damilok.xyz/series/podemos-convertirnos-en-familia/",
 			"date_published": "2025-06-13T03:49:30.566Z"
 		},
 		{
 			"id": "Cómic Cruzando La Línea [Capítulo 99]",
 			"title": "Cómic Cruzando La Línea [Capítulo 99]",
-			"url": "https://lectorikigai.rxdog.xyz/series/cruzando-la-linea/",
+			"url": "https://lectorikigai.damilok.xyz/series/cruzando-la-linea/",
 			"date_published": "2025-06-13T03:49:30.565Z"
 		},
 		{
 			"id": "Cómic Aspectos [Capítulo 559]",
 			"title": "Cómic Aspectos [Capítulo 559]",
-			"url": "https://lectorikigai.rxdog.xyz/series/aspectos/",
+			"url": "https://lectorikigai.damilok.xyz/series/aspectos/",
 			"date_published": "2025-06-13T01:51:03.629Z"
 		},
 		{
 			"id": "Cómic Jardin oculto [Capítulo 45]",
 			"title": "Cómic Jardin oculto [Capítulo 45]",
-			"url": "https://lectorikigai.rxdog.xyz/series/jardin-oculto/",
+			"url": "https://lectorikigai.damilok.xyz/series/jardin-oculto/",
 			"date_published": "2025-06-13T01:51:03.629Z"
 		},
 		{
 			"id": "Cómic La emperatriz asesina [Capítulo 22]",
 			"title": "Cómic La emperatriz asesina [Capítulo 22]",
-			"url": "https://lectorikigai.rxdog.xyz/series/la-emperatriz-asesina/",
+			"url": "https://lectorikigai.damilok.xyz/series/la-emperatriz-asesina/",
 			"date_published": "2025-06-13T01:51:03.629Z"
 		},
 		{
 			"id": "Cómic La Estrella De Mi Cosmos [Capítulo 52: Extra 2]",
 			"title": "Cómic La Estrella De Mi Cosmos [Capítulo 52: Extra 2]",
-			"url": "https://lectorikigai.rxdog.xyz/series/la-estrella-de-mi-cosmos/",
+			"url": "https://lectorikigai.damilok.xyz/series/la-estrella-de-mi-cosmos/",
 			"date_published": "2025-06-13T01:51:03.629Z"
 		},
 		{
 			"id": "Cómic Pago especial [Capítulo 64]",
 			"title": "Cómic Pago especial [Capítulo 64]",
-			"url": "https://lectorikigai.rxdog.xyz/series/pago-especial/",
+			"url": "https://lectorikigai.damilok.xyz/series/pago-especial/",
 			"date_published": "2025-06-13T01:51:03.629Z"
 		},
 		{
 			"id": "Cómic La aplicación de actos indebidos [Capítulo 62]",
 			"title": "Cómic La aplicación de actos indebidos [Capítulo 62]",
-			"url": "https://lectorikigai.rxdog.xyz/series/la-aplicacion-de-actos-indebidos/",
+			"url": "https://lectorikigai.damilok.xyz/series/la-aplicacion-de-actos-indebidos/",
 			"date_published": "2025-06-13T01:51:03.629Z"
 		},
 		{
 			"id": "Cómic Lo que dejé escrito no era eso [Capítulo 13]",
 			"title": "Cómic Lo que dejé escrito no era eso [Capítulo 13]",
-			"url": "https://lectorikigai.rxdog.xyz/series/lo-que-deje-escrito-no-era-eso/",
+			"url": "https://lectorikigai.damilok.xyz/series/lo-que-deje-escrito-no-era-eso/",
 			"date_published": "2025-06-13T01:51:03.629Z"
 		},
 		{
 			"id": "Cómic Incluso si ya no soy la Villana [Capítulo 20]",
 			"title": "Cómic Incluso si ya no soy la Villana [Capítulo 20]",
-			"url": "https://lectorikigai.rxdog.xyz/series/incluso-si-ya-no-soy-la-villana/",
+			"url": "https://lectorikigai.damilok.xyz/series/incluso-si-ya-no-soy-la-villana/",
 			"date_published": "2025-06-13T01:51:03.629Z"
 		},
 		{
@@ -2904,102 +3000,6 @@
 			"id": "Cómic Mi Novia Cosplayer [Capítulo 4: Orckuro Translations]",
 			"title": "Cómic Mi Novia Cosplayer [Capítulo 4: Orckuro Translations]",
 			"url": "https://lectorikigai.vteam.online/series/mi-novia-cosplayer/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Cómic Mi respuesta [Capítulo 31: Orckuro Translations]",
-			"title": "Cómic Mi respuesta [Capítulo 31: Orckuro Translations]",
-			"url": "https://lectorikigai.vteam.online/series/mi-respuesta/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Cómic La Flor Con Espada [Capítulo 24]",
-			"title": "Cómic La Flor Con Espada [Capítulo 24]",
-			"url": "https://lectorikigai.vteam.online/series/la-flor-con-espada/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Cómic El Hombre Viril [Capítulo 38: Orckuro Translations]",
-			"title": "Cómic El Hombre Viril [Capítulo 38: Orckuro Translations]",
-			"url": "https://lectorikigai.vteam.online/series/el-hombre-viril/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Cómic Guardian de Milfs [Capítulo 32: Orckuro Translations]",
-			"title": "Cómic Guardian de Milfs [Capítulo 32: Orckuro Translations]",
-			"url": "https://lectorikigai.vteam.online/series/guardian-de-milfs/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Cómic Sobreviviendo Como Una Princesa Ilegitima [Capítulo 119]",
-			"title": "Cómic Sobreviviendo Como Una Princesa Ilegitima [Capítulo 119]",
-			"url": "https://lectorikigai.vteam.online/series/sobreviviendo-como-una-princesa-ilegitima-3/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Cómic La Villana es Tímida Para Recibir Afecto [Capítulo 95]",
-			"title": "Cómic La Villana es Tímida Para Recibir Afecto [Capítulo 95]",
-			"url": "https://lectorikigai.vteam.online/series/la-villana-es-timida-para-recibir-afecto/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Cómic Venganza carnal [Capítulo 11]",
-			"title": "Cómic Venganza carnal [Capítulo 11]",
-			"url": "https://lectorikigai.vteam.online/series/venganza-carnal/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Novela Después De Mi Muerte, Mi Marido Enloqueció - Novela [Capítulo 63]",
-			"title": "Novela Después De Mi Muerte, Mi Marido Enloqueció - Novela [Capítulo 63]",
-			"url": "https://lectorikigai.vteam.online/series/despues-de-mi-muerte-mi-marido-enloquecio-novela/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Cómic Reencarnación sorprendente [Capítulo 29]",
-			"title": "Cómic Reencarnación sorprendente [Capítulo 29]",
-			"url": "https://lectorikigai.vteam.online/series/reencarnacion-sorprendente/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Cómic El Sobreviviente Más Fuerte Del Mundo [Capítulo 11]",
-			"title": "Cómic El Sobreviviente Más Fuerte Del Mundo [Capítulo 11]",
-			"url": "https://lectorikigai.vteam.online/series/el-sobreviviente-mas-fuerte-del-mundo/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Novela La Adopción Del Protagonista Cambió El Género - Novela [Capítulo 10]",
-			"title": "Novela La Adopción Del Protagonista Cambió El Género - Novela [Capítulo 10]",
-			"url": "https://lectorikigai.vteam.online/series/la-adopcion-del-protagonista-cambio-el-genero-novela/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Novela La Súcubo, El Sacerdote y Su Caída En La Lujuria - Novela [Capítulo 8]",
-			"title": "Novela La Súcubo, El Sacerdote y Su Caída En La Lujuria - Novela [Capítulo 8]",
-			"url": "https://lectorikigai.vteam.online/series/la-sucubo-el-sacerdote-y-su-caida-en-la-lujuria-novela/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Cómic Mi esposa es una Vtuber [Capítulo 7]",
-			"title": "Cómic Mi esposa es una Vtuber [Capítulo 7]",
-			"url": "https://lectorikigai.vteam.online/series/mi-esposa-es-una-vtuber/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Cómic Adicción [Capítulo 45]",
-			"title": "Cómic Adicción [Capítulo 45]",
-			"url": "https://lectorikigai.vteam.online/series/adiccion/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Cómic Más que hermanos [Capítulo 83]",
-			"title": "Cómic Más que hermanos [Capítulo 83]",
-			"url": "https://lectorikigai.vteam.online/series/mas-que-hermanos/",
-			"date_published": "2025-06-07T06:29:51.536Z"
-		},
-		{
-			"id": "Novela La Esclava De Rubelfast - Novela [Capítulo 8]",
-			"title": "Novela La Esclava De Rubelfast - Novela [Capítulo 8]",
-			"url": "https://lectorikigai.vteam.online/series/la-esclava-de-rubelfast-novela/",
 			"date_published": "2025-06-07T06:29:51.536Z"
 		}
 	]
