@@ -3,6 +3,24 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Mi Novia Cosplayer [Capítulo 9: Orckuro Translation]",
+			"title": "Cómic Mi Novia Cosplayer [Capítulo 9: Orckuro Translation]",
+			"url": "https://lectorikigai.damilok.xyz/series/mi-novia-cosplayer/",
+			"date_published": "2025-06-15T06:30:30.186Z"
+		},
+		{
+			"id": "Cómic Amigo Secreto [Capítulo 42: Orckuro Translation]",
+			"title": "Cómic Amigo Secreto [Capítulo 42: Orckuro Translation]",
+			"url": "https://lectorikigai.damilok.xyz/series/amigo-secreto-universitario/",
+			"date_published": "2025-06-15T06:30:30.186Z"
+		},
+		{
+			"id": "Cómic Detras Del Escenario [Capítulo 12]",
+			"title": "Cómic Detras Del Escenario [Capítulo 12]",
+			"url": "https://lectorikigai.damilok.xyz/series/detras-del-telon/",
+			"date_published": "2025-06-15T06:30:30.186Z"
+		},
+		{
 			"id": "Cómic Morir o Amar [Capítulo 13]",
 			"title": "Cómic Morir o Amar [Capítulo 13]",
 			"url": "https://lectorikigai.damilok.xyz/series/morir-o-amar/",
@@ -2983,24 +3001,6 @@
 			"title": "Cómic En lo profundo [Capítulo 45]",
 			"url": "https://lectorikigai.damilok.xyz/series/en-lo-profundo/",
 			"date_published": "2025-06-08T18:28:02.123Z"
-		},
-		{
-			"id": "Cómic Es mi primera vez siendo madre otra vez [Capítulo 5]",
-			"title": "Cómic Es mi primera vez siendo madre otra vez [Capítulo 5]",
-			"url": "https://lectorikigai.damilok.xyz/series/es-mi-primera-vez-siendo-madre-otra-vez/",
-			"date_published": "2025-06-08T18:28:02.123Z"
-		},
-		{
-			"id": "Cómic La Bebé Orca Negra [Capítulo 66]",
-			"title": "Cómic La Bebé Orca Negra [Capítulo 66]",
-			"url": "https://lectorikigai.damilok.xyz/series/la-bebe-orca-negra/",
-			"date_published": "2025-06-08T18:28:02.123Z"
-		},
-		{
-			"id": "Cómic La cazadora De Clase S No Quiere Ser Una Princesa Villana [Capítulo 70]",
-			"title": "Cómic La cazadora De Clase S No Quiere Ser Una Princesa Villana [Capítulo 70]",
-			"url": "https://lectorikigai.damilok.xyz/series/la-cazadora-de-clase-s-no-quiere-ser-una-princesa-villana-manhwa/",
-			"date_published": "2025-06-08T18:28:02.122Z"
 		}
 	]
 }
