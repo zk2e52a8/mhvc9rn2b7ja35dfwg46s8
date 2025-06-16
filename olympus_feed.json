@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Regreso del Espadachín Oscuro [Capítulo 4]",
+			"title": "El Regreso del Espadachín Oscuro [Capítulo 4]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
+			"date_published": "2025-06-16T03:19:07.278Z"
+		},
+		{
+			"id": "Reencarnado [Capítulo 86]",
+			"title": "Reencarnado [Capítulo 86]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarnado20250615-110523424",
+			"date_published": "2025-06-16T03:19:07.278Z"
+		},
+		{
+			"id": "El hijo bastardo del marqués era el emperador [Capítulo 72]",
+			"title": "El hijo bastardo del marqués era el emperador [Capítulo 72]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-hijo-bastardo-del-marques-era-el-emperador",
+			"date_published": "2025-06-16T03:19:07.278Z"
+		},
+		{
+			"id": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 189]",
+			"title": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 189]",
+			"url": "https://olympusbiblioteca.com/series/comic-nigrom20-225-ante-yo-soy-la-plagaasdfasd",
+			"date_published": "2025-06-16T03:19:07.277Z"
+		},
+		{
 			"id": "Nigromante sin limites [Capítulo 141]",
 			"title": "Nigromante sin limites [Capítulo 141]",
 			"url": "https://olympusbiblioteca.com/series/comic-nigromante-sin-limites20250615-111210043",
@@ -2977,30 +3001,6 @@
 			"title": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 23]",
 			"url": "https://olympusbiblioteca.com/series/comic-evolucion-marcial-comienza-por-despertar-al-rey-de-los-monstruos",
 			"date_published": "2025-05-29T04:26:19.936Z"
-		},
-		{
-			"id": "El hombre más guapo se convirtió en esqueleto [Capítulo 40]",
-			"title": "El hombre más guapo se convirtió en esqueleto [Capítulo 40]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto20250529-110813816",
-			"date_published": "2025-05-29T03:14:08.085Z"
-		},
-		{
-			"id": "Al demonio con ser un santo, soy un medico [Capítulo 132]",
-			"title": "Al demonio con ser un santo, soy un medico [Capítulo 132]",
-			"url": "https://olympusbiblioteca.com/series/comic-al-de20-225-n-medico",
-			"date_published": "2025-05-29T03:14:08.084Z"
-		},
-		{
-			"id": "Jugador devorador de acero [Capítulo 67]",
-			"title": "Jugador devorador de acero [Capítulo 67]",
-			"url": "https://olympusbiblioteca.com/series/comic-jugador-devorador-de-acero20250529-110133798",
-			"date_published": "2025-05-29T01:41:12.341Z"
-		},
-		{
-			"id": "La Constelación que Regresa del Infierno [Capítulo 206]",
-			"title": "La Constelación que Regresa del Infierno [Capítulo 206]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-constel20-225-egresa-del-infierno",
-			"date_published": "2025-05-29T01:41:12.341Z"
 		}
 	]
 }
