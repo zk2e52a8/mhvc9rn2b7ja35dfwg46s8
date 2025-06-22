@@ -3,6 +3,36 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic El Maestro Del Veneno En El Clan Tang Sichuan [Capítulo 41]",
+			"title": "Cómic El Maestro Del Veneno En El Clan Tang Sichuan [Capítulo 41]",
+			"url": "https://lectorikigai.vrinari.org/series/el-maestro-del-veneno-en-el-clan-tang-sichuan/",
+			"date_published": "2025-06-22T21:19:48.689Z"
+		},
+		{
+			"id": "Cómic La Flor Con Espada [Capítulo 26]",
+			"title": "Cómic La Flor Con Espada [Capítulo 26]",
+			"url": "https://lectorikigai.vrinari.org/series/la-flor-con-espada/",
+			"date_published": "2025-06-22T21:19:48.689Z"
+		},
+		{
+			"id": "Cómic Soy la doctora del emperador moribundo [Capítulo 39]",
+			"title": "Cómic Soy la doctora del emperador moribundo [Capítulo 39]",
+			"url": "https://lectorikigai.vrinari.org/series/soy-la-doctora-del-emperador-moribundo/",
+			"date_published": "2025-06-22T21:19:48.689Z"
+		},
+		{
+			"id": "Cómic Luz de luna [Capítulo 37]",
+			"title": "Cómic Luz de luna [Capítulo 37]",
+			"url": "https://lectorikigai.vrinari.org/series/luz-de-luna/",
+			"date_published": "2025-06-22T21:19:48.689Z"
+		},
+		{
+			"id": "Cómic Marzo [Capítulo 24]",
+			"title": "Cómic Marzo [Capítulo 24]",
+			"url": "https://lectorikigai.vrinari.org/series/marzo/",
+			"date_published": "2025-06-22T21:19:48.689Z"
+		},
+		{
 			"id": "Cómic Fue solo un matrimonio por contrato [Capítulo 78]",
 			"title": "Cómic Fue solo un matrimonio por contrato [Capítulo 78]",
 			"url": "https://lectorikigai.vrinari.org/series/fue-solo-un-matrimonio-por-contrato/",
@@ -2970,36 +3000,6 @@
 			"id": "Cómic Mas allá de los recuerdos [Capítulo 79]",
 			"title": "Cómic Mas allá de los recuerdos [Capítulo 79]",
 			"url": "https://lectorikigai.damilok.xyz/series/mas-alla-de-los-recuerdos/",
-			"date_published": "2025-06-18T01:50:54.020Z"
-		},
-		{
-			"id": "Cómic El Poder de Ver tus Deseos [Capítulo 35]",
-			"title": "Cómic El Poder de Ver tus Deseos [Capítulo 35]",
-			"url": "https://lectorikigai.damilok.xyz/series/el-poder-de-ver-tus-deseos/",
-			"date_published": "2025-06-18T01:50:54.020Z"
-		},
-		{
-			"id": "Cómic Actividades de liderazgo problemáticas [Capítulo 25]",
-			"title": "Cómic Actividades de liderazgo problemáticas [Capítulo 25]",
-			"url": "https://lectorikigai.damilok.xyz/series/actividades-de-liderazgo-problematicas/",
-			"date_published": "2025-06-18T01:50:54.020Z"
-		},
-		{
-			"id": "Cómic Traicion efectiva [Capítulo 17]",
-			"title": "Cómic Traicion efectiva [Capítulo 17]",
-			"url": "https://lectorikigai.damilok.xyz/series/traicion-efectiva/",
-			"date_published": "2025-06-18T01:50:54.020Z"
-		},
-		{
-			"id": "Cómic El restaurante del mago [Capítulo 87]",
-			"title": "Cómic El restaurante del mago [Capítulo 87]",
-			"url": "https://lectorikigai.damilok.xyz/series/el-restaurante-del-mago/",
-			"date_published": "2025-06-18T01:50:54.020Z"
-		},
-		{
-			"id": "Cómic Catador de delicias [Capítulo 3]",
-			"title": "Cómic Catador de delicias [Capítulo 3]",
-			"url": "https://lectorikigai.damilok.xyz/series/catador-de-delicias/",
 			"date_published": "2025-06-18T01:50:54.020Z"
 		}
 	]
