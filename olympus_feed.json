@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Indomable Rey Marcial [Capítulo 87]",
+			"title": "El Indomable Rey Marcial [Capítulo 87]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial20250623-110540400",
+			"date_published": "2025-06-23T16:20:01.076Z"
+		},
+		{
+			"id": "El bárbaro de la estación de Seúl [Capítulo 38.6]",
+			"title": "El bárbaro de la estación de Seúl [Capítulo 38.6]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-barbaro-de-la-estacion-de-seul20250623-110828254",
+			"date_published": "2025-06-23T16:20:01.076Z"
+		},
+		{
+			"id": "El Dios de la Espada de un Mundo Destruido [Capítulo 23]",
+			"title": "El Dios de la Espada de un Mundo Destruido [Capítulo 23]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-dios-de-la-espada-de-un-mundo-destruido",
+			"date_published": "2025-06-23T16:20:01.076Z"
+		},
+		{
+			"id": "Que alguien detenga al Papa [Capítulo 48]",
+			"title": "Que alguien detenga al Papa [Capítulo 48]",
+			"url": "https://olympusbiblioteca.com/series/comic-5zxzien-detenga-al-papa",
+			"date_published": "2025-06-23T16:20:01.076Z"
+		},
+		{
 			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 100.05]",
 			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 100.05]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-dios-marcial-que-regreso-al-nivel-220250623-111646491",
@@ -2977,30 +3001,6 @@
 			"title": "Voy a Aniquilar Esta Tierra [Capítulo 38]",
 			"url": "https://olympusbiblioteca.com/series/comic-voy-a-an10-05-2025-tierra",
 			"date_published": "2025-06-06T16:19:44.017Z"
-		},
-		{
-			"id": "Stream del Arquero Genio [Capítulo 66]",
-			"title": "Stream del Arquero Genio [Capítulo 66]",
-			"url": "https://olympusbiblioteca.com/series/comic-streamin10-05-2025quero-genio",
-			"date_published": "2025-06-06T14:15:05.607Z"
-		},
-		{
-			"id": "Loco Frontera [Capítulo 191]",
-			"title": "Loco Frontera [Capítulo 191]",
-			"url": "https://olympusbiblioteca.com/series/comic-loco-frontera20250607-111457459",
-			"date_published": "2025-06-06T12:30:09.954Z"
-		},
-		{
-			"id": "Emperador magico (magic emperor) [Capítulo 710]",
-			"title": "Emperador magico (magic emperor) [Capítulo 710]",
-			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
-			"date_published": "2025-06-06T10:17:35.794Z"
-		},
-		{
-			"id": "La noche del goblin [Capítulo 100]",
-			"title": "La noche del goblin [Capítulo 100]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin20250607-111819480",
-			"date_published": "2025-06-06T04:21:44.574Z"
 		}
 	]
 }
