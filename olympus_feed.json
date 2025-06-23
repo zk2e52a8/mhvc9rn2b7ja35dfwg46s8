@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Reencarnado [Capítulo 87]",
+			"title": "Reencarnado [Capítulo 87]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarnado20250622-110641705",
+			"date_published": "2025-06-23T01:18:56.501Z"
+		},
+		{
+			"id": "Jugador devorador de acero [Capítulo 71]",
+			"title": "Jugador devorador de acero [Capítulo 71]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugador-devorador-de-acero20250622-110415579",
+			"date_published": "2025-06-23T01:18:56.501Z"
+		},
+		{
+			"id": "*El Villano Del Destino [Capítulo 257]",
+			"title": "*El Villano Del Destino [Capítulo 257]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
+			"date_published": "2025-06-23T01:18:56.501Z"
+		},
+		{
 			"id": "Reencarnación del Rey del Puño [Capítulo 7]",
 			"title": "Reencarnación del Rey del Puño [Capítulo 7]",
 			"url": "https://olympusbiblioteca.com/series/comic-reencarnacion-del-rey-del-puno-20250622-112007935",
@@ -2983,24 +3001,6 @@
 			"title": "Cambiando la masmorra [Capítulo 250]",
 			"url": "https://olympusbiblioteca.com/series/comic-cambiando10-05-2025-la-masmorra13424",
 			"date_published": "2025-06-06T01:13:07.147Z"
-		},
-		{
-			"id": "Jugador devorador de artefactos [Capítulo 21]",
-			"title": "Jugador devorador de artefactos [Capítulo 21]",
-			"url": "https://olympusbiblioteca.com/series/comic-jugador-devorador-de-artefactos20250606-110940839",
-			"date_published": "2025-06-06T01:13:07.147Z"
-		},
-		{
-			"id": "Emperador de Acero [Capítulo 44]",
-			"title": "Emperador de Acero [Capítulo 44]",
-			"url": "https://olympusbiblioteca.com/series/comic-emperado10-05-2025r-de-acero",
-			"date_published": "2025-06-05T22:13:47.581Z"
-		},
-		{
-			"id": "Nueva Cara [Capítulo 558]",
-			"title": "Nueva Cara [Capítulo 558]",
-			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20250606-111341930",
-			"date_published": "2025-06-05T22:13:47.581Z"
 		}
 	]
 }
