@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Come y crece [Capítulo 11]",
+			"title": "Come y crece [Capítulo 11]",
+			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece20250625-111744396",
+			"date_published": "2025-06-25T22:14:44.994Z"
+		},
+		{
+			"id": "Restaurante del mago [Capítulo 88]",
+			"title": "Restaurante del mago [Capítulo 88]",
+			"url": "https://olympusbiblioteca.com/series/comic-restaurante-del-mago20250625-110509992",
+			"date_published": "2025-06-25T22:14:44.994Z"
+		},
+		{
+			"id": "El Regreso Del Genio De Las Artes Marciales [Capítulo 88]",
+			"title": "El Regreso Del Genio De Las Artes Marciales [Capítulo 88]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-genio-de-las-artes-marciales20250625-110143776",
+			"date_published": "2025-06-25T22:14:44.994Z"
+		},
+		{
 			"id": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 105]",
 			"title": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 105]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-prodigioso-caballero-oscuro-con-tiempo-limitado20250625-111602633",
@@ -2983,24 +3001,6 @@
 			"title": "La Super Tienda de Mascotas Estelares [Capítulo 180]",
 			"url": "https://olympusbiblioteca.com/series/comic-13424la-super-tienda-de-mascotas-estelares5324",
 			"date_published": "2025-06-08T18:18:46.411Z"
-		},
-		{
-			"id": "Guia de supervivencia del extra de la academia [Capítulo 81]",
-			"title": "Guia de supervivencia del extra de la academia [Capítulo 81]",
-			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-extra-de-la-academia20250609-110338178",
-			"date_published": "2025-06-08T18:18:46.411Z"
-		},
-		{
-			"id": "*El jugador que no puede subir de nivel [Capítulo 192]",
-			"title": "*El jugador que no puede subir de nivel [Capítulo 192]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-jugador-que-no-puede-subir-de-nivel20250609-111556539",
-			"date_published": "2025-06-08T16:17:12.650Z"
-		},
-		{
-			"id": "El legendario hijo menor de la Casa del Marques [Capítulo 134]",
-			"title": "El legendario hijo menor de la Casa del Marques [Capítulo 134]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-lege20-225-ndario-marques13424",
-			"date_published": "2025-06-08T16:17:12.650Z"
 		}
 	]
 }
