@@ -3,6 +3,12 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Escasez de Hombres [Capítulo 5: Orckuro Translation]",
+			"title": "Cómic Escasez de Hombres [Capítulo 5: Orckuro Translation]",
+			"url": "https://lectorikigai.vrinari.org/series/escasez-de-hombres/",
+			"date_published": "2025-06-25T09:29:02.887Z"
+		},
+		{
 			"id": "Cómic ¡Mi amo no muerde a la gente! [Capítulo 4]",
 			"title": "Cómic ¡Mi amo no muerde a la gente! [Capítulo 4]",
 			"url": "https://lectorikigai.vrinari.org/series/mi-amo-no-muerde-a-la-gente/",
@@ -2994,12 +3000,6 @@
 			"id": "Cómic Escándalo Inmoral [Capítulo 11]",
 			"title": "Cómic Escándalo Inmoral [Capítulo 11]",
 			"url": "https://lectorikigai.vrinari.org/series/escandalo-inmoral/",
-			"date_published": "2025-06-20T01:50:54.009Z"
-		},
-		{
-			"id": "Cómic En El Horizonte [Capítulo 38]",
-			"title": "Cómic En El Horizonte [Capítulo 38]",
-			"url": "https://lectorikigai.vrinari.org/series/en-el-horizonte/",
 			"date_published": "2025-06-20T01:50:54.009Z"
 		}
 	]
