@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Emperador de Acero [Capítulo 47]",
+			"title": "Emperador de Acero [Capítulo 47]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperado10-05-2025r-de-acero",
+			"date_published": "2025-06-26T16:19:14.889Z"
+		},
+		{
+			"id": "El bastardo devorador de armas. [Capítulo 39]",
+			"title": "El bastardo devorador de armas. [Capítulo 39]",
+			"url": "https://olympusbiblioteca.com/series/comic-o5324evorador-de-armas",
+			"date_published": "2025-06-26T16:19:14.889Z"
+		},
+		{
+			"id": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 22]",
+			"title": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 22]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-ascenso-del-tercer-principe-del-reino-caido",
+			"date_published": "2025-06-26T16:19:14.889Z"
+		},
+		{
 			"id": "El asesino que reencarnó como un genio espadachín [Capítulo 68.05]",
 			"title": "El asesino que reencarnó como un genio espadachín [Capítulo 68.05]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-asesi20-225-genio-espadachin13424",
@@ -2983,24 +3001,6 @@
 			"title": "El Profesor Encubierto de la Academia [Capítulo 122]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-profesor-encubierto-de-la-academia20250610-110114504",
 			"date_published": "2025-06-09T12:31:20.856Z"
-		},
-		{
-			"id": "Civilización Nebula [Capítulo 93]",
-			"title": "Civilización Nebula [Capítulo 93]",
-			"url": "https://olympusbiblioteca.com/series/comic-civilizacion-nebula20250610-110342434",
-			"date_published": "2025-06-09T03:19:26.733Z"
-		},
-		{
-			"id": "Soy un Dios Maligno [Capítulo 479]",
-			"title": "Soy un Dios Maligno [Capítulo 479]",
-			"url": "https://olympusbiblioteca.com/series/comic-soy-u20-225-maligno",
-			"date_published": "2025-06-09T03:19:26.733Z"
-		},
-		{
-			"id": "Loco Murim [Capítulo 157]",
-			"title": "Loco Murim [Capítulo 157]",
-			"url": "https://olympusbiblioteca.com/series/comic-loco-murim20250609-110142444",
-			"date_published": "2025-06-09T03:19:26.733Z"
 		}
 	]
 }
