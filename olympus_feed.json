@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El guerrero despiadado [Capítulo 3]",
+			"title": "El guerrero despiadado [Capítulo 3]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado",
+			"date_published": "2025-06-26T22:14:51.165Z"
+		},
+		{
+			"id": "La leyenda de cultivación de un regresor [Capítulo 7]",
+			"title": "La leyenda de cultivación de un regresor [Capítulo 7]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-leyenda-de-cultivacion-de-un-regresor",
+			"date_published": "2025-06-26T22:14:51.165Z"
+		},
+		{
 			"id": "Stream del Arquero Genio [Capítulo 69]",
 			"title": "Stream del Arquero Genio [Capítulo 69]",
 			"url": "https://olympusbiblioteca.com/series/comic-streamin10-05-2025quero-genio",
@@ -2989,18 +3001,6 @@
 			"title": "El último aventurero [Capítulo 74]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-ultimo-aventurero20250610-110449445",
 			"date_published": "2025-06-09T18:21:53.824Z"
-		},
-		{
-			"id": "Acumulador de rasgos [Capítulo 43]",
-			"title": "Acumulador de rasgos [Capítulo 43]",
-			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos20250610-110648961",
-			"date_published": "2025-06-09T18:21:53.824Z"
-		},
-		{
-			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 185]",
-			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 185]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin20250610-110054088",
-			"date_published": "2025-06-09T18:21:53.823Z"
 		}
 	]
 }
