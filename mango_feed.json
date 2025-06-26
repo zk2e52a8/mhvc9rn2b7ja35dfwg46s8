@@ -3,6 +3,12 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Deja de fumar [Capítulo 49]",
+			"title": "Cómic Deja de fumar [Capítulo 49]",
+			"url": "https://lectorikigai.vrinari.org/series/deja-de-fumar/",
+			"date_published": "2025-06-26T12:47:17.751Z"
+		},
+		{
 			"id": "Cómic Oficinistas [Capítulo 40: Orckuro Translations-FINAL]",
 			"title": "Cómic Oficinistas [Capítulo 40: Orckuro Translations-FINAL]",
 			"url": "https://lectorikigai.vrinari.org/series/oficinistas/",
@@ -2994,12 +3000,6 @@
 			"id": "Cómic La Bebe Maestra De Las Flores [Capítulo 67]",
 			"title": "Cómic La Bebe Maestra De Las Flores [Capítulo 67]",
 			"url": "https://lectorikigai.vrinari.org/series/la-bebe-maestra-de-las-flores/",
-			"date_published": "2025-06-21T06:30:25.457Z"
-		},
-		{
-			"id": "Novela Mis Hermanas Son Raras - Novela [Capítulo 9]",
-			"title": "Novela Mis Hermanas Son Raras - Novela [Capítulo 9]",
-			"url": "https://lectorikigai.vrinari.org/series/mis-hermanas-son-raras-novela/",
 			"date_published": "2025-06-21T06:30:25.457Z"
 		}
 	]
