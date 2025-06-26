@@ -3,6 +3,42 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Oficinistas [Capítulo 40: Orckuro Translations-FINAL]",
+			"title": "Cómic Oficinistas [Capítulo 40: Orckuro Translations-FINAL]",
+			"url": "https://lectorikigai.vrinari.org/series/oficinistas/",
+			"date_published": "2025-06-26T09:25:25.832Z"
+		},
+		{
+			"id": "Cómic El Hombre Viril [Capítulo 44: Orckuro Translations]",
+			"title": "Cómic El Hombre Viril [Capítulo 44: Orckuro Translations]",
+			"url": "https://lectorikigai.vrinari.org/series/el-hombre-viril/",
+			"date_published": "2025-06-26T09:25:25.832Z"
+		},
+		{
+			"id": "Cómic Atando mi Secreto [Capítulo 4: Orckuro Translations]",
+			"title": "Cómic Atando mi Secreto [Capítulo 4: Orckuro Translations]",
+			"url": "https://lectorikigai.vrinari.org/series/atando-mi-secreto/",
+			"date_published": "2025-06-26T09:25:25.832Z"
+		},
+		{
+			"id": "Cómic Cambio de Roles [Capítulo 11: Orckuro Translations]",
+			"title": "Cómic Cambio de Roles [Capítulo 11: Orckuro Translations]",
+			"url": "https://lectorikigai.vrinari.org/series/cambio-de-roles/",
+			"date_published": "2025-06-26T09:25:25.832Z"
+		},
+		{
+			"id": "Cómic Mi Novia Cosplayer [Capítulo 15: Orckuro Translations]",
+			"title": "Cómic Mi Novia Cosplayer [Capítulo 15: Orckuro Translations]",
+			"url": "https://lectorikigai.vrinari.org/series/mi-novia-cosplayer/",
+			"date_published": "2025-06-26T09:25:25.832Z"
+		},
+		{
+			"id": "Cómic Cómo convertir a un obsesivo en un mayordomo [Capítulo 6]",
+			"title": "Cómic Cómo convertir a un obsesivo en un mayordomo [Capítulo 6]",
+			"url": "https://lectorikigai.vrinari.org/series/como-convertir-a-un-obsesivo-en-un-mayordomo/",
+			"date_published": "2025-06-26T09:25:25.832Z"
+		},
+		{
 			"id": "Cómic La caricia de la primavera en un alma solitaria [Capítulo 17]",
 			"title": "Cómic La caricia de la primavera en un alma solitaria [Capítulo 17]",
 			"url": "https://lectorikigai.vrinari.org/series/la-caricia-de-la-primavera-en-un-alma-solitaria/",
@@ -2964,42 +3000,6 @@
 			"id": "Novela Mis Hermanas Son Raras - Novela [Capítulo 9]",
 			"title": "Novela Mis Hermanas Son Raras - Novela [Capítulo 9]",
 			"url": "https://lectorikigai.vrinari.org/series/mis-hermanas-son-raras-novela/",
-			"date_published": "2025-06-21T06:30:25.457Z"
-		},
-		{
-			"id": "Novela Pensé Que Mi Conejito Era La Protagonista Femenina - Novela [Capítulo 9]",
-			"title": "Novela Pensé Que Mi Conejito Era La Protagonista Femenina - Novela [Capítulo 9]",
-			"url": "https://lectorikigai.vrinari.org/series/pense-que-mi-conejito-era-la-protagonista-femenina-novela/",
-			"date_published": "2025-06-21T06:30:25.457Z"
-		},
-		{
-			"id": "Novela Estoy Destinado A Morir - Novela [Capítulo 14]",
-			"title": "Novela Estoy Destinado A Morir - Novela [Capítulo 14]",
-			"url": "https://lectorikigai.vrinari.org/series/estoy-destinado-a-morir-novela/",
-			"date_published": "2025-06-21T06:30:25.457Z"
-		},
-		{
-			"id": "Novela Buscando Al Papá Del Bebé Dragón - Novela [Capítulo 12]",
-			"title": "Novela Buscando Al Papá Del Bebé Dragón - Novela [Capítulo 12]",
-			"url": "https://lectorikigai.vrinari.org/series/buscando-al-papa-del-bebe-dragon-novela/",
-			"date_published": "2025-06-21T06:30:25.457Z"
-		},
-		{
-			"id": "Novela Me Convertí En la Espada Del Principe Heredero Exiliado - Novela [Capítulo 12]",
-			"title": "Novela Me Convertí En la Espada Del Principe Heredero Exiliado - Novela [Capítulo 12]",
-			"url": "https://lectorikigai.vrinari.org/series/me-converti-en-la-espada-del-principe-heredero-exiliado-novela/",
-			"date_published": "2025-06-21T06:30:25.457Z"
-		},
-		{
-			"id": "Novela Salvada Por Mi Loco Padrastro - Novela [Capítulo 109]",
-			"title": "Novela Salvada Por Mi Loco Padrastro - Novela [Capítulo 109]",
-			"url": "https://lectorikigai.vrinari.org/series/salvada-por-mi-loco-padrastro-novela/",
-			"date_published": "2025-06-21T06:30:25.457Z"
-		},
-		{
-			"id": "Novela Es un malentendido que estoy saliendo con el villano - Novela [Capítulo 54]",
-			"title": "Novela Es un malentendido que estoy saliendo con el villano - Novela [Capítulo 54]",
-			"url": "https://lectorikigai.vrinari.org/series/es-un-malentendido-que-estoy-saliendo-con-el-villano-novela/",
 			"date_published": "2025-06-21T06:30:25.457Z"
 		}
 	]
