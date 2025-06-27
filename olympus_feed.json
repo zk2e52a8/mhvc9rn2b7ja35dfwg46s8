@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Jugador de nivel máximo [Capítulo 108]",
+			"title": "Jugador de nivel máximo [Capítulo 108]",
+			"url": "https://olympusbiblioteca.com/series/comic-jug20-225-olympus513424",
+			"date_published": "2025-06-27T01:15:16.823Z"
+		},
+		{
+			"id": "El guerrero despiadado [Capítulo 8]",
+			"title": "El guerrero despiadado [Capítulo 8]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado",
+			"date_published": "2025-06-27T01:15:16.823Z"
+		},
+		{
+			"id": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 78]",
+			"title": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 78]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-dios-caotico-de-fuerza-extraordinaria20250626-110429904",
+			"date_published": "2025-06-27T01:15:16.823Z"
+		},
+		{
+			"id": "De duende a Dios Goblin [Capítulo 65]",
+			"title": "De duende a Dios Goblin [Capítulo 65]",
+			"url": "https://olympusbiblioteca.com/series/comic-de-duen10-05-2025de-a-dios-goblin",
+			"date_published": "2025-06-27T01:15:16.823Z"
+		},
+		{
 			"id": "El guerrero despiadado [Capítulo 3]",
 			"title": "El guerrero despiadado [Capítulo 3]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado",
@@ -2977,30 +3001,6 @@
 			"title": "Tower Crush [Capítulo 131]",
 			"url": "https://olympusbiblioteca.com/series/comic-tower-crush20250610-111022338",
 			"date_published": "2025-06-09T20:17:18.668Z"
-		},
-		{
-			"id": "Regresión absoluta [Capítulo 52]",
-			"title": "Regresión absoluta [Capítulo 52]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta20250610-110602660",
-			"date_published": "2025-06-09T20:17:18.668Z"
-		},
-		{
-			"id": "El Dios de la Espada de un Mundo Destruido [Capítulo 21]",
-			"title": "El Dios de la Espada de un Mundo Destruido [Capítulo 21]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-de-la-espada-de-un-mundo-destruido",
-			"date_published": "2025-06-09T20:17:18.668Z"
-		},
-		{
-			"id": "RompeVientos [Capítulo 551]",
-			"title": "RompeVientos [Capítulo 551]",
-			"url": "https://olympusbiblioteca.com/series/comic-rompevientos20250610-111316993",
-			"date_published": "2025-06-09T18:21:53.824Z"
-		},
-		{
-			"id": "El último aventurero [Capítulo 74]",
-			"title": "El último aventurero [Capítulo 74]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-ultimo-aventurero20250610-110449445",
-			"date_published": "2025-06-09T18:21:53.824Z"
 		}
 	]
 }
