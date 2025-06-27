@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 336]",
+			"title": "Soldado Esqueleto [Capítulo 336]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto20250626-111130177",
+			"date_published": "2025-06-27T06:23:27.344Z"
+		},
+		{
 			"id": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 111.05]",
 			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 111.05]",
 			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-al-juego-siendo-un-barbaro-bjorn-el-barbaro-20250626-111447758",
@@ -2995,12 +3001,6 @@
 			"title": "Réquiem de las almas sometidas [Capítulo 46]",
 			"url": "https://olympusbiblioteca.com/series/comic-requie5zxzs-sometidas",
 			"date_published": "2025-06-10T01:14:59.380Z"
-		},
-		{
-			"id": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 109]",
-			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 109]",
-			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-al-juego-siendo-un-barbaro-bjorn-el-barbaro-20250610-111444110",
-			"date_published": "2025-06-09T22:15:19.688Z"
 		}
 	]
 }
