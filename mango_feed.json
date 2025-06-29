@@ -3,6 +3,102 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Los Perros Del Infierno [Capítulo 24]",
+			"title": "Cómic Los Perros Del Infierno [Capítulo 24]",
+			"url": "https://lectorikigai.vrinari.org/series/los-perros-del-infierno/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic No me Agrada el Nuevo Oficial [Capítulo 1]",
+			"title": "Cómic No me Agrada el Nuevo Oficial [Capítulo 1]",
+			"url": "https://lectorikigai.vrinari.org/series/no-me-agrada-el-nuevo-oficial/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic Una historia sobre ser entregado [Capítulo 14]",
+			"title": "Cómic Una historia sobre ser entregado [Capítulo 14]",
+			"url": "https://lectorikigai.vrinari.org/series/una-historia-sobre-ser-entregado/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic  La Nueva Bebé De La Familia Villana [Capítulo 56]",
+			"title": "Cómic  La Nueva Bebé De La Familia Villana [Capítulo 56]",
+			"url": "https://lectorikigai.vrinari.org/series/la-nueva-bebe-de-la-familia-villana/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic Caí En Los Brazos De Un Villano Loco [Capítulo 78]",
+			"title": "Cómic Caí En Los Brazos De Un Villano Loco [Capítulo 78]",
+			"url": "https://lectorikigai.vrinari.org/series/cai-en-los-brazos-de-un-villano-loco/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic Ser sirvienta es mucho mejor que una Princesa torturada [Capítulo 54]",
+			"title": "Cómic Ser sirvienta es mucho mejor que una Princesa torturada [Capítulo 54]",
+			"url": "https://lectorikigai.vrinari.org/series/ser-sirvienta-es-mucho-mejor-que-una-princesa-torturada-2/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic Contrato Roto [Capítulo 1]",
+			"title": "Cómic Contrato Roto [Capítulo 1]",
+			"url": "https://lectorikigai.vrinari.org/series/contrato-roto/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic Escandalo en el escaparate de una tienda [Capítulo 35]",
+			"title": "Cómic Escandalo en el escaparate de una tienda [Capítulo 35]",
+			"url": "https://lectorikigai.vrinari.org/series/escandalo-en-el-escaparate-de-una-tienda/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic La Princesa Bebé Clase S Es Muy Fuerte [Capítulo 69]",
+			"title": "Cómic La Princesa Bebé Clase S Es Muy Fuerte [Capítulo 69]",
+			"url": "https://lectorikigai.vrinari.org/series/la-princesa-bebe-clase-s-es-muy-fuerte/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic El Maestro En La Trampa [Capítulo 1]",
+			"title": "Cómic El Maestro En La Trampa [Capítulo 1]",
+			"url": "https://lectorikigai.vrinari.org/series/el-maestro-en-la-trampa/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic Solo Estaba Disfrutando El Tiempo Limitado [Capítulo 46]",
+			"title": "Cómic Solo Estaba Disfrutando El Tiempo Limitado [Capítulo 46]",
+			"url": "https://lectorikigai.vrinari.org/series/solo-estaba-disfrutando-el-tiempo-limitado/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic Las Flores Son Cebo [Capítulo 31]",
+			"title": "Cómic Las Flores Son Cebo [Capítulo 31]",
+			"url": "https://lectorikigai.vrinari.org/series/las-flores-son-cebo/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic Escuela de la Calle [Capítulo 10: Orckuro Translation]",
+			"title": "Cómic Escuela de la Calle [Capítulo 10: Orckuro Translation]",
+			"url": "https://lectorikigai.vrinari.org/series/escuela-de-la-calle/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic  Su huella (guideverse) [Capítulo 6]",
+			"title": "Cómic  Su huella (guideverse) [Capítulo 6]",
+			"url": "https://lectorikigai.vrinari.org/series/su-huella-guideverse/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic Punto de ebullicion [Capítulo 15]",
+			"title": "Cómic Punto de ebullicion [Capítulo 15]",
+			"url": "https://lectorikigai.vrinari.org/series/punto-de-ebullicion/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
+			"id": "Cómic ¿Es por mi sangre? [Capítulo 9]",
+			"title": "Cómic ¿Es por mi sangre? [Capítulo 9]",
+			"url": "https://lectorikigai.vrinari.org/series/es-por-mi-sangre/",
+			"date_published": "2025-06-29T03:57:22.229Z"
+		},
+		{
 			"id": "Cómic La cazadora De Clase S No Quiere Ser Una Princesa Villana [Capítulo 73]",
 			"title": "Cómic La cazadora De Clase S No Quiere Ser Una Princesa Villana [Capítulo 73]",
 			"url": "https://lectorikigai.vrinari.org/series/la-cazadora-de-clase-s-no-quiere-ser-una-princesa-villana-manhwa/",
@@ -2905,102 +3001,6 @@
 			"title": "Cómic No Puedo Esperar A Comerte [Capítulo 96]",
 			"url": "https://lectorikigai.vrinari.org/series/no-puedo-esperar-a-comerte/",
 			"date_published": "2025-06-24T01:52:52.582Z"
-		},
-		{
-			"id": "Cómic El Extra De La Novela - Remake [Capítulo 132]",
-			"title": "Cómic El Extra De La Novela - Remake [Capítulo 132]",
-			"url": "https://lectorikigai.vrinari.org/series/el-extra-de-la-novela-remake/",
-			"date_published": "2025-06-24T01:52:52.582Z"
-		},
-		{
-			"id": "Cómic Deja El Divorcio En Manos De Una Abogada profesional [Capítulo 34]",
-			"title": "Cómic Deja El Divorcio En Manos De Una Abogada profesional [Capítulo 34]",
-			"url": "https://lectorikigai.vrinari.org/series/deja-el-divorcio-en-manos-de-una-abogada-profesional/",
-			"date_published": "2025-06-24T01:52:52.582Z"
-		},
-		{
-			"id": "Cómic oleo sobre lienzo [Capítulo 27]",
-			"title": "Cómic oleo sobre lienzo [Capítulo 27]",
-			"url": "https://lectorikigai.vrinari.org/series/oleo-sobre-lienzo/",
-			"date_published": "2025-06-23T21:21:20.861Z"
-		},
-		{
-			"id": "Cómic Noche de Descanso [Capítulo 10]",
-			"title": "Cómic Noche de Descanso [Capítulo 10]",
-			"url": "https://lectorikigai.vrinari.org/series/noche-de-descanso/",
-			"date_published": "2025-06-23T21:21:20.861Z"
-		},
-		{
-			"id": "Cómic Conversaciones Perversas [Capítulo 13]",
-			"title": "Cómic Conversaciones Perversas [Capítulo 13]",
-			"url": "https://lectorikigai.vrinari.org/series/conversaciones-perversas/",
-			"date_published": "2025-06-23T21:21:20.861Z"
-		},
-		{
-			"id": "Cómic Cambio de trabajo. [Capítulo 20]",
-			"title": "Cómic Cambio de trabajo. [Capítulo 20]",
-			"url": "https://lectorikigai.vrinari.org/series/cambio-de-trabajo/",
-			"date_published": "2025-06-23T21:21:20.861Z"
-		},
-		{
-			"id": "Cómic La vida de los atletas [Capítulo 37]",
-			"title": "Cómic La vida de los atletas [Capítulo 37]",
-			"url": "https://lectorikigai.vrinari.org/series/la-vida-de-los-atletas/",
-			"date_published": "2025-06-23T21:21:20.861Z"
-		},
-		{
-			"id": "Cómic La bruja del caballo pálido [Capítulo 70]",
-			"title": "Cómic La bruja del caballo pálido [Capítulo 70]",
-			"url": "https://lectorikigai.vrinari.org/series/la-bruja-del-caballo-palido/",
-			"date_published": "2025-06-23T21:21:20.861Z"
-		},
-		{
-			"id": "Cómic Yo domé al Príncipe Monstruo [Capítulo 19]",
-			"title": "Cómic Yo domé al Príncipe Monstruo [Capítulo 19]",
-			"url": "https://lectorikigai.vrinari.org/series/yo-dome-al-principe-monstruo/",
-			"date_published": "2025-06-23T21:21:20.861Z"
-		},
-		{
-			"id": "Cómic Mis amigos de la infancia intentan matarme [Capítulo 45]",
-			"title": "Cómic Mis amigos de la infancia intentan matarme [Capítulo 45]",
-			"url": "https://lectorikigai.vrinari.org/series/mis-amigos-de-la-infancia-intentan-matarme/",
-			"date_published": "2025-06-23T21:21:20.861Z"
-		},
-		{
-			"id": "Cómic La santa está atrapada en la pared [Capítulo 3]",
-			"title": "Cómic La santa está atrapada en la pared [Capítulo 3]",
-			"url": "https://lectorikigai.vrinari.org/series/la-santa-esta-atrapada-en-la-pared/",
-			"date_published": "2025-06-23T21:21:20.861Z"
-		},
-		{
-			"id": "Cómic Alerta amber [Capítulo 30]",
-			"title": "Cómic Alerta amber [Capítulo 30]",
-			"url": "https://lectorikigai.vrinari.org/series/alerta-amber/",
-			"date_published": "2025-06-23T21:21:20.860Z"
-		},
-		{
-			"id": "Cómic a pesar de todo [Capítulo 30]",
-			"title": "Cómic a pesar de todo [Capítulo 30]",
-			"url": "https://lectorikigai.vrinari.org/series/a-pesar-de-todo/",
-			"date_published": "2025-06-23T21:21:20.860Z"
-		},
-		{
-			"id": "Cómic Gerente de nivel máximo de 1er año [Capítulo 144]",
-			"title": "Cómic Gerente de nivel máximo de 1er año [Capítulo 144]",
-			"url": "https://lectorikigai.vrinari.org/series/gerente-de-nivel-maximo-de-1er-ano/",
-			"date_published": "2025-06-23T18:32:30.074Z"
-		},
-		{
-			"id": "Cómic El hijo secreto del Presidente [Capítulo 24]",
-			"title": "Cómic El hijo secreto del Presidente [Capítulo 24]",
-			"url": "https://lectorikigai.vrinari.org/series/el-hijo-secreto-del-presidente/",
-			"date_published": "2025-06-23T18:32:30.074Z"
-		},
-		{
-			"id": "Cómic Relaciones amorosas después del trabajo [Capítulo 85]",
-			"title": "Cómic Relaciones amorosas después del trabajo [Capítulo 85]",
-			"url": "https://lectorikigai.vrinari.org/series/relaciones-amorosas-despues-del-trabajo/",
-			"date_published": "2025-06-23T18:32:30.074Z"
 		}
 	]
 }
