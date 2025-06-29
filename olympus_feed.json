@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Jugador devorador de artefactos [Capítulo 24]",
+			"title": "Jugador devorador de artefactos [Capítulo 24]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugador-devorador-de-artefactos20250628-111120567",
+			"date_published": "2025-06-29T08:18:17.913Z"
+		},
+		{
 			"id": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 192]",
 			"title": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 192]",
 			"url": "https://olympusbiblioteca.com/series/comic-nigrom20-225-ante-yo-soy-la-plagaasdfasd",
@@ -2995,12 +3001,6 @@
 			"title": "Villano antihéroe [Capítulo 189]",
 			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe20250613-111456588",
 			"date_published": "2025-06-12T12:31:30.797Z"
-		},
-		{
-			"id": "Artes Marciales Globales [Capítulo 310]",
-			"title": "Artes Marciales Globales [Capítulo 310]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-m10-05-2025en-de-las-peleas",
-			"date_published": "2025-06-12T03:13:12.794Z"
 		}
 	]
 }
