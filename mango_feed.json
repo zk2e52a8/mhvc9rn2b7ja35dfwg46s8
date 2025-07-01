@@ -3,6 +3,12 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic  !Quiero comerme tus guisantes! [Capítulo 4]",
+			"title": "Cómic  !Quiero comerme tus guisantes! [Capítulo 4]",
+			"url": "https://lectorikigai.foodib.net/series/quiero-comerme-tus-guisantes/",
+			"date_published": "2025-07-01T12:47:32.986Z"
+		},
+		{
 			"id": "Cómic ¿Por qué las madres siempre tienen que morir en las historias de crianza? [Capítulo 44]",
 			"title": "Cómic ¿Por qué las madres siempre tienen que morir en las historias de crianza? [Capítulo 44]",
 			"url": "https://lectorikigai.foodib.net/series/por-que-las-madres-siempre-tienen-que-morir-en-las-historias-de-crianza/",
@@ -2994,12 +3000,6 @@
 			"id": "Cómic El mejor médico cirujano [Capítulo 44]",
 			"title": "Cómic El mejor médico cirujano [Capítulo 44]",
 			"url": "https://lectorikigai.vrinari.org/series/el-mejor-medico-cirujano/",
-			"date_published": "2025-06-26T01:51:29.566Z"
-		},
-		{
-			"id": "Cómic Ha llegado el final [Capítulo 18]",
-			"title": "Cómic Ha llegado el final [Capítulo 18]",
-			"url": "https://lectorikigai.vrinari.org/series/ha-llegado-el-final/",
 			"date_published": "2025-06-26T01:51:29.566Z"
 		}
 	]
