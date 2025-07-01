@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Rayito [Capítulo 357]",
+			"title": "Rayito [Capítulo 357]",
+			"url": "https://olympusbiblioteca.com/series/comic-rayito-20250701-124914966",
+			"date_published": "2025-07-01T16:20:09.418Z"
+		},
+		{
+			"id": "El Indomable Rey Marcial [Capítulo 88]",
+			"title": "El Indomable Rey Marcial [Capítulo 88]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial20250701-130411476",
+			"date_published": "2025-07-01T16:20:09.418Z"
+		},
+		{
+			"id": "La regresión 100 del jugador de nivel máximo [Capítulo 61]",
+			"title": "La regresión 100 del jugador de nivel máximo [Capítulo 61]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-r20-225-egresion-100-del-jugador-de-nivel-maximo13424",
+			"date_published": "2025-07-01T16:20:09.418Z"
+		},
+		{
+			"id": "Shirone El Infinit0 (Mago infinito) [Capítulo 125]",
+			"title": "Shirone El Infinit0 (Mago infinito) [Capítulo 125]",
+			"url": "https://olympusbiblioteca.com/series/comic-shirone20-225-el22-infinit015551251524131123",
+			"date_published": "2025-07-01T16:20:09.418Z"
+		},
+		{
+			"id": "Nivelando Con Los Dioses [Capítulo 136]",
+			"title": "Nivelando Con Los Dioses [Capítulo 136]",
+			"url": "https://olympusbiblioteca.com/series/comic-nivel20-225-ando-con-los-dioses13424",
+			"date_published": "2025-07-01T16:20:09.418Z"
+		},
+		{
 			"id": "Regresión del bastardo del clan de la espada [Capítulo 58]",
 			"title": "Regresión del bastardo del clan de la espada [Capítulo 58]",
 			"url": "https://olympusbiblioteca.com/series/comic-regresion10-05-20250152309",
@@ -2971,36 +3001,6 @@
 			"title": "Reencarnación del Rey del Puño [Capítulo 1]",
 			"url": "https://olympusbiblioteca.com/series/comic-reencarnacion-del-rey-del-puno",
 			"date_published": "2025-06-14T16:17:22.832Z"
-		},
-		{
-			"id": "El Asesino Yu Ijin [Capítulo 242]",
-			"title": "El Asesino Yu Ijin [Capítulo 242]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-yu-ijin20250615-110817765",
-			"date_published": "2025-06-14T16:17:22.832Z"
-		},
-		{
-			"id": "Loco Murim [Capítulo 158]",
-			"title": "Loco Murim [Capítulo 158]",
-			"url": "https://olympusbiblioteca.com/series/comic-loco-murim20250615-110316937",
-			"date_published": "2025-06-14T16:17:22.832Z"
-		},
-		{
-			"id": "El Extra es Demasiado Fuerte [Capítulo 91.5]",
-			"title": "El Extra es Demasiado Fuerte [Capítulo 91.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-baki-c20-225-oreano13424",
-			"date_published": "2025-06-14T16:17:22.832Z"
-		},
-		{
-			"id": "Guia de supervivencia del extra de la academia [Capítulo 82]",
-			"title": "Guia de supervivencia del extra de la academia [Capítulo 82]",
-			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-extra-de-la-academia20250614-110419817",
-			"date_published": "2025-06-14T16:17:22.831Z"
-		},
-		{
-			"id": "El hijo menor del maestro de la espada [Capítulo 163]",
-			"title": "El hijo menor del maestro de la espada [Capítulo 163]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hijo20-225-de-la-espada13424",
-			"date_published": "2025-06-14T14:13:15.878Z"
 		}
 	]
 }
