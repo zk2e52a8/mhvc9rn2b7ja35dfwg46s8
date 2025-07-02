@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Sangre Maldita [Capítulo 43]",
+			"title": "Sangre Maldita [Capítulo 43]",
+			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita20250702-110810508",
+			"date_published": "2025-07-02T18:21:57.046Z"
+		},
+		{
+			"id": "Jugador de talento insano [Capítulo 82]",
+			"title": "Jugador de talento insano [Capítulo 82]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugador-de-talento-insano20250702-110208293",
+			"date_published": "2025-07-02T18:21:57.046Z"
+		},
+		{
+			"id": "Monarca De las Sombras [Capítulo 5]",
+			"title": "Monarca De las Sombras [Capítulo 5]",
+			"url": "https://olympusbiblioteca.com/series/comic-monarca-de-las-sombras",
+			"date_published": "2025-07-02T18:21:57.045Z"
+		},
+		{
 			"id": "Pick me up, Gacha Infinito [Capítulo 155]",
 			"title": "Pick me up, Gacha Infinito [Capítulo 155]",
 			"url": "https://olympusbiblioteca.com/series/comic-pick-me-up-gacha-infinito20250702-111702082",
@@ -2983,24 +3001,6 @@
 			"title": "Emperador magico (magic emperor) [Capítulo 715]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
 			"date_published": "2025-06-15T03:21:38.276Z"
-		},
-		{
-			"id": "El Joven Heredero de la Familia de Nigromantes [Capítulo 30]",
-			"title": "El Joven Heredero de la Familia de Nigromantes [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-joven-heredero-de-la-familia-de-nigromantes20250616-111230275",
-			"date_published": "2025-06-15T03:21:38.276Z"
-		},
-		{
-			"id": "El Héroe, El Rey Demonio y El Villano [Capítulo 127]",
-			"title": "El Héroe, El Rey Demonio y El Villano [Capítulo 127]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-el-rey-demonio-y-el-villano20250615-111323739",
-			"date_published": "2025-06-15T03:21:38.276Z"
-		},
-		{
-			"id": "Mi vida escolar pretendiendo ser una persona inútil [Capítulo 117]",
-			"title": "Mi vida escolar pretendiendo ser una persona inútil [Capítulo 117]",
-			"url": "https://olympusbiblioteca.com/series/comic-20-225-retendiendo-ser-una-persona-inutil13424",
-			"date_published": "2025-06-15T03:21:38.275Z"
 		}
 	]
 }
