@@ -3,6 +3,36 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic De Vuelta A La Juventud [Capítulo 49]",
+			"title": "Cómic De Vuelta A La Juventud [Capítulo 49]",
+			"url": "https://lectorikigai.foodib.net/series/de-vuelta-a-la-juventud/",
+			"date_published": "2025-07-02T12:46:37.096Z"
+		},
+		{
+			"id": "Cómic Recogi a una chica de la Basura [Capítulo 15: Orckuro Translation]",
+			"title": "Cómic Recogi a una chica de la Basura [Capítulo 15: Orckuro Translation]",
+			"url": "https://lectorikigai.foodib.net/series/recogi-a-una-chica-de-la-basura/",
+			"date_published": "2025-07-02T12:46:37.096Z"
+		},
+		{
+			"id": "Cómic Recogí una Chica del Basurero [Capítulo 15]",
+			"title": "Cómic Recogí una Chica del Basurero [Capítulo 15]",
+			"url": "https://lectorikigai.foodib.net/series/recogi-una-chica-del-basurero/",
+			"date_published": "2025-07-02T12:46:37.096Z"
+		},
+		{
+			"id": "Cómic Camino a ver a mi madre [Capítulo 32: Reseña]",
+			"title": "Cómic Camino a ver a mi madre [Capítulo 32: Reseña]",
+			"url": "https://lectorikigai.foodib.net/series/camino-a-ver-a-mi-madre/",
+			"date_published": "2025-07-02T12:46:37.096Z"
+		},
+		{
+			"id": "Cómic  Me convertí en una veterana atrapada en una novela trágica [Capítulo 9]",
+			"title": "Cómic  Me convertí en una veterana atrapada en una novela trágica [Capítulo 9]",
+			"url": "https://lectorikigai.foodib.net/series/me-converti-en-una-veterana-atrapada-en-una-novela-tragica/",
+			"date_published": "2025-07-02T12:46:37.096Z"
+		},
+		{
 			"id": "Cómic Relación Secreta [Capítulo 119: Extra 4]",
 			"title": "Cómic Relación Secreta [Capítulo 119: Extra 4]",
 			"url": "https://lectorikigai.foodib.net/series/relacion-secreta/",
@@ -2971,36 +3001,6 @@
 			"title": "Cómic No Confies En La Heroína [Capítulo 128]",
 			"url": "https://lectorikigai.vrinari.org/series/no-confies-en-la-heroina/",
 			"date_published": "2025-06-26T21:21:01.409Z"
-		},
-		{
-			"id": "Cómic Pagarás con tu vida por haberme engañado [Capítulo 20.5]",
-			"title": "Cómic Pagarás con tu vida por haberme engañado [Capítulo 20.5]",
-			"url": "https://lectorikigai.vrinari.org/series/pagaras-con-tu-vida-por-haberme-enganado/",
-			"date_published": "2025-06-26T21:21:01.409Z"
-		},
-		{
-			"id": "Cómic ¡Mi amo no muerde a la gente! [Capítulo 8]",
-			"title": "Cómic ¡Mi amo no muerde a la gente! [Capítulo 8]",
-			"url": "https://lectorikigai.vrinari.org/series/mi-amo-no-muerde-a-la-gente/",
-			"date_published": "2025-06-26T21:21:01.409Z"
-		},
-		{
-			"id": "Cómic Se Convirtió En La Hija Adoptiva De Una Familia De Asesinos [Capítulo 75]",
-			"title": "Cómic Se Convirtió En La Hija Adoptiva De Una Familia De Asesinos [Capítulo 75]",
-			"url": "https://lectorikigai.vrinari.org/series/se-convirtio-en-la-hija-adoptiva-de-una-familia-de-asesinos/",
-			"date_published": "2025-06-26T21:21:01.409Z"
-		},
-		{
-			"id": "Cómic Ponme A Dormir [Capítulo 42]",
-			"title": "Cómic Ponme A Dormir [Capítulo 42]",
-			"url": "https://lectorikigai.vrinari.org/series/ponme-a-dormir/",
-			"date_published": "2025-06-26T18:32:05.031Z"
-		},
-		{
-			"id": "Cómic La aguja de Su Majestad la Emperatriz [Capítulo 22]",
-			"title": "Cómic La aguja de Su Majestad la Emperatriz [Capítulo 22]",
-			"url": "https://lectorikigai.vrinari.org/series/la-aguja-de-su-majestad-la-emperatriz/",
-			"date_published": "2025-06-26T18:32:05.031Z"
 		}
 	]
 }
