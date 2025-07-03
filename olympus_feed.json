@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Las constelaciones son mis discípulos [Capítulo 121]",
+			"title": "Las constelaciones son mis discípulos [Capítulo 121]",
+			"url": "https://olympusbiblioteca.com/series/comic-las-constelaciones-son-mis-discipulos20250702-111450501",
+			"date_published": "2025-07-03T10:17:18.357Z"
+		},
+		{
 			"id": "Resurrección solitaria [Capítulo 52]",
 			"title": "Resurrección solitaria [Capítulo 52]",
 			"url": "https://olympusbiblioteca.com/series/comic-resurreccion-solitaria20250702-110645495",
@@ -2995,12 +3001,6 @@
 			"title": "La regresión del eunuco para recuperar su hombría [Capítulo 35]",
 			"url": "https://olympusbiblioteca.com/series/comic-06-03-205zxz255320254zsz",
 			"date_published": "2025-06-15T20:16:08.598Z"
-		},
-		{
-			"id": "toxicólogo del clan tang de sichuan [Capítulo 40]",
-			"title": "toxicólogo del clan tang de sichuan [Capítulo 40]",
-			"url": "https://olympusbiblioteca.com/series/comic-toxicologo-del-clan-tang-de-sichuan20250616-111156033",
-			"date_published": "2025-06-15T18:19:31.912Z"
 		}
 	]
 }
