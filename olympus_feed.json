@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Reencarnación del Rey del Puño [Capítulo 8]",
+			"title": "Reencarnación del Rey del Puño [Capítulo 8]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarnacion-del-rey-del-puno-20250703-111923237",
+			"date_published": "2025-07-04T10:17:03.557Z"
+		},
+		{
 			"id": "La Ascensión Marcial del Dios Demonio [Capítulo 127]",
 			"title": "La Ascensión Marcial del Dios Demonio [Capítulo 127]",
 			"url": "https://olympusbiblioteca.com/series/comic-dis-m10-05-2025arcial-2013424",
@@ -2995,12 +3001,6 @@
 			"title": "EL DESPERTAR DEL CHEF [Capítulo 79]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-despertar-del-chef78",
 			"date_published": "2025-06-16T22:14:59.581Z"
-		},
-		{
-			"id": "El Regreso del Espadachín Oscuro [Capítulo 6]",
-			"title": "El Regreso del Espadachín Oscuro [Capítulo 6]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
-			"date_published": "2025-06-16T20:17:19.793Z"
 		}
 	]
 }
