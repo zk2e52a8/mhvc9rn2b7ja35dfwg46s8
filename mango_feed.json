@@ -3,33 +3,141 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Nuestro encuentro en el ultimo tren. [Capítulo 35]",
+			"title": "Cómic Nuestro encuentro en el ultimo tren. [Capítulo 35]",
+			"url": "https://visorikigai.skteq.xyz/series/nuestro-encuentro-en-el-ultimo-tren/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic Incentivo [Capítulo 1]",
+			"title": "Cómic Incentivo [Capítulo 1]",
+			"url": "https://visorikigai.skteq.xyz/series/incentivo/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic El Protagonista Masculino Está Obsesionado Con Mi Salud [Capítulo 6]",
+			"title": "Cómic El Protagonista Masculino Está Obsesionado Con Mi Salud [Capítulo 6]",
+			"url": "https://visorikigai.skteq.xyz/series/el-protagonista-masculino-esta-obsesionado-con-mi-salud-manhwa/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic Reembolso [Capítulo 96: Historia Paralela 1]",
+			"title": "Cómic Reembolso [Capítulo 96: Historia Paralela 1]",
+			"url": "https://visorikigai.skteq.xyz/series/reembolso/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic Relacion simbiotica [Capítulo 54]",
+			"title": "Cómic Relacion simbiotica [Capítulo 54]",
+			"url": "https://visorikigai.skteq.xyz/series/relacion-simbiotica/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic La extra quiere huir del protagonista obsesivo [Capítulo 7]",
+			"title": "Cómic La extra quiere huir del protagonista obsesivo [Capítulo 7]",
+			"url": "https://visorikigai.skteq.xyz/series/la-extra-quiere-huir-del-protagonista-obsesivo/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic La falsa santa de un juego de harén inverso [Capítulo 2]",
+			"title": "Cómic La falsa santa de un juego de harén inverso [Capítulo 2]",
+			"url": "https://visorikigai.skteq.xyz/series/la-falsa-santa-de-un-juego-de-haren-inverso/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic Detrás de la alegre sonrisa de la Princesa [Capítulo 50]",
+			"title": "Cómic Detrás de la alegre sonrisa de la Princesa [Capítulo 50]",
+			"url": "https://visorikigai.skteq.xyz/series/detras-de-la-alegre-sonrisa-de-la-princesa/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic Desapareceré, Su Alteza. [Capítulo 12]",
+			"title": "Cómic Desapareceré, Su Alteza. [Capítulo 12]",
+			"url": "https://visorikigai.skteq.xyz/series/desaparecere-su-alteza/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic Me casé con la hermana menor de mi esposa [Capítulo 58]",
+			"title": "Cómic Me casé con la hermana menor de mi esposa [Capítulo 58]",
+			"url": "https://visorikigai.skteq.xyz/series/me-case-con-la-hermana-menor-de-mi-esposa/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic Mi hermana regresora codicia a mi prometido [Capítulo 49]",
+			"title": "Cómic Mi hermana regresora codicia a mi prometido [Capítulo 49]",
+			"url": "https://visorikigai.skteq.xyz/series/mi-hermana-regresora-codicia-a-mi-prometido/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic Adopté Al Protagonista Masculino De Un Refugio Para Prisioneros [Capítulo 58]",
+			"title": "Cómic Adopté Al Protagonista Masculino De Un Refugio Para Prisioneros [Capítulo 58]",
+			"url": "https://visorikigai.skteq.xyz/series/adopte-al-protagonista-masculino-de-un-refugio-para-prisioneros/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic Final feliz sin amor [Capítulo 10]",
+			"title": "Cómic Final feliz sin amor [Capítulo 10]",
+			"url": "https://visorikigai.skteq.xyz/series/final-feliz-sin-amor/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic Nuestro Turno Nocturno [Capítulo 42]",
+			"title": "Cómic Nuestro Turno Nocturno [Capítulo 42]",
+			"url": "https://visorikigai.skteq.xyz/series/nuestro-turno-nocturno/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic Escapa de mí si puedes [Capítulo 19]",
+			"title": "Cómic Escapa de mí si puedes [Capítulo 19]",
+			"url": "https://visorikigai.skteq.xyz/series/escapa-de-mi-si-puedes/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic El Lugar Donde Cai Es El Paraíso [Capítulo 40]",
+			"title": "Cómic El Lugar Donde Cai Es El Paraíso [Capítulo 40]",
+			"url": "https://visorikigai.skteq.xyz/series/el-lugar-donde-cai-es-el-paraiso/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic No Hay Perdón Para Quien Traiciona [Capítulo 49: Fin]",
+			"title": "Cómic No Hay Perdón Para Quien Traiciona [Capítulo 49: Fin]",
+			"url": "https://visorikigai.skteq.xyz/series/no-hay-perdon-para-quien-traiciona/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
+			"id": "Cómic Contrato Roto [Capítulo 9]",
+			"title": "Cómic Contrato Roto [Capítulo 9]",
+			"url": "https://visorikigai.skteq.xyz/series/contrato-roto/",
+			"date_published": "2025-07-06T02:00:53.550Z"
+		},
+		{
 			"id": "Cómic El Extra Es Demasiado Fuerte [Capítulo 92]",
 			"title": "Cómic El Extra Es Demasiado Fuerte [Capítulo 92]",
-			"url": "https://lectorikigai.skteq.xyz/series/el-extra-es-demasiado-fuerte/",
+			"url": "https://visorikigai.skteq.xyz/series/el-extra-es-demasiado-fuerte/",
 			"date_published": "2025-07-05T21:20:40.154Z"
 		},
 		{
 			"id": "Cómic Cazador Con Destino De Clase F [Capítulo 91]",
 			"title": "Cómic Cazador Con Destino De Clase F [Capítulo 91]",
-			"url": "https://lectorikigai.skteq.xyz/series/cazador-con-destino-de-clase-f/",
+			"url": "https://visorikigai.skteq.xyz/series/cazador-con-destino-de-clase-f/",
 			"date_published": "2025-07-05T21:20:40.154Z"
 		},
 		{
 			"id": "Cómic Posesión De La Muñeca De Algodón Del Maníaco Obsesivo [Capítulo 33]",
 			"title": "Cómic Posesión De La Muñeca De Algodón Del Maníaco Obsesivo [Capítulo 33]",
-			"url": "https://lectorikigai.skteq.xyz/series/posesion-de-la-muneca-de-algodon-del-maniaco-obsesivo/",
+			"url": "https://visorikigai.skteq.xyz/series/posesion-de-la-muneca-de-algodon-del-maniaco-obsesivo/",
 			"date_published": "2025-07-05T21:20:40.154Z"
 		},
 		{
 			"id": "Cómic Todos Se Obsesionaron Conmigo Después De Convertirme En La Favorita De La Joven Princesa [Capítulo 34]",
 			"title": "Cómic Todos Se Obsesionaron Conmigo Después De Convertirme En La Favorita De La Joven Princesa [Capítulo 34]",
-			"url": "https://lectorikigai.skteq.xyz/series/todos-se-obsesionaron-conmigo-despues-de-convertirme-en-la-favorita-de-la-joven-princesa/",
+			"url": "https://visorikigai.skteq.xyz/series/todos-se-obsesionaron-conmigo-despues-de-convertirme-en-la-favorita-de-la-joven-princesa/",
 			"date_published": "2025-07-05T21:20:40.154Z"
 		},
 		{
 			"id": "Cómic Estoy planeando eliminar este país [Capítulo 42]",
 			"title": "Cómic Estoy planeando eliminar este país [Capítulo 42]",
-			"url": "https://lectorikigai.skteq.xyz/series/estoy-planeando-eliminar-este-pais/",
+			"url": "https://visorikigai.skteq.xyz/series/estoy-planeando-eliminar-este-pais/",
 			"date_published": "2025-07-05T21:20:40.154Z"
 		},
 		{
@@ -41,133 +149,133 @@
 		{
 			"id": "Cómic No Confies En La Heroína [Capítulo 130: Final]",
 			"title": "Cómic No Confies En La Heroína [Capítulo 130: Final]",
-			"url": "https://lectorikigai.skteq.xyz/series/no-confies-en-la-heroina/",
+			"url": "https://visorikigai.skteq.xyz/series/no-confies-en-la-heroina/",
 			"date_published": "2025-07-05T21:20:40.154Z"
 		},
 		{
 			"id": "Cómic Lechita de Fresa [Capítulo 21]",
 			"title": "Cómic Lechita de Fresa [Capítulo 21]",
-			"url": "https://lectorikigai.skteq.xyz/series/lechita-de-fresa/",
+			"url": "https://visorikigai.skteq.xyz/series/lechita-de-fresa/",
 			"date_published": "2025-07-05T21:20:40.154Z"
 		},
 		{
 			"id": "Cómic vida desafortunada [Capítulo 27]",
 			"title": "Cómic vida desafortunada [Capítulo 27]",
-			"url": "https://lectorikigai.skteq.xyz/series/vida-desafortunada/",
+			"url": "https://visorikigai.skteq.xyz/series/vida-desafortunada/",
 			"date_published": "2025-07-05T21:20:40.154Z"
 		},
 		{
 			"id": "Cómic Deja de fumar [Capítulo 50]",
 			"title": "Cómic Deja de fumar [Capítulo 50]",
-			"url": "https://lectorikigai.skteq.xyz/series/deja-de-fumar/",
+			"url": "https://visorikigai.skteq.xyz/series/deja-de-fumar/",
 			"date_published": "2025-07-05T21:20:40.154Z"
 		},
 		{
 			"id": "Cómic El Tabernáculo de Moloc (omegaverse) [Capítulo 8]",
 			"title": "Cómic El Tabernáculo de Moloc (omegaverse) [Capítulo 8]",
-			"url": "https://lectorikigai.skteq.xyz/series/el-tabernaculo-de-moloc-omegaverse/",
+			"url": "https://visorikigai.skteq.xyz/series/el-tabernaculo-de-moloc-omegaverse/",
 			"date_published": "2025-07-05T21:20:40.154Z"
 		},
 		{
 			"id": "Cómic La noche del detective omega [Capítulo 8]",
 			"title": "Cómic La noche del detective omega [Capítulo 8]",
-			"url": "https://lectorikigai.skteq.xyz/series/la-noche-del-detective-omega/",
+			"url": "https://visorikigai.skteq.xyz/series/la-noche-del-detective-omega/",
 			"date_published": "2025-07-05T21:20:40.154Z"
 		},
 		{
 			"id": "Cómic La musa [Capítulo 29]",
 			"title": "Cómic La musa [Capítulo 29]",
-			"url": "https://lectorikigai.skteq.xyz/series/la-musa/",
+			"url": "https://visorikigai.skteq.xyz/series/la-musa/",
 			"date_published": "2025-07-05T21:20:40.154Z"
 		},
 		{
 			"id": "Cómic Clase de amor apasionado [Capítulo 62]",
 			"title": "Cómic Clase de amor apasionado [Capítulo 62]",
-			"url": "https://lectorikigai.skteq.xyz/series/clase-de-amor-apasionado/",
+			"url": "https://visorikigai.skteq.xyz/series/clase-de-amor-apasionado/",
 			"date_published": "2025-07-05T21:20:40.154Z"
 		},
 		{
 			"id": "Cómic Un rastro de la maravilla [Capítulo 76]",
 			"title": "Cómic Un rastro de la maravilla [Capítulo 76]",
-			"url": "https://lectorikigai.skteq.xyz/series/un-rastro-de-la-maravilla/",
+			"url": "https://visorikigai.skteq.xyz/series/un-rastro-de-la-maravilla/",
 			"date_published": "2025-07-05T18:28:35.953Z"
 		},
 		{
 			"id": "Cómic Llevaré a esta familia a la grandeza [Capítulo 35]",
 			"title": "Cómic Llevaré a esta familia a la grandeza [Capítulo 35]",
-			"url": "https://lectorikigai.skteq.xyz/series/llevare-a-esta-familia-a-la-grandeza/",
+			"url": "https://visorikigai.skteq.xyz/series/llevare-a-esta-familia-a-la-grandeza/",
 			"date_published": "2025-07-05T18:28:35.953Z"
 		},
 		{
 			"id": "Cómic Dominar el mundo con una sola poción♥ [Capítulo 6]",
 			"title": "Cómic Dominar el mundo con una sola poción♥ [Capítulo 6]",
-			"url": "https://lectorikigai.skteq.xyz/series/dominar-el-mundo-con-una-sola-pocion/",
+			"url": "https://visorikigai.skteq.xyz/series/dominar-el-mundo-con-una-sola-pocion/",
 			"date_published": "2025-07-05T18:28:35.953Z"
 		},
 		{
 			"id": "Cómic La Concubina [Capítulo 17]",
 			"title": "Cómic La Concubina [Capítulo 17]",
-			"url": "https://lectorikigai.skteq.xyz/series/la-concubina/",
+			"url": "https://visorikigai.skteq.xyz/series/la-concubina/",
 			"date_published": "2025-07-05T18:28:35.953Z"
 		},
 		{
 			"id": "Cómic Osito De Miel [Capítulo 63]",
 			"title": "Cómic Osito De Miel [Capítulo 63]",
-			"url": "https://lectorikigai.skteq.xyz/series/osito-de-miel/",
+			"url": "https://visorikigai.skteq.xyz/series/osito-de-miel/",
 			"date_published": "2025-07-05T18:28:35.953Z"
 		},
 		{
 			"id": "Cómic No Quiero Ser la Nuera Adoptiva del Duque [Capítulo 97]",
 			"title": "Cómic No Quiero Ser la Nuera Adoptiva del Duque [Capítulo 97]",
-			"url": "https://lectorikigai.skteq.xyz/series/no-quiero-ser-la-nuera-adoptiva-del-duque/",
+			"url": "https://visorikigai.skteq.xyz/series/no-quiero-ser-la-nuera-adoptiva-del-duque/",
 			"date_published": "2025-07-05T18:28:35.953Z"
 		},
 		{
 			"id": "Cómic El Conejo Blanco en el País de las Maravillas [Capítulo 39]",
 			"title": "Cómic El Conejo Blanco en el País de las Maravillas [Capítulo 39]",
-			"url": "https://lectorikigai.skteq.xyz/series/el-conejo-blanco-en-el-pais-de-las-maravillas/",
+			"url": "https://visorikigai.skteq.xyz/series/el-conejo-blanco-en-el-pais-de-las-maravillas/",
 			"date_published": "2025-07-05T18:28:35.953Z"
 		},
 		{
 			"id": "Cómic mercenario [Capítulo 245]",
 			"title": "Cómic mercenario [Capítulo 245]",
-			"url": "https://lectorikigai.skteq.xyz/series/mercenario/",
+			"url": "https://visorikigai.skteq.xyz/series/mercenario/",
 			"date_published": "2025-07-05T18:28:35.953Z"
 		},
 		{
 			"id": "Cómic Caí En Los Brazos De Un Villano Loco [Capítulo 79]",
 			"title": "Cómic Caí En Los Brazos De Un Villano Loco [Capítulo 79]",
-			"url": "https://lectorikigai.skteq.xyz/series/cai-en-los-brazos-de-un-villano-loco/",
+			"url": "https://visorikigai.skteq.xyz/series/cai-en-los-brazos-de-un-villano-loco/",
 			"date_published": "2025-07-05T18:28:35.953Z"
 		},
 		{
 			"id": "Cómic ¡Compraré El Poder Divino Con Dinero! [Capítulo 25]",
 			"title": "Cómic ¡Compraré El Poder Divino Con Dinero! [Capítulo 25]",
-			"url": "https://lectorikigai.skteq.xyz/series/comprare-el-poder-divino-con-dinero/",
+			"url": "https://visorikigai.skteq.xyz/series/comprare-el-poder-divino-con-dinero/",
 			"date_published": "2025-07-05T18:28:35.953Z"
 		},
 		{
 			"id": "Cómic Me Convertí En La Cuñada Más Joven De Los Protagonistas Masculinos Del Arruinado Harén Inverso [Capítulo 46]",
 			"title": "Cómic Me Convertí En La Cuñada Más Joven De Los Protagonistas Masculinos Del Arruinado Harén Inverso [Capítulo 46]",
-			"url": "https://lectorikigai.skteq.xyz/series/me-converti-en-la-cunada-mas-joven-de-los-protagonistas-masculinos-del-arruinado-haren-inverso/",
+			"url": "https://visorikigai.skteq.xyz/series/me-converti-en-la-cunada-mas-joven-de-los-protagonistas-masculinos-del-arruinado-haren-inverso/",
 			"date_published": "2025-07-05T18:28:35.953Z"
 		},
 		{
 			"id": "Cómic Razones Para Proteger Al Hijo De La Bruja [Capítulo 85]",
 			"title": "Cómic Razones Para Proteger Al Hijo De La Bruja [Capítulo 85]",
-			"url": "https://lectorikigai.skteq.xyz/series/razones-para-proteger-al-hijo-de-la-bruja/",
+			"url": "https://visorikigai.skteq.xyz/series/razones-para-proteger-al-hijo-de-la-bruja/",
 			"date_published": "2025-07-05T18:28:35.953Z"
 		},
 		{
 			"id": "Cómic Odio el harén inverso [Capítulo 19]",
 			"title": "Cómic Odio el harén inverso [Capítulo 19]",
-			"url": "https://lectorikigai.skteq.xyz/series/odio-el-haren-inverso/",
+			"url": "https://visorikigai.skteq.xyz/series/odio-el-haren-inverso/",
 			"date_published": "2025-07-05T18:28:35.953Z"
 		},
 		{
 			"id": "Cómic Combustion incompleta [Capítulo 16]",
 			"title": "Cómic Combustion incompleta [Capítulo 16]",
-			"url": "https://lectorikigai.skteq.xyz/series/combustion-incompleta/",
+			"url": "https://visorikigai.skteq.xyz/series/combustion-incompleta/",
 			"date_published": "2025-07-05T18:28:35.953Z"
 		},
 		{
@@ -2893,114 +3001,6 @@
 			"title": "Cómic Lotería flipantemente buena [Capítulo 53]",
 			"url": "https://visualikigai.deliciousdelight.online/series/loteria-flipantemente-buena/",
 			"date_published": "2025-06-30T12:47:33.368Z"
-		},
-		{
-			"id": "Cómic La guía definitiva del extra de nivel dios (Remake) [Capítulo 21]",
-			"title": "Cómic La guía definitiva del extra de nivel dios (Remake) [Capítulo 21]",
-			"url": "https://visualikigai.deliciousdelight.online/series/la-guia-definitiva-del-extra-de-nivel-dios-remake/",
-			"date_published": "2025-06-30T12:47:33.368Z"
-		},
-		{
-			"id": "Cómic Mi Hermana Casada [Capítulo 36: Orckuro Translations]",
-			"title": "Cómic Mi Hermana Casada [Capítulo 36: Orckuro Translations]",
-			"url": "https://visualikigai.deliciousdelight.online/series/mi-hermana-casada/",
-			"date_published": "2025-06-30T09:26:56.324Z"
-		},
-		{
-			"id": "Cómic Mi Novia Cosplayer [Capítulo 16: Orckuro Translations]",
-			"title": "Cómic Mi Novia Cosplayer [Capítulo 16: Orckuro Translations]",
-			"url": "https://visualikigai.deliciousdelight.online/series/mi-novia-cosplayer/",
-			"date_published": "2025-06-30T09:26:56.324Z"
-		},
-		{
-			"id": "Cómic El regreso de la madrastra [Capítulo 37: Orckuro Translations]",
-			"title": "Cómic El regreso de la madrastra [Capítulo 37: Orckuro Translations]",
-			"url": "https://visualikigai.deliciousdelight.online/series/el-regreso-de-la-madrastra/",
-			"date_published": "2025-06-30T09:26:56.324Z"
-		},
-		{
-			"id": "Cómic Mi respuesta [Capítulo 35: Orckuro Translations]",
-			"title": "Cómic Mi respuesta [Capítulo 35: Orckuro Translations]",
-			"url": "https://visualikigai.deliciousdelight.online/series/mi-respuesta/",
-			"date_published": "2025-06-30T06:34:55.604Z"
-		},
-		{
-			"id": "Cómic Guardian de Milfs [Capítulo 38: Orckuro Translations]",
-			"title": "Cómic Guardian de Milfs [Capítulo 38: Orckuro Translations]",
-			"url": "https://visualikigai.deliciousdelight.online/series/guardian-de-milfs/",
-			"date_published": "2025-06-30T06:34:55.604Z"
-		},
-		{
-			"id": "Cómic La Simbiótica Relación Entre La Coneja y Una Pantera Negra [Capítulo 178: Extra Especial 8]",
-			"title": "Cómic La Simbiótica Relación Entre La Coneja y Una Pantera Negra [Capítulo 178: Extra Especial 8]",
-			"url": "https://visualikigai.deliciousdelight.online/series/la-simbiotica-relacion-entre-la-coneja-y-una-pantera-negra/",
-			"date_published": "2025-06-30T06:34:55.604Z"
-		},
-		{
-			"id": "Cómic Le di mi cuerpo al amigo de mi hijo [Capítulo 12: Orckuro Translations]",
-			"title": "Cómic Le di mi cuerpo al amigo de mi hijo [Capítulo 12: Orckuro Translations]",
-			"url": "https://visualikigai.deliciousdelight.online/series/le-di-mi-cuerpo-al-amigo-de-mi-hijo/",
-			"date_published": "2025-06-30T06:34:55.604Z"
-		},
-		{
-			"id": "Cómic Atando mi Secreto [Capítulo 7: Orckuro Translations]",
-			"title": "Cómic Atando mi Secreto [Capítulo 7: Orckuro Translations]",
-			"url": "https://visualikigai.deliciousdelight.online/series/atando-mi-secreto/",
-			"date_published": "2025-06-30T06:34:55.604Z"
-		},
-		{
-			"id": "Cómic Desbloquea el cómodo confinamiento [Capítulo 6]",
-			"title": "Cómic Desbloquea el cómodo confinamiento [Capítulo 6]",
-			"url": "https://visualikigai.deliciousdelight.online/series/desbloquea-el-comodo-confinamiento/",
-			"date_published": "2025-06-30T06:34:55.604Z"
-		},
-		{
-			"id": "Cómic Codename Anastasia [Capítulo 50.5: 𝐶𝑜𝑛𝑓𝑖𝑟𝑚𝑎𝑑𝑎 𝑓𝑒𝑐ℎ𝑎 𝑑𝑒 𝑟𝑒𝑔𝑟𝑒𝑠𝑜]",
-			"title": "Cómic Codename Anastasia [Capítulo 50.5: 𝐶𝑜𝑛𝑓𝑖𝑟𝑚𝑎𝑑𝑎 𝑓𝑒𝑐ℎ𝑎 𝑑𝑒 𝑟𝑒𝑔𝑟𝑒𝑠𝑜]",
-			"url": "https://visualikigai.deliciousdelight.online/series/codename-anastasia/",
-			"date_published": "2025-06-30T06:34:55.604Z"
-		},
-		{
-			"id": "Cómic Odaliska [Capítulo 32.5: 𝐶𝑜𝑛𝑓𝑖𝑟𝑚𝑎𝑑𝑎 𝑓𝑒𝑐ℎ𝑎 𝑑𝑒 𝑟𝑒𝑔𝑟𝑒𝑠𝑜]",
-			"title": "Cómic Odaliska [Capítulo 32.5: 𝐶𝑜𝑛𝑓𝑖𝑟𝑚𝑎𝑑𝑎 𝑓𝑒𝑐ℎ𝑎 𝑑𝑒 𝑟𝑒𝑔𝑟𝑒𝑠𝑜]",
-			"url": "https://visualikigai.deliciousdelight.online/series/odaliska/",
-			"date_published": "2025-06-30T06:34:55.604Z"
-		},
-		{
-			"id": "Cómic Ire hasta el final con el Emperador [Capítulo 115: Final]",
-			"title": "Cómic Ire hasta el final con el Emperador [Capítulo 115: Final]",
-			"url": "https://visualikigai.deliciousdelight.online/series/ire-hasta-el-final-con-el-emperador/",
-			"date_published": "2025-06-30T06:34:55.604Z"
-		},
-		{
-			"id": "Cómic Mi Hermana Mayor Me Ama [Capítulo 26]",
-			"title": "Cómic Mi Hermana Mayor Me Ama [Capítulo 26]",
-			"url": "https://visualikigai.deliciousdelight.online/series/mi-hermana-mayor-me-ama/",
-			"date_published": "2025-06-30T06:34:55.604Z"
-		},
-		{
-			"id": "Cómic Chica Sucia [Capítulo 12: Orckuro Translation]",
-			"title": "Cómic Chica Sucia [Capítulo 12: Orckuro Translation]",
-			"url": "https://visualikigai.deliciousdelight.online/series/chica-sucia/",
-			"date_published": "2025-06-30T06:34:55.604Z"
-		},
-		{
-			"id": "Cómic Cambio de Roles [Capítulo 12: Orckuro Translation]",
-			"title": "Cómic Cambio de Roles [Capítulo 12: Orckuro Translation]",
-			"url": "https://visualikigai.deliciousdelight.online/series/cambio-de-roles/",
-			"date_published": "2025-06-30T06:34:55.604Z"
-		},
-		{
-			"id": "Novela Bailando En Un Mar Legendario - Novela [Capítulo 142]",
-			"title": "Novela Bailando En Un Mar Legendario - Novela [Capítulo 142]",
-			"url": "https://visualikigai.deliciousdelight.online/series/bailando-en-un-mar-legendario-novela/",
-			"date_published": "2025-06-30T06:34:55.604Z"
-		},
-		{
-			"id": "Novela Cómo Sobrevivir Como La Esposa Del Duque Monstruoso - Novela [Capítulo 189]",
-			"title": "Novela Cómo Sobrevivir Como La Esposa Del Duque Monstruoso - Novela [Capítulo 189]",
-			"url": "https://visualikigai.deliciousdelight.online/series/como-sobrevivir-como-la-esposa-del-duque-monstruoso-novela/",
-			"date_published": "2025-06-30T06:34:55.604Z"
 		}
 	]
 }
