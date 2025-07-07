@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El guerrero despiadado [Capítulo 10]",
+			"title": "El guerrero despiadado [Capítulo 10]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado20250707-111707912",
+			"date_published": "2025-07-07T14:16:00.611Z"
+		},
+		{
 			"id": "El demonio celestial quiere una vida tranquila [Capítulo 38]",
 			"title": "El demonio celestial quiere una vida tranquila [Capítulo 38]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-demonio-celestial-quiere-una-vida-tranquila20250707-110803328",
@@ -2995,12 +3001,6 @@
 			"title": "Asesino de Dragones [Capítulo 155]",
 			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-dragones20250620-111301841",
 			"date_published": "2025-06-20T08:20:50.724Z"
-		},
-		{
-			"id": "¡El descenso de la anomalía! Iniciando como un NPC en el fin del Mundo [Capítulo 12]",
-			"title": "¡El descenso de la anomalía! Iniciando como un NPC en el fin del Mundo [Capítulo 12]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-descenso-de-la-anomalia-iniciando-como-un-npc-en-el-fin-del-mundo",
-			"date_published": "2025-06-20T06:22:40.556Z"
 		}
 	]
 }
