@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Loco Murim [Capítulo 160]",
+			"title": "Loco Murim [Capítulo 160]",
+			"url": "https://olympusbiblioteca.com/series/comic-loco-murim20250706-110151159",
+			"date_published": "2025-07-07T04:30:40.533Z"
+		},
+		{
+			"id": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 194]",
+			"title": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 194]",
+			"url": "https://olympusbiblioteca.com/series/comic-nigrom20-225-ante-yo-soy-la-plagaasdfasd",
+			"date_published": "2025-07-07T04:30:40.533Z"
+		},
+		{
+			"id": "El Profesor Encubierto de la Academia [Capítulo 125]",
+			"title": "El Profesor Encubierto de la Academia [Capítulo 125]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-profesor-encubierto-de-la-academia20250706-110124047",
+			"date_published": "2025-07-07T04:30:40.533Z"
+		},
+		{
 			"id": "Soy un Dios Maligno [Capítulo 530]",
 			"title": "Soy un Dios Maligno [Capítulo 530]",
 			"url": "https://olympusbiblioteca.com/series/comic-soy-u20-225-maligno",
@@ -2983,24 +3001,6 @@
 			"title": "Emperador magico (magic emperor) [Capítulo 716]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
 			"date_published": "2025-06-20T06:22:40.556Z"
-		},
-		{
-			"id": "Roman demonio [Capítulo 162]",
-			"title": "Roman demonio [Capítulo 162]",
-			"url": "https://olympusbiblioteca.com/series/comic-roman-demonio20250620-111451830",
-			"date_published": "2025-06-20T04:23:00.432Z"
-		},
-		{
-			"id": "Jugador devorador de artefactos [Capítulo 23]",
-			"title": "Jugador devorador de artefactos [Capítulo 23]",
-			"url": "https://olympusbiblioteca.com/series/comic-jugador-devorador-de-artefactos20250620-110928167",
-			"date_published": "2025-06-20T03:14:07.140Z"
-		},
-		{
-			"id": "Academia de la Ascensión [Capítulo 152]",
-			"title": "Academia de la Ascensión [Capítulo 152]",
-			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension20250620-110301862",
-			"date_published": "2025-06-20T03:14:07.140Z"
 		}
 	]
 }
