@@ -3,6 +3,12 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Princesa de las Sombras [Capítulo 1]",
+			"title": "Cómic Princesa de las Sombras [Capítulo 1]",
+			"url": "https://visorikigai.skteq.xyz/series/princesa-de-las-sombras/",
+			"date_published": "2025-07-07T18:32:23.420Z"
+		},
+		{
 			"id": "Cómic Ofertas Prohibidas [Capítulo 27: Orckuro Translations]",
 			"title": "Cómic Ofertas Prohibidas [Capítulo 27: Orckuro Translations]",
 			"url": "https://visorikigai.skteq.xyz/series/ofertas-prohibidas/",
@@ -2994,12 +3000,6 @@
 			"id": "Cómic Chamán del dinero [Capítulo 1]",
 			"title": "Cómic Chamán del dinero [Capítulo 1]",
 			"url": "https://lectorikigai.foodib.net/series/chaman-del-dinero/",
-			"date_published": "2025-07-01T06:34:26.922Z"
-		},
-		{
-			"id": "Cómic Chica Sucia [Capítulo 13: Orckuro Translation]",
-			"title": "Cómic Chica Sucia [Capítulo 13: Orckuro Translation]",
-			"url": "https://lectorikigai.foodib.net/series/chica-sucia/",
 			"date_published": "2025-07-01T06:34:26.922Z"
 		}
 	]
