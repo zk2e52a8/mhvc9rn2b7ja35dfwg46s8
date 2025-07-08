@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "La noche del goblin [Capítulo 102]",
+			"title": "La noche del goblin [Capítulo 102]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin20250708-111652924",
+			"date_published": "2025-07-08T22:15:31.035Z"
+		},
+		{
+			"id": "Monarca De las Sombras [Capítulo 6]",
+			"title": "Monarca De las Sombras [Capítulo 6]",
+			"url": "https://olympusbiblioteca.com/series/comic-monarca-de-las-sombras",
+			"date_published": "2025-07-08T22:15:31.035Z"
+		},
+		{
+			"id": "Cuando Enfrento a los Fuertes, me Vuelvo Aún más Fuerte [Capítulo 60]",
+			"title": "Cuando Enfrento a los Fuertes, me Vuelvo Aún más Fuerte [Capítulo 60]",
+			"url": "https://olympusbiblioteca.com/series/comic-cuando-enfrento-a-los-fuertes-me-vuelvo-aun-mas-fuerte",
+			"date_published": "2025-07-08T22:15:31.035Z"
+		},
+		{
 			"id": "Yo mate al jugador de la Academia [Capítulo 77]",
 			"title": "Yo mate al jugador de la Academia [Capítulo 77]",
 			"url": "https://olympusbiblioteca.com/series/comic-yo-mate-al-jugador-de-la-academia20250708-110316830",
@@ -2983,24 +3001,6 @@
 			"title": "La Guía Definitiva del Extra de Nivel Dios (Remake) [Capítulo 16]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-guia-definitiva-del-extra-de-nivel-dios-remake",
 			"date_published": "2025-06-21T18:19:15.574Z"
-		},
-		{
-			"id": "El maestro de la espada Genio de la academia [Capítulo 106]",
-			"title": "El maestro de la espada Genio de la academia [Capítulo 106]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-genio-de-la-academia20250622-111933425",
-			"date_published": "2025-06-21T18:19:15.574Z"
-		},
-		{
-			"id": "El Asesino Yu Ijin [Capítulo 243]",
-			"title": "El Asesino Yu Ijin [Capítulo 243]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-yu-ijin20250622-110941034",
-			"date_published": "2025-06-21T18:19:15.573Z"
-		},
-		{
-			"id": "Regresión inútil [Capítulo 90]",
-			"title": "Regresión inútil [Capítulo 90]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresi10-05-2025on-inutil",
-			"date_published": "2025-06-21T16:17:29.899Z"
 		}
 	]
 }
