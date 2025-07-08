@@ -3,6 +3,30 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Juego de la Avaricia [Capítulo 23]",
+			"title": "Cómic Juego de la Avaricia [Capítulo 23]",
+			"url": "https://visorikigai.skteq.xyz/series/juego-de-la-avaricia/",
+			"date_published": "2025-07-08T09:26:10.353Z"
+		},
+		{
+			"id": "Cómic La noche de nuestro matrimonio por contrato [Capítulo 3]",
+			"title": "Cómic La noche de nuestro matrimonio por contrato [Capítulo 3]",
+			"url": "https://visorikigai.skteq.xyz/series/la-noche-de-nuestro-matrimonio-por-contrato/",
+			"date_published": "2025-07-08T09:26:10.353Z"
+		},
+		{
+			"id": "Cómic Esposa Fugitiva [Capítulo 38: Orckuro Translations]",
+			"title": "Cómic Esposa Fugitiva [Capítulo 38: Orckuro Translations]",
+			"url": "https://visorikigai.skteq.xyz/series/esposa-fugitiva/",
+			"date_published": "2025-07-08T09:26:10.353Z"
+		},
+		{
+			"id": "Cómic Una Bestia Domesticada Por La Villana [Capítulo 96]",
+			"title": "Cómic Una Bestia Domesticada Por La Villana [Capítulo 96]",
+			"url": "https://visorikigai.skteq.xyz/series/una-bestia-domesticada-por-la-villana/",
+			"date_published": "2025-07-08T09:26:10.353Z"
+		},
+		{
 			"id": "Cómic Noonas [Capítulo 15: Orckuro Translations]",
 			"title": "Cómic Noonas [Capítulo 15: Orckuro Translations]",
 			"url": "https://visorikigai.skteq.xyz/series/noonas/",
@@ -2977,30 +3001,6 @@
 			"title": "Cómic Vamos a escaparnos [Capítulo 8]",
 			"url": "https://lectorikigai.foodib.net/series/vamos-a-escaparnos/",
 			"date_published": "2025-07-02T03:52:06.627Z"
-		},
-		{
-			"id": "Cómic  Me convertí en una veterana atrapada en una novela trágica [Capítulo 7]",
-			"title": "Cómic  Me convertí en una veterana atrapada en una novela trágica [Capítulo 7]",
-			"url": "https://lectorikigai.foodib.net/series/me-converti-en-una-veterana-atrapada-en-una-novela-tragica/",
-			"date_published": "2025-07-02T03:52:06.627Z"
-		},
-		{
-			"id": "Cómic La niñera del jefe de la mafia [Capítulo 73]",
-			"title": "Cómic La niñera del jefe de la mafia [Capítulo 73]",
-			"url": "https://lectorikigai.foodib.net/series/la-ninera-del-jefe-de-la-mafia/",
-			"date_published": "2025-07-02T01:52:23.607Z"
-		},
-		{
-			"id": "Cómic Punto De Vista Del Lector Omnisciente [Capítulo 269]",
-			"title": "Cómic Punto De Vista Del Lector Omnisciente [Capítulo 269]",
-			"url": "https://lectorikigai.foodib.net/series/punto-de-vista-del-lector-omnisciente/",
-			"date_published": "2025-07-02T01:52:23.607Z"
-		},
-		{
-			"id": "Cómic ¿Se pueden atrapar sirenas con una caña de pescar? [Capítulo 2]",
-			"title": "Cómic ¿Se pueden atrapar sirenas con una caña de pescar? [Capítulo 2]",
-			"url": "https://lectorikigai.foodib.net/series/se-pueden-atrapar-sirenas-con-una-cana-de-pescar/",
-			"date_published": "2025-07-02T01:52:23.607Z"
 		}
 	]
 }
