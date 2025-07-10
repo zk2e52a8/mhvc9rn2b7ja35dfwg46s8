@@ -3,6 +3,84 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Pedro el Asesino [Capítulo 100]",
+			"title": "Cómic Pedro el Asesino [Capítulo 100]",
+			"url": "https://visorikigai.skteq.xyz/series/pedro-el-asesino/",
+			"date_published": "2025-07-10T15:26:30.696Z"
+		},
+		{
+			"id": "Cómic El regreso del prodigio [Capítulo 9]",
+			"title": "Cómic El regreso del prodigio [Capítulo 9]",
+			"url": "https://visorikigai.skteq.xyz/series/el-regreso-del-prodigio/",
+			"date_published": "2025-07-10T15:26:30.696Z"
+		},
+		{
+			"id": "Cómic ¡Listo, dispara amor! [Capítulo 4]",
+			"title": "Cómic ¡Listo, dispara amor! [Capítulo 4]",
+			"url": "https://visorikigai.skteq.xyz/series/listo-dispara-amor/",
+			"date_published": "2025-07-10T15:26:30.696Z"
+		},
+		{
+			"id": "Cómic La extra quiere huir del protagonista obsesivo [Capítulo 17]",
+			"title": "Cómic La extra quiere huir del protagonista obsesivo [Capítulo 17]",
+			"url": "https://visorikigai.skteq.xyz/series/la-extra-quiere-huir-del-protagonista-obsesivo/",
+			"date_published": "2025-07-10T15:26:30.696Z"
+		},
+		{
+			"id": "Cómic El secreto del Duque Lobo [Capítulo 3]",
+			"title": "Cómic El secreto del Duque Lobo [Capítulo 3]",
+			"url": "https://visorikigai.skteq.xyz/series/el-secreto-del-duque-lobo/",
+			"date_published": "2025-07-10T15:26:30.696Z"
+		},
+		{
+			"id": "Cómic La Basura De La Familia Del Conde [Capítulo 157]",
+			"title": "Cómic La Basura De La Familia Del Conde [Capítulo 157]",
+			"url": "https://visorikigai.skteq.xyz/series/la-basura-de-la-familia-del-conde/",
+			"date_published": "2025-07-10T15:26:30.696Z"
+		},
+		{
+			"id": "Cómic El Asesino Reencarnado Es Un Genio Espadachín [Capítulo 70]",
+			"title": "Cómic El Asesino Reencarnado Es Un Genio Espadachín [Capítulo 70]",
+			"url": "https://visorikigai.skteq.xyz/series/el-asesino-reencarnado-es-un-genio-espadachin/",
+			"date_published": "2025-07-10T15:26:30.696Z"
+		},
+		{
+			"id": "Cómic PvP en la vida real [Capítulo 17]",
+			"title": "Cómic PvP en la vida real [Capítulo 17]",
+			"url": "https://visorikigai.skteq.xyz/series/pvp-en-la-vida-real/",
+			"date_published": "2025-07-10T15:26:30.696Z"
+		},
+		{
+			"id": "Cómic La aguja de Su Majestad la Emperatriz [Capítulo 23]",
+			"title": "Cómic La aguja de Su Majestad la Emperatriz [Capítulo 23]",
+			"url": "https://visorikigai.skteq.xyz/series/la-aguja-de-su-majestad-la-emperatriz/",
+			"date_published": "2025-07-10T15:26:30.696Z"
+		},
+		{
+			"id": "Cómic El Único Final De La Villana Es La Muerte [Capítulo 179]",
+			"title": "Cómic El Único Final De La Villana Es La Muerte [Capítulo 179]",
+			"url": "https://visorikigai.skteq.xyz/series/el-unico-final-de-la-villana-es-la-muerte/",
+			"date_published": "2025-07-10T15:26:30.696Z"
+		},
+		{
+			"id": "Cómic Reunión Secreta Con Mi Jefe [Capítulo 35]",
+			"title": "Cómic Reunión Secreta Con Mi Jefe [Capítulo 35]",
+			"url": "https://visorikigai.skteq.xyz/series/reunion-secreta-con-mi-jefe/",
+			"date_published": "2025-07-10T15:26:30.696Z"
+		},
+		{
+			"id": "Cómic Hice Una Huelga Porque Mi Tiempo Era Limitado [Capítulo 119]",
+			"title": "Cómic Hice Una Huelga Porque Mi Tiempo Era Limitado [Capítulo 119]",
+			"url": "https://visorikigai.skteq.xyz/series/hice-una-huelga-porque-mi-tiempo-era-limitado/",
+			"date_published": "2025-07-10T15:26:30.696Z"
+		},
+		{
+			"id": "Cómic Plan de intercambio de madres [Capítulo 30]",
+			"title": "Cómic Plan de intercambio de madres [Capítulo 30]",
+			"url": "https://visorikigai.skteq.xyz/series/plan-de-intercambio-de-madres/",
+			"date_published": "2025-07-10T15:26:30.696Z"
+		},
+		{
 			"id": "Cómic Nuestra Nueva Vida de Recién Casados [Capítulo 95]",
 			"title": "Cómic Nuestra Nueva Vida de Recién Casados [Capítulo 95]",
 			"url": "https://visorikigai.skteq.xyz/series/nuestra-nueva-vida-de-recien-casados/",
@@ -2922,84 +3000,6 @@
 			"id": "Cómic Los Pétalos de la Santa se humedecen [Capítulo 15]",
 			"title": "Cómic Los Pétalos de la Santa se humedecen [Capítulo 15]",
 			"url": "https://lectorikigai.foodib.net/series/los-petalos-de-la-santa-se-humedecen/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic Fecha de caducidad [Capítulo 20]",
-			"title": "Cómic Fecha de caducidad [Capítulo 20]",
-			"url": "https://lectorikigai.foodib.net/series/fecha-de-caducidad/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic tres meses de verano [Capítulo 27]",
-			"title": "Cómic tres meses de verano [Capítulo 27]",
-			"url": "https://lectorikigai.foodib.net/series/tres-meses-de-verano/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic  Me convertí en una veterana atrapada en una novela trágica [Capítulo 16]",
-			"title": "Cómic  Me convertí en una veterana atrapada en una novela trágica [Capítulo 16]",
-			"url": "https://lectorikigai.foodib.net/series/me-converti-en-una-veterana-atrapada-en-una-novela-tragica/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic Tacticas del recogepelotas [Capítulo 46]",
-			"title": "Cómic Tacticas del recogepelotas [Capítulo 46]",
-			"url": "https://lectorikigai.foodib.net/series/tacticas-del-recogepelotas/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic Jardin oculto [Capítulo 48]",
-			"title": "Cómic Jardin oculto [Capítulo 48]",
-			"url": "https://lectorikigai.foodib.net/series/jardin-oculto/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic De casualidad terminamos siendo perfectos para el otro [Capítulo 117]",
-			"title": "Cómic De casualidad terminamos siendo perfectos para el otro [Capítulo 117]",
-			"url": "https://lectorikigai.foodib.net/series/de-casualidad-terminamos-siendo-perfectos-para-el-otro/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic La Muñeca Del Dormitorio De La Princesa [Capítulo 45]",
-			"title": "Cómic La Muñeca Del Dormitorio De La Princesa [Capítulo 45]",
-			"url": "https://lectorikigai.foodib.net/series/la-muneca-del-dormitorio-de-la-princesa/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic La extra quiere huir del protagonista obsesivo [Capítulo 3]",
-			"title": "Cómic La extra quiere huir del protagonista obsesivo [Capítulo 3]",
-			"url": "https://lectorikigai.foodib.net/series/la-extra-quiere-huir-del-protagonista-obsesivo/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic El fraude de la pareja de Ardel [Capítulo 2]",
-			"title": "Cómic El fraude de la pareja de Ardel [Capítulo 2]",
-			"url": "https://lectorikigai.foodib.net/series/el-fraude-de-la-pareja-de-ardel/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic Capture al protagonista masculino en una isla desierta [Capítulo 26]",
-			"title": "Cómic Capture al protagonista masculino en una isla desierta [Capítulo 26]",
-			"url": "https://visorikigai.skteq.xyz/series/capture-al-protagonista-masculino-en-una-isla-desierta/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic La Niña Joya No Derrama Lágrimas [Capítulo 52]",
-			"title": "Cómic La Niña Joya No Derrama Lágrimas [Capítulo 52]",
-			"url": "https://lectorikigai.foodib.net/series/la-nina-joya-no-derrama-lagrimas/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic Luz De Fondo [Capítulo 47]",
-			"title": "Cómic Luz De Fondo [Capítulo 47]",
-			"url": "https://lectorikigai.foodib.net/series/luz-de-fondo/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic Las aventuras de Kim Ohjin con animales extraños [Capítulo 20]",
-			"title": "Cómic Las aventuras de Kim Ohjin con animales extraños [Capítulo 20]",
-			"url": "https://lectorikigai.foodib.net/series/las-aventuras-de-kim-ohjin-con-animales-extranos/",
 			"date_published": "2025-07-04T01:52:22.932Z"
 		}
 	]
