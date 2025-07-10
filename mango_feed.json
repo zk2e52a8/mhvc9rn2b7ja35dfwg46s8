@@ -3,6 +3,18 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic Seres de Oscuridad [Capítulo 36: Orckuro Translation]",
+			"title": "Cómic Seres de Oscuridad [Capítulo 36: Orckuro Translation]",
+			"url": "https://visorikigai.skteq.xyz/series/seres-de-oscuridad/",
+			"date_published": "2025-07-10T09:27:15.126Z"
+		},
+		{
+			"id": "Cómic Mi ratoncito es un Despertado de rango S [Capítulo 9]",
+			"title": "Cómic Mi ratoncito es un Despertado de rango S [Capítulo 9]",
+			"url": "https://visorikigai.skteq.xyz/series/mi-ratoncito-es-un-despertado-de-rango-s/",
+			"date_published": "2025-07-10T09:27:15.125Z"
+		},
+		{
 			"id": "Cómic Un profesor en apuros [Capítulo 9.1: Anuncio]",
 			"title": "Cómic Un profesor en apuros [Capítulo 9.1: Anuncio]",
 			"url": "https://visorikigai.skteq.xyz/series/un-profesor-en-apuros/",
@@ -2988,18 +3000,6 @@
 			"id": "Cómic 2020 [Capítulo 46]",
 			"title": "Cómic 2020 [Capítulo 46]",
 			"url": "https://lectorikigai.foodib.net/series/2020/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic sol oculto [Capítulo 8]",
-			"title": "Cómic sol oculto [Capítulo 8]",
-			"url": "https://lectorikigai.foodib.net/series/sol-oculto/",
-			"date_published": "2025-07-04T01:52:22.932Z"
-		},
-		{
-			"id": "Cómic Marzo [Capítulo 25]",
-			"title": "Cómic Marzo [Capítulo 25]",
-			"url": "https://lectorikigai.foodib.net/series/marzo/",
 			"date_published": "2025-07-04T01:52:22.932Z"
 		}
 	]
