@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Emperador magico (magic emperor) [Capítulo 724]",
+			"title": "Emperador magico (magic emperor) [Capítulo 724]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
+			"date_published": "2025-07-11T06:23:48.027Z"
+		},
+		{
 			"id": "Jugador de nivel máximo [Capítulo 110]",
 			"title": "Jugador de nivel máximo [Capítulo 110]",
 			"url": "https://olympusbiblioteca.com/series/comic-jug20-225-olympus513424",
@@ -2995,12 +3001,6 @@
 			"title": "Que alguien detenga al Papa [Capítulo 48]",
 			"url": "https://olympusbiblioteca.com/series/comic-5zxzien-detenga-al-papa",
 			"date_published": "2025-06-23T16:20:01.076Z"
-		},
-		{
-			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 100.05]",
-			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 100.05]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-marcial-que-regreso-al-nivel-220250624-111644817",
-			"date_published": "2025-06-23T14:16:11.442Z"
 		}
 	]
 }
