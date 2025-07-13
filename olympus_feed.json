@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Regreso del Espadachín Oscuro [Capítulo 10]",
+			"title": "El Regreso del Espadachín Oscuro [Capítulo 10]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
+			"date_published": "2025-07-13T22:14:45.252Z"
+		},
+		{
+			"id": "El Héroe, El Rey Demonio y El Villano [Capítulo 132]",
+			"title": "El Héroe, El Rey Demonio y El Villano [Capítulo 132]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-el-rey-demonio-y-el-villano20250713-111131458",
+			"date_published": "2025-07-13T22:14:45.252Z"
+		},
+		{
+			"id": "El Joven Maestro del Gran Archivo Celestial [Capítulo 134]",
+			"title": "El Joven Maestro del Gran Archivo Celestial [Capítulo 134]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-joven-maestro-del-gran-archivo-celestial20250713-111050125",
+			"date_published": "2025-07-13T22:14:45.252Z"
+		},
+		{
 			"id": "toxicólogo del clan tang de sichuan [Capítulo 44]",
 			"title": "toxicólogo del clan tang de sichuan [Capítulo 44]",
 			"url": "https://olympusbiblioteca.com/series/comic-toxicologo-del-clan-tang-de-sichuan20250713-110744871",
@@ -2983,24 +3001,6 @@
 			"title": "Nueva Cara [Capítulo 561]",
 			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20250627-111429586",
 			"date_published": "2025-06-26T20:17:28.843Z"
-		},
-		{
-			"id": "El guerrero despiadado [Capítulo 2]",
-			"title": "El guerrero despiadado [Capítulo 2]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado",
-			"date_published": "2025-06-26T20:17:28.843Z"
-		},
-		{
-			"id": "El héroe expulsado es demasiado fuerte. [Capítulo 59]",
-			"title": "El héroe expulsado es demasiado fuerte. [Capítulo 59]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-expulsado-es-demasiado-fuerte-20250627-110736861",
-			"date_published": "2025-06-26T18:21:55.224Z"
-		},
-		{
-			"id": "Sin fin skills [Capítulo 212]",
-			"title": "Sin fin skills [Capítulo 212]",
-			"url": "https://olympusbiblioteca.com/series/comic-sin-fin-skills20250627-111248703",
-			"date_published": "2025-06-26T18:21:55.224Z"
 		}
 	]
 }
