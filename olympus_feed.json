@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Monarca De las Sombras [Capítulo 9]",
+			"title": "Monarca De las Sombras [Capítulo 9]",
+			"url": "https://olympusbiblioteca.com/series/comic-monarca-de-las-sombras",
+			"date_published": "2025-07-14T20:18:29.442Z"
+		},
+		{
+			"id": "El Indomable Rey Marcial [Capítulo 90]",
+			"title": "El Indomable Rey Marcial [Capítulo 90]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial20250714-110841079",
+			"date_published": "2025-07-14T20:18:29.442Z"
+		},
+		{
+			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 190]",
+			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 190]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin20250714-110434952",
+			"date_published": "2025-07-14T20:18:29.442Z"
+		},
+		{
+			"id": "El Regreso del Espadachín Oscuro [Capítulo 12]",
+			"title": "El Regreso del Espadachín Oscuro [Capítulo 12]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
+			"date_published": "2025-07-14T20:18:29.442Z"
+		},
+		{
 			"id": "El hombre mas fuerte del manicomio [Capítulo 340]",
 			"title": "El hombre mas fuerte del manicomio [Capítulo 340]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-hom10-05-2025el-manicomio13424",
@@ -2977,30 +3001,6 @@
 			"title": "Viejo sabroso [Capítulo 100]",
 			"url": "https://olympusbiblioteca.com/series/comic-viejo-sabroso20250628-110441243",
 			"date_published": "2025-06-27T20:17:16.535Z"
-		},
-		{
-			"id": "El hombre mas fuerte del manicomio [Capítulo 335]",
-			"title": "El hombre mas fuerte del manicomio [Capítulo 335]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hom10-05-2025el-manicomio13424",
-			"date_published": "2025-06-27T18:21:13.075Z"
-		},
-		{
-			"id": "Cambiando la masmorra [Capítulo 253]",
-			"title": "Cambiando la masmorra [Capítulo 253]",
-			"url": "https://olympusbiblioteca.com/series/comic-cambiando10-05-2025-la-masmorra13424",
-			"date_published": "2025-06-27T18:21:13.075Z"
-		},
-		{
-			"id": "La leyenda del dios demonio reencarnado [Capítulo 50]",
-			"title": "La leyenda del dios demonio reencarnado [Capítulo 50]",
-			"url": "https://olympusbiblioteca.com/series/comic-o5324o-reencarnado",
-			"date_published": "2025-06-27T18:21:13.075Z"
-		},
-		{
-			"id": "Actúe como un jefecito final, Sr. devorador [Capítulo 82]",
-			"title": "Actúe como un jefecito final, Sr. devorador [Capítulo 82]",
-			"url": "https://olympusbiblioteca.com/series/comic-actue-com20-225-l-sr-devorador",
-			"date_published": "2025-06-27T16:19:35.369Z"
 		}
 	]
 }
