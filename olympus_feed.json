@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Crónicas del soberano perezoso [Capítulo 5]",
+			"title": "Crónicas del soberano perezoso [Capítulo 5]",
+			"url": "https://olympusbiblioteca.com/series/comic-cronicas-del-soberano-perezoso",
+			"date_published": "2025-07-14T08:23:36.465Z"
+		},
+		{
 			"id": "Crónicas del soberano perezoso [Capítulo 4]",
 			"title": "Crónicas del soberano perezoso [Capítulo 4]",
 			"url": "https://olympusbiblioteca.com/series/comic-cronicas-del-soberano-perezoso",
@@ -2995,12 +3001,6 @@
 			"title": "Loco Frontera [Capítulo 197]",
 			"url": "https://olympusbiblioteca.com/series/comic-loco-frontera20250628-111541832",
 			"date_published": "2025-06-27T12:31:03.842Z"
-		},
-		{
-			"id": "Lider Kim [Capítulo 196]",
-			"title": "Lider Kim [Capítulo 196]",
-			"url": "https://olympusbiblioteca.com/series/comic-lider-kim20250628-111405834",
-			"date_published": "2025-06-27T08:20:56.262Z"
 		}
 	]
 }
