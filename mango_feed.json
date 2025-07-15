@@ -3,6 +3,18 @@
 	"title": "Mango/Ikigai - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómic El tigre que va entrando [Capítulo 120]",
+			"title": "Cómic El tigre que va entrando [Capítulo 120]",
+			"url": "https://visorikigai.skteq.xyz/series/el-tigre-que-va-entrando/",
+			"date_published": "2025-07-15T09:31:29.636Z"
+		},
+		{
+			"id": "Cómic Chamán del dinero [Capítulo 4]",
+			"title": "Cómic Chamán del dinero [Capítulo 4]",
+			"url": "https://visorikigai.skteq.xyz/series/chaman-del-dinero/",
+			"date_published": "2025-07-15T09:31:29.636Z"
+		},
+		{
 			"id": "Cómic Me convertí en el primer amor de mi hijastro [Capítulo 10]",
 			"title": "Cómic Me convertí en el primer amor de mi hijastro [Capítulo 10]",
 			"url": "https://visorikigai.skteq.xyz/series/me-converti-en-el-primer-amor-de-mi-hijastro/",
@@ -2989,18 +3001,6 @@
 			"title": "Cómic La Esposa Del Segundo Protagonista Masculino Ennegrecido Manhwa [Capítulo 96]",
 			"url": "https://visorikigai.skteq.xyz/series/la-esposa-del-segundo-protagonista-masculino-ennegrecido-manhwa/",
 			"date_published": "2025-07-09T15:25:24.205Z"
-		},
-		{
-			"id": "Cómic De Vuelta A La Juventud [Capítulo 50]",
-			"title": "Cómic De Vuelta A La Juventud [Capítulo 50]",
-			"url": "https://visorikigai.skteq.xyz/series/de-vuelta-a-la-juventud/",
-			"date_published": "2025-07-09T15:25:24.205Z"
-		},
-		{
-			"id": "Cómic Recogi a una chica de la Basura [Capítulo 16: Orckuro Translation]",
-			"title": "Cómic Recogi a una chica de la Basura [Capítulo 16: Orckuro Translation]",
-			"url": "https://visorikigai.skteq.xyz/series/recogi-a-una-chica-de-la-basura/",
-			"date_published": "2025-07-09T12:47:50.447Z"
 		}
 	]
 }
