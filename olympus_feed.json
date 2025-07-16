@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El regreso del héroe de clase: Desastre [Capítulo 135]",
+			"title": "El regreso del héroe de clase: Desastre [Capítulo 135]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-cl20-225-ase-desastre13424",
+			"date_published": "2025-07-16T14:15:38.195Z"
+		},
+		{
+			"id": "El Arquitecto de mazmorras [Capítulo 39]",
+			"title": "El Arquitecto de mazmorras [Capítulo 39]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-arquite5zxzorras",
+			"date_published": "2025-07-16T14:15:38.195Z"
+		},
+		{
+			"id": "Tower Crush [Capítulo 136]",
+			"title": "Tower Crush [Capítulo 136]",
+			"url": "https://olympusbiblioteca.com/series/comic-tower-crush20250716-111442209",
+			"date_published": "2025-07-16T14:15:38.195Z"
+		},
+		{
 			"id": "*Mago Oscuro (Black Haze remake) [Capítulo 35]",
 			"title": "*Mago Oscuro (Black Haze remake) [Capítulo 35]",
 			"url": "https://olympusbiblioteca.com/series/comic-mago-5zxz-remake",
@@ -1127,7 +1145,7 @@
 		{
 			"id": "Pick me up, Gacha Infinito [Capítulo 156]",
 			"title": "Pick me up, Gacha Infinito [Capítulo 156]",
-			"url": "https://olympusbiblioteca.com/series/comic-pick-me-up-gacha-infinito20250710-111753108",
+			"url": "https://olympusbiblioteca.com/series/comic-pick-me-up-gacha-infinito20250716-112034997",
 			"date_published": "2025-07-09T18:22:06.240Z"
 		},
 		{
@@ -2983,24 +3001,6 @@
 			"title": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 125]",
 			"url": "https://olympusbiblioteca.com/series/comic-cronicas-de-la-faccion-demoniaca-chun-hajin-el-asesino-mas-fuerte-20250629-111749520",
 			"date_published": "2025-06-28T22:13:57.196Z"
-		},
-		{
-			"id": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 34]",
-			"title": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 34]",
-			"url": "https://olympusbiblioteca.com/series/comic-evolucion-marcial-comienza-por-despertar-al-rey-de-los-monstruos",
-			"date_published": "2025-06-28T20:15:42.070Z"
-		},
-		{
-			"id": "El Héroe, El Rey Demonio y El Villano [Capítulo 128]",
-			"title": "El Héroe, El Rey Demonio y El Villano [Capítulo 128]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-el-rey-demonio-y-el-villano20250629-111536201",
-			"date_published": "2025-06-28T20:15:42.070Z"
-		},
-		{
-			"id": "Regresión inútil [Capítulo 91]",
-			"title": "Regresión inútil [Capítulo 91]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresi10-05-2025on-inutil",
-			"date_published": "2025-06-28T20:15:42.070Z"
 		}
 	]
 }
