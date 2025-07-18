@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 5]",
+			"title": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 5]",
+			"url": "https://olympusbiblioteca.com/series/comic-ascension-divina-mi-camino-a-la-cima-de-las-artes-marciales",
+			"date_published": "2025-07-18T22:16:08.332Z"
+		},
+		{
+			"id": "Soldado Esqueleto [Capítulo 339]",
+			"title": "Soldado Esqueleto [Capítulo 339]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto20250718-111314457",
+			"date_published": "2025-07-18T22:16:08.332Z"
+		},
+		{
+			"id": "Regresor de la familia caída [Capítulo 90]",
+			"title": "Regresor de la familia caída [Capítulo 90]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida20250718-110533711",
+			"date_published": "2025-07-18T22:16:08.332Z"
+		},
+		{
 			"id": "Manual de instrucciones del Reencarnado [Capítulo 145]",
 			"title": "Manual de instrucciones del Reencarnado [Capítulo 145]",
 			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado",
@@ -2983,24 +3001,6 @@
 			"title": "Torre de Dios : Urek Mazino [Capítulo 15]",
 			"url": "https://olympusbiblioteca.com/series/comic-torre-de-dios-urek-mazino20250702-111026821",
 			"date_published": "2025-07-01T18:21:36.783Z"
-		},
-		{
-			"id": "Comienza con una montaña [Capítulo 1100]",
-			"title": "Comienza con una montaña [Capítulo 1100]",
-			"url": "https://olympusbiblioteca.com/series/comic-montan10-05-2025ita13424",
-			"date_published": "2025-07-01T18:21:36.783Z"
-		},
-		{
-			"id": "Destinado a ser Amado por Villanas [Capítulo 32.05]",
-			"title": "Destinado a ser Amado por Villanas [Capítulo 32.05]",
-			"url": "https://olympusbiblioteca.com/series/comic-destin10-05-2025do-por-villanas",
-			"date_published": "2025-07-01T18:21:36.783Z"
-		},
-		{
-			"id": "Rayito [Capítulo 357]",
-			"title": "Rayito [Capítulo 357]",
-			"url": "https://olympusbiblioteca.com/series/comic-rayito-20250702-111627924",
-			"date_published": "2025-07-01T16:20:09.418Z"
 		}
 	]
 }
