@@ -6,7 +6,7 @@
 	"url_paginacion": "?pagina=",
 	"patron_ficha": "a.card[q\\:key]",
 	"patron_titulo": "a.card[q\\:key] h2.card-title",
-	"patron_capitulo": "a.card[q\\:key] p span.relative"
+	"patron_capitulo": "a.card[q\\:key] p span.relative",
 	"titulo_feed": "Mango/Ikigai - Nuevos capítulos",
 	"ruta_feed": "mango_feed.json",
 	"min_paginas": "2",
