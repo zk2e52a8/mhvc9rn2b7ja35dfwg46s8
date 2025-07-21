@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Loco Murim [Capítulo 162]",
+			"title": "Loco Murim [Capítulo 162]",
+			"url": "https://olympusbiblioteca.com/series/comic-loco-murim20250721-110338553",
+			"date_published": "2025-07-21T20:18:31.314Z"
+		},
+		{
+			"id": "Comienza con una montaña [Capítulo 1095]",
+			"title": "Comienza con una montaña [Capítulo 1095]",
+			"url": "https://olympusbiblioteca.com/series/comic-montan10-05-2025ita13424",
+			"date_published": "2025-07-21T20:18:31.314Z"
+		},
+		{
+			"id": "Villano antihéroe [Capítulo 194]",
+			"title": "Villano antihéroe [Capítulo 194]",
+			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe20250721-112159873",
+			"date_published": "2025-07-21T20:18:31.314Z"
+		},
+		{
 			"id": "La noche de los herejes desalmados [Capítulo 44]",
 			"title": "La noche de los herejes desalmados [Capítulo 44]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-noo5324herejes-desalmados",
@@ -2983,24 +3001,6 @@
 			"title": "Actúe como un jefecito final, Sr. devorador [Capítulo 83]",
 			"url": "https://olympusbiblioteca.com/series/comic-actue-com20-225-l-sr-devorador",
 			"date_published": "2025-07-04T22:15:04.255Z"
-		},
-		{
-			"id": "El último aventurero [Capítulo 77]",
-			"title": "El último aventurero [Capítulo 77]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-ultimo-aventurero20250705-110731842",
-			"date_published": "2025-07-04T22:15:04.255Z"
-		},
-		{
-			"id": "La voluntad de supervivencia del villano [Capítulo 38]",
-			"title": "La voluntad de supervivencia del villano [Capítulo 38]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-volunt10-05-2025-del-villano",
-			"date_published": "2025-07-04T20:16:35.985Z"
-		},
-		{
-			"id": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 35]",
-			"title": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 35]",
-			"url": "https://olympusbiblioteca.com/series/comic-evolucion-marcial-comienza-por-despertar-al-rey-de-los-monstruos",
-			"date_published": "2025-07-04T20:16:35.985Z"
 		}
 	]
 }
