@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Regresión absoluta [Capítulo 58]",
+			"title": "Regresión absoluta [Capítulo 58]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta20250722-110910652",
+			"date_published": "2025-07-22T20:18:35.268Z"
+		},
+		{
+			"id": "El Joven Maestro del Gran Archivo Celestial [Capítulo 136]",
+			"title": "El Joven Maestro del Gran Archivo Celestial [Capítulo 136]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-joven-maestro-del-gran-archivo-celestial20250722-111510722",
+			"date_published": "2025-07-22T20:18:35.268Z"
+		},
+		{
+			"id": "Manual de instrucciones del Reencarnado [Capítulo 146]",
+			"title": "Manual de instrucciones del Reencarnado [Capítulo 146]",
+			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado",
+			"date_published": "2025-07-22T20:18:35.268Z"
+		},
+		{
 			"id": "El Sentido Absoluto de las Espadas [Capítulo 140]",
 			"title": "El Sentido Absoluto de las Espadas [Capítulo 140]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-sentido-absoluto-de-las-espadas20250722-110529299",
@@ -2983,24 +3001,6 @@
 			"title": "Sobreviviendo como un genio con tiempo prestado [Capítulo 43]",
 			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-como-un-genio-con-tiempo-prestado20250706-110725412",
 			"date_published": "2025-07-05T20:15:43.180Z"
-		},
-		{
-			"id": "Reverend Insanity [ remake] [Capítulo 1]",
-			"title": "Reverend Insanity [ remake] [Capítulo 1]",
-			"url": "https://olympusbiblioteca.com/series/comic-reverend-insanity-remake",
-			"date_published": "2025-07-05T20:15:43.179Z"
-		},
-		{
-			"id": "El villano de mirada cortante de la Academia Demoniaca [Capítulo 32]",
-			"title": "El villano de mirada cortante de la Academia Demoniaca [Capítulo 32]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villano-de-mirada-cortante-de-la-academia-demoniaca20250706-110925807",
-			"date_published": "2025-07-05T18:19:21.335Z"
-		},
-		{
-			"id": "El Asesino Yu Ijin [Capítulo 245]",
-			"title": "El Asesino Yu Ijin [Capítulo 245]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-yu-ijin20250706-110652425",
-			"date_published": "2025-07-05T18:19:21.335Z"
 		}
 	]
 }
