@@ -3,6 +3,42 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Monarca De las Sombras [Capítulo 13]",
+			"title": "Monarca De las Sombras [Capítulo 13]",
+			"url": "https://olympusbiblioteca.com/series/comic-monarca-de-las-sombras",
+			"date_published": "2025-07-24T18:23:19.411Z"
+		},
+		{
+			"id": "Construyendo un imperio industrial en un mundo mágico [Capítulo 44]",
+			"title": "Construyendo un imperio industrial en un mundo mágico [Capítulo 44]",
+			"url": "https://olympusbiblioteca.com/series/comic-construye10-05-2025en-un-mundo-magico",
+			"date_published": "2025-07-24T18:23:19.411Z"
+		},
+		{
+			"id": "El Señor de Hielo [Capítulo 35]",
+			"title": "El Señor de Hielo [Capítulo 35]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo20250724-111042359",
+			"date_published": "2025-07-24T18:23:19.411Z"
+		},
+		{
+			"id": "¡Que abundante cosecha, señor demonio! [Capítulo 25]",
+			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 25]",
+			"url": "https://olympusbiblioteca.com/series/comic-que-abundante-cosecha-senor-demonio-20250724-111012611",
+			"date_published": "2025-07-24T18:23:19.411Z"
+		},
+		{
+			"id": "Sin fin skills [Capítulo 216]",
+			"title": "Sin fin skills [Capítulo 216]",
+			"url": "https://olympusbiblioteca.com/series/comic-sin-fin-skills20250724-111219145",
+			"date_published": "2025-07-24T18:23:19.411Z"
+		},
+		{
+			"id": "Espada de la inquisición celestial [Capítulo 127]",
+			"title": "Espada de la inquisición celestial [Capítulo 127]",
+			"url": "https://olympusbiblioteca.com/series/comic-inquisic20-225-ion-celestia13424",
+			"date_published": "2025-07-24T18:23:19.411Z"
+		},
+		{
 			"id": "La luz de Arad: Aquel que camina primero [Capítulo 55]",
 			"title": "La luz de Arad: Aquel que camina primero [Capítulo 55]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-luz-de-arad-aquel-que-camina-primero20250724-110719109",
@@ -701,7 +737,7 @@
 		{
 			"id": "El guerrero despiadado [Capítulo 13]",
 			"title": "El guerrero despiadado [Capítulo 13]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado20250720-112225004",
+			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado20250724-111904013",
 			"date_published": "2025-07-20T04:38:35.882Z"
 		},
 		{
@@ -2965,42 +3001,6 @@
 			"title": "Soy un Dios Maligno [Capítulo 530]",
 			"url": "https://olympusbiblioteca.com/series/comic-soy-u20-225-maligno",
 			"date_published": "2025-07-07T03:22:11.609Z"
-		},
-		{
-			"id": "Los gemelos Baek [Capítulo 113]",
-			"title": "Los gemelos Baek [Capítulo 113]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-gemelos-baek-20250708-111536344",
-			"date_published": "2025-07-07T03:22:11.609Z"
-		},
-		{
-			"id": "el pasado oculto del jugador [Capítulo 77]",
-			"title": "el pasado oculto del jugador [Capítulo 77]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-pasado-oculto-del-jugador20250708-111557334",
-			"date_published": "2025-07-07T03:22:11.609Z"
-		},
-		{
-			"id": "¿¡Un codicioso convertido en profeta!? [Capítulo 14]",
-			"title": "¿¡Un codicioso convertido en profeta!? [Capítulo 14]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-codicioso-convertido-en-profeta",
-			"date_published": "2025-07-07T03:22:11.609Z"
-		},
-		{
-			"id": "¿¡Un codicioso convertido en profeta!? [Capítulo 13]",
-			"title": "¿¡Un codicioso convertido en profeta!? [Capítulo 13]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-codicioso-convertido-en-profeta",
-			"date_published": "2025-07-07T01:19:19.602Z"
-		},
-		{
-			"id": "Al demonio con ser un santo, soy un medico [Capítulo 138]",
-			"title": "Al demonio con ser un santo, soy un medico [Capítulo 138]",
-			"url": "https://olympusbiblioteca.com/series/comic-al-de20-225-n-medico",
-			"date_published": "2025-07-07T01:19:19.602Z"
-		},
-		{
-			"id": "Comienza con una montaña [Capítulo 1080]",
-			"title": "Comienza con una montaña [Capítulo 1080]",
-			"url": "https://olympusbiblioteca.com/series/comic-montan10-05-2025ita13424",
-			"date_published": "2025-07-07T01:19:19.602Z"
 		}
 	]
 }
