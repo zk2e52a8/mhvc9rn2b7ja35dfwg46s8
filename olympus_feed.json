@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "La luz de Arad: Aquel que camina primero [Capítulo 55]",
+			"title": "La luz de Arad: Aquel que camina primero [Capítulo 55]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-luz-de-arad-aquel-que-camina-primero20250724-110719109",
+			"date_published": "2025-07-24T16:18:49.315Z"
+		},
+		{
+			"id": "Archimago trascendiendo a través de la regresión [Capítulo 159]",
+			"title": "Archimago trascendiendo a través de la regresión [Capítulo 159]",
+			"url": "https://olympusbiblioteca.com/series/comic-archima20-225-de-la-regresion13424",
+			"date_published": "2025-07-24T16:18:49.315Z"
+		},
+		{
+			"id": "El bastardo devorador de armas. [Capítulo 43]",
+			"title": "El bastardo devorador de armas. [Capítulo 43]",
+			"url": "https://olympusbiblioteca.com/series/comic-o5324evorador-de-armas",
+			"date_published": "2025-07-24T16:18:49.315Z"
+		},
+		{
+			"id": "El asesino que reencarnó como un genio espadachín [Capítulo 72]",
+			"title": "El asesino que reencarnó como un genio espadachín [Capítulo 72]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-asesi20-225-genio-espadachin13424",
+			"date_published": "2025-07-24T16:18:49.315Z"
+		},
+		{
 			"id": "el pasado oculto del jugador [Capítulo 80]",
 			"title": "el pasado oculto del jugador [Capítulo 80]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-pasado-oculto-del-jugador20250724-111711817",
@@ -2977,30 +3001,6 @@
 			"title": "Comienza con una montaña [Capítulo 1080]",
 			"url": "https://olympusbiblioteca.com/series/comic-montan10-05-2025ita13424",
 			"date_published": "2025-07-07T01:19:19.602Z"
-		},
-		{
-			"id": "El Novato es Muy Fuerte [Capítulo 141]",
-			"title": "El Novato es Muy Fuerte [Capítulo 141]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-no20-225-erte13424142124",
-			"date_published": "2025-07-07T01:19:19.602Z"
-		},
-		{
-			"id": "El hijo bastardo del marqués era el emperador [Capítulo 75]",
-			"title": "El hijo bastardo del marqués era el emperador [Capítulo 75]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hijo-bastardo-del-marques-era-el-emperador",
-			"date_published": "2025-07-07T01:19:19.602Z"
-		},
-		{
-			"id": "*El Villano Del Destino [Capítulo 261]",
-			"title": "*El Villano Del Destino [Capítulo 261]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
-			"date_published": "2025-07-07T01:19:19.602Z"
-		},
-		{
-			"id": "El Regreso del Maestro del Infierno [Capítulo 7]",
-			"title": "El Regreso del Maestro del Infierno [Capítulo 7]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-maestro-del-infierno",
-			"date_published": "2025-07-06T22:15:03.013Z"
 		}
 	]
 }
