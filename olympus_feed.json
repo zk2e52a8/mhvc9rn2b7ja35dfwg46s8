@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Regreso del Legendario Caballero de la Lanza [Capítulo 180]",
+			"title": "El Regreso del Legendario Caballero de la Lanza [Capítulo 180]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-legendario-caballero-de-la-lanza",
+			"date_published": "2025-07-27T20:17:25.244Z"
+		},
+		{
+			"id": "Nigromante sin limites [Capítulo 147]",
+			"title": "Nigromante sin limites [Capítulo 147]",
+			"url": "https://olympusbiblioteca.com/series/comic-nigromante-sin-limites20250727-111247100",
+			"date_published": "2025-07-27T20:17:25.244Z"
+		},
+		{
+			"id": "El hijo bastardo del marqués era el emperador [Capítulo 78]",
+			"title": "El hijo bastardo del marqués era el emperador [Capítulo 78]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-hijo-bastardo-del-marques-era-el-emperador",
+			"date_published": "2025-07-27T20:17:25.244Z"
+		},
+		{
+			"id": "Acumulador de rasgos [Capítulo 50]",
+			"title": "Acumulador de rasgos [Capítulo 50]",
+			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos20250727-110832806",
+			"date_published": "2025-07-27T20:17:25.244Z"
+		},
+		{
 			"id": "Sangre Maldita [Capítulo 46]",
 			"title": "Sangre Maldita [Capítulo 46]",
 			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita20250727-110924634",
@@ -2977,30 +3001,6 @@
 			"title": "La Ascensión Marcial del Dios Demonio [Capítulo 128]",
 			"url": "https://olympusbiblioteca.com/series/comic-dis-m10-05-2025arcial-2013424",
 			"date_published": "2025-07-10T18:22:19.200Z"
-		},
-		{
-			"id": "Cazador de destinos de clase F [Capítulo 92]",
-			"title": "Cazador de destinos de clase F [Capítulo 92]",
-			"url": "https://olympusbiblioteca.com/series/comic-cazador20-225-e-clase-13424",
-			"date_published": "2025-07-10T16:19:53.798Z"
-		},
-		{
-			"id": "Sin fin skills [Capítulo 214]",
-			"title": "Sin fin skills [Capítulo 214]",
-			"url": "https://olympusbiblioteca.com/series/comic-sin-fin-skills20250711-111424519",
-			"date_published": "2025-07-10T16:19:53.798Z"
-		},
-		{
-			"id": "Emperador de Acero [Capítulo 49]",
-			"title": "Emperador de Acero [Capítulo 49]",
-			"url": "https://olympusbiblioteca.com/series/comic-emperado10-05-2025r-de-acero",
-			"date_published": "2025-07-10T16:19:53.798Z"
-		},
-		{
-			"id": "El bastardo devorador de armas. [Capítulo 41]",
-			"title": "El bastardo devorador de armas. [Capítulo 41]",
-			"url": "https://olympusbiblioteca.com/series/comic-o5324evorador-de-armas",
-			"date_published": "2025-07-10T16:19:53.798Z"
 		}
 	]
 }
