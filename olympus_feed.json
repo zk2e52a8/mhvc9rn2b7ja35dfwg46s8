@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Reencarnación del Rey del Puño [Capítulo 11]",
+			"title": "Reencarnación del Rey del Puño [Capítulo 11]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarnacion-del-rey-del-puno-20250727-111943864",
+			"date_published": "2025-07-28T03:42:28.831Z"
+		},
+		{
+			"id": "El Genio Espadachín Fantasma de la Secta del Monte Hua [Capítulo 38]",
+			"title": "El Genio Espadachín Fantasma de la Secta del Monte Hua [Capítulo 38]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-genio-espadachin-fantasma-de-la-secta-del-monte-hua20250727-111017089",
+			"date_published": "2025-07-28T03:42:28.831Z"
+		},
+		{
 			"id": "El Novato es Muy Fuerte [Capítulo 143]",
 			"title": "El Novato es Muy Fuerte [Capítulo 143]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-no20-225-erte13424142124",
@@ -2989,18 +3001,6 @@
 			"title": "Jugador de nivel máximo [Capítulo 110]",
 			"url": "https://olympusbiblioteca.com/series/comic-jug20-225-olympus513424",
 			"date_published": "2025-07-11T04:33:35.607Z"
-		},
-		{
-			"id": "Un hombre moderno que transmigró al mundo murim [Capítulo 128]",
-			"title": "Un hombre moderno que transmigró al mundo murim [Capítulo 128]",
-			"url": "https://olympusbiblioteca.com/series/comic-comer10-05-2025ciante-odiado13424",
-			"date_published": "2025-07-11T03:24:31.556Z"
-		},
-		{
-			"id": "Realmente no quiero renacer [Capítulo 432]",
-			"title": "Realmente no quiero renacer [Capítulo 432]",
-			"url": "https://olympusbiblioteca.com/series/comic-otra-serie-chin10-05-2025encarnacion",
-			"date_published": "2025-07-11T01:17:11.506Z"
 		}
 	]
 }
