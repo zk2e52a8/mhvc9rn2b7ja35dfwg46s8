@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 341]",
+			"title": "Soldado Esqueleto [Capítulo 341]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto20250729-111323336",
+			"date_published": "2025-07-29T22:16:10.996Z"
+		},
+		{
+			"id": "Rey Demonio [Capítulo 59]",
+			"title": "Rey Demonio [Capítulo 59]",
+			"url": "https://olympusbiblioteca.com/series/comic-rey-demonio20250729-110726426",
+			"date_published": "2025-07-29T22:16:10.996Z"
+		},
+		{
 			"id": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 45]",
 			"title": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 45]",
 			"url": "https://olympusbiblioteca.com/series/comic-evolucion-marcial-comienza-por-despertar-al-rey-de-los-monstruos",
@@ -2989,18 +3001,6 @@
 			"title": "Tower Crush [Capítulo 135]",
 			"url": "https://olympusbiblioteca.com/series/comic-tower-crush20250713-111001280",
 			"date_published": "2025-07-12T18:20:15.837Z"
-		},
-		{
-			"id": "El Asesino Yu Ijin [Capítulo 246]",
-			"title": "El Asesino Yu Ijin [Capítulo 246]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-yu-ijin20250713-110616621",
-			"date_published": "2025-07-12T16:17:57.164Z"
-		},
-		{
-			"id": "El maestro de la espada Genio de la academia [Capítulo 109]",
-			"title": "El maestro de la espada Genio de la academia [Capítulo 109]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-genio-de-la-academia20250713-111558000",
-			"date_published": "2025-07-12T16:17:57.164Z"
 		}
 	]
 }
