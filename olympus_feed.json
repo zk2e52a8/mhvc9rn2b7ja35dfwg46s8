@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 342]",
+			"title": "Soldado Esqueleto [Capítulo 342]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto20250805-111339431",
+			"date_published": "2025-08-06T10:18:25.275Z"
+		},
+		{
 			"id": "Mi esposa es la líder del culto demoníaco [Capítulo 25]",
 			"title": "Mi esposa es la líder del culto demoníaco [Capítulo 25]",
 			"url": "https://olympusbiblioteca.com/series/comic-mi-esposa-es-la-lider-del-culto-demoniaco20250805-111118170",
@@ -2995,12 +3001,6 @@
 			"title": "El Devoto Caballero [Capítulo 121]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-devoto-caballero20250720-112012973",
 			"date_published": "2025-07-19T16:19:09.254Z"
-		},
-		{
-			"id": "El maestro de la espada Genio de la academia [Capítulo 110]",
-			"title": "El maestro de la espada Genio de la academia [Capítulo 110]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-genio-de-la-academia20250720-112134854",
-			"date_published": "2025-07-19T16:19:09.253Z"
 		}
 	]
 }
