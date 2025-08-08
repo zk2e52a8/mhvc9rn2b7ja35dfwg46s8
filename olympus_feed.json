@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 130]",
+			"title": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 130]",
+			"url": "https://olympusbiblioteca.com/series/comic-cronicas-de-la-faccion-demoniaca-chun-hajin-el-asesino-mas-fuerte-20250807-111855835",
+			"date_published": "2025-08-08T06:26:47.128Z"
+		},
+		{
 			"id": "El Mago Devorador de Talentos [Capítulo 100]",
 			"title": "El Mago Devorador de Talentos [Capítulo 100]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mago-20-225-devorador-de-talentos13424",
@@ -2995,12 +3001,6 @@
 			"title": "El Indomable Rey Marcial [Capítulo 91]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial20250722-110753325",
 			"date_published": "2025-07-21T16:20:22.739Z"
-		},
-		{
-			"id": "El extra de la novela (remake) [Capítulo 136]",
-			"title": "El extra de la novela (remake) [Capítulo 136]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-ext20-225-ra-de-la-novela-remake13424",
-			"date_published": "2025-07-21T16:20:22.738Z"
 		}
 	]
 }
