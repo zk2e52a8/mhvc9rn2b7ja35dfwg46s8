@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El legendario hijo menor de la Casa del Marques [Capítulo 141]",
+			"title": "El legendario hijo menor de la Casa del Marques [Capítulo 141]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-lege20-225-ndario-marques13424",
+			"date_published": "2025-08-10T14:13:57.648Z"
+		},
+		{
+			"id": "La venganza del sabueso de sangre de hierro [Capítulo 125]",
+			"title": "La venganza del sabueso de sangre de hierro [Capítulo 125]",
+			"url": "https://olympusbiblioteca.com/series/comic-20-225-2sabueso13424",
+			"date_published": "2025-08-10T14:13:57.648Z"
+		},
+		{
+			"id": "Jugador que regresó 10.000 años después [Capítulo 124]",
+			"title": "Jugador que regresó 10.000 años después [Capítulo 124]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugad20-225-reso-10000-anos-despues13424",
+			"date_published": "2025-08-10T14:13:57.648Z"
+		},
+		{
+			"id": "Evolución Demoníaca [Capítulo 118]",
+			"title": "Evolución Demoníaca [Capítulo 118]",
+			"url": "https://olympusbiblioteca.com/series/comic-evolucion-demoniac1342-1n",
+			"date_published": "2025-08-10T14:13:57.648Z"
+		},
+		{
 			"id": "Tu talento ahora es mio! [Capítulo 104]",
 			"title": "Tu talento ahora es mio! [Capítulo 104]",
 			"url": "https://olympusbiblioteca.com/series/comic-tu-ta20-225-mio13424",
@@ -2977,30 +3001,6 @@
 			"title": "Iniciando sesión en 10,000 años en el futuro [Capítulo 239]",
 			"url": "https://olympusbiblioteca.com/series/comic-isecaikr20-225-arochino13424",
 			"date_published": "2025-07-24T01:19:01.519Z"
-		},
-		{
-			"id": "Devorador de Medicina [Capítulo 132]",
-			"title": "Devorador de Medicina [Capítulo 132]",
-			"url": "https://olympusbiblioteca.com/series/comic-devorador-de-medicina20250724-111604612",
-			"date_published": "2025-07-23T22:16:13.048Z"
-		},
-		{
-			"id": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 113]",
-			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 113]",
-			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-al-juego-siendo-un-barbaro-bjorn-el-barbaro-20250724-111634038",
-			"date_published": "2025-07-23T22:16:13.047Z"
-		},
-		{
-			"id": "Reencarnación del Héroe Clase SSS [Capítulo 10]",
-			"title": "Reencarnación del Héroe Clase SSS [Capítulo 10]",
-			"url": "https://olympusbiblioteca.com/series/comic-reencarnacion-del-heroe-clase-sss",
-			"date_published": "2025-07-23T20:18:21.469Z"
-		},
-		{
-			"id": "el bully de bullies [Capítulo 147]",
-			"title": "el bully de bullies [Capítulo 147]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-bully-de-bullies20250724-111134197",
-			"date_published": "2025-07-23T20:18:21.469Z"
 		}
 	]
 }
