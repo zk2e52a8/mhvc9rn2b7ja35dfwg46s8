@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Come y crece [Capítulo 18]",
+			"title": "Come y crece [Capítulo 18]",
+			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece20250814-111251959",
+			"date_published": "2025-08-15T03:28:32.120Z"
+		},
+		{
+			"id": "Esclavo Corporativo del Dios Maligno [Capítulo 11]",
+			"title": "Esclavo Corporativo del Dios Maligno [Capítulo 11]",
+			"url": "https://olympusbiblioteca.com/series/comic-esclavo-corporativo-del-dios-maligno",
+			"date_published": "2025-08-15T03:28:32.120Z"
+		},
+		{
+			"id": "Actuando como el villano de ojos de zorro Perfecto [Capítulo 26]",
+			"title": "Actuando como el villano de ojos de zorro Perfecto [Capítulo 26]",
+			"url": "https://olympusbiblioteca.com/series/comic-actuando-como-el-villano-de-ojos-de-zorro-perfecto20250814-110649247",
+			"date_published": "2025-08-15T03:28:32.120Z"
+		},
+		{
+			"id": "El demonio celestial quiere una vida tranquila [Capítulo 43]",
+			"title": "El demonio celestial quiere una vida tranquila [Capítulo 43]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-demonio-celestial-quiere-una-vida-tranquila20250814-110602389",
+			"date_published": "2025-08-15T03:28:32.119Z"
+		},
+		{
 			"id": "Emperador magico (magic emperor) [Capítulo 739]",
 			"title": "Emperador magico (magic emperor) [Capítulo 739]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
@@ -2977,30 +3001,6 @@
 			"title": "El hijo bastardo del marqués era el emperador [Capítulo 78]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-hijo-bastardo-del-marques-era-el-emperador",
 			"date_published": "2025-07-27T20:17:25.244Z"
-		},
-		{
-			"id": "Acumulador de rasgos [Capítulo 50]",
-			"title": "Acumulador de rasgos [Capítulo 50]",
-			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos20250728-110859507",
-			"date_published": "2025-07-27T20:17:25.244Z"
-		},
-		{
-			"id": "Sangre Maldita [Capítulo 46]",
-			"title": "Sangre Maldita [Capítulo 46]",
-			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita20250728-110949434",
-			"date_published": "2025-07-27T18:21:13.485Z"
-		},
-		{
-			"id": "Cazador de destinos de clase F [Capítulo 94]",
-			"title": "Cazador de destinos de clase F [Capítulo 94]",
-			"url": "https://olympusbiblioteca.com/series/comic-cazador20-225-e-clase-13424",
-			"date_published": "2025-07-27T18:21:13.485Z"
-		},
-		{
-			"id": "Mago devorador de dragones [Capítulo 105]",
-			"title": "Mago devorador de dragones [Capítulo 105]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago20-225-r-de-11251151515",
-			"date_published": "2025-07-27T18:21:13.485Z"
 		}
 	]
 }
