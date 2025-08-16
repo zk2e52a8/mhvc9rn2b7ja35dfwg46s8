@@ -3,6 +3,48 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "el pasado oculto del jugador [Capítulo 82]",
+			"title": "el pasado oculto del jugador [Capítulo 82]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-pasado-oculto-del-jugador20250816-081433646",
+			"date_published": "2025-08-16T16:17:19.882Z"
+		},
+		{
+			"id": "El Regreso del Espadachín Oscuro [Capítulo 14.5]",
+			"title": "El Regreso del Espadachín Oscuro [Capítulo 14.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
+			"date_published": "2025-08-16T16:17:19.882Z"
+		},
+		{
+			"id": "La leyenda del dios demonio reencarnado [Capítulo 57]",
+			"title": "La leyenda del dios demonio reencarnado [Capítulo 57]",
+			"url": "https://olympusbiblioteca.com/series/comic-o5324o-reencarnado",
+			"date_published": "2025-08-16T16:17:19.882Z"
+		},
+		{
+			"id": "El maestro de la espada Genio de la academia [Capítulo 114]",
+			"title": "El maestro de la espada Genio de la academia [Capítulo 114]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-genio-de-la-academia20250816-081529098",
+			"date_published": "2025-08-16T16:17:19.882Z"
+		},
+		{
+			"id": "Regresor de la familia caída [Capítulo 95]",
+			"title": "Regresor de la familia caída [Capítulo 95]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida20250816-080427281",
+			"date_published": "2025-08-16T16:17:19.882Z"
+		},
+		{
+			"id": "El Asesino Yu Ijin [Capítulo 251]",
+			"title": "El Asesino Yu Ijin [Capítulo 251]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-yu-ijin20250816-080654724",
+			"date_published": "2025-08-16T16:17:19.882Z"
+		},
+		{
+			"id": "El Mago Devorador de Talentos [Capítulo 102]",
+			"title": "El Mago Devorador de Talentos [Capítulo 102]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago-20-225-devorador-de-talentos13424",
+			"date_published": "2025-08-16T16:17:19.882Z"
+		},
+		{
 			"id": "El Blinker genio de la academia mágica [Capítulo 66.5]",
 			"title": "El Blinker genio de la academia mágica [Capítulo 66.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica",
@@ -2959,48 +3001,6 @@
 			"title": "Nivelando Con Los Dioses [Capítulo 139.05]",
 			"url": "https://olympusbiblioteca.com/series/comic-nivel20-225-ando-con-los-dioses13424",
 			"date_published": "2025-07-29T14:20:55.420Z"
-		},
-		{
-			"id": "Goblin de nivel 999 [Capítulo 16]",
-			"title": "Goblin de nivel 999 [Capítulo 16]",
-			"url": "https://olympusbiblioteca.com/series/comic-goblin-de-nivel-99920250730-111312091",
-			"date_published": "2025-07-29T14:20:55.420Z"
-		},
-		{
-			"id": "*Mago Oscuro (Black Haze remake) [Capítulo 36.5]",
-			"title": "*Mago Oscuro (Black Haze remake) [Capítulo 36.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-mago-5zxz-remake",
-			"date_published": "2025-07-29T14:20:55.420Z"
-		},
-		{
-			"id": "Shirone El Infinit0 (Mago infinito) [Capítulo 129]",
-			"title": "Shirone El Infinit0 (Mago infinito) [Capítulo 129]",
-			"url": "https://olympusbiblioteca.com/series/comic-shirone20-225-el22-infinit015551251524131123",
-			"date_published": "2025-07-29T14:20:55.419Z"
-		},
-		{
-			"id": "La Ascensión Marcial del Dios Demonio [Capítulo 131]",
-			"title": "La Ascensión Marcial del Dios Demonio [Capítulo 131]",
-			"url": "https://olympusbiblioteca.com/series/comic-dis-m10-05-2025arcial-2013424",
-			"date_published": "2025-07-29T12:35:44.003Z"
-		},
-		{
-			"id": "Asesino de Dragones [Capítulo 159]",
-			"title": "Asesino de Dragones [Capítulo 159]",
-			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-dragones20250730-111526811",
-			"date_published": "2025-07-29T12:35:44.003Z"
-		},
-		{
-			"id": "Regresión absoluta [Capítulo 59]",
-			"title": "Regresión absoluta [Capítulo 59]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta20250730-110904905",
-			"date_published": "2025-07-29T10:18:06.841Z"
-		},
-		{
-			"id": "Las conspiraciones del mercenario regresado [Capítulo 49]",
-			"title": "Las conspiraciones del mercenario regresado [Capítulo 49]",
-			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado20250730-111001684",
-			"date_published": "2025-07-29T04:43:25.524Z"
 		}
 	]
 }
