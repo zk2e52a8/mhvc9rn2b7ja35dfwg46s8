@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Horda de zombies [Capítulo 3]",
+			"title": "Horda de zombies [Capítulo 3]",
+			"url": "https://olympusbiblioteca.com/series/comic-horda-de-zombies",
+			"date_published": "2025-08-22T04:17:48.406Z"
+		},
+		{
 			"id": "Villano antihéroe [Capítulo 197]",
 			"title": "Villano antihéroe [Capítulo 197]",
 			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe20250821-081727567",
@@ -2995,12 +3001,6 @@
 			"title": "El Sentido Absoluto de las Espadas [Capítulo 142]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-sentido-absoluto-de-las-espadas20250805-110434013",
 			"date_published": "2025-08-04T16:22:23.641Z"
-		},
-		{
-			"id": "Evolución Demoníaca [Capítulo 117]",
-			"title": "Evolución Demoníaca [Capítulo 117]",
-			"url": "https://olympusbiblioteca.com/series/comic-evolucion-demoniac1342-1n",
-			"date_published": "2025-08-04T14:21:01.648Z"
 		}
 	]
 }
