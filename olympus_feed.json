@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Civilización Nebula [Capítulo 102]",
+			"title": "Civilización Nebula [Capítulo 102]",
+			"url": "https://olympusbiblioteca.com/series/comic-civilizacion-nebula20250825-080418414",
+			"date_published": "2025-08-25T14:15:37.319Z"
+		},
+		{
 			"id": "Cambiando la masmorra [Capítulo 261]",
 			"title": "Cambiando la masmorra [Capítulo 261]",
 			"url": "https://olympusbiblioteca.com/series/comic-cambiando10-05-2025-la-masmorra13424",
@@ -2995,12 +3001,6 @@
 			"title": "Regresé del abismo [Capítulo 32]",
 			"url": "https://olympusbiblioteca.com/series/comic-regrese-del-abismoo",
 			"date_published": "2025-08-07T22:17:01.323Z"
-		},
-		{
-			"id": "El Devoto Caballero [Capítulo 124]",
-			"title": "El Devoto Caballero [Capítulo 124]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-devoto-caballero20250808-111957425",
-			"date_published": "2025-08-07T20:18:22.316Z"
 		}
 	]
 }
