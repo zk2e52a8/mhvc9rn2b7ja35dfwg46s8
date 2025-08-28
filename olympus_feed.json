@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Señor de Hielo [Capítulo 40]",
+			"title": "El Señor de Hielo [Capítulo 40]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo20250828-081338414",
+			"date_published": "2025-08-28T20:16:27.079Z"
+		},
+		{
+			"id": "Cazador Carnívoro [Capítulo 132]",
+			"title": "Cazador Carnívoro [Capítulo 132]",
+			"url": "https://olympusbiblioteca.com/series/comic-cazador10-05-2025-carnivoro13424",
+			"date_published": "2025-08-28T20:16:27.078Z"
+		},
+		{
 			"id": "Instructor Estelar Maestro Baek [Capítulo 136]",
 			"title": "Instructor Estelar Maestro Baek [Capítulo 136]",
 			"url": "https://olympusbiblioteca.com/series/comic-instructor-estelar-maestro-baek20250828-081108798",
@@ -2989,18 +3001,6 @@
 			"title": "El Regreso Del Genio De Las Artes Marciales [Capítulo 106]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-genio-de-las-artes-marciales20250811-110257573",
 			"date_published": "2025-08-10T18:20:17.402Z"
-		},
-		{
-			"id": "Amigo de la Infancia del Zenit [Capítulo 67]",
-			"title": "Amigo de la Infancia del Zenit [Capítulo 67]",
-			"url": "https://olympusbiblioteca.com/series/comic-amigo-de20-225-e-zenith",
-			"date_published": "2025-08-10T16:18:32.276Z"
-		},
-		{
-			"id": "Instructor Estelar Maestro Baek [Capítulo 134]",
-			"title": "Instructor Estelar Maestro Baek [Capítulo 134]",
-			"url": "https://olympusbiblioteca.com/series/comic-instructor-estelar-maestro-baek20250811-110922330",
-			"date_published": "2025-08-10T16:18:32.276Z"
 		}
 	]
 }
