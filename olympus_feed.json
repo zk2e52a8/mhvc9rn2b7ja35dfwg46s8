@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Sangre Maldita [Capítulo 52]",
+			"title": "Sangre Maldita [Capítulo 52]",
+			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20250905-080649342",
+			"date_published": "2025-09-05T22:13:41.785Z"
+		},
+		{
+			"id": "El Perro Loco de la Mansión del Duque [Capítulo 3]",
+			"title": "El Perro Loco de la Mansión del Duque [Capítulo 3]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-perro-loco-de-la-mansion-del-duque",
+			"date_published": "2025-09-05T22:13:41.784Z"
+		},
+		{
 			"id": "El Perro Loco de la Mansión del Duque [Capítulo 1]",
 			"title": "El Perro Loco de la Mansión del Duque [Capítulo 1]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-perro-loco-de-la-mansion-del-duque",
@@ -2989,18 +3001,6 @@
 			"title": "El Indomable Rey Marcial [Capítulo 95]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial20250819-080425051",
 			"date_published": "2025-08-18T20:16:43.735Z"
-		},
-		{
-			"id": "El Dios de la Espada de un Mundo Destruido [Capítulo 29.05]",
-			"title": "El Dios de la Espada de un Mundo Destruido [Capítulo 29.05]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-de-la-espada-de-un-mundo-destruido",
-			"date_published": "2025-08-18T20:16:43.734Z"
-		},
-		{
-			"id": "Regreso del ranker de clase SSS [Capítulo 152]",
-			"title": "Regreso del ranker de clase SSS [Capítulo 152]",
-			"url": "https://olympusbiblioteca.com/series/comic-regr20-225-eso-del-ranker-de-clase-ss13424",
-			"date_published": "2025-08-18T18:23:23.688Z"
 		}
 	]
 }
