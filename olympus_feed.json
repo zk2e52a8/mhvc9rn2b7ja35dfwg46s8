@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Loco Murim [Capítulo 167]",
+			"title": "Loco Murim [Capítulo 167]",
+			"url": "https://olympusbiblioteca.com/series/comic-loco-murim-20250906-080532684",
+			"date_published": "2025-09-07T01:12:07.059Z"
+		},
+		{
+			"id": "El Regreso Del Genio De Las Artes Marciales [Capítulo 110]",
+			"title": "El Regreso Del Genio De Las Artes Marciales [Capítulo 110]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-genio-de-las-artes-marciales-20250903-080326454",
+			"date_published": "2025-09-07T01:12:07.059Z"
+		},
+		{
+			"id": "Stream del Arquero Genio [Capítulo 78]",
+			"title": "Stream del Arquero Genio [Capítulo 78]",
+			"url": "https://olympusbiblioteca.com/series/comic-streamin10-05-2025quero-genio",
+			"date_published": "2025-09-07T01:12:07.058Z"
+		},
+		{
+			"id": "Jugador de talento insano [Capítulo 91]",
+			"title": "Jugador de talento insano [Capítulo 91]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugador-de-talento-insano-20250906-080539982",
+			"date_published": "2025-09-07T01:12:07.058Z"
+		},
+		{
 			"id": "Los gemelos Baek [Capítulo 123]",
 			"title": "Los gemelos Baek [Capítulo 123]",
 			"url": "https://olympusbiblioteca.com/series/comic-los-gemelos-baek-20250906-080816268",
@@ -2977,30 +3001,6 @@
 			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 32]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
 			"date_published": "2025-08-20T03:05:40.330Z"
-		},
-		{
-			"id": "Jugador devorador de acero [Capítulo 89]",
-			"title": "Jugador devorador de acero [Capítulo 89]",
-			"url": "https://olympusbiblioteca.com/series/comic-jugador-devorador-de-acero20250820-080040034",
-			"date_published": "2025-08-20T03:05:40.330Z"
-		},
-		{
-			"id": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 117]",
-			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 117]",
-			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-al-juego-siendo-un-barbaro-bjorn-el-barbaro-20250820-081414052",
-			"date_published": "2025-08-20T01:10:14.369Z"
-		},
-		{
-			"id": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 144]",
-			"title": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 144]",
-			"url": "https://olympusbiblioteca.com/series/comic-maestr10-05-2025ede-ser-el-hijo-sagrado5324",
-			"date_published": "2025-08-20T01:10:14.369Z"
-		},
-		{
-			"id": "El último aventurero [Capítulo 84]",
-			"title": "El último aventurero [Capítulo 84]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-ultimo-aventurero20250820-080408038",
-			"date_published": "2025-08-19T22:14:21.783Z"
 		}
 	]
 }
