@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Mago prismático genio [Capítulo 51]",
+			"title": "Mago prismático genio [Capítulo 51]",
+			"url": "https://olympusbiblioteca.com/series/comic-mago-prismatico-genio-20250908-080451487",
+			"date_published": "2025-09-09T06:22:42.873Z"
+		},
+		{
 			"id": "Super humanos [Capítulo 203]",
 			"title": "Super humanos [Capítulo 203]",
 			"url": "https://olympusbiblioteca.com/series/comic-super-humanos-20250908-080428569",
@@ -2995,12 +3001,6 @@
 			"title": "Aragi Kai, el Asesino en el Mundo Paralelo [Capítulo 102]",
 			"url": "https://olympusbiblioteca.com/series/comic-aragi-kai-el-asesino-en-el-mundo-paralelo77",
 			"date_published": "2025-08-22T12:29:47.794Z"
-		},
-		{
-			"id": "Horda de zombies [Capítulo 3]",
-			"title": "Horda de zombies [Capítulo 3]",
-			"url": "https://olympusbiblioteca.com/series/comic-horda-de-zombies",
-			"date_published": "2025-08-22T04:17:48.406Z"
 		}
 	]
 }
