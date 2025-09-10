@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 347]",
+			"title": "Soldado Esqueleto [Capítulo 347]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20250909-080623975",
+			"date_published": "2025-09-10T04:17:01.843Z"
+		},
+		{
+			"id": "Las crónicas del clan Tang [Capítulo 15]",
+			"title": "Las crónicas del clan Tang [Capítulo 15]",
+			"url": "https://olympusbiblioteca.com/series/comic-las-cronicas-del-clan-tang",
+			"date_published": "2025-09-10T04:17:01.843Z"
+		},
+		{
 			"id": "Al demonio con ser un santo, soy un medico [Capítulo 143.5]",
 			"title": "Al demonio con ser un santo, soy un medico [Capítulo 143.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-al-de20-225-n-medico",
@@ -2989,18 +3001,6 @@
 			"title": "El nigromante inigualable [Capítulo 96.05]",
 			"url": "https://olympusbiblioteca.com/series/comic-cara-casper13424",
 			"date_published": "2025-08-23T02:59:14.808Z"
-		},
-		{
-			"id": "El amo de la plaga [Capítulo 75]",
-			"title": "El amo de la plaga [Capítulo 75]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-a10-05-2025mo-de-la-plaga",
-			"date_published": "2025-08-23T01:07:58.678Z"
-		},
-		{
-			"id": "Tengo la guía exclusiva de la torre [Capítulo 78]",
-			"title": "Tengo la guía exclusiva de la torre [Capítulo 78]",
-			"url": "https://olympusbiblioteca.com/series/comic-tengo-la-guia-exclusiva-de-la-torre20250823-080934332",
-			"date_published": "2025-08-23T01:07:58.678Z"
 		}
 	]
 }
