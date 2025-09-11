@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Sangre Maldita [Capítulo 53]",
+			"title": "Sangre Maldita [Capítulo 53]",
+			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20250911-080813856",
+			"date_published": "2025-09-11T20:13:35.461Z"
+		},
+		{
+			"id": "Espada de la inquisición celestial [Capítulo 134]",
+			"title": "Espada de la inquisición celestial [Capítulo 134]",
+			"url": "https://olympusbiblioteca.com/series/comic-inquisic20-225-ion-celestia13424",
+			"date_published": "2025-09-11T20:13:35.461Z"
+		},
+		{
+			"id": "Come y crece [Capítulo 22]",
+			"title": "Come y crece [Capítulo 22]",
+			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20250911-081621517",
+			"date_published": "2025-09-11T20:13:35.461Z"
+		},
+		{
 			"id": "La luz de Arad: Aquel que camina primero [Capítulo 62]",
 			"title": "La luz de Arad: Aquel que camina primero [Capítulo 62]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-luz-de-arad-aquel-que-camina-primero-20250911-080707762",
@@ -2983,24 +3001,6 @@
 			"title": "El legendario hijo menor de la Casa del Marques [Capítulo 143]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-lege20-225-ndario-marques13424",
 			"date_published": "2025-08-24T16:16:56.310Z"
-		},
-		{
-			"id": "La venganza del sabueso de sangre de hierro [Capítulo 127]",
-			"title": "La venganza del sabueso de sangre de hierro [Capítulo 127]",
-			"url": "https://olympusbiblioteca.com/series/comic-20-225-2sabueso13424",
-			"date_published": "2025-08-24T14:13:07.475Z"
-		},
-		{
-			"id": "La noche del goblin [Capítulo 106]",
-			"title": "La noche del goblin [Capítulo 106]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin20250824-081741623",
-			"date_published": "2025-08-24T14:13:07.475Z"
-		},
-		{
-			"id": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 86]",
-			"title": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 86]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-caotico-de-fuerza-extraordinaria20250825-080511629",
-			"date_published": "2025-08-24T10:14:10.253Z"
 		}
 	]
 }
