@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Mago prismático genio [Capítulo 52]",
+			"title": "Mago prismático genio [Capítulo 52]",
+			"url": "https://olympusbiblioteca.com/series/comic-mago-prismatico-genio-20250911-080901517",
+			"date_published": "2025-09-12T06:22:04.745Z"
+		},
+		{
 			"id": "Emperador magico (magic emperor) [Capítulo 751]",
 			"title": "Emperador magico (magic emperor) [Capítulo 751]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
@@ -2995,12 +3001,6 @@
 			"title": "El chico problemático de la torre mágica [Capítulo 25]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-chico-problematico-de-la-torre-magica20250825-080937825",
 			"date_published": "2025-08-25T01:13:13.726Z"
-		},
-		{
-			"id": "Sobreviviendo como un genio con tiempo prestado [Capítulo 48]",
-			"title": "Sobreviviendo como un genio con tiempo prestado [Capítulo 48]",
-			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-como-un-genio-con-tiempo-prestado20250825-080750869",
-			"date_published": "2025-08-24T22:14:00.491Z"
 		}
 	]
 }
