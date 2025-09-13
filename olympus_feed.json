@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Viejo sabroso [Capítulo 104.4]",
+			"title": "Viejo sabroso [Capítulo 104.4]",
+			"url": "https://olympusbiblioteca.com/series/comic-viejo-sabroso-20250912-080313459",
+			"date_published": "2025-09-13T01:02:13.409Z"
+		},
+		{
+			"id": "La noche del goblin [Capítulo 110]",
+			"title": "La noche del goblin [Capítulo 110]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin-20250912-081519949",
+			"date_published": "2025-09-13T01:02:13.409Z"
+		},
+		{
+			"id": "El Guerrero Escolta Reencarnado [Capítulo 113]",
+			"title": "El Guerrero Escolta Reencarnado [Capítulo 113]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-gu10-05-2025encarnado",
+			"date_published": "2025-09-13T01:02:13.409Z"
+		},
+		{
 			"id": "El amo de la plaga [Capítulo 77]",
 			"title": "El amo de la plaga [Capítulo 77]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-a10-05-2025mo-de-la-plaga",
@@ -2983,24 +3001,6 @@
 			"title": "Los Breakers [Capítulo 7]",
 			"url": "https://olympusbiblioteca.com/series/comic-los-breakers",
 			"date_published": "2025-08-25T20:16:59.826Z"
-		},
-		{
-			"id": "Esclavo Corporativo del Dios Maligno [Capítulo 14]",
-			"title": "Esclavo Corporativo del Dios Maligno [Capítulo 14]",
-			"url": "https://olympusbiblioteca.com/series/comic-esclavo-corporativo-del-dios-maligno",
-			"date_published": "2025-08-25T20:16:59.826Z"
-		},
-		{
-			"id": "El Mago Genio Destructor de Límites [Capítulo 24]",
-			"title": "El Mago Genio Destructor de Límites [Capítulo 24]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites20250826-081802355",
-			"date_published": "2025-08-25T20:16:59.826Z"
-		},
-		{
-			"id": "La Guía Definitiva del Extra de Nivel Dios (Remake) [Capítulo 30]",
-			"title": "La Guía Definitiva del Extra de Nivel Dios (Remake) [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-guia-definitiva-del-extra-de-nivel-dios-remake",
-			"date_published": "2025-08-25T18:22:34.836Z"
 		}
 	]
 }
