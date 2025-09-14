@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Papá zombie [Capítulo 9]",
+			"title": "Papá zombie [Capítulo 9]",
+			"url": "https://olympusbiblioteca.com/series/comic-papa-zombie",
+			"date_published": "2025-09-14T04:17:17.170Z"
+		},
+		{
+			"id": "Mi esposa es la líder del culto demoníaco [Capítulo 30]",
+			"title": "Mi esposa es la líder del culto demoníaco [Capítulo 30]",
+			"url": "https://olympusbiblioteca.com/series/comic-mi-esposa-es-la-lider-del-culto-demoniaco-20250913-081136965",
+			"date_published": "2025-09-14T04:17:17.170Z"
+		},
+		{
 			"id": "Emperador magico (magic emperor) [Capítulo 753]",
 			"title": "Emperador magico (magic emperor) [Capítulo 753]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
@@ -2989,18 +3001,6 @@
 			"title": "El Devoto Caballero [Capítulo 127]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-devoto-caballero20250828-081946236",
 			"date_published": "2025-08-27T02:59:49.136Z"
-		},
-		{
-			"id": "Reencarne como el heredero loco [Capítulo 167]",
-			"title": "Reencarne como el heredero loco [Capítulo 167]",
-			"url": "https://olympusbiblioteca.com/series/comic-reencarne-como-el-heredero-loco20250828-080957335",
-			"date_published": "2025-08-27T01:08:50.602Z"
-		},
-		{
-			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 33]",
-			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 33]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
-			"date_published": "2025-08-27T01:08:50.602Z"
 		}
 	]
 }
