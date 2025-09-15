@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Hijo Menor del Renombrado Clan Mágico [Capítulo 93]",
+			"title": "El Hijo Menor del Renombrado Clan Mágico [Capítulo 93]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-hijo-m20-225-do-clan-magi13424",
+			"date_published": "2025-09-15T22:13:17.116Z"
+		},
+		{
 			"id": "El Mago Genio Destructor de Límites [Capítulo 27]",
 			"title": "El Mago Genio Destructor de Límites [Capítulo 27]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20250915-081840432",
@@ -2995,12 +3001,6 @@
 			"title": "Acampando en otro Mundo: buscandole el sazon a la vida [Capítulo 72]",
 			"url": "https://olympusbiblioteca.com/series/comic-06-05-20210-05-202555030320254",
 			"date_published": "2025-08-28T22:13:52.862Z"
-		},
-		{
-			"id": "El Señor de Hielo [Capítulo 40]",
-			"title": "El Señor de Hielo [Capítulo 40]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo20250829-081345503",
-			"date_published": "2025-08-28T20:16:27.079Z"
 		}
 	]
 }
