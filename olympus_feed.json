@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Señor de Hielo [Capítulo 43]",
+			"title": "El Señor de Hielo [Capítulo 43]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20250917-081215521",
+			"date_published": "2025-09-18T01:05:28.415Z"
+		},
+		{
+			"id": "Mago prismático genio [Capítulo 53]",
+			"title": "Mago prismático genio [Capítulo 53]",
+			"url": "https://olympusbiblioteca.com/series/comic-mago-prismatico-genio-20250917-081129236",
+			"date_published": "2025-09-18T01:05:28.415Z"
+		},
+		{
+			"id": "Iniciando sesión en 10,000 años en el futuro [Capítulo 255]",
+			"title": "Iniciando sesión en 10,000 años en el futuro [Capítulo 255]",
+			"url": "https://olympusbiblioteca.com/series/comic-isecaikr20-225-arochino13424",
+			"date_published": "2025-09-18T01:05:28.415Z"
+		},
+		{
 			"id": "El Héroe, El Rey Demonio y El Villano [Capítulo 141.5]",
 			"title": "El Héroe, El Rey Demonio y El Villano [Capítulo 141.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-el-rey-demonio-y-el-villano-20250917-081423975",
@@ -2983,24 +3001,6 @@
 			"title": "*Me convertí en el sucesor del dios marcial [Capítulo 37]",
 			"url": "https://olympusbiblioteca.com/series/comic-me-converti-en-el-sucesor-del-dios-marcial",
 			"date_published": "2025-08-31T01:13:06.967Z"
-		},
-		{
-			"id": "Iniciando sesión en 10,000 años en el futuro [Capítulo 250]",
-			"title": "Iniciando sesión en 10,000 años en el futuro [Capítulo 250]",
-			"url": "https://olympusbiblioteca.com/series/comic-isecaikr20-225-arochino13424",
-			"date_published": "2025-08-31T01:13:06.967Z"
-		},
-		{
-			"id": "El demonio celestial quiere una vida tranquila [Capítulo 45]",
-			"title": "El demonio celestial quiere una vida tranquila [Capítulo 45]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-demonio-celestial-quiere-una-vida-tranquila20250830-080616645",
-			"date_published": "2025-08-30T22:13:11.239Z"
-		},
-		{
-			"id": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 114]",
-			"title": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 114]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-prodigioso-caballero-oscuro-con-tiempo-limitado20250831-080709775",
-			"date_published": "2025-08-30T22:13:11.239Z"
 		}
 	]
 }
