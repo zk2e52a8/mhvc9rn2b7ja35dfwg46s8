@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El apóstol rebelde de la Diosa de la abundancia. [Capítulo 4]",
+			"title": "El apóstol rebelde de la Diosa de la abundancia. [Capítulo 4]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-apostol-rebelde-de-la-diosa-de-la-abundancia",
+			"date_published": "2025-09-20T04:17:38.169Z"
+		},
+		{
+			"id": "Sepulturero de monstruos [Capítulo 15]",
+			"title": "Sepulturero de monstruos [Capítulo 15]",
+			"url": "https://olympusbiblioteca.com/series/comic-sepulturero-de-monstruos",
+			"date_published": "2025-09-20T04:17:38.169Z"
+		},
+		{
+			"id": "Chamán del dinero [Capítulo 9]",
+			"title": "Chamán del dinero [Capítulo 9]",
+			"url": "https://olympusbiblioteca.com/series/comic-chaman-del-dinero",
+			"date_published": "2025-09-20T04:17:38.168Z"
+		},
+		{
 			"id": "El soberano del hogar [Capítulo 48]",
 			"title": "El soberano del hogar [Capítulo 48]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-soberano-del-hogar-20250919-080953946",
@@ -2983,24 +3001,6 @@
 			"title": "Goblin de nivel 999 [Capítulo 21]",
 			"url": "https://olympusbiblioteca.com/series/comic-goblin-de-nivel-999-20250903-080526378",
 			"date_published": "2025-09-02T20:16:09.051Z"
-		},
-		{
-			"id": "Super humanos [Capítulo 200]",
-			"title": "Super humanos [Capítulo 200]",
-			"url": "https://olympusbiblioteca.com/series/comic-super-humanos-20250902-080607862",
-			"date_published": "2025-09-02T18:20:02.648Z"
-		},
-		{
-			"id": "Los Breakers [Capítulo 9]",
-			"title": "Los Breakers [Capítulo 9]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-breakers",
-			"date_published": "2025-09-02T18:20:02.648Z"
-		},
-		{
-			"id": "El último aventurero [Capítulo 86]",
-			"title": "El último aventurero [Capítulo 86]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-ultimo-aventurero-20250903-080418858",
-			"date_published": "2025-09-02T18:20:02.648Z"
 		}
 	]
 }
