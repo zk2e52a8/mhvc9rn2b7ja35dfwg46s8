@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Caballero en Eterna Regresión [Capítulo 76]",
+			"title": "Caballero en Eterna Regresión [Capítulo 76]",
+			"url": "https://olympusbiblioteca.com/series/comic-caballero-en-eterna-regresion-20250922-080729552",
+			"date_published": "2025-09-22T14:15:55.703Z"
+		},
+		{
 			"id": "Stream del Arquero Genio [Capítulo 81]",
 			"title": "Stream del Arquero Genio [Capítulo 81]",
 			"url": "https://olympusbiblioteca.com/series/comic-streamin10-05-2025quero-genio",
@@ -2995,12 +3001,6 @@
 			"title": "Emperador magico (magic emperor) [Capítulo 748]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
 			"date_published": "2025-09-05T06:21:46.103Z"
-		},
-		{
-			"id": "Las crónicas del clan Tang [Capítulo 14]",
-			"title": "Las crónicas del clan Tang [Capítulo 14]",
-			"url": "https://olympusbiblioteca.com/series/comic-las-cronicas-del-clan-tang",
-			"date_published": "2025-09-05T04:17:40.313Z"
 		}
 	]
 }
