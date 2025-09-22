@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Regreso del Espadachín Oscuro [Capítulo 16]",
+			"title": "El Regreso del Espadachín Oscuro [Capítulo 16]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
+			"date_published": "2025-09-22T18:21:13.743Z"
+		},
+		{
+			"id": "Regresión absoluta [Capítulo 67]",
+			"title": "Regresión absoluta [Capítulo 67]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta-20250922-080756850",
+			"date_published": "2025-09-22T18:21:13.743Z"
+		},
+		{
+			"id": "El amo de la plaga [Capítulo 79]",
+			"title": "El amo de la plaga [Capítulo 79]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-a10-05-2025mo-de-la-plaga",
+			"date_published": "2025-09-22T18:21:13.743Z"
+		},
+		{
+			"id": "El Dios de la Espada de un Mundo Destruido [Capítulo 34]",
+			"title": "El Dios de la Espada de un Mundo Destruido [Capítulo 34]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-dios-de-la-espada-de-un-mundo-destruido",
+			"date_published": "2025-09-22T18:21:13.743Z"
+		},
+		{
 			"id": "*Me convertí en el sucesor del dios marcial [Capítulo 40]",
 			"title": "*Me convertí en el sucesor del dios marcial [Capítulo 40]",
 			"url": "https://olympusbiblioteca.com/series/comic-me-converti-en-el-sucesor-del-dios-marcial",
@@ -2977,30 +3001,6 @@
 			"title": "La vida del cazador de clase S entre monstruos [Capítulo 5]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-cazador-de-clase-s-entre-monstruos",
 			"date_published": "2025-09-05T20:16:14.079Z"
-		},
-		{
-			"id": "Voy a Aniquilar Esta Tierra [Capítulo 51]",
-			"title": "Voy a Aniquilar Esta Tierra [Capítulo 51]",
-			"url": "https://olympusbiblioteca.com/series/comic-voy-a-an10-05-2025-tierra",
-			"date_published": "2025-09-05T18:19:30.159Z"
-		},
-		{
-			"id": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 115]",
-			"title": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 115]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-prodigioso-caballero-oscuro-con-tiempo-limitado-20250906-080816225",
-			"date_published": "2025-09-05T18:19:30.159Z"
-		},
-		{
-			"id": "Estandar de la Reencarnación [Capítulo 152]",
-			"title": "Estandar de la Reencarnación [Capítulo 152]",
-			"url": "https://olympusbiblioteca.com/series/comic-elmancochet20-225-o532413424",
-			"date_published": "2025-09-05T16:18:02.938Z"
-		},
-		{
-			"id": "El Señor de Hielo [Capítulo 41]",
-			"title": "El Señor de Hielo [Capítulo 41]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20250906-080708813",
-			"date_published": "2025-09-05T16:18:02.938Z"
 		}
 	]
 }
