@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Sangre Maldita [Capítulo 55]",
+			"title": "Sangre Maldita [Capítulo 55]",
+			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20250924-080622307",
+			"date_published": "2025-09-24T22:14:17.281Z"
+		},
+		{
+			"id": "Registros del Erudito Espadachín [Capítulo 170]",
+			"title": "Registros del Erudito Espadachín [Capítulo 170]",
+			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025ito-espadachin5324",
+			"date_published": "2025-09-24T22:14:17.281Z"
+		},
+		{
+			"id": "El Despiadado Demonio Celestial [Capítulo 279]",
+			"title": "El Despiadado Demonio Celestial [Capítulo 279]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-despiadado-demonio-celestial-20250924-080848744",
+			"date_published": "2025-09-24T22:14:17.280Z"
+		},
+		{
 			"id": "No soy esa clase de talento [Capítulo 101]",
 			"title": "No soy esa clase de talento [Capítulo 101]",
 			"url": "https://olympusbiblioteca.com/series/comic-no-soy-esa-clase-de-talento-20250924-080903090",
@@ -2983,24 +3001,6 @@
 			"title": "El soberano del hogar [Capítulo 46]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-soberano-del-hogar-20250908-080443838",
 			"date_published": "2025-09-08T01:10:53.682Z"
-		},
-		{
-			"id": "El Regreso del Maestro del Infierno [Capítulo 23]",
-			"title": "El Regreso del Maestro del Infierno [Capítulo 23]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-maestro-del-infierno",
-			"date_published": "2025-09-08T01:10:53.681Z"
-		},
-		{
-			"id": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 32]",
-			"title": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 32]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hijo-menor-del-grupo-mercantil-eunhae",
-			"date_published": "2025-09-07T22:12:42.933Z"
-		},
-		{
-			"id": "El legendario hijo menor de la Casa del Marques [Capítulo 145]",
-			"title": "El legendario hijo menor de la Casa del Marques [Capítulo 145]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-lege20-225-ndario-marques13424",
-			"date_published": "2025-09-07T22:12:42.933Z"
 		}
 	]
 }
