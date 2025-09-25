@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Restaurante del mago [Capítulo 101]",
+			"title": "Restaurante del mago [Capítulo 101]",
+			"url": "https://olympusbiblioteca.com/series/comic-restaurante-del-mago-20250925-080442881",
+			"date_published": "2025-09-25T22:12:40.294Z"
+		},
+		{
+			"id": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 117]",
+			"title": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 117]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-prodigioso-caballero-oscuro-con-tiempo-limitado-20250925-081327967",
+			"date_published": "2025-09-25T22:12:40.294Z"
+		},
+		{
+			"id": "El Regreso Del Genio De Las Artes Marciales [Capítulo 112]",
+			"title": "El Regreso Del Genio De Las Artes Marciales [Capítulo 112]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-genio-de-las-artes-marciales-20250925-080156418",
+			"date_published": "2025-09-25T22:12:40.294Z"
+		},
+		{
 			"id": "Manual de instrucciones del Reencarnado [Capítulo 155]",
 			"title": "Manual de instrucciones del Reencarnado [Capítulo 155]",
 			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado",
@@ -2983,24 +3001,6 @@
 			"title": "Carnicero Marcial De Rango Divino [Capítulo 9]",
 			"url": "https://olympusbiblioteca.com/series/comic-carnicero-marcial-de-rango-divino",
 			"date_published": "2025-09-09T01:07:47.951Z"
-		},
-		{
-			"id": "*El Villano Del Destino [Capítulo 278]",
-			"title": "*El Villano Del Destino [Capítulo 278]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
-			"date_published": "2025-09-09T01:07:47.951Z"
-		},
-		{
-			"id": "Goblin de nivel 999 [Capítulo 23]",
-			"title": "Goblin de nivel 999 [Capítulo 23]",
-			"url": "https://olympusbiblioteca.com/series/comic-goblin-de-nivel-999-20250909-080557352",
-			"date_published": "2025-09-09T01:07:47.950Z"
-		},
-		{
-			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 198]",
-			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 198]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin-20250903-080326226",
-			"date_published": "2025-09-08T22:14:28.553Z"
 		}
 	]
 }
