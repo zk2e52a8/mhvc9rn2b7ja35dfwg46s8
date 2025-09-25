@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 349]",
+			"title": "Soldado Esqueleto [Capítulo 349]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20250924-080936206",
+			"date_published": "2025-09-25T06:22:37.168Z"
+		},
+		{
 			"id": "Lider Kim [Capítulo 209]",
 			"title": "Lider Kim [Capítulo 209]",
 			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20250924-080930346",
@@ -2995,12 +3001,6 @@
 			"title": "Acampando en otro Mundo: buscandole el sazon a la vida [Capítulo 73]",
 			"url": "https://olympusbiblioteca.com/series/comic-06-05-20210-05-202555030320254",
 			"date_published": "2025-09-08T06:23:16.661Z"
-		},
-		{
-			"id": "El Joven Heredero de la Familia de Nigromantes [Capítulo 39]",
-			"title": "El Joven Heredero de la Familia de Nigromantes [Capítulo 39]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-joven-heredero-de-la-familia-de-nigromantes-20250908-080459292",
-			"date_published": "2025-09-08T04:18:31.187Z"
 		}
 	]
 }
