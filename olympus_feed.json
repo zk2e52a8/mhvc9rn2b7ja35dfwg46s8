@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Emperador magico (magic emperor) [Capítulo 757]",
+			"title": "Emperador magico (magic emperor) [Capítulo 757]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
+			"date_published": "2025-09-26T02:56:51.361Z"
+		},
+		{
+			"id": "El rey de la violencia [Capítulo 67]",
+			"title": "El rey de la violencia [Capítulo 67]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-rey-de-la-violencia-20250925-080542753",
+			"date_published": "2025-09-26T02:56:51.361Z"
+		},
+		{
 			"id": "El Joven Maestro del Gran Archivo Celestial [Capítulo 144]",
 			"title": "El Joven Maestro del Gran Archivo Celestial [Capítulo 144]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-joven-maestro-del-gran-archivo-celestial-20250925-081021705",
@@ -2989,18 +3001,6 @@
 			"title": "Sepulturero de monstruos [Capítulo 14]",
 			"url": "https://olympusbiblioteca.com/series/comic-sepulturero-de-monstruos",
 			"date_published": "2025-09-09T04:17:54.869Z"
-		},
-		{
-			"id": "Caballero en Eterna Regresión [Capítulo 74]",
-			"title": "Caballero en Eterna Regresión [Capítulo 74]",
-			"url": "https://olympusbiblioteca.com/series/comic-caballero-en-eterna-regresion-20250909-080429329",
-			"date_published": "2025-09-09T02:58:42.083Z"
-		},
-		{
-			"id": "Las conspiraciones del mercenario regresado [Capítulo 55]",
-			"title": "Las conspiraciones del mercenario regresado [Capítulo 55]",
-			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado-20250909-080500333",
-			"date_published": "2025-09-09T02:58:42.083Z"
 		}
 	]
 }
