@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Academia de la Ascensión [Capítulo 172]",
+			"title": "Academia de la Ascensión [Capítulo 172]",
+			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20250926-080354157",
+			"date_published": "2025-09-26T20:16:05.191Z"
+		},
+		{
+			"id": "El renacimiento del Demonio Divino [Capítulo 4]",
+			"title": "El renacimiento del Demonio Divino [Capítulo 4]",
+			"url": "https://olympusbiblioteca.com/series/comic-1el-renacimiento-del-demonio-divino",
+			"date_published": "2025-09-26T20:16:05.191Z"
+		},
+		{
 			"id": "El bastardo devorador de armas. [Capítulo 52]",
 			"title": "El bastardo devorador de armas. [Capítulo 52]",
 			"url": "https://olympusbiblioteca.com/series/comic-o5324evorador-de-armas",
@@ -2989,18 +3001,6 @@
 			"title": "El Mago Genio Destructor de Límites [Capítulo 25]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20250909-080758783",
 			"date_published": "2025-09-09T20:15:40.813Z"
-		},
-		{
-			"id": "La Constelación que Regresa del Infierno [Capítulo 220]",
-			"title": "La Constelación que Regresa del Infierno [Capítulo 220]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-constel20-225-egresa-del-infierno",
-			"date_published": "2025-09-09T18:18:08.320Z"
-		},
-		{
-			"id": "El guerrero despiadado [Capítulo 22]",
-			"title": "El guerrero despiadado [Capítulo 22]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado-20250910-081828466",
-			"date_published": "2025-09-09T18:18:08.320Z"
 		}
 	]
 }
