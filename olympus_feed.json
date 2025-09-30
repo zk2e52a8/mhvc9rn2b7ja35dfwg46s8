@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Rayito [Capítulo 370]",
+			"title": "Rayito [Capítulo 370]",
+			"url": "https://olympusbiblioteca.com/series/comic-rayito-20250930-081613281",
+			"date_published": "2025-09-30T16:19:06.164Z"
+		},
+		{
+			"id": "Destinado a ser Amado por Villanas [Capítulo 41]",
+			"title": "Destinado a ser Amado por Villanas [Capítulo 41]",
+			"url": "https://olympusbiblioteca.com/series/comic-destin10-05-2025do-por-villanas",
+			"date_published": "2025-09-30T16:19:06.164Z"
+		},
+		{
+			"id": "*Mago Oscuro (Black Haze remake) [Capítulo 42]",
+			"title": "*Mago Oscuro (Black Haze remake) [Capítulo 42]",
+			"url": "https://olympusbiblioteca.com/series/comic-mago-5zxz-remake",
+			"date_published": "2025-09-30T16:19:06.164Z"
+		},
+		{
+			"id": "Shirone El Infinit0 (Mago infinito) [Capítulo 138]",
+			"title": "Shirone El Infinit0 (Mago infinito) [Capítulo 138]",
+			"url": "https://olympusbiblioteca.com/series/comic-shirone20-225-el22-infinit015551251524131123",
+			"date_published": "2025-09-30T16:19:06.164Z"
+		},
+		{
 			"id": "Las conspiraciones del mercenario regresado [Capítulo 58]",
 			"title": "Las conspiraciones del mercenario regresado [Capítulo 58]",
 			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado-20250930-080913431",
@@ -2977,30 +3001,6 @@
 			"title": "Instructor Estelar Maestro Baek [Capítulo 139]",
 			"url": "https://olympusbiblioteca.com/series/comic-instructor-estelar-maestro-baek-20250915-081024085",
 			"date_published": "2025-09-14T18:18:02.131Z"
-		},
-		{
-			"id": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 136]",
-			"title": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 136]",
-			"url": "https://olympusbiblioteca.com/series/comic-cronicas-de-la-faccion-demoniaca-chun-hajin-el-asesino-mas-fuerte-20250915-081632928",
-			"date_published": "2025-09-14T18:18:02.131Z"
-		},
-		{
-			"id": "La vida del cazador de clase S entre monstruos [Capítulo 14]",
-			"title": "La vida del cazador de clase S entre monstruos [Capítulo 14]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-cazador-de-clase-s-entre-monstruos",
-			"date_published": "2025-09-14T18:18:02.131Z"
-		},
-		{
-			"id": "La Regresión Inigualable del Caza Dragones [Capítulo 57]",
-			"title": "La Regresión Inigualable del Caza Dragones [Capítulo 57]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-reg10-05-2025del-caza-dragones",
-			"date_published": "2025-09-14T18:18:02.131Z"
-		},
-		{
-			"id": "Cazador de gachas de clase SSS [Capítulo 128]",
-			"title": "Cazador de gachas de clase SSS [Capítulo 128]",
-			"url": "https://olympusbiblioteca.com/series/comic-cazador-de-gachas-de-clase-sss-20250915-081505941",
-			"date_published": "2025-09-14T18:18:02.130Z"
 		}
 	]
 }
