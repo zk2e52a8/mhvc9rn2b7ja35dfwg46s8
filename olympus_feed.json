@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Crónicas del soberano perezoso [Capítulo 15]",
+			"title": "Crónicas del soberano perezoso [Capítulo 15]",
+			"url": "https://olympusbiblioteca.com/series/comic-cronicas-del-soberano-perezoso",
+			"date_published": "2025-09-30T20:16:12.583Z"
+		},
+		{
+			"id": "El Herrero Genio del Juego [Capítulo 5]",
+			"title": "El Herrero Genio del Juego [Capítulo 5]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-genio-del-juego",
+			"date_published": "2025-09-30T20:16:12.583Z"
+		},
+		{
+			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 38]",
+			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 38]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
+			"date_published": "2025-09-30T20:16:12.583Z"
+		},
+		{
+			"id": "El Mago Genio Destructor de Límites [Capítulo 29]",
+			"title": "El Mago Genio Destructor de Límites [Capítulo 29]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20250930-081714962",
+			"date_published": "2025-09-30T20:16:12.583Z"
+		},
+		{
+			"id": "Academia de la Ascensión [Capítulo 173]",
+			"title": "Academia de la Ascensión [Capítulo 173]",
+			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20250930-080523470",
+			"date_published": "2025-09-30T20:16:12.583Z"
+		},
+		{
 			"id": "El Herrero Genio del Juego [Capítulo 3]",
 			"title": "El Herrero Genio del Juego [Capítulo 3]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-genio-del-juego",
@@ -2971,36 +3001,6 @@
 			"title": "*El Villano Del Destino [Capítulo 279]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
 			"date_published": "2025-09-15T01:11:48.068Z"
-		},
-		{
-			"id": "Nigromante sin limites [Capítulo 153]",
-			"title": "Nigromante sin limites [Capítulo 153]",
-			"url": "https://olympusbiblioteca.com/series/comic-nigromante-sin-limites-20250916-081325762",
-			"date_published": "2025-09-15T01:11:48.068Z"
-		},
-		{
-			"id": "El guerrero despiadado [Capítulo 23]",
-			"title": "El guerrero despiadado [Capítulo 23]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado-20250915-081857221",
-			"date_published": "2025-09-15T01:11:48.068Z"
-		},
-		{
-			"id": "¿En Serio Hay Gente que Piensa que la Cultivación es Difícil? [Capítulo 17]",
-			"title": "¿En Serio Hay Gente que Piensa que la Cultivación es Difícil? [Capítulo 17]",
-			"url": "https://olympusbiblioteca.com/series/comic-en-serio-hay-gente-que-piensa-que-la-cultivacion-es-dificil",
-			"date_published": "2025-09-15T01:11:48.068Z"
-		},
-		{
-			"id": "Crónicas del soberano perezoso [Capítulo 11]",
-			"title": "Crónicas del soberano perezoso [Capítulo 11]",
-			"url": "https://olympusbiblioteca.com/series/comic-cronicas-del-soberano-perezoso",
-			"date_published": "2025-09-15T01:11:48.067Z"
-		},
-		{
-			"id": "Item Chetado [Capítulo 146]",
-			"title": "Item Chetado [Capítulo 146]",
-			"url": "https://olympusbiblioteca.com/series/comic-item-chetado-20250915-081350817",
-			"date_published": "2025-09-14T22:12:57.057Z"
 		}
 	]
 }
