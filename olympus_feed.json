@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Regreso del Espadachín Oscuro [Capítulo 17]",
+			"title": "El Regreso del Espadachín Oscuro [Capítulo 17]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
+			"date_published": "2025-09-30T04:18:18.385Z"
+		},
+		{
+			"id": "Perfilador de villanos [Capítulo 13]",
+			"title": "Perfilador de villanos [Capítulo 13]",
+			"url": "https://olympusbiblioteca.com/series/comic-perfilador-de-villanos",
+			"date_published": "2025-09-30T04:18:18.385Z"
+		},
+		{
 			"id": "Chamán del dinero [Capítulo 10]",
 			"title": "Chamán del dinero [Capítulo 10]",
 			"url": "https://olympusbiblioteca.com/series/comic-chaman-del-dinero",
@@ -2989,18 +3001,6 @@
 			"title": "Regresión inútil [Capítulo 99]",
 			"url": "https://olympusbiblioteca.com/series/comic-regresi10-05-2025on-inutil",
 			"date_published": "2025-09-14T06:19:37.757Z"
-		},
-		{
-			"id": "Papá zombie [Capítulo 9]",
-			"title": "Papá zombie [Capítulo 9]",
-			"url": "https://olympusbiblioteca.com/series/comic-papa-zombie",
-			"date_published": "2025-09-14T04:17:17.170Z"
-		},
-		{
-			"id": "Mi esposa es la líder del culto demoníaco [Capítulo 30]",
-			"title": "Mi esposa es la líder del culto demoníaco [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-mi-esposa-es-la-lider-del-culto-demoniaco-20250915-081213748",
-			"date_published": "2025-09-14T04:17:17.170Z"
 		}
 	]
 }
