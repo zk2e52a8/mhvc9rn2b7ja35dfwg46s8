@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Joven Maestro del Gran Archivo Celestial [Capítulo 146]",
+			"title": "El Joven Maestro del Gran Archivo Celestial [Capítulo 146]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-joven-maestro-del-gran-archivo-celestial-20250930-081247660",
+			"date_published": "2025-09-30T22:14:03.517Z"
+		},
+		{
+			"id": "El Herrero Genio del Juego [Capítulo 6]",
+			"title": "El Herrero Genio del Juego [Capítulo 6]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-genio-del-juego",
+			"date_published": "2025-09-30T22:14:03.517Z"
+		},
+		{
+			"id": "el bully de bullies [Capítulo 155]",
+			"title": "el bully de bullies [Capítulo 155]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-bully-de-bullies-20250930-081155059",
+			"date_published": "2025-09-30T22:14:03.517Z"
+		},
+		{
 			"id": "Crónicas del soberano perezoso [Capítulo 15]",
 			"title": "Crónicas del soberano perezoso [Capítulo 15]",
 			"url": "https://olympusbiblioteca.com/series/comic-cronicas-del-soberano-perezoso",
@@ -2983,24 +3001,6 @@
 			"title": "El soberano del hogar [Capítulo 47]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-soberano-del-hogar-20250916-081104001",
 			"date_published": "2025-09-15T03:04:20.873Z"
-		},
-		{
-			"id": "El gran demonio celestial soberano [Capítulo 1]",
-			"title": "El gran demonio celestial soberano [Capítulo 1]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-gran-demonio-celestial-soberano",
-			"date_published": "2025-09-15T01:11:48.068Z"
-		},
-		{
-			"id": "Villano antihéroe [Capítulo 201]",
-			"title": "Villano antihéroe [Capítulo 201]",
-			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe-20250916-081556840",
-			"date_published": "2025-09-15T01:11:48.068Z"
-		},
-		{
-			"id": "*El Villano Del Destino [Capítulo 279]",
-			"title": "*El Villano Del Destino [Capítulo 279]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
-			"date_published": "2025-09-15T01:11:48.068Z"
 		}
 	]
 }
