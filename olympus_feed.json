@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Herrero Genio del Juego [Capítulo 3]",
+			"title": "El Herrero Genio del Juego [Capítulo 3]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-genio-del-juego",
+			"date_published": "2025-09-30T18:20:33.542Z"
+		},
+		{
+			"id": "El Arquitecto de mazmorras [Capítulo 50]",
+			"title": "El Arquitecto de mazmorras [Capítulo 50]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-arquite5zxzorras",
+			"date_published": "2025-09-30T18:20:33.542Z"
+		},
+		{
+			"id": "Resurrección solitaria [Capítulo 65]",
+			"title": "Resurrección solitaria [Capítulo 65]",
+			"url": "https://olympusbiblioteca.com/series/comic-resurreccion-solitaria-20250930-080839937",
+			"date_published": "2025-09-30T18:20:33.542Z"
+		},
+		{
+			"id": "El Troll más fuerte del mundo [Capítulo 148]",
+			"title": "El Troll más fuerte del mundo [Capítulo 148]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-troll-mas-fuerte-del-mundo-20250930-080613723",
+			"date_published": "2025-09-30T18:20:33.542Z"
+		},
+		{
 			"id": "Rayito [Capítulo 370]",
 			"title": "Rayito [Capítulo 370]",
 			"url": "https://olympusbiblioteca.com/series/comic-rayito-20250930-081613281",
@@ -2977,30 +3001,6 @@
 			"title": "Item Chetado [Capítulo 146]",
 			"url": "https://olympusbiblioteca.com/series/comic-item-chetado-20250915-081350817",
 			"date_published": "2025-09-14T22:12:57.057Z"
-		},
-		{
-			"id": "Amigo de la Infancia del Zenit [Capítulo 72]",
-			"title": "Amigo de la Infancia del Zenit [Capítulo 72]",
-			"url": "https://olympusbiblioteca.com/series/comic-amigo-de20-225-e-zenith",
-			"date_published": "2025-09-14T20:14:23.790Z"
-		},
-		{
-			"id": "Ranker Salvaje [Capítulo 23]",
-			"title": "Ranker Salvaje [Capítulo 23]",
-			"url": "https://olympusbiblioteca.com/series/comic-ranker-salvaje",
-			"date_published": "2025-09-14T20:14:23.790Z"
-		},
-		{
-			"id": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 211]",
-			"title": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 211]",
-			"url": "https://olympusbiblioteca.com/series/comic-nigrom20-225-ante-yo-soy-la-plagaasdfasd",
-			"date_published": "2025-09-14T20:14:23.790Z"
-		},
-		{
-			"id": "Instructor Estelar Maestro Baek [Capítulo 139]",
-			"title": "Instructor Estelar Maestro Baek [Capítulo 139]",
-			"url": "https://olympusbiblioteca.com/series/comic-instructor-estelar-maestro-baek-20250915-081024085",
-			"date_published": "2025-09-14T18:18:02.131Z"
 		}
 	]
 }
