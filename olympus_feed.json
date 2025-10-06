@@ -3,9 +3,27 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Papá zombie [Capítulo 12]",
+			"title": "Papá zombie [Capítulo 12]",
+			"url": "https://olympusbiblioteca.com/series/comic-papa-zombie",
+			"date_published": "2025-10-06T12:31:25.201Z"
+		},
+		{
+			"id": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 17]",
+			"title": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 17]",
+			"url": "https://olympusbiblioteca.com/series/comic-cara-feliz-de-esclavo-a-leyenda-de-la-arena",
+			"date_published": "2025-10-06T12:31:25.201Z"
+		},
+		{
+			"id": "Cambiando la masmorra [Capítulo 265]",
+			"title": "Cambiando la masmorra [Capítulo 265]",
+			"url": "https://olympusbiblioteca.com/series/comic-cambiando10-05-2025-la-masmorra13424",
+			"date_published": "2025-10-06T12:31:25.201Z"
+		},
+		{
 			"id": "Asesino de Dragones [Capítulo 167]",
 			"title": "Asesino de Dragones [Capítulo 167]",
-			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-dragones-20251005-080932599",
+			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-dragones-20251006-081206019",
 			"date_published": "2025-10-06T10:17:24.326Z"
 		},
 		{
@@ -17,7 +35,7 @@
 		{
 			"id": "Reencarnado [Capítulo 102.05]",
 			"title": "Reencarnado [Capítulo 102.05]",
-			"url": "https://olympusbiblioteca.com/series/comic-reencarnado-20251005-080232369",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarnado-20251006-080507643",
 			"date_published": "2025-10-06T04:17:57.774Z"
 		},
 		{
@@ -47,7 +65,7 @@
 		{
 			"id": "El Genio entrenador de artes marciales [Capítulo 83]",
 			"title": "El Genio entrenador de artes marciales [Capítulo 83]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-genio-entrenador-de-artes-marciales-20251005-080349725",
+			"url": "https://olympusbiblioteca.com/series/comic-el-genio-entrenador-de-artes-marciales-20251006-080626186",
 			"date_published": "2025-10-06T02:58:42.616Z"
 		},
 		{
@@ -59,7 +77,7 @@
 		{
 			"id": "El villano de mirada cortante de la Academia Demoniaca [Capítulo 45]",
 			"title": "El villano de mirada cortante de la Academia Demoniaca [Capítulo 45]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villano-de-mirada-cortante-de-la-academia-demoniaca-20251005-080709015",
+			"url": "https://olympusbiblioteca.com/series/comic-el-villano-de-mirada-cortante-de-la-academia-demoniaca-20251006-080942283",
 			"date_published": "2025-10-06T01:08:20.081Z"
 		},
 		{
@@ -71,7 +89,7 @@
 		{
 			"id": "Instructor Estelar Maestro Baek [Capítulo 142]",
 			"title": "Instructor Estelar Maestro Baek [Capítulo 142]",
-			"url": "https://olympusbiblioteca.com/series/comic-instructor-estelar-maestro-baek-20251005-080515700",
+			"url": "https://olympusbiblioteca.com/series/comic-instructor-estelar-maestro-baek-20251006-080750104",
 			"date_published": "2025-10-06T01:08:20.081Z"
 		},
 		{
@@ -89,7 +107,7 @@
 		{
 			"id": "Item Chetado [Capítulo 149]",
 			"title": "Item Chetado [Capítulo 149]",
-			"url": "https://olympusbiblioteca.com/series/comic-item-chetado-20251005-080835172",
+			"url": "https://olympusbiblioteca.com/series/comic-item-chetado-20251006-081109459",
 			"date_published": "2025-10-06T01:08:20.081Z"
 		},
 		{
@@ -101,7 +119,7 @@
 		{
 			"id": "Rey Demonio [Capítulo 70]",
 			"title": "Rey Demonio [Capítulo 70]",
-			"url": "https://olympusbiblioteca.com/series/comic-rey-demonio-20251005-080412648",
+			"url": "https://olympusbiblioteca.com/series/comic-rey-demonio-20251006-080648754",
 			"date_published": "2025-10-06T01:08:20.081Z"
 		},
 		{
@@ -119,7 +137,7 @@
 		{
 			"id": "El soberano del hogar [Capítulo 50]",
 			"title": "El soberano del hogar [Capítulo 50]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-soberano-del-hogar-20251005-080600395",
+			"url": "https://olympusbiblioteca.com/series/comic-el-soberano-del-hogar-20251006-080835052",
 			"date_published": "2025-10-05T22:13:31.663Z"
 		},
 		{
@@ -131,7 +149,7 @@
 		{
 			"id": "Sistema de cultivo del demonio celestial [Capítulo 149]",
 			"title": "Sistema de cultivo del demonio celestial [Capítulo 149]",
-			"url": "https://olympusbiblioteca.com/series/comic-sistema-de-cultivo-del-demonio-celestial-20251005-080135287",
+			"url": "https://olympusbiblioteca.com/series/comic-sistema-de-cultivo-del-demonio-celestial-20251006-080409941",
 			"date_published": "2025-10-05T20:14:50.856Z"
 		},
 		{
@@ -143,7 +161,7 @@
 		{
 			"id": "*El asesino que retornó como el hijo del duque [Capítulo 95]",
 			"title": "*El asesino que retornó como el hijo del duque [Capítulo 95]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-que-retorno-como-el-hijo-del-duque-20251005-080305538",
+			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-que-retorno-como-el-hijo-del-duque-20251006-080541210",
 			"date_published": "2025-10-05T18:18:41.828Z"
 		},
 		{
@@ -161,13 +179,13 @@
 		{
 			"id": "*El jugador que no puede subir de nivel [Capítulo 207]",
 			"title": "*El jugador que no puede subir de nivel [Capítulo 207]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-jugador-que-no-puede-subir-de-nivel-20251005-081231833",
+			"url": "https://olympusbiblioteca.com/series/comic-el-jugador-que-no-puede-subir-de-nivel-20251006-081503906",
 			"date_published": "2025-10-05T16:15:36.202Z"
 		},
 		{
 			"id": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 139]",
 			"title": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 139]",
-			"url": "https://olympusbiblioteca.com/series/comic-cronicas-de-la-faccion-demoniaca-chun-hajin-el-asesino-mas-fuerte-20251005-081113098",
+			"url": "https://olympusbiblioteca.com/series/comic-cronicas-de-la-faccion-demoniaca-chun-hajin-el-asesino-mas-fuerte-20251006-081346249",
 			"date_published": "2025-10-05T16:15:36.201Z"
 		},
 		{
@@ -2982,24 +3000,6 @@
 			"id": "Regresión inútil [Capítulo 100]",
 			"title": "Regresión inútil [Capítulo 100]",
 			"url": "https://olympusbiblioteca.com/series/comic-regresi10-05-2025on-inutil",
-			"date_published": "2025-09-21T01:13:29.708Z"
-		},
-		{
-			"id": "Mago devorador de dragones [Capítulo 106]",
-			"title": "Mago devorador de dragones [Capítulo 106]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago20-225-r-de-11251151515",
-			"date_published": "2025-09-21T01:13:29.708Z"
-		},
-		{
-			"id": "Iniciando sesión en 10,000 años en el futuro [Capítulo 256]",
-			"title": "Iniciando sesión en 10,000 años en el futuro [Capítulo 256]",
-			"url": "https://olympusbiblioteca.com/series/comic-isecaikr20-225-arochino13424",
-			"date_published": "2025-09-21T01:13:29.708Z"
-		},
-		{
-			"id": "Genio del Linaje único [Capítulo 131]",
-			"title": "Genio del Linaje único [Capítulo 131]",
-			"url": "https://olympusbiblioteca.com/series/comic-genio-del-linaje-unico-20250921-081653584",
 			"date_published": "2025-09-21T01:13:29.708Z"
 		}
 	]
