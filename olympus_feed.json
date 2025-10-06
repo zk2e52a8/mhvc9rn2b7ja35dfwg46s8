@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Asesino de Dragones [Capítulo 167]",
+			"title": "Asesino de Dragones [Capítulo 167]",
+			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-dragones-20251005-080932599",
+			"date_published": "2025-10-06T10:17:24.326Z"
+		},
+		{
 			"id": "La 31ma pieza revierte la situación [Capítulo 89]",
 			"title": "La 31ma pieza revierte la situación [Capítulo 89]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-3110-05-2025-la-situacion5313424",
@@ -2995,12 +3001,6 @@
 			"title": "Genio del Linaje único [Capítulo 131]",
 			"url": "https://olympusbiblioteca.com/series/comic-genio-del-linaje-unico-20250921-081653584",
 			"date_published": "2025-09-21T01:13:29.708Z"
-		},
-		{
-			"id": "cultivador del dao bizarro [Capítulo 54]",
-			"title": "cultivador del dao bizarro [Capítulo 54]",
-			"url": "https://olympusbiblioteca.com/series/comic-cultiva5zxzdor-del-dao-bizarro",
-			"date_published": "2025-09-20T22:12:43.068Z"
 		}
 	]
 }
