@@ -3,9 +3,15 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cerberus [Capítulo 8]",
+			"title": "Cerberus [Capítulo 8]",
+			"url": "https://olympusbiblioteca.com/series/comic-cerberus",
+			"date_published": "2025-10-08T12:31:26.546Z"
+		},
+		{
 			"id": "El Regreso Del Genio De Las Artes Marciales [Capítulo 112.05]",
 			"title": "El Regreso Del Genio De Las Artes Marciales [Capítulo 112.05]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-genio-de-las-artes-marciales-20251007-080130596",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-genio-de-las-artes-marciales-20251008-080129933",
 			"date_published": "2025-10-08T10:15:53.467Z"
 		},
 		{
@@ -35,7 +41,7 @@
 		{
 			"id": "Yo mate al jugador de la Academia [Capítulo 92]",
 			"title": "Yo mate al jugador de la Academia [Capítulo 92]",
-			"url": "https://olympusbiblioteca.com/series/comic-yo-mate-al-jugador-de-la-academia-20251007-080311185",
+			"url": "https://olympusbiblioteca.com/series/comic-yo-mate-al-jugador-de-la-academia-20251008-080309332",
 			"date_published": "2025-10-08T02:54:38.287Z"
 		},
 		{
@@ -47,7 +53,7 @@
 		{
 			"id": "Academia de la Ascensión [Capítulo 175]",
 			"title": "Academia de la Ascensión [Capítulo 175]",
-			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20251007-080237540",
+			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20251008-080236645",
 			"date_published": "2025-10-08T01:06:37.619Z"
 		},
 		{
@@ -65,7 +71,7 @@
 		{
 			"id": "El príncipe heredero que vende medicina [Capítulo 81]",
 			"title": "El príncipe heredero que vende medicina [Capítulo 81]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-principe-heredero-que-vende-medicina-20251007-080333801",
+			"url": "https://olympusbiblioteca.com/series/comic-el-principe-heredero-que-vende-medicina-20251008-080331475",
 			"date_published": "2025-10-07T20:16:01.977Z"
 		},
 		{
@@ -77,7 +83,7 @@
 		{
 			"id": "Roman demonio [Capítulo 166]",
 			"title": "Roman demonio [Capítulo 166]",
-			"url": "https://olympusbiblioteca.com/series/comic-roman-demonio-20251007-081223188",
+			"url": "https://olympusbiblioteca.com/series/comic-roman-demonio-20251008-081217828",
 			"date_published": "2025-10-07T18:22:25.058Z"
 		},
 		{
@@ -125,7 +131,7 @@
 		{
 			"id": "Rayito [Capítulo 371]",
 			"title": "Rayito [Capítulo 371]",
-			"url": "https://olympusbiblioteca.com/series/comic-rayito-20251007-081335969",
+			"url": "https://olympusbiblioteca.com/series/comic-rayito-20251008-081330627",
 			"date_published": "2025-10-07T16:18:53.306Z"
 		},
 		{
@@ -161,13 +167,13 @@
 		{
 			"id": "La gran Guerra [Capítulo 51]",
 			"title": "La gran Guerra [Capítulo 51]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-gran-guerra-20251007-080606235",
+			"url": "https://olympusbiblioteca.com/series/comic-la-gran-guerra-20251008-080603359",
 			"date_published": "2025-10-07T14:15:47.213Z"
 		},
 		{
 			"id": "La noche del goblin [Capítulo 113]",
 			"title": "La noche del goblin [Capítulo 113]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin-20251007-081415943",
+			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin-20251008-081409723",
 			"date_published": "2025-10-07T02:54:50.590Z"
 		},
 		{
@@ -185,7 +191,7 @@
 		{
 			"id": "El hombre más guapo se convirtió en esqueleto [Capítulo 58]",
 			"title": "El hombre más guapo se convirtió en esqueleto [Capítulo 58]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto-20251007-080725901",
+			"url": "https://olympusbiblioteca.com/series/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto-20251008-080721367",
 			"date_published": "2025-10-07T01:06:55.481Z"
 		},
 		{
@@ -2994,12 +3000,6 @@
 			"id": "El Regreso del Espadachín Oscuro [Capítulo 16]",
 			"title": "El Regreso del Espadachín Oscuro [Capítulo 16]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
-			"date_published": "2025-09-22T18:21:13.743Z"
-		},
-		{
-			"id": "Regresión absoluta [Capítulo 67]",
-			"title": "Regresión absoluta [Capítulo 67]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta-20250923-080509267",
 			"date_published": "2025-09-22T18:21:13.743Z"
 		}
 	]
