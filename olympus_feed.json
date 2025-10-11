@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cerberus [Capítulo 9]",
+			"title": "Cerberus [Capítulo 9]",
+			"url": "https://olympusbiblioteca.com/series/comic-cerberus",
+			"date_published": "2025-10-11T04:17:14.702Z"
+		},
+		{
+			"id": "Roman demonio [Capítulo 167]",
+			"title": "Roman demonio [Capítulo 167]",
+			"url": "https://olympusbiblioteca.com/series/comic-roman-demonio-20251010-081454744",
+			"date_published": "2025-10-11T04:17:14.701Z"
+		},
+		{
 			"id": "Emperador magico (magic emperor) [Capítulo 765]",
 			"title": "Emperador magico (magic emperor) [Capítulo 765]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
@@ -2989,18 +3001,6 @@
 			"title": "El Sentido Absoluto de las Espadas [Capítulo 148]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-sentido-absoluto-de-las-espadas-20250926-080416422",
 			"date_published": "2025-09-25T14:15:41.862Z"
-		},
-		{
-			"id": "Tower Crush [Capítulo 144]",
-			"title": "Tower Crush [Capítulo 144]",
-			"url": "https://olympusbiblioteca.com/series/comic-tower-crush-20250925-080941338",
-			"date_published": "2025-09-25T10:16:18.649Z"
-		},
-		{
-			"id": "Come y crece [Capítulo 24]",
-			"title": "Come y crece [Capítulo 24]",
-			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20250926-081542423",
-			"date_published": "2025-09-25T08:21:36.318Z"
 		}
 	]
 }
