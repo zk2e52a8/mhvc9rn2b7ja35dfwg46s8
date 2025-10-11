@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El renacimiento del Demonio Divino [Capítulo 10]",
+			"title": "El renacimiento del Demonio Divino [Capítulo 10]",
+			"url": "https://olympusbiblioteca.com/series/comic-1el-renacimiento-del-demonio-divino",
+			"date_published": "2025-10-11T18:17:40.579Z"
+		},
+		{
+			"id": "El gran demonio celestial soberano [Capítulo 22]",
+			"title": "El gran demonio celestial soberano [Capítulo 22]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-gran-demonio-celestial-soberano",
+			"date_published": "2025-10-11T18:17:40.579Z"
+		},
+		{
+			"id": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 67]",
+			"title": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 67]",
+			"url": "https://olympusbiblioteca.com/series/comic-evolucion-marcial-comienza-por-despertar-al-rey-de-los-monstruos",
+			"date_published": "2025-10-11T18:17:40.579Z"
+		},
+		{
+			"id": "Voy a Aniquilar Esta Tierra [Capítulo 56]",
+			"title": "Voy a Aniquilar Esta Tierra [Capítulo 56]",
+			"url": "https://olympusbiblioteca.com/series/comic-voy-a-an10-05-2025-tierra",
+			"date_published": "2025-10-11T18:17:40.579Z"
+		},
+		{
+			"id": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 24]",
+			"title": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 24]",
+			"url": "https://olympusbiblioteca.com/series/comic-me-converti-en-el-villano-con-el-que-la-heroina-esta-obsesionada",
+			"date_published": "2025-10-11T18:17:40.578Z"
+		},
+		{
 			"id": "El Asesino Yu Ijin [Capítulo 258.5]",
 			"title": "El Asesino Yu Ijin [Capítulo 258.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-yu-ijin-20251011-080728574",
@@ -2971,36 +3001,6 @@
 			"title": "Comienza con una montaña [Capítulo 1149]",
 			"url": "https://olympusbiblioteca.com/series/comic-montan10-05-2025ita13424",
 			"date_published": "2025-09-25T20:17:14.906Z"
-		},
-		{
-			"id": "Construyendo un imperio industrial en un mundo mágico [Capítulo 53]",
-			"title": "Construyendo un imperio industrial en un mundo mágico [Capítulo 53]",
-			"url": "https://olympusbiblioteca.com/series/comic-construye10-05-2025en-un-mundo-magico",
-			"date_published": "2025-09-25T18:22:05.864Z"
-		},
-		{
-			"id": "La vida escolar del líder de la tierra [Capítulo 20]",
-			"title": "La vida escolar del líder de la tierra [Capítulo 20]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-vida-escolar-del-lider-de-la-tierra",
-			"date_published": "2025-09-25T18:22:05.864Z"
-		},
-		{
-			"id": "Nueva Cara [Capítulo 574]",
-			"title": "Nueva Cara [Capítulo 574]",
-			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20250926-081216819",
-			"date_published": "2025-09-25T18:22:05.864Z"
-		},
-		{
-			"id": "Loco Frontera [Capítulo 210.05]",
-			"title": "Loco Frontera [Capítulo 210.05]",
-			"url": "https://olympusbiblioteca.com/series/comic-loco-frontera-20250926-081233467",
-			"date_published": "2025-09-25T18:22:05.864Z"
-		},
-		{
-			"id": "Espada de la inquisición celestial [Capítulo 136]",
-			"title": "Espada de la inquisición celestial [Capítulo 136]",
-			"url": "https://olympusbiblioteca.com/series/comic-inquisic20-225-ion-celestia13424",
-			"date_published": "2025-09-25T16:18:34.864Z"
 		}
 	]
 }
