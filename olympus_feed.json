@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Espada de la inquisición celestial [Capítulo 138]",
+			"title": "Espada de la inquisición celestial [Capítulo 138]",
+			"url": "https://olympusbiblioteca.com/series/comic-inquisic20-225-ion-celestia13424",
+			"date_published": "2025-10-11T22:13:26.455Z"
+		},
+		{
+			"id": "El Arquitecto de mazmorras [Capítulo 51]",
+			"title": "El Arquitecto de mazmorras [Capítulo 51]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-arquite5zxzorras",
+			"date_published": "2025-10-11T22:13:26.455Z"
+		},
+		{
+			"id": "No soy esa clase de talento [Capítulo 103]",
+			"title": "No soy esa clase de talento [Capítulo 103]",
+			"url": "https://olympusbiblioteca.com/series/comic-no-soy-esa-clase-de-talento-20251011-081100641",
+			"date_published": "2025-10-11T22:13:26.455Z"
+		},
+		{
 			"id": "El hombre mas fuerte del manicomio [Capítulo 364]",
 			"title": "El hombre mas fuerte del manicomio [Capítulo 364]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-hom10-05-2025el-manicomio13424",
@@ -2983,24 +3001,6 @@
 			"title": "Restaurante del mago [Capítulo 101]",
 			"url": "https://olympusbiblioteca.com/series/comic-restaurante-del-mago-20250926-080533861",
 			"date_published": "2025-09-25T22:12:40.294Z"
-		},
-		{
-			"id": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 117]",
-			"title": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 117]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-prodigioso-caballero-oscuro-con-tiempo-limitado-20250926-081420007",
-			"date_published": "2025-09-25T22:12:40.294Z"
-		},
-		{
-			"id": "El Regreso Del Genio De Las Artes Marciales [Capítulo 112]",
-			"title": "El Regreso Del Genio De Las Artes Marciales [Capítulo 112]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-genio-de-las-artes-marciales-20250926-080246477",
-			"date_published": "2025-09-25T22:12:40.294Z"
-		},
-		{
-			"id": "Manual de instrucciones del Reencarnado [Capítulo 155]",
-			"title": "Manual de instrucciones del Reencarnado [Capítulo 155]",
-			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado",
-			"date_published": "2025-09-25T20:17:14.906Z"
 		}
 	]
 }
