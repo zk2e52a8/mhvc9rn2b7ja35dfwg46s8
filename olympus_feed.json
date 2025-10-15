@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Regresión absoluta [Capítulo 70]",
+			"title": "Regresión absoluta [Capítulo 70]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta-20251015-080703074",
+			"date_published": "2025-10-15T18:22:38.692Z"
+		},
+		{
+			"id": "Manual de instrucciones del Reencarnado [Capítulo 158]",
+			"title": "Manual de instrucciones del Reencarnado [Capítulo 158]",
+			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado",
+			"date_published": "2025-10-15T18:22:38.692Z"
+		},
+		{
+			"id": "El Asesino de la Luna a la Deriva [Capítulo 109]",
+			"title": "El Asesino de la Luna a la Deriva [Capítulo 109]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-asesino20-225-de-la-luna-a-la-deriva13424",
+			"date_published": "2025-10-15T18:22:38.692Z"
+		},
+		{
 			"id": "Solo Leveling: Ragnarok [Capítulo 59]",
 			"title": "Solo Leveling: Ragnarok [Capítulo 59]",
 			"url": "https://olympusbiblioteca.com/series/comic-27-02-20-225-eling456456",
@@ -2983,24 +3001,6 @@
 			"title": "el pasado oculto del jugador [Capítulo 89]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-pasado-oculto-del-jugador-20250930-081607710",
 			"date_published": "2025-09-29T14:16:04.420Z"
-		},
-		{
-			"id": "La noche del goblin [Capítulo 112]",
-			"title": "La noche del goblin [Capítulo 112]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin-20250929-081700467",
-			"date_published": "2025-09-29T08:22:08.948Z"
-		},
-		{
-			"id": "Super humanos [Capítulo 205]",
-			"title": "Super humanos [Capítulo 205]",
-			"url": "https://olympusbiblioteca.com/series/comic-super-humanos-20250929-080856665",
-			"date_published": "2025-09-29T04:18:42.373Z"
-		},
-		{
-			"id": "El Genio entrenador de artes marciales [Capítulo 82]",
-			"title": "El Genio entrenador de artes marciales [Capítulo 82]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-genio-entrenador-de-artes-marciales-20250929-080755294",
-			"date_published": "2025-09-29T04:18:42.373Z"
 		}
 	]
 }
