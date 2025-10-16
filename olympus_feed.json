@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Los Breakers [Capítulo 21]",
+			"title": "Los Breakers [Capítulo 21]",
+			"url": "https://olympusbiblioteca.com/series/comic-los-breakers",
+			"date_published": "2025-10-16T16:19:42.570Z"
+		},
+		{
+			"id": "Sin fin skills [Capítulo 228]",
+			"title": "Sin fin skills [Capítulo 228]",
+			"url": "https://olympusbiblioteca.com/series/comic-sin-fin-skills-20251016-081135930",
+			"date_published": "2025-10-16T16:19:42.570Z"
+		},
+		{
 			"id": "Torre de Dios : Urek Mazino [Capítulo 32]",
 			"title": "Torre de Dios : Urek Mazino [Capítulo 32]",
 			"url": "https://olympusbiblioteca.com/series/comic-torre-de-dios-urek-mazino-20251016-081030511",
@@ -2989,18 +3001,6 @@
 			"title": "Actuando como el villano de ojos de zorro Perfecto [Capítulo 33]",
 			"url": "https://olympusbiblioteca.com/series/comic-actuando-como-el-villano-de-ojos-de-zorro-perfecto-20251002-080902471",
 			"date_published": "2025-09-29T22:13:27.098Z"
-		},
-		{
-			"id": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 91]",
-			"title": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 91]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-caotico-de-fuerza-extraordinaria-20250930-080715784",
-			"date_published": "2025-09-29T20:15:21.248Z"
-		},
-		{
-			"id": "Reencarnado [Capítulo 100]",
-			"title": "Reencarnado [Capítulo 100]",
-			"url": "https://olympusbiblioteca.com/series/comic-reencarnado-20250929-080637660",
-			"date_published": "2025-09-29T20:15:21.248Z"
 		}
 	]
 }
