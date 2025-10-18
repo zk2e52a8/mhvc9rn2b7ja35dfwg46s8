@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 352]",
+			"title": "Soldado Esqueleto [Capítulo 352]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20251017-081145025",
+			"date_published": "2025-10-18T06:20:18.026Z"
+		},
+		{
 			"id": "Caballero en Eterna Regresión [Capítulo 80]",
 			"title": "Caballero en Eterna Regresión [Capítulo 80]",
 			"url": "https://olympusbiblioteca.com/series/comic-caballero-en-eterna-regresion-20251017-080618352",
@@ -2994,12 +3000,6 @@
 			"id": "El Herrero Genio del Juego [Capítulo 19]",
 			"title": "El Herrero Genio del Juego [Capítulo 19]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-genio-del-juego",
-			"date_published": "2025-10-01T18:20:55.583Z"
-		},
-		{
-			"id": "Monarca De las Sombras [Capítulo 25]",
-			"title": "Monarca De las Sombras [Capítulo 25]",
-			"url": "https://olympusbiblioteca.com/series/comic-monarca-de-las-sombras",
 			"date_published": "2025-10-01T18:20:55.583Z"
 		}
 	]
