@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Chetado (Overgeared) [Capítulo 297]",
+			"title": "El Chetado (Overgeared) [Capítulo 297]",
+			"url": "https://olympusbiblioteca.com/series/comic-27-220-225-565464565465",
+			"date_published": "2025-10-19T22:13:58.579Z"
+		},
+		{
+			"id": "El Novato es Muy Fuerte [Capítulo 152]",
+			"title": "El Novato es Muy Fuerte [Capítulo 152]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-no20-225-erte13424142124",
+			"date_published": "2025-10-19T22:13:58.579Z"
+		},
+		{
+			"id": "El Mago Genio Destructor de Límites [Capítulo 31]",
+			"title": "El Mago Genio Destructor de Límites [Capítulo 31]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20251019-081629701",
+			"date_published": "2025-10-19T22:13:58.579Z"
+		},
+		{
+			"id": "El Guerrero Escolta Reencarnado [Capítulo 115]",
+			"title": "El Guerrero Escolta Reencarnado [Capítulo 115]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-gu10-05-2025encarnado",
+			"date_published": "2025-10-19T22:13:58.579Z"
+		},
+		{
 			"id": "El Devoto Caballero [Capítulo 134]",
 			"title": "El Devoto Caballero [Capítulo 134]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-devoto-caballero-20251019-081511722",
@@ -2977,30 +3001,6 @@
 			"title": "El heroe de nivel legendario prodigio de la academia. [Capítulo 50.10]",
 			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025rio-prodigio-de-la-academia",
 			"date_published": "2025-10-03T14:14:32.380Z"
-		},
-		{
-			"id": "El Guerrero Escolta Reencarnado [Capítulo 114]",
-			"title": "El Guerrero Escolta Reencarnado [Capítulo 114]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-gu10-05-2025encarnado",
-			"date_published": "2025-10-03T14:14:32.380Z"
-		},
-		{
-			"id": "Sepulturero de monstruos [Capítulo 16]",
-			"title": "Sepulturero de monstruos [Capítulo 16]",
-			"url": "https://olympusbiblioteca.com/series/comic-sepulturero-de-monstruos",
-			"date_published": "2025-10-03T12:29:44.685Z"
-		},
-		{
-			"id": "Chamán del dinero [Capítulo 11]",
-			"title": "Chamán del dinero [Capítulo 11]",
-			"url": "https://olympusbiblioteca.com/series/comic-chaman-del-dinero",
-			"date_published": "2025-10-03T12:29:44.685Z"
-		},
-		{
-			"id": "No soy esa clase de talento [Capítulo 102]",
-			"title": "No soy esa clase de talento [Capítulo 102]",
-			"url": "https://olympusbiblioteca.com/series/comic-no-soy-esa-clase-de-talento-20251003-080950320",
-			"date_published": "2025-10-03T12:29:44.685Z"
 		}
 	]
 }
