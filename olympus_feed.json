@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Loco Murim [Capítulo 174]",
+			"title": "Loco Murim [Capítulo 174]",
+			"url": "https://olympusbiblioteca.com/series/comic-loco-murim-20251022-080541557",
+			"date_published": "2025-10-22T20:18:58.205Z"
+		},
+		{
+			"id": "El Asesino de la Luna a la Deriva [Capítulo 110]",
+			"title": "El Asesino de la Luna a la Deriva [Capítulo 110]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-asesino20-225-de-la-luna-a-la-deriva13424",
+			"date_published": "2025-10-22T20:18:58.205Z"
+		},
+		{
+			"id": "El Guerrero Escolta Reencarnado [Capítulo 116]",
+			"title": "El Guerrero Escolta Reencarnado [Capítulo 116]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-gu10-05-2025encarnado",
+			"date_published": "2025-10-22T20:18:58.205Z"
+		},
+		{
 			"id": "El Héroe Regresa a la Academia [Capítulo 28]",
 			"title": "El Héroe Regresa a la Academia [Capítulo 28]",
 			"url": "https://olympusbiblioteca.com/series/comic-5zxzsa-a-la-academia",
@@ -2983,24 +3001,6 @@
 			"title": "Rey Demonio [Capítulo 69]",
 			"url": "https://olympusbiblioteca.com/series/comic-rey-demonio-20251005-080412648",
 			"date_published": "2025-10-05T14:12:16.911Z"
-		},
-		{
-			"id": "Renacido en el Campo de Batalla Demoníaco [Capítulo 9]",
-			"title": "Renacido en el Campo de Batalla Demoníaco [Capítulo 9]",
-			"url": "https://olympusbiblioteca.com/series/comic-renacido-en-el-campo-de-batalla-demoniaco",
-			"date_published": "2025-10-05T08:16:52.288Z"
-		},
-		{
-			"id": "Odisea en la Mazmorra [Capítulo 130]",
-			"title": "Odisea en la Mazmorra [Capítulo 130]",
-			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
-			"date_published": "2025-10-05T04:16:49.596Z"
-		},
-		{
-			"id": "Civilización Nebula [Capítulo 110]",
-			"title": "Civilización Nebula [Capítulo 110]",
-			"url": "https://olympusbiblioteca.com/series/comic-civilizacion-nebula-20251005-080227039",
-			"date_published": "2025-10-05T03:05:03.436Z"
 		}
 	]
 }
