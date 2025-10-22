@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El regreso del héroe de clase: Desastre [Capítulo 149]",
+			"title": "El regreso del héroe de clase: Desastre [Capítulo 149]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-cl20-225-ase-desastre13424",
+			"date_published": "2025-10-22T14:17:27.185Z"
+		},
+		{
+			"id": "Realmente no quiero renacer [Capítulo 454]",
+			"title": "Realmente no quiero renacer [Capítulo 454]",
+			"url": "https://olympusbiblioteca.com/series/comic-otra-serie-chin10-05-2025encarnacion",
+			"date_published": "2025-10-22T14:17:27.185Z"
+		},
+		{
+			"id": "*Mago Oscuro (Black Haze remake) [Capítulo 45]",
+			"title": "*Mago Oscuro (Black Haze remake) [Capítulo 45]",
+			"url": "https://olympusbiblioteca.com/series/comic-mago-5zxz-remake",
+			"date_published": "2025-10-22T14:17:27.185Z"
+		},
+		{
 			"id": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 94.05]",
 			"title": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 94.05]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-dios-caotico-de-fuerza-extraordinaria-20251022-080815980",
@@ -2983,24 +3001,6 @@
 			"title": "Regresión inútil [Capítulo 101]",
 			"url": "https://olympusbiblioteca.com/series/comic-regresi10-05-2025on-inutil",
 			"date_published": "2025-10-05T03:05:03.436Z"
-		},
-		{
-			"id": "El enfermo terminal joven maestro Baek [Capítulo 78]",
-			"title": "El enfermo terminal joven maestro Baek [Capítulo 78]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-enfermo-terminal-joven-maestro-baek-20251005-080027580",
-			"date_published": "2025-10-05T03:05:03.436Z"
-		},
-		{
-			"id": "El retorno del mago oscuro del alistamiento [Capítulo 51]",
-			"title": "El retorno del mago oscuro del alistamiento [Capítulo 51]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-retorno-del-mago-oscuro-del-alistamiento-20251004-081147750",
-			"date_published": "2025-10-05T01:13:12.566Z"
-		},
-		{
-			"id": "El Troll más fuerte del mundo [Capítulo 150]",
-			"title": "El Troll más fuerte del mundo [Capítulo 150]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-troll-mas-fuerte-del-mundo-20251005-080209586",
-			"date_published": "2025-10-05T01:13:12.566Z"
 		}
 	]
 }
