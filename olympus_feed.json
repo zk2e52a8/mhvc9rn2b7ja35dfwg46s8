@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Sangre Maldita [Capítulo 59]",
+			"title": "Sangre Maldita [Capítulo 59]",
+			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20251023-081016890",
+			"date_published": "2025-10-23T22:14:07.263Z"
+		},
+		{
+			"id": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 185]",
+			"title": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 185]",
+			"url": "https://olympusbiblioteca.com/series/comic-llevo-mil-anos-atrapado-en-el-mismo-dia",
+			"date_published": "2025-10-23T22:14:07.263Z"
+		},
+		{
+			"id": "Sobreviviendo como un genio con tiempo prestado [Capítulo 53]",
+			"title": "Sobreviviendo como un genio con tiempo prestado [Capítulo 53]",
+			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-como-un-genio-con-tiempo-prestado-20251023-080958797",
+			"date_published": "2025-10-23T22:14:07.263Z"
+		},
+		{
 			"id": "El Señor de Hielo [Capítulo 47]",
 			"title": "El Señor de Hielo [Capítulo 47]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20251023-081153059",
@@ -2983,24 +3001,6 @@
 			"title": "El poema de un corazón palpitante. [Capítulo 26]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-poema-de-un-corazon-palpitante",
 			"date_published": "2025-10-06T04:17:57.774Z"
-		},
-		{
-			"id": "La regresión del eunuco para recuperar su hombría [Capítulo 53]",
-			"title": "La regresión del eunuco para recuperar su hombría [Capítulo 53]",
-			"url": "https://olympusbiblioteca.com/series/comic-06-03-205zxz255320254zsz",
-			"date_published": "2025-10-06T02:58:42.617Z"
-		},
-		{
-			"id": "Amigo de la Infancia del Zenit [Capítulo 75]",
-			"title": "Amigo de la Infancia del Zenit [Capítulo 75]",
-			"url": "https://olympusbiblioteca.com/series/comic-amigo-de20-225-e-zenith",
-			"date_published": "2025-10-06T02:58:42.617Z"
-		},
-		{
-			"id": "El Genio entrenador de artes marciales [Capítulo 83]",
-			"title": "El Genio entrenador de artes marciales [Capítulo 83]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-genio-entrenador-de-artes-marciales-20251007-080510271",
-			"date_published": "2025-10-06T02:58:42.616Z"
 		}
 	]
 }
