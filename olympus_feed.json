@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El bastardo devorador de armas. [Capítulo 56]",
+			"title": "El bastardo devorador de armas. [Capítulo 56]",
+			"url": "https://olympusbiblioteca.com/series/comic-o5324evorador-de-armas",
+			"date_published": "2025-10-25T08:17:49.397Z"
+		},
+		{
 			"id": "El Perro Loco de la Mansión del Duque [Capítulo 27]",
 			"title": "El Perro Loco de la Mansión del Duque [Capítulo 27]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-perro-loco-de-la-mansion-del-duque",
@@ -2995,12 +3001,6 @@
 			"title": "Academia de la Ascensión [Capítulo 175]",
 			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20251008-080236645",
 			"date_published": "2025-10-08T01:06:37.619Z"
-		},
-		{
-			"id": "Artes Marciales Globales [Capítulo 313]",
-			"title": "Artes Marciales Globales [Capítulo 313]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-m10-05-2025en-de-las-peleas",
-			"date_published": "2025-10-07T22:14:13.394Z"
 		}
 	]
 }
