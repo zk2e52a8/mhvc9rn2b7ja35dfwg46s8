@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "No soy esa clase de talento [Capítulo 105]",
+			"title": "No soy esa clase de talento [Capítulo 105]",
+			"url": "https://olympusbiblioteca.com/series/comic-no-soy-esa-clase-de-talento-20251025-081105744",
+			"date_published": "2025-10-26T04:20:01.529Z"
+		},
+		{
+			"id": "Soldado Esqueleto [Capítulo 353]",
+			"title": "Soldado Esqueleto [Capítulo 353]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20251025-081139521",
+			"date_published": "2025-10-26T04:20:01.529Z"
+		},
+		{
+			"id": "Regresé, Pero El Mundo No Terminó. [Capítulo 38]",
+			"title": "Regresé, Pero El Mundo No Terminó. [Capítulo 38]",
+			"url": "https://olympusbiblioteca.com/series/comic-regrese-pero-el-mundo-no-termino",
+			"date_published": "2025-10-26T04:20:01.529Z"
+		},
+		{
 			"id": "El gran demonio celestial soberano [Capítulo 24]",
 			"title": "El gran demonio celestial soberano [Capítulo 24]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-gran-demonio-celestial-soberano",
@@ -2983,24 +3001,6 @@
 			"title": "Acampando en otro Mundo: buscandole el sazon a la vida [Capítulo 78]",
 			"url": "https://olympusbiblioteca.com/series/comic-06-05-20210-05-202555030320254",
 			"date_published": "2025-10-09T01:07:34.532Z"
-		},
-		{
-			"id": "La luz de Arad: Aquel que camina primero [Capítulo 68]",
-			"title": "La luz de Arad: Aquel que camina primero [Capítulo 68]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-luz-de-arad-aquel-que-camina-primero-20251009-080501506",
-			"date_published": "2025-10-08T22:14:05.805Z"
-		},
-		{
-			"id": "Soy el Rey de los Virus [Capítulo 81]",
-			"title": "Soy el Rey de los Virus [Capítulo 81]",
-			"url": "https://olympusbiblioteca.com/series/comic-soy-el-rey-de-los-virus14314",
-			"date_published": "2025-10-08T22:14:05.805Z"
-		},
-		{
-			"id": "Los gemelos Baek [Capítulo 144]",
-			"title": "Los gemelos Baek [Capítulo 144]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-gemelos-baek-20251009-081206809",
-			"date_published": "2025-10-08T22:14:05.805Z"
 		}
 	]
 }
