@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Jugador de nivel máximo [Capítulo 122]",
+			"title": "Jugador de nivel máximo [Capítulo 122]",
+			"url": "https://olympusbiblioteca.com/series/comic-jug20-225-olympus513424",
+			"date_published": "2025-10-27T08:23:44.810Z"
+		},
+		{
 			"id": "Odisea en la Mazmorra [Capítulo 133]",
 			"title": "Odisea en la Mazmorra [Capítulo 133]",
 			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
@@ -2995,12 +3001,6 @@
 			"title": "Regreso del ranker de clase SSS [Capítulo 160]",
 			"url": "https://olympusbiblioteca.com/series/comic-regr20-225-eso-del-ranker-de-clase-ss13424",
 			"date_published": "2025-10-10T02:58:18.478Z"
-		},
-		{
-			"id": "Emperador magico (magic emperor) [Capítulo 764]",
-			"title": "Emperador magico (magic emperor) [Capítulo 764]",
-			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
-			"date_published": "2025-10-10T01:07:36.453Z"
 		}
 	]
 }
