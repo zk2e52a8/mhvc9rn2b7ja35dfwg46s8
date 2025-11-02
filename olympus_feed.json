@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Loco Murim [Capítulo 175]",
+			"title": "Loco Murim [Capítulo 175]",
+			"url": "https://olympusbiblioteca.com/series/comic-loco-murim-20251101-080323618",
+			"date_published": "2025-11-02T06:21:42.115Z"
+		},
+		{
+			"id": "Regresé con el poder del Rey [Capítulo 115]",
+			"title": "Regresé con el poder del Rey [Capítulo 115]",
+			"url": "https://olympusbiblioteca.com/series/comic-regrese-con-el-poder-del-rey-20251101-080421116",
+			"date_published": "2025-11-02T06:21:42.115Z"
+		},
+		{
+			"id": "El gran demonio celestial soberano [Capítulo 25]",
+			"title": "El gran demonio celestial soberano [Capítulo 25]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-gran-demonio-celestial-soberano",
+			"date_published": "2025-11-02T06:21:42.114Z"
+		},
+		{
+			"id": "Emperador magico (magic emperor) [Capítulo 775]",
+			"title": "Emperador magico (magic emperor) [Capítulo 775]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
+			"date_published": "2025-11-02T06:21:42.114Z"
+		},
+		{
 			"id": "Regresé con el poder del Rey [Capítulo 114]",
 			"title": "Regresé con el poder del Rey [Capítulo 114]",
 			"url": "https://olympusbiblioteca.com/series/comic-regrese-con-el-poder-del-rey-20251101-080421116",
@@ -2977,30 +3001,6 @@
 			"title": "Regresión absoluta [Capítulo 70]",
 			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta-20251016-080656801",
 			"date_published": "2025-10-15T18:22:38.692Z"
-		},
-		{
-			"id": "Manual de instrucciones del Reencarnado [Capítulo 158]",
-			"title": "Manual de instrucciones del Reencarnado [Capítulo 158]",
-			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado",
-			"date_published": "2025-10-15T18:22:38.692Z"
-		},
-		{
-			"id": "El Asesino de la Luna a la Deriva [Capítulo 109]",
-			"title": "El Asesino de la Luna a la Deriva [Capítulo 109]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino20-225-de-la-luna-a-la-deriva13424",
-			"date_published": "2025-10-15T18:22:38.692Z"
-		},
-		{
-			"id": "Solo Leveling: Ragnarok [Capítulo 59]",
-			"title": "Solo Leveling: Ragnarok [Capítulo 59]",
-			"url": "https://olympusbiblioteca.com/series/comic-27-02-20-225-eling456456",
-			"date_published": "2025-10-15T16:16:47.457Z"
-		},
-		{
-			"id": "Pick me up, Gacha Infinito [Capítulo 171]",
-			"title": "Pick me up, Gacha Infinito [Capítulo 171]",
-			"url": "https://olympusbiblioteca.com/series/comic-pick-me-up-gacha-infinito-20251016-081627629",
-			"date_published": "2025-10-15T16:16:47.457Z"
 		}
 	]
 }
