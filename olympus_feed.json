@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Genio del Linaje único [Capítulo 137]",
+			"title": "Genio del Linaje único [Capítulo 137]",
+			"url": "https://olympusbiblioteca.com/series/comic-genio-del-linaje-unico-20251102-081430863",
+			"date_published": "2025-11-02T18:18:58.057Z"
+		},
+		{
+			"id": "El Regreso del Maestro del Infierno [Capítulo 32]",
+			"title": "El Regreso del Maestro del Infierno [Capítulo 32]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-maestro-del-infierno",
+			"date_published": "2025-11-02T18:18:58.057Z"
+		},
+		{
+			"id": "La luz de Arad: Aquel que camina primero [Capítulo 77]",
+			"title": "La luz de Arad: Aquel que camina primero [Capítulo 77]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-luz-de-arad-aquel-que-camina-primero-20251102-080704487",
+			"date_published": "2025-11-02T18:18:58.057Z"
+		},
+		{
+			"id": "El guerrero despiadado [Capítulo 30]",
+			"title": "El guerrero despiadado [Capítulo 30]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado-20251102-081524267",
+			"date_published": "2025-11-02T18:18:58.057Z"
+		},
+		{
 			"id": "Odisea en la Mazmorra [Capítulo 134]",
 			"title": "Odisea en la Mazmorra [Capítulo 134]",
 			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
@@ -2977,30 +3001,6 @@
 			"title": "Torre de Dios : Urek Mazino [Capítulo 32]",
 			"url": "https://olympusbiblioteca.com/series/comic-torre-de-dios-urek-mazino-20251017-081012713",
 			"date_published": "2025-10-16T14:16:16.479Z"
-		},
-		{
-			"id": "Viviendo como un bárbaro en un mundo de fantasÍa [Capítulo 38]",
-			"title": "Viviendo como un bárbaro en un mundo de fantasÍa [Capítulo 38]",
-			"url": "https://olympusbiblioteca.com/series/comic-viviendo-como-un-barbaro-en-un-mundo-de-fantasia",
-			"date_published": "2025-10-16T14:16:16.479Z"
-		},
-		{
-			"id": "Academia de la Ascensión [Capítulo 177]",
-			"title": "Academia de la Ascensión [Capítulo 177]",
-			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20251017-080324544",
-			"date_published": "2025-10-16T14:16:16.479Z"
-		},
-		{
-			"id": "Restaurante del mago [Capítulo 104]",
-			"title": "Restaurante del mago [Capítulo 104]",
-			"url": "https://olympusbiblioteca.com/series/comic-restaurante-del-mago-20251017-080516923",
-			"date_published": "2025-10-16T06:23:14.309Z"
-		},
-		{
-			"id": "El Despiadado Demonio Celestial [Capítulo 282]",
-			"title": "El Despiadado Demonio Celestial [Capítulo 282]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-despiadado-demonio-celestial-20251017-081054423",
-			"date_published": "2025-10-16T04:17:59.818Z"
 		}
 	]
 }
