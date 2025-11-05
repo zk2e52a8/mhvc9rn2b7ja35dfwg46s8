@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 43]",
+			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 43]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
+			"date_published": "2025-11-05T01:13:05.467Z"
+		},
+		{
+			"id": "Cazador de destinos de clase F [Capítulo 108]",
+			"title": "Cazador de destinos de clase F [Capítulo 108]",
+			"url": "https://olympusbiblioteca.com/series/comic-cazador20-225-e-clase-13424",
+			"date_published": "2025-11-05T01:13:05.467Z"
+		},
+		{
+			"id": "Manual de instrucciones del Reencarnado [Capítulo 161]",
+			"title": "Manual de instrucciones del Reencarnado [Capítulo 161]",
+			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado",
+			"date_published": "2025-11-05T01:13:05.467Z"
+		},
+		{
+			"id": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 155]",
+			"title": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 155]",
+			"url": "https://olympusbiblioteca.com/series/comic-maestr10-05-2025ede-ser-el-hijo-sagrado5324",
+			"date_published": "2025-11-05T01:13:05.467Z"
+		},
+		{
 			"id": "el bully de bullies [Capítulo 160]",
 			"title": "el bully de bullies [Capítulo 160]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-bully-de-bullies-20251104-081026139",
@@ -2977,30 +3001,6 @@
 			"title": "El hijo menor del maestro de la espada [Capítulo 181]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-hijo20-225-de-la-espada13424",
 			"date_published": "2025-10-18T14:12:24.635Z"
-		},
-		{
-			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 134]",
-			"title": "Crónicas del Retorno del Dios Marcial [Capítulo 134]",
-			"url": "https://olympusbiblioteca.com/series/comic-cronica20-225-os-marcial13424",
-			"date_published": "2025-10-18T14:12:24.635Z"
-		},
-		{
-			"id": "El rey de la violencia [Capítulo 74]",
-			"title": "El rey de la violencia [Capítulo 74]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-de-la-violencia-20251019-080635041",
-			"date_published": "2025-10-18T14:12:24.635Z"
-		},
-		{
-			"id": "Regresé, Pero El Mundo No Terminó. [Capítulo 37]",
-			"title": "Regresé, Pero El Mundo No Terminó. [Capítulo 37]",
-			"url": "https://olympusbiblioteca.com/series/comic-regrese-pero-el-mundo-no-termino",
-			"date_published": "2025-10-18T12:27:20.051Z"
-		},
-		{
-			"id": "Chamán del dinero [Capítulo 13]",
-			"title": "Chamán del dinero [Capítulo 13]",
-			"url": "https://olympusbiblioteca.com/series/comic-chaman-del-dinero",
-			"date_published": "2025-10-18T12:27:20.050Z"
 		}
 	]
 }
