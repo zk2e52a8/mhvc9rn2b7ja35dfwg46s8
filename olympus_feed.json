@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Villano antihéroe [Capítulo 208]",
+			"title": "Villano antihéroe [Capítulo 208]",
+			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe-20251104-081314074",
+			"date_published": "2025-11-05T03:08:21.710Z"
+		},
+		{
+			"id": "El enfermo terminal joven maestro Baek [Capítulo 81]",
+			"title": "El enfermo terminal joven maestro Baek [Capítulo 81]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-enfermo-terminal-joven-maestro-baek-20251104-080309702",
+			"date_published": "2025-11-05T03:08:21.710Z"
+		},
+		{
+			"id": "Me vuelvo invencible al sorprender a otros [Capítulo 101]",
+			"title": "Me vuelvo invencible al sorprender a otros [Capítulo 101]",
+			"url": "https://olympusbiblioteca.com/series/comic-me-vuelvo-invencible-al-sorprender-a-otros",
+			"date_published": "2025-11-05T03:08:21.710Z"
+		},
+		{
 			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 43]",
 			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 43]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
@@ -2983,24 +3001,6 @@
 			"title": "El Extra es Demasiado Fuerte [Capítulo 105.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-baki-c20-225-oreano13424",
 			"date_published": "2025-10-18T16:16:24.298Z"
-		},
-		{
-			"id": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 25]",
-			"title": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 25]",
-			"url": "https://olympusbiblioteca.com/series/comic-me-converti-en-el-villano-con-el-que-la-heroina-esta-obsesionada",
-			"date_published": "2025-10-18T16:16:24.297Z"
-		},
-		{
-			"id": "El Blinker genio de la academia mágica [Capítulo 73]",
-			"title": "El Blinker genio de la academia mágica [Capítulo 73]",
-			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica",
-			"date_published": "2025-10-18T16:16:24.297Z"
-		},
-		{
-			"id": "El hijo menor del maestro de la espada [Capítulo 181]",
-			"title": "El hijo menor del maestro de la espada [Capítulo 181]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hijo20-225-de-la-espada13424",
-			"date_published": "2025-10-18T14:12:24.635Z"
 		}
 	]
 }
