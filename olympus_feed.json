@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Heroe, regresa [Capítulo 127]",
+			"title": "Heroe, regresa [Capítulo 127]",
+			"url": "https://olympusbiblioteca.com/series/comic-dragon-20-225-y-heroe13424",
+			"date_published": "2025-11-08T20:15:16.966Z"
+		},
+		{
+			"id": "Jugador de nivel máximo [Capítulo 124]",
+			"title": "Jugador de nivel máximo [Capítulo 124]",
+			"url": "https://olympusbiblioteca.com/series/comic-jug20-225-olympus513424",
+			"date_published": "2025-11-08T20:15:16.966Z"
+		},
+		{
+			"id": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 75]",
+			"title": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 75]",
+			"url": "https://olympusbiblioteca.com/series/comic-evolucion-marcial-comienza-por-despertar-al-rey-de-los-monstruos",
+			"date_published": "2025-11-08T20:15:16.966Z"
+		},
+		{
 			"id": "Heroe, regresa [Capítulo 126]",
 			"title": "Heroe, regresa [Capítulo 126]",
 			"url": "https://olympusbiblioteca.com/series/comic-dragon-20-225-y-heroe13424",
@@ -2983,24 +3001,6 @@
 			"title": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 94.05]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-dios-caotico-de-fuerza-extraordinaria-20251023-080737866",
 			"date_published": "2025-10-22T03:07:38.142Z"
-		},
-		{
-			"id": "El Regreso del Espadachín Oscuro [Capítulo 20]",
-			"title": "El Regreso del Espadachín Oscuro [Capítulo 20]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
-			"date_published": "2025-10-22T01:11:58.142Z"
-		},
-		{
-			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 41]",
-			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 41]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
-			"date_published": "2025-10-22T01:11:58.142Z"
-		},
-		{
-			"id": "Las conspiraciones del mercenario regresado [Capítulo 61]",
-			"title": "Las conspiraciones del mercenario regresado [Capítulo 61]",
-			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado-20251023-080941343",
-			"date_published": "2025-10-22T01:11:58.142Z"
 		}
 	]
 }
