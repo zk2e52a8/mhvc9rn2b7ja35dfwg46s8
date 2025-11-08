@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Heroe, regresa [Capítulo 123]",
+			"title": "Heroe, regresa [Capítulo 123]",
+			"url": "https://olympusbiblioteca.com/series/comic-dragon-20-225-y-heroe13424",
+			"date_published": "2025-11-08T16:17:14.701Z"
+		},
+		{
+			"id": "El Blinker genio de la academia mágica [Capítulo 76]",
+			"title": "El Blinker genio de la academia mágica [Capítulo 76]",
+			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica",
+			"date_published": "2025-11-08T16:17:14.701Z"
+		},
+		{
+			"id": "el pasado oculto del jugador [Capítulo 95]",
+			"title": "el pasado oculto del jugador [Capítulo 95]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-pasado-oculto-del-jugador-20251108-081441815",
+			"date_published": "2025-11-08T16:17:14.701Z"
+		},
+		{
 			"id": "Regresé del abismo [Capítulo 38]",
 			"title": "Regresé del abismo [Capítulo 38]",
 			"url": "https://olympusbiblioteca.com/series/comic-regrese-del-abismoo",
@@ -2983,24 +3001,6 @@
 			"title": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 153]",
 			"url": "https://olympusbiblioteca.com/series/comic-maestr10-05-2025ede-ser-el-hijo-sagrado5324",
 			"date_published": "2025-10-22T01:11:58.142Z"
-		},
-		{
-			"id": "Registros del Erudito Espadachín [Capítulo 176]",
-			"title": "Registros del Erudito Espadachín [Capítulo 176]",
-			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025ito-espadachin5324",
-			"date_published": "2025-10-22T01:11:58.142Z"
-		},
-		{
-			"id": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 94]",
-			"title": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 94]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-caotico-de-fuerza-extraordinaria-20251021-080811106",
-			"date_published": "2025-10-22T01:11:58.141Z"
-		},
-		{
-			"id": "La Ascensión Marcial del Dios Demonio [Capítulo 143]",
-			"title": "La Ascensión Marcial del Dios Demonio [Capítulo 143]",
-			"url": "https://olympusbiblioteca.com/series/comic-dis-m10-05-2025arcial-2013424",
-			"date_published": "2025-10-21T22:13:58.095Z"
 		}
 	]
 }
