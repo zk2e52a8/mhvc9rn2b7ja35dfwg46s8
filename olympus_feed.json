@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Perro Loco de la Mansión del Duque [Capítulo 29]",
+			"title": "El Perro Loco de la Mansión del Duque [Capítulo 29]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-perro-loco-de-la-mansion-del-duque",
+			"date_published": "2025-11-08T01:08:29.808Z"
+		},
+		{
+			"id": "el pasado oculto del jugador [Capítulo 93]",
+			"title": "el pasado oculto del jugador [Capítulo 93]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-pasado-oculto-del-jugador-20251107-081511117",
+			"date_published": "2025-11-08T01:08:29.808Z"
+		},
+		{
+			"id": "Yo mate al jugador de la Academia [Capítulo 97]",
+			"title": "Yo mate al jugador de la Academia [Capítulo 97]",
+			"url": "https://olympusbiblioteca.com/series/comic-yo-mate-al-jugador-de-la-academia-20251107-080440560",
+			"date_published": "2025-11-08T01:08:29.808Z"
+		},
+		{
+			"id": "El bastardo devorador de armas. [Capítulo 58]",
+			"title": "El bastardo devorador de armas. [Capítulo 58]",
+			"url": "https://olympusbiblioteca.com/series/comic-o5324evorador-de-armas",
+			"date_published": "2025-11-08T01:08:29.808Z"
+		},
+		{
+			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 136]",
+			"title": "Crónicas del Retorno del Dios Marcial [Capítulo 136]",
+			"url": "https://olympusbiblioteca.com/series/comic-cronica20-225-os-marcial13424",
+			"date_published": "2025-11-08T01:08:29.808Z"
+		},
+		{
 			"id": "el pasado oculto del jugador [Capítulo 92]",
 			"title": "el pasado oculto del jugador [Capítulo 92]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-pasado-oculto-del-jugador-20251107-081511117",
@@ -2971,36 +3001,6 @@
 			"title": "Nivelando Con Los Dioses [Capítulo 148]",
 			"url": "https://olympusbiblioteca.com/series/comic-nivel20-225-ando-con-los-dioses13424",
 			"date_published": "2025-10-21T16:20:11.680Z"
-		},
-		{
-			"id": "Shirone El Infinit0 (Mago infinito) [Capítulo 151]",
-			"title": "Shirone El Infinit0 (Mago infinito) [Capítulo 151]",
-			"url": "https://olympusbiblioteca.com/series/comic-shirone20-225-el22-infinit015551251524131123",
-			"date_published": "2025-10-21T14:15:10.181Z"
-		},
-		{
-			"id": "*Mago Oscuro (Black Haze remake) [Capítulo 44.5]",
-			"title": "*Mago Oscuro (Black Haze remake) [Capítulo 44.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-mago-5zxz-remake",
-			"date_published": "2025-10-21T14:15:10.181Z"
-		},
-		{
-			"id": "Sistema de cultivo del demonio celestial [Capítulo 150]",
-			"title": "Sistema de cultivo del demonio celestial [Capítulo 150]",
-			"url": "https://olympusbiblioteca.com/series/comic-sistema-de-cultivo-del-demonio-celestial-20251022-080634663",
-			"date_published": "2025-10-21T14:15:10.181Z"
-		},
-		{
-			"id": "Regresión absoluta [Capítulo 71]",
-			"title": "Regresión absoluta [Capítulo 71]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta-20251022-080929915",
-			"date_published": "2025-10-21T03:05:13.883Z"
-		},
-		{
-			"id": "La regresión del eunuco para recuperar su hombría [Capítulo 57]",
-			"title": "La regresión del eunuco para recuperar su hombría [Capítulo 57]",
-			"url": "https://olympusbiblioteca.com/series/comic-06-03-205zxz255320254zsz",
-			"date_published": "2025-10-21T03:05:13.883Z"
 		}
 	]
 }
