@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Odisea en la Mazmorra [Capítulo 135]",
+			"title": "Odisea en la Mazmorra [Capítulo 135]",
+			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
+			"date_published": "2025-11-09T08:18:00.984Z"
+		},
+		{
 			"id": "Emperador magico (magic emperor) [Capítulo 778]",
 			"title": "Emperador magico (magic emperor) [Capítulo 778]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
@@ -2995,12 +3001,6 @@
 			"title": "Sistema de cultivo del demonio celestial [Capítulo 151]",
 			"url": "https://olympusbiblioteca.com/series/comic-sistema-de-cultivo-del-demonio-celestial-20251024-080530309",
 			"date_published": "2025-10-23T14:16:22.874Z"
-		},
-		{
-			"id": "Reverend Insanity [remake] [Capítulo 9]",
-			"title": "Reverend Insanity [remake] [Capítulo 9]",
-			"url": "https://olympusbiblioteca.com/series/comic-reverend-insanity-remake",
-			"date_published": "2025-10-23T12:32:36.865Z"
 		}
 	]
 }
