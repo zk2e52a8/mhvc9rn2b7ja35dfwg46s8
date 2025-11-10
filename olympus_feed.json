@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Dios de la Espada de un Mundo Destruido [Capítulo 39.05]",
+			"title": "El Dios de la Espada de un Mundo Destruido [Capítulo 39.05]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-dios-de-la-espada-de-un-mundo-destruido",
+			"date_published": "2025-11-10T14:16:50.125Z"
+		},
+		{
 			"id": "La noche del goblin [Capítulo 118]",
 			"title": "La noche del goblin [Capítulo 118]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin-20251110-081305056",
@@ -2995,12 +3001,6 @@
 			"title": "Subiendo de nivel con las mejores habilidades [Capítulo 122]",
 			"url": "https://olympusbiblioteca.com/series/comic-s20-225-evel-mejores-221r1234",
 			"date_published": "2025-10-24T18:21:50.671Z"
-		},
-		{
-			"id": "Cómo criar villanos correctamente [Capítulo 3]",
-			"title": "Cómo criar villanos correctamente [Capítulo 3]",
-			"url": "https://olympusbiblioteca.com/series/comic-como-criar-villanos-correctamente",
-			"date_published": "2025-10-24T14:15:38.136Z"
 		}
 	]
 }
