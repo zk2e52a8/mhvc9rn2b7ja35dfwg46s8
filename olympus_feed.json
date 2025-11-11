@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Villano antihéroe [Capítulo 209]",
+			"title": "Villano antihéroe [Capítulo 209]",
+			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe-20251111-081101345",
+			"date_published": "2025-11-11T22:15:15.925Z"
+		},
+		{
+			"id": "Carnicero Marcial De Rango Divino [Capítulo 18]",
+			"title": "Carnicero Marcial De Rango Divino [Capítulo 18]",
+			"url": "https://olympusbiblioteca.com/series/comic-carnicero-marcial-de-rango-divino",
+			"date_published": "2025-11-11T22:15:15.924Z"
+		},
+		{
 			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 208]",
 			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 208]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin-20251111-080041034",
@@ -2989,18 +3001,6 @@
 			"title": "Caballero en Eterna Regresión [Capítulo 81]",
 			"url": "https://olympusbiblioteca.com/series/comic-caballero-en-eterna-regresion-20251026-080757777",
 			"date_published": "2025-10-25T06:20:32.203Z"
-		},
-		{
-			"id": "El demonio celestial quiere una vida tranquila [Capítulo 53]",
-			"title": "El demonio celestial quiere una vida tranquila [Capítulo 53]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-demonio-celestial-quiere-una-vida-tranquila-20251025-080831503",
-			"date_published": "2025-10-25T04:17:38.130Z"
-		},
-		{
-			"id": "Mi esposa es la líder del culto demoníaco [Capítulo 36]",
-			"title": "Mi esposa es la líder del culto demoníaco [Capítulo 36]",
-			"url": "https://olympusbiblioteca.com/series/comic-mi-esposa-es-la-lider-del-culto-demoniaco-20251025-080942000",
-			"date_published": "2025-10-25T02:59:16.764Z"
 		}
 	]
 }
