@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Despiadado Demonio Celestial [Capítulo 286]",
+			"title": "El Despiadado Demonio Celestial [Capítulo 286]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-despiadado-demonio-celestial-20251113-081030381",
+			"date_published": "2025-11-13T22:15:49.876Z"
+		},
+		{
 			"id": "Nueva Cara [Capítulo 581]",
 			"title": "Nueva Cara [Capítulo 581]",
 			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20251113-081205804",
@@ -2995,12 +3001,6 @@
 			"title": "El amo de la plaga [Capítulo 87]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-a10-05-2025mo-de-la-plaga",
 			"date_published": "2025-10-26T20:17:18.712Z"
-		},
-		{
-			"id": "La Super Tienda de Mascotas Estelares [Capítulo 198]",
-			"title": "La Super Tienda de Mascotas Estelares [Capítulo 198]",
-			"url": "https://olympusbiblioteca.com/series/comic-13424la-super-tienda-de-mascotas-estelares5324",
-			"date_published": "2025-10-26T18:20:18.930Z"
 		}
 	]
 }
