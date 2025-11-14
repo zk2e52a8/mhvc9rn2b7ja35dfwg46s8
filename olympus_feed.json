@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 42]",
+			"title": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 42]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-ascenso-del-tercer-principe-del-reino-caido",
+			"date_published": "2025-11-14T04:19:38.900Z"
+		},
+		{
 			"id": "La vida escolar del líder de la tierra [Capítulo 25]",
 			"title": "La vida escolar del líder de la tierra [Capítulo 25]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-vida-escolar-del-lider-de-la-tierra",
@@ -2995,12 +3001,6 @@
 			"title": "Esclavo Corporativo del Dios Maligno [Capítulo 25]",
 			"url": "https://olympusbiblioteca.com/series/comic-esclavo-corporativo-del-dios-maligno",
 			"date_published": "2025-10-26T22:14:21.031Z"
-		},
-		{
-			"id": "El Mago Devorador de Talentos [Capítulo 112]",
-			"title": "El Mago Devorador de Talentos [Capítulo 112]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago-20-225-devorador-de-talentos13424",
-			"date_published": "2025-10-26T20:17:18.713Z"
 		}
 	]
 }
