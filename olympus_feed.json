@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Crónicas del soberano perezoso [Capítulo 17]",
+			"title": "Crónicas del soberano perezoso [Capítulo 17]",
+			"url": "https://olympusbiblioteca.com/series/comic-cronicas-del-soberano-perezoso",
+			"date_published": "2025-11-15T20:15:37.136Z"
+		},
+		{
+			"id": "Mago devorador de dragones [Capítulo 120]",
+			"title": "Mago devorador de dragones [Capítulo 120]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago20-225-r-de-11251151515",
+			"date_published": "2025-11-15T20:15:37.136Z"
+		},
+		{
+			"id": "El Perro Loco de la Mansión del Duque [Capítulo 30]",
+			"title": "El Perro Loco de la Mansión del Duque [Capítulo 30]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-perro-loco-de-la-mansion-del-duque",
+			"date_published": "2025-11-15T20:15:37.136Z"
+		},
+		{
+			"id": "El gran demonio celestial soberano [Capítulo 27]",
+			"title": "El gran demonio celestial soberano [Capítulo 27]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-gran-demonio-celestial-soberano",
+			"date_published": "2025-11-15T20:15:37.136Z"
+		},
+		{
+			"id": "El villano de mirada cortante de la Academia Demoniaca [Capítulo 51]",
+			"title": "El villano de mirada cortante de la Academia Demoniaca [Capítulo 51]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-villano-de-mirada-cortante-de-la-academia-demoniaca-20251115-081129754",
+			"date_published": "2025-11-15T20:15:37.136Z"
+		},
+		{
 			"id": "Heroe, regresa [Capítulo 128]",
 			"title": "Heroe, regresa [Capítulo 128]",
 			"url": "https://olympusbiblioteca.com/series/comic-dragon-20-225-y-heroe13424",
@@ -2971,36 +3001,6 @@
 			"title": "Carnicero Marcial De Rango Divino [Capítulo 16]",
 			"url": "https://olympusbiblioteca.com/series/comic-carnicero-marcial-de-rango-divino",
 			"date_published": "2025-10-28T20:18:09.579Z"
-		},
-		{
-			"id": "El legendario prodigio del ducado [Capítulo 1]",
-			"title": "El legendario prodigio del ducado [Capítulo 1]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado",
-			"date_published": "2025-10-28T20:18:09.578Z"
-		},
-		{
-			"id": "Las conspiraciones del mercenario regresado [Capítulo 62]",
-			"title": "Las conspiraciones del mercenario regresado [Capítulo 62]",
-			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado-20251029-080543647",
-			"date_published": "2025-10-28T18:23:26.940Z"
-		},
-		{
-			"id": "La regresión 100 del jugador de nivel máximo [Capítulo 74]",
-			"title": "La regresión 100 del jugador de nivel máximo [Capítulo 74]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-r20-225-egresion-100-del-jugador-de-nivel-maximo13424",
-			"date_published": "2025-10-28T16:20:29.158Z"
-		},
-		{
-			"id": "Rayito [Capítulo 374]",
-			"title": "Rayito [Capítulo 374]",
-			"url": "https://olympusbiblioteca.com/series/comic-rayito-20251029-081226128",
-			"date_published": "2025-10-28T16:20:29.158Z"
-		},
-		{
-			"id": "La evolución de la serpiente inmortal [Capítulo 58]",
-			"title": "La evolución de la serpiente inmortal [Capítulo 58]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-evolucion-de-la-serpiente-inmortal",
-			"date_published": "2025-10-28T16:20:29.158Z"
 		}
 	]
 }
