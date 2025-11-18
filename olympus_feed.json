@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Profesor Encubierto de la Academia [Capítulo 142]",
+			"title": "El Profesor Encubierto de la Academia [Capítulo 142]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-profesor-encubierto-de-la-academia-20251117-080513086",
+			"date_published": "2025-11-18T04:20:15.145Z"
+		},
+		{
+			"id": "El chico problemático de la torre mágica [Capítulo 30]",
+			"title": "El chico problemático de la torre mágica [Capítulo 30]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-chico-problematico-de-la-torre-magica-20251117-081116453",
+			"date_published": "2025-11-18T04:20:15.145Z"
+		},
+		{
 			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 209]",
 			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 209]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin-20251117-080458038",
@@ -2989,18 +3001,6 @@
 			"title": "El Herrero Genio del Juego [Capítulo 26]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-genio-del-juego",
 			"date_published": "2025-10-31T16:19:27.865Z"
-		},
-		{
-			"id": "La Super Tienda de Mascotas Estelares [Capítulo 198.5]",
-			"title": "La Super Tienda de Mascotas Estelares [Capítulo 198.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-13424la-super-tienda-de-mascotas-estelares5324",
-			"date_published": "2025-10-31T16:19:27.864Z"
-		},
-		{
-			"id": "El Troll más fuerte del mundo [Capítulo 154]",
-			"title": "El Troll más fuerte del mundo [Capítulo 154]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-troll-mas-fuerte-del-mundo-20251101-080442244",
-			"date_published": "2025-10-31T14:15:47.993Z"
 		}
 	]
 }
