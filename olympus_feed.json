@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Regreso del Espadachín Oscuro [Capítulo 23]",
+			"title": "El Regreso del Espadachín Oscuro [Capítulo 23]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
+			"date_published": "2025-11-19T03:08:30.873Z"
+		},
+		{
+			"id": "El regreso del mago ilegítimo [Capítulo 22]",
+			"title": "El regreso del mago ilegítimo [Capítulo 22]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-mago-ilegitimo",
+			"date_published": "2025-11-19T03:08:30.873Z"
+		},
+		{
 			"id": "El Retorno del Patriarca Mil Años Después [Capítulo 14]",
 			"title": "El Retorno del Patriarca Mil Años Después [Capítulo 14]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-retorno-del-patriarca-mil-anos-despues",
@@ -2988,18 +3000,6 @@
 			"id": "El legendario prodigio del ducado [Capítulo 20]",
 			"title": "El legendario prodigio del ducado [Capítulo 20]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado",
-			"date_published": "2025-11-01T01:14:48.686Z"
-		},
-		{
-			"id": "La evolución de la serpiente inmortal [Capítulo 62]",
-			"title": "La evolución de la serpiente inmortal [Capítulo 62]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-evolucion-de-la-serpiente-inmortal",
-			"date_published": "2025-11-01T01:14:48.686Z"
-		},
-		{
-			"id": "Come y crece [Capítulo 27]",
-			"title": "Come y crece [Capítulo 27]",
-			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20251101-081521219",
 			"date_published": "2025-11-01T01:14:48.686Z"
 		}
 	]
