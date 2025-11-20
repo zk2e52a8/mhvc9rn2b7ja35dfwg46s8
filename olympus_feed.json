@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Colorista [Capítulo 2]",
+			"title": "Colorista [Capítulo 2]",
+			"url": "https://olympusbiblioteca.com/series/comic-colorista",
+			"date_published": "2025-11-20T20:18:37.166Z"
+		},
+		{
+			"id": "Resurrección solitaria [Capítulo 71]",
+			"title": "Resurrección solitaria [Capítulo 71]",
+			"url": "https://olympusbiblioteca.com/series/comic-resurreccion-solitaria-20251120-080632294",
+			"date_published": "2025-11-20T20:18:37.166Z"
+		},
+		{
+			"id": "Montañas de cadáveres y mar de sangre [Capítulo 15]",
+			"title": "Montañas de cadáveres y mar de sangre [Capítulo 15]",
+			"url": "https://olympusbiblioteca.com/series/comic-montanas-de-cadaveres-y-mar-de-sangre",
+			"date_published": "2025-11-20T20:18:37.166Z"
+		},
+		{
 			"id": "¡Que abundante cosecha, señor demonio! [Capítulo 42]",
 			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 42]",
 			"url": "https://olympusbiblioteca.com/series/comic-que-abundante-cosecha-senor-demonio-20251120-080837850",
@@ -2982,24 +3000,6 @@
 			"id": "Odisea en la Mazmorra [Capítulo 134]",
 			"title": "Odisea en la Mazmorra [Capítulo 134]",
 			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
-			"date_published": "2025-11-02T16:16:46.160Z"
-		},
-		{
-			"id": "*El jugador que no puede subir de nivel [Capítulo 211]",
-			"title": "*El jugador que no puede subir de nivel [Capítulo 211]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-jugador-que-no-puede-subir-de-nivel-20251103-081543614",
-			"date_published": "2025-11-02T16:16:46.160Z"
-		},
-		{
-			"id": "El legendario hijo menor de la Casa del Marques [Capítulo 151]",
-			"title": "El legendario hijo menor de la Casa del Marques [Capítulo 151]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-lege20-225-ndario-marques13424",
-			"date_published": "2025-11-02T16:16:46.160Z"
-		},
-		{
-			"id": "El dinero del Lord no disminuye [Capítulo 182]",
-			"title": "El dinero del Lord no disminuye [Capítulo 182]",
-			"url": "https://olympusbiblioteca.com/series/comic-lordin12410-05-2025124124124",
 			"date_published": "2025-11-02T16:16:46.160Z"
 		}
 	]
