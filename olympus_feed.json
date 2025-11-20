@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Lider Kim [Capítulo 216]",
+			"title": "Lider Kim [Capítulo 216]",
+			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20251119-080949010",
+			"date_published": "2025-11-20T06:23:04.047Z"
+		},
+		{
 			"id": "El Regreso del Espadachín Oscuro [Capítulo 24]",
 			"title": "El Regreso del Espadachín Oscuro [Capítulo 24]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
@@ -2995,12 +3001,6 @@
 			"title": "El Guerrero Escolta Reencarnado [Capítulo 119]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-gu10-05-2025encarnado",
 			"date_published": "2025-11-02T03:12:00.613Z"
-		},
-		{
-			"id": "Realmente no quiero renacer [Capítulo 458]",
-			"title": "Realmente no quiero renacer [Capítulo 458]",
-			"url": "https://olympusbiblioteca.com/series/comic-otra-serie-chin10-05-2025encarnacion",
-			"date_published": "2025-11-02T01:15:52.898Z"
 		}
 	]
 }
