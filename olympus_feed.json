@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 357]",
+			"title": "Soldado Esqueleto [Capítulo 357]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20251119-080953974",
+			"date_published": "2025-11-20T08:21:56.912Z"
+		},
+		{
 			"id": "Lider Kim [Capítulo 216]",
 			"title": "Lider Kim [Capítulo 216]",
 			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20251119-080949010",
@@ -2995,12 +3001,6 @@
 			"title": "Regresé con el poder del Rey [Capítulo 114]",
 			"url": "https://olympusbiblioteca.com/series/comic-regrese-con-el-poder-del-rey-20251101-080421116",
 			"date_published": "2025-11-02T04:19:06.494Z"
-		},
-		{
-			"id": "El Guerrero Escolta Reencarnado [Capítulo 119]",
-			"title": "El Guerrero Escolta Reencarnado [Capítulo 119]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-gu10-05-2025encarnado",
-			"date_published": "2025-11-02T03:12:00.613Z"
 		}
 	]
 }
