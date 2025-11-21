@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Ecos del Mundo Invertido [Capítulo 6]",
+			"title": "Ecos del Mundo Invertido [Capítulo 6]",
+			"url": "https://olympusbiblioteca.com/series/comic-ecos-del-mundo-invertido",
+			"date_published": "2025-11-21T22:16:16.882Z"
+		},
+		{
+			"id": "Comienza con una montaña [Capítulo 1163]",
+			"title": "Comienza con una montaña [Capítulo 1163]",
+			"url": "https://olympusbiblioteca.com/series/comic-montan10-05-2025ita13424",
+			"date_published": "2025-11-21T22:16:16.882Z"
+		},
+		{
 			"id": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 124]",
 			"title": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 124]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-prodigioso-caballero-oscuro-con-tiempo-limitado-20251121-081351069",
@@ -2989,18 +3001,6 @@
 			"title": "Regreso del ranker de clase SSS [Capítulo 164]",
 			"url": "https://olympusbiblioteca.com/series/comic-regr20-225-eso-del-ranker-de-clase-ss13424",
 			"date_published": "2025-11-04T03:06:45.966Z"
-		},
-		{
-			"id": "*El Villano Del Destino [Capítulo 290]",
-			"title": "*El Villano Del Destino [Capítulo 290]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
-			"date_published": "2025-11-04T01:11:33.035Z"
-		},
-		{
-			"id": "Instructor Estelar Maestro Baek [Capítulo 144]",
-			"title": "Instructor Estelar Maestro Baek [Capítulo 144]",
-			"url": "https://olympusbiblioteca.com/series/comic-instructor-estelar-maestro-baek-20251104-080748326",
-			"date_published": "2025-11-04T01:11:33.034Z"
 		}
 	]
 }
