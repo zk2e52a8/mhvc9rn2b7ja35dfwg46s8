@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Ecos del Mundo Invertido [Capítulo 13.5]",
+			"title": "Ecos del Mundo Invertido [Capítulo 13.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-ecos-del-mundo-invertido",
+			"date_published": "2025-11-22T01:09:55.099Z"
+		},
+		{
 			"id": "Ecos del Mundo Invertido [Capítulo 6]",
 			"title": "Ecos del Mundo Invertido [Capítulo 6]",
 			"url": "https://olympusbiblioteca.com/series/comic-ecos-del-mundo-invertido",
@@ -2995,12 +3001,6 @@
 			"title": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 216]",
 			"url": "https://olympusbiblioteca.com/series/comic-llevo-mil-anos-atrapado-en-el-mismo-dia",
 			"date_published": "2025-11-04T03:06:45.967Z"
-		},
-		{
-			"id": "Regreso del ranker de clase SSS [Capítulo 164]",
-			"title": "Regreso del ranker de clase SSS [Capítulo 164]",
-			"url": "https://olympusbiblioteca.com/series/comic-regr20-225-eso-del-ranker-de-clase-ss13424",
-			"date_published": "2025-11-04T03:06:45.966Z"
 		}
 	]
 }
