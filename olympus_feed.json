@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "CUltivador de no muertos [Capítulo 2]",
+			"title": "CUltivador de no muertos [Capítulo 2]",
+			"url": "https://olympusbiblioteca.com/series/comic-cultivador-de-no-muertos",
+			"date_published": "2025-11-23T04:29:43.475Z"
+		},
+		{
+			"id": "El Joven Heredero de la Familia de Nigromantes [Capítulo 54]",
+			"title": "El Joven Heredero de la Familia de Nigromantes [Capítulo 54]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-joven-heredero-de-la-familia-de-nigromantes-20251122-080653435",
+			"date_published": "2025-11-23T04:29:43.475Z"
+		},
+		{
 			"id": "Nigromante sin limites [Capítulo 163]",
 			"title": "Nigromante sin limites [Capítulo 163]",
 			"url": "https://olympusbiblioteca.com/series/comic-nigromante-sin-limites-20251122-080813696",
@@ -2989,18 +3001,6 @@
 			"title": "El regreso del héroe de clase: Desastre [Capítulo 150.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-cl20-225-ase-desastre13424",
 			"date_published": "2025-11-05T14:16:08.918Z"
-		},
-		{
-			"id": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 219]",
-			"title": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 219]",
-			"url": "https://olympusbiblioteca.com/series/comic-llevo-mil-anos-atrapado-en-el-mismo-dia",
-			"date_published": "2025-11-05T14:16:08.918Z"
-		},
-		{
-			"id": "El Mago Genio Destructor de Límites [Capítulo 33]",
-			"title": "El Mago Genio Destructor de Límites [Capítulo 33]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20251106-081622071",
-			"date_published": "2025-11-05T10:18:13.117Z"
 		}
 	]
 }
