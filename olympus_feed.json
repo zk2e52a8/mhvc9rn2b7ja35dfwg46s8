@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Acumulador de rasgos [Capítulo 67]",
+			"title": "Acumulador de rasgos [Capítulo 67]",
+			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos-20251124-080742172",
+			"date_published": "2025-11-24T16:18:25.224Z"
+		},
+		{
+			"id": "El chico problemático de la torre mágica [Capítulo 31]",
+			"title": "El chico problemático de la torre mágica [Capítulo 31]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-chico-problematico-de-la-torre-magica-20251124-080916407",
+			"date_published": "2025-11-24T16:18:25.224Z"
+		},
+		{
 			"id": "La noche de los herejes desalmados [Capítulo 61.05]",
 			"title": "La noche de los herejes desalmados [Capítulo 61.05]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-noo5324herejes-desalmados",
@@ -2989,18 +3001,6 @@
 			"title": "El Mago Genio Destructor de Límites [Capítulo 34]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20251107-081616449",
 			"date_published": "2025-11-07T04:18:29.769Z"
-		},
-		{
-			"id": "Emperador magico (magic emperor) [Capítulo 776]",
-			"title": "Emperador magico (magic emperor) [Capítulo 776]",
-			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
-			"date_published": "2025-11-07T03:07:31.167Z"
-		},
-		{
-			"id": "Mago devorador de dragones [Capítulo 110]",
-			"title": "Mago devorador de dragones [Capítulo 110]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago20-225-r-de-11251151515",
-			"date_published": "2025-11-07T03:07:31.167Z"
 		}
 	]
 }
