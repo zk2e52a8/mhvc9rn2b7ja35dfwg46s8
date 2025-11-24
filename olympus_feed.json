@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Odisea en la Mazmorra [Capítulo 137]",
+			"title": "Odisea en la Mazmorra [Capítulo 137]",
+			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
+			"date_published": "2025-11-24T08:23:13.625Z"
+		},
+		{
 			"id": "Reverend Insanity [remake] [Capítulo 11]",
 			"title": "Reverend Insanity [remake] [Capítulo 11]",
 			"url": "https://olympusbiblioteca.com/series/comic-reverend-insanity-remake",
@@ -2995,12 +3001,6 @@
 			"title": "Sepulturero de monstruos [Capítulo 19]",
 			"url": "https://olympusbiblioteca.com/series/comic-sepulturero-de-monstruos",
 			"date_published": "2025-11-07T03:07:31.166Z"
-		},
-		{
-			"id": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 221]",
-			"title": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 221]",
-			"url": "https://olympusbiblioteca.com/series/comic-llevo-mil-anos-atrapado-en-el-mismo-dia",
-			"date_published": "2025-11-07T01:12:03.836Z"
 		}
 	]
 }
