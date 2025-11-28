@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 358]",
+			"title": "Soldado Esqueleto [Capítulo 358]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20251127-081228800",
+			"date_published": "2025-11-28T06:25:25.195Z"
+		},
+		{
+			"id": "¡Que abundante cosecha, señor demonio! [Capítulo 43]",
+			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 43]",
+			"url": "https://olympusbiblioteca.com/series/comic-que-abundante-cosecha-senor-demonio-20251127-081042573",
+			"date_published": "2025-11-28T06:25:25.195Z"
+		},
+		{
+			"id": "Asesino de nivel divino [Capítulo 73]",
+			"title": "Asesino de nivel divino [Capítulo 73]",
+			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-nivel-divino",
+			"date_published": "2025-11-28T06:25:25.195Z"
+		},
+		{
+			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 6]",
+			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 6]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes",
+			"date_published": "2025-11-28T06:25:25.195Z"
+		},
+		{
+			"id": "Emperador magico (magic emperor) [Capítulo 784]",
+			"title": "Emperador magico (magic emperor) [Capítulo 784]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
+			"date_published": "2025-11-28T06:25:25.195Z"
+		},
+		{
 			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 5]",
 			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 5]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes",
@@ -2971,36 +3001,6 @@
 			"title": "La noche de los herejes desalmados [Capítulo 60]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-noo5324herejes-desalmados",
 			"date_published": "2025-11-10T16:20:31.061Z"
-		},
-		{
-			"id": "El Dios de la Espada de un Mundo Destruido [Capítulo 39.05]",
-			"title": "El Dios de la Espada de un Mundo Destruido [Capítulo 39.05]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-de-la-espada-de-un-mundo-destruido",
-			"date_published": "2025-11-10T14:16:50.125Z"
-		},
-		{
-			"id": "La noche del goblin [Capítulo 118]",
-			"title": "La noche del goblin [Capítulo 118]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin-20251111-081306407",
-			"date_published": "2025-11-10T08:22:39.644Z"
-		},
-		{
-			"id": "Mago devorador de dragones [Capítulo 119]",
-			"title": "Mago devorador de dragones [Capítulo 119]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago20-225-r-de-11251151515",
-			"date_published": "2025-11-10T06:26:13.557Z"
-		},
-		{
-			"id": "El Chetado (Overgeared) [Capítulo 300]",
-			"title": "El Chetado (Overgeared) [Capítulo 300]",
-			"url": "https://olympusbiblioteca.com/series/comic-27-220-225-565464565465",
-			"date_published": "2025-11-10T04:24:05.892Z"
-		},
-		{
-			"id": "El chico problemático de la torre mágica [Capítulo 29]",
-			"title": "El chico problemático de la torre mágica [Capítulo 29]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-chico-problematico-de-la-torre-magica-20251111-080721210",
-			"date_published": "2025-11-10T04:24:05.892Z"
 		}
 	]
 }
