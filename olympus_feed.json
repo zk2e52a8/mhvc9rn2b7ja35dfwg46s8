@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 5]",
+			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 5]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes",
+			"date_published": "2025-11-28T04:19:51.582Z"
+		},
+		{
 			"id": "El hombre más guapo se convirtió en esqueleto [Capítulo 65]",
 			"title": "El hombre más guapo se convirtió en esqueleto [Capítulo 65]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto-20251127-081004605",
@@ -2995,12 +3001,6 @@
 			"title": "El chico problemático de la torre mágica [Capítulo 29]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-chico-problematico-de-la-torre-magica-20251111-080721210",
 			"date_published": "2025-11-10T04:24:05.892Z"
-		},
-		{
-			"id": "Tengo la guía exclusiva de la torre [Capítulo 92]",
-			"title": "Tengo la guía exclusiva de la torre [Capítulo 92]",
-			"url": "https://olympusbiblioteca.com/series/comic-tengo-la-guia-exclusiva-de-la-torre-20251111-080403697",
-			"date_published": "2025-11-10T03:15:39.627Z"
 		}
 	]
 }
