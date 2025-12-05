@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Devoto Caballero [Capítulo 141]",
+			"title": "El Devoto Caballero [Capítulo 141]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-devoto-caballero-20251205-081339408",
+			"date_published": "2025-12-05T16:20:54.038Z"
+		},
+		{
+			"id": "Loco Frontera [Capítulo 218]",
+			"title": "Loco Frontera [Capítulo 218]",
+			"url": "https://olympusbiblioteca.com/series/comic-loco-frontera-20251205-081201621",
+			"date_published": "2025-12-05T16:20:54.038Z"
+		},
+		{
+			"id": "Estandar de la Reencarnación [Capítulo 165]",
+			"title": "Estandar de la Reencarnación [Capítulo 165]",
+			"url": "https://olympusbiblioteca.com/series/comic-elmancochet20-225-o532413424",
+			"date_published": "2025-12-05T16:20:54.038Z"
+		},
+		{
+			"id": "Acumulador de rasgos [Capítulo 68]",
+			"title": "Acumulador de rasgos [Capítulo 68]",
+			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos-20251205-080738402",
+			"date_published": "2025-12-05T16:20:54.038Z"
+		},
+		{
+			"id": "Mestizo [Capítulo 30]",
+			"title": "Mestizo [Capítulo 30]",
+			"url": "https://olympusbiblioteca.com/series/comic-mestizo",
+			"date_published": "2025-12-05T16:20:54.038Z"
+		},
+		{
 			"id": "Como vivir como el principe enemigo [Capítulo 90]",
 			"title": "Como vivir como el principe enemigo [Capítulo 90]",
 			"url": "https://olympusbiblioteca.com/series/comic-como-v20-225-rincipe-enemigo5324",
@@ -2971,36 +3001,6 @@
 			"title": "¿En Serio Hay Gente que Piensa que la Cultivación es Difícil? [Capítulo 37]",
 			"url": "https://olympusbiblioteca.com/series/comic-en-serio-hay-gente-que-piensa-que-la-cultivacion-es-dificil",
 			"date_published": "2025-11-19T01:12:19.148Z"
-		},
-		{
-			"id": "Manual de instrucciones del Reencarnado [Capítulo 163]",
-			"title": "Manual de instrucciones del Reencarnado [Capítulo 163]",
-			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado",
-			"date_published": "2025-11-19T01:12:19.148Z"
-		},
-		{
-			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 45]",
-			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 45]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
-			"date_published": "2025-11-19T01:12:19.147Z"
-		},
-		{
-			"id": "Jugador de talento insano [Capítulo 100]",
-			"title": "Jugador de talento insano [Capítulo 100]",
-			"url": "https://olympusbiblioteca.com/series/comic-jugador-de-talento-insano-20251119-080304442",
-			"date_published": "2025-11-18T22:15:29.534Z"
-		},
-		{
-			"id": "El Arquitecto de mazmorras [Capítulo 57]",
-			"title": "El Arquitecto de mazmorras [Capítulo 57]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-arquite5zxzorras",
-			"date_published": "2025-11-18T20:18:48.585Z"
-		},
-		{
-			"id": "Asesino de Dragones [Capítulo 171]",
-			"title": "Asesino de Dragones [Capítulo 171]",
-			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-dragones-20251119-081022878",
-			"date_published": "2025-11-18T20:18:48.585Z"
 		}
 	]
 }
