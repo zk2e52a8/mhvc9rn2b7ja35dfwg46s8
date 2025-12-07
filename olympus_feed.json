@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El legendario prodigio del ducado [Capítulo 25]",
+			"title": "El legendario prodigio del ducado [Capítulo 25]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado",
+			"date_published": "2025-12-07T16:17:36.906Z"
+		},
+		{
+			"id": "Torre de Dios : Urek Mazino [Capítulo 39]",
+			"title": "Torre de Dios : Urek Mazino [Capítulo 39]",
+			"url": "https://olympusbiblioteca.com/series/comic-torre-de-dios-urek-mazino-20251207-080947011",
+			"date_published": "2025-12-07T16:17:36.906Z"
+		},
+		{
+			"id": "Amigo de la Infancia del Zenit [Capítulo 84]",
+			"title": "Amigo de la Infancia del Zenit [Capítulo 84]",
+			"url": "https://olympusbiblioteca.com/series/comic-amigo-de20-225-e-zenith",
+			"date_published": "2025-12-07T16:17:36.906Z"
+		},
+		{
+			"id": "*El jugador que no puede subir de nivel [Capítulo 215]",
+			"title": "*El jugador que no puede subir de nivel [Capítulo 215]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-jugador-que-no-puede-subir-de-nivel-20251207-081404486",
+			"date_published": "2025-12-07T16:17:36.906Z"
+		},
+		{
 			"id": "La venganza del sabueso de sangre de hierro [Capítulo 142]",
 			"title": "La venganza del sabueso de sangre de hierro [Capítulo 142]",
 			"url": "https://olympusbiblioteca.com/series/comic-20-225-2sabueso13424",
@@ -2977,30 +3001,6 @@
 			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 131]",
 			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-al-juego-siendo-un-barbaro-bjorn-el-barbaro-20251122-081104124",
 			"date_published": "2025-11-21T12:30:55.098Z"
-		},
-		{
-			"id": "Yo mate al jugador de la Academia [Capítulo 99]",
-			"title": "Yo mate al jugador de la Academia [Capítulo 99]",
-			"url": "https://olympusbiblioteca.com/series/comic-yo-mate-al-jugador-de-la-academia-20251122-080254334",
-			"date_published": "2025-11-21T10:16:49.826Z"
-		},
-		{
-			"id": "Cazador de destinos de clase F [Capítulo 111]",
-			"title": "Cazador de destinos de clase F [Capítulo 111]",
-			"url": "https://olympusbiblioteca.com/series/comic-cazador20-225-e-clase-13424",
-			"date_published": "2025-11-21T08:22:19.088Z"
-		},
-		{
-			"id": "El apóstol rebelde de la Diosa de la abundancia. [Capítulo 14]",
-			"title": "El apóstol rebelde de la Diosa de la abundancia. [Capítulo 14]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-apostol-rebelde-de-la-diosa-de-la-abundancia",
-			"date_published": "2025-11-21T04:18:50.362Z"
-		},
-		{
-			"id": "Roman demonio [Capítulo 176]",
-			"title": "Roman demonio [Capítulo 176]",
-			"url": "https://olympusbiblioteca.com/series/comic-roman-demonio-20251122-081030994",
-			"date_published": "2025-11-21T03:08:02.549Z"
 		}
 	]
 }
