@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Indomable Rey Marcial [Capítulo 110]",
+			"title": "El Indomable Rey Marcial [Capítulo 110]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial-20251208-080614777",
+			"date_published": "2025-12-09T04:25:11.418Z"
+		},
+		{
+			"id": "La noche del goblin [Capítulo 122]",
+			"title": "La noche del goblin [Capítulo 122]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin-20251208-081414299",
+			"date_published": "2025-12-09T04:25:11.418Z"
+		},
+		{
 			"id": "El Perro Loco de la Mansión del Duque [Capítulo 33]",
 			"title": "El Perro Loco de la Mansión del Duque [Capítulo 33]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-perro-loco-de-la-mansion-del-duque",
@@ -2989,18 +3001,6 @@
 			"title": "El Mago Genio Destructor de Límites [Capítulo 36]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20251123-081235440",
 			"date_published": "2025-11-23T03:23:47.450Z"
-		},
-		{
-			"id": "el pasado oculto del jugador [Capítulo 97]",
-			"title": "el pasado oculto del jugador [Capítulo 97]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-pasado-oculto-del-jugador-20251123-081138960",
-			"date_published": "2025-11-23T01:21:39.297Z"
-		},
-		{
-			"id": "Ranker Salvaje [Capítulo 31]",
-			"title": "Ranker Salvaje [Capítulo 31]",
-			"url": "https://olympusbiblioteca.com/series/comic-ranker-salvaje",
-			"date_published": "2025-11-23T01:21:39.297Z"
 		}
 	]
 }
