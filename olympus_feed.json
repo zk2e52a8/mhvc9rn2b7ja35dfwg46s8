@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El regreso del héroe de clase: Desastre [Capítulo 155]",
+			"title": "El regreso del héroe de clase: Desastre [Capítulo 155]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-cl20-225-ase-desastre13424",
+			"date_published": "2025-12-10T14:18:49.878Z"
+		},
+		{
+			"id": "El Guerrero Escolta Reencarnado [Capítulo 128]",
+			"title": "El Guerrero Escolta Reencarnado [Capítulo 128]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-gu10-05-2025encarnado",
+			"date_published": "2025-12-10T14:18:49.878Z"
+		},
+		{
+			"id": "Regresor de la familia caída [Capítulo 111]",
+			"title": "Regresor de la familia caída [Capítulo 111]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20251210-080452274",
+			"date_published": "2025-12-10T14:18:49.878Z"
+		},
+		{
 			"id": "Mi Vida Cuidando Dragonas [Capítulo 10]",
 			"title": "Mi Vida Cuidando Dragonas [Capítulo 10]",
 			"url": "https://olympusbiblioteca.com/series/comic-mi-vida-cuidando-dragonas",
@@ -2983,24 +3001,6 @@
 			"title": "*El asesino que retornó como el hijo del duque [Capítulo 102]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-que-retorno-como-el-hijo-del-duque-20251124-080603861",
 			"date_published": "2025-11-24T01:17:51.709Z"
-		},
-		{
-			"id": "Sistema de cultivo del demonio celestial [Capítulo 156]",
-			"title": "Sistema de cultivo del demonio celestial [Capítulo 156]",
-			"url": "https://olympusbiblioteca.com/series/comic-sistema-de-cultivo-del-demonio-celestial-20251124-080448409",
-			"date_published": "2025-11-24T01:17:51.709Z"
-		},
-		{
-			"id": "*El Villano Del Destino [Capítulo 294]",
-			"title": "*El Villano Del Destino [Capítulo 294]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
-			"date_published": "2025-11-24T01:17:51.709Z"
-		},
-		{
-			"id": "Mi papa es demasiado fuerte [Capítulo 234]",
-			"title": "Mi papa es demasiado fuerte [Capítulo 234]",
-			"url": "https://olympusbiblioteca.com/series/comic-mi-pa10-05-2025o-fuertes13424",
-			"date_published": "2025-11-23T22:14:20.433Z"
 		}
 	]
 }
