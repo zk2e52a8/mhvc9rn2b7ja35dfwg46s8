@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Mi Vida Cuidando Dragonas [Capítulo 16]",
+			"title": "Mi Vida Cuidando Dragonas [Capítulo 16]",
+			"url": "https://olympusbiblioteca.com/series/comic-mi-vida-cuidando-dragonas",
+			"date_published": "2025-12-10T20:19:21.596Z"
+		},
+		{
+			"id": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 127]",
+			"title": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 127]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-prodigioso-caballero-oscuro-con-tiempo-limitado-20251210-081300865",
+			"date_published": "2025-12-10T20:19:21.596Z"
+		},
+		{
 			"id": "El Asesino de la Luna a la Deriva [Capítulo 117]",
 			"title": "El Asesino de la Luna a la Deriva [Capítulo 117]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-asesino20-225-de-la-luna-a-la-deriva13424",
@@ -2989,18 +3001,6 @@
 			"title": "Demonio de la lanza inigualable [Capítulo 24]",
 			"url": "https://olympusbiblioteca.com/series/comic-demonio-de-la-lanza-inigualable",
 			"date_published": "2025-11-24T04:30:34.631Z"
-		},
-		{
-			"id": "El Novato es Muy Fuerte [Capítulo 155]",
-			"title": "El Novato es Muy Fuerte [Capítulo 155]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-no20-225-erte13424142124",
-			"date_published": "2025-11-24T04:30:34.631Z"
-		},
-		{
-			"id": "Chamán del dinero [Capítulo 16]",
-			"title": "Chamán del dinero [Capítulo 16]",
-			"url": "https://olympusbiblioteca.com/series/comic-chaman-del-dinero",
-			"date_published": "2025-11-24T03:20:33.857Z"
 		}
 	]
 }
