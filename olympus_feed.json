@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Espada de la inquisición celestial [Capítulo 147]",
+			"title": "Espada de la inquisición celestial [Capítulo 147]",
+			"url": "https://olympusbiblioteca.com/series/comic-inquisic20-225-ion-celestia13424",
+			"date_published": "2025-12-11T22:16:07.334Z"
+		},
+		{
+			"id": "Cazador de destinos de clase F [Capítulo 114]",
+			"title": "Cazador de destinos de clase F [Capítulo 114]",
+			"url": "https://olympusbiblioteca.com/series/comic-cazador20-225-e-clase-13424",
+			"date_published": "2025-12-11T22:16:07.334Z"
+		},
+		{
+			"id": "El Regreso Del Genio De Las Artes Marciales [Capítulo 115]",
+			"title": "El Regreso Del Genio De Las Artes Marciales [Capítulo 115]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-genio-de-las-artes-marciales-20251211-080448640",
+			"date_published": "2025-12-11T22:16:07.334Z"
+		},
+		{
 			"id": "¡Que abundante cosecha, señor demonio! [Capítulo 45]",
 			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 45]",
 			"url": "https://olympusbiblioteca.com/series/comic-que-abundante-cosecha-senor-demonio-20251211-081046102",
@@ -2983,24 +3001,6 @@
 			"title": "Tengo la guía exclusiva de la torre [Capítulo 93]",
 			"url": "https://olympusbiblioteca.com/series/comic-tengo-la-guia-exclusiva-de-la-torre-20251125-080315064",
 			"date_published": "2025-11-25T03:11:31.080Z"
-		},
-		{
-			"id": "El Genio entrenador de artes marciales [Capítulo 90]",
-			"title": "El Genio entrenador de artes marciales [Capítulo 90]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-genio-entrenador-de-artes-marciales-20251125-080329416",
-			"date_published": "2025-11-25T01:12:47.749Z"
-		},
-		{
-			"id": "Goblin de nivel 999 [Capítulo 30]",
-			"title": "Goblin de nivel 999 [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-goblin-de-nivel-999-20251125-080644596",
-			"date_published": "2025-11-25T01:12:47.749Z"
-		},
-		{
-			"id": "CUltivador de no muertos [Capítulo 3]",
-			"title": "CUltivador de no muertos [Capítulo 3]",
-			"url": "https://olympusbiblioteca.com/series/comic-cultivador-de-no-muertos",
-			"date_published": "2025-11-25T01:12:47.749Z"
 		}
 	]
 }
