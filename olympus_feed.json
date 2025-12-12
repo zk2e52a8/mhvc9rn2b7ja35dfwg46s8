@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Mago Devorador de Talentos [Capítulo 118]",
+			"title": "El Mago Devorador de Talentos [Capítulo 118]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago-20-225-devorador-de-talentos13424",
+			"date_published": "2025-12-12T04:30:10.253Z"
+		},
+		{
 			"id": "Roman demonio [Capítulo 179]",
 			"title": "Roman demonio [Capítulo 179]",
 			"url": "https://olympusbiblioteca.com/series/comic-roman-demonio-20251211-081427910",
@@ -2995,12 +3001,6 @@
 			"title": "Rayito [Capítulo 378]",
 			"url": "https://olympusbiblioteca.com/series/comic-rayito-20251126-081113284",
 			"date_published": "2025-11-25T18:25:01.926Z"
-		},
-		{
-			"id": "El Retorno del Patriarca Mil Años Después [Capítulo 15]",
-			"title": "El Retorno del Patriarca Mil Años Después [Capítulo 15]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-retorno-del-patriarca-mil-anos-despues",
-			"date_published": "2025-11-25T16:21:21.968Z"
 		}
 	]
 }
