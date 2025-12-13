@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El legendario prodigio del ducado [Capítulo 26]",
+			"title": "El legendario prodigio del ducado [Capítulo 26]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado",
+			"date_published": "2025-12-13T20:17:12.665Z"
+		},
+		{
+			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 141]",
+			"title": "Crónicas del Retorno del Dios Marcial [Capítulo 141]",
+			"url": "https://olympusbiblioteca.com/series/comic-cronica20-225-os-marcial13424",
+			"date_published": "2025-12-13T20:17:12.665Z"
+		},
+		{
+			"id": "Regreso del ranker de clase SSS [Capítulo 169]",
+			"title": "Regreso del ranker de clase SSS [Capítulo 169]",
+			"url": "https://olympusbiblioteca.com/series/comic-regr20-225-eso-del-ranker-de-clase-ss13424",
+			"date_published": "2025-12-13T20:17:12.665Z"
+		},
+		{
 			"id": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 85]",
 			"title": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 85]",
 			"url": "https://olympusbiblioteca.com/series/comic-evolucion-marcial-comienza-por-despertar-al-rey-de-los-monstruos",
@@ -2983,24 +3001,6 @@
 			"title": "Destinado a ser Amado por Villanas [Capítulo 47.05]",
 			"url": "https://olympusbiblioteca.com/series/comic-destin10-05-2025do-por-villanas",
 			"date_published": "2025-11-27T20:15:40.083Z"
-		},
-		{
-			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 3]",
-			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 3]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes",
-			"date_published": "2025-11-27T20:15:40.083Z"
-		},
-		{
-			"id": "Montañas de cadáveres y mar de sangre [Capítulo 16]",
-			"title": "Montañas de cadáveres y mar de sangre [Capítulo 16]",
-			"url": "https://olympusbiblioteca.com/series/comic-montanas-de-cadaveres-y-mar-de-sangre",
-			"date_published": "2025-11-27T20:15:40.083Z"
-		},
-		{
-			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 2]",
-			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 2]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes",
-			"date_published": "2025-11-27T18:22:21.842Z"
 		}
 	]
 }
