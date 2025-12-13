@@ -3,15 +3,21 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Sobreviviendo como un genio con tiempo prestado [Capítulo 58]",
+			"title": "Sobreviviendo como un genio con tiempo prestado [Capítulo 58]",
+			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-como-un-genio-con-tiempo-prestado-20251213-080636427",
+			"date_published": "2025-12-13T12:30:18.078Z"
+		},
+		{
 			"id": "Soldado Esqueleto [Capítulo 359]",
 			"title": "Soldado Esqueleto [Capítulo 359]",
-			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20251212-081104095",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20251213-080941233",
 			"date_published": "2025-12-13T10:15:30.118Z"
 		},
 		{
 			"id": "El Señor de Hielo [Capítulo 53]",
 			"title": "El Señor de Hielo [Capítulo 53]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20251212-080933172",
+			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20251213-080811745",
 			"date_published": "2025-12-13T10:15:30.118Z"
 		},
 		{
@@ -23,7 +29,7 @@
 		{
 			"id": "Caballero en Eterna Regresión [Capítulo 88]",
 			"title": "Caballero en Eterna Regresión [Capítulo 88]",
-			"url": "https://olympusbiblioteca.com/series/comic-caballero-en-eterna-regresion-20251212-080636039",
+			"url": "https://olympusbiblioteca.com/series/comic-caballero-en-eterna-regresion-20251213-080519349",
 			"date_published": "2025-12-13T06:23:51.028Z"
 		},
 		{
@@ -35,7 +41,7 @@
 		{
 			"id": "El Mago Genio Destructor de Límites [Capítulo 39]",
 			"title": "El Mago Genio Destructor de Límites [Capítulo 39]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20251212-081455950",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20251213-081327246",
 			"date_published": "2025-12-13T03:12:49.065Z"
 		},
 		{
@@ -71,7 +77,7 @@
 		{
 			"id": "Sangre Maldita [Capítulo 66]",
 			"title": "Sangre Maldita [Capítulo 66]",
-			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20251212-080811940",
+			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20251213-080651082",
 			"date_published": "2025-12-13T01:12:07.844Z"
 		},
 		{
@@ -89,7 +95,7 @@
 		{
 			"id": "Loco Frontera [Capítulo 219]",
 			"title": "Loco Frontera [Capítulo 219]",
-			"url": "https://olympusbiblioteca.com/series/comic-loco-frontera-20251212-081209310",
+			"url": "https://olympusbiblioteca.com/series/comic-loco-frontera-20251213-081045425",
 			"date_published": "2025-12-12T22:15:52.338Z"
 		},
 		{
@@ -131,7 +137,7 @@
 		{
 			"id": "Reencarne como el heredero loco [Capítulo 177]",
 			"title": "Reencarne como el heredero loco [Capítulo 177]",
-			"url": "https://olympusbiblioteca.com/series/comic-reencarne-como-el-heredero-loco-20251212-080656226",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarne-como-el-heredero-loco-20251213-080538851",
 			"date_published": "2025-12-12T20:18:00.048Z"
 		},
 		{
@@ -167,7 +173,7 @@
 		{
 			"id": "Regresé con el poder del Rey [Capítulo 120]",
 			"title": "Regresé con el poder del Rey [Capítulo 120]",
-			"url": "https://olympusbiblioteca.com/series/comic-regrese-con-el-poder-del-rey-20251212-080443358",
+			"url": "https://olympusbiblioteca.com/series/comic-regrese-con-el-poder-del-rey-20251213-080326276",
 			"date_published": "2025-12-12T18:25:15.250Z"
 		},
 		{
@@ -2995,12 +3001,6 @@
 			"title": "Lider Kim [Capítulo 217]",
 			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20251128-081159131",
 			"date_published": "2025-11-27T08:22:47.830Z"
-		},
-		{
-			"id": "El Hijo Menor del Renombrado Clan Mágico [Capítulo 105]",
-			"title": "El Hijo Menor del Renombrado Clan Mágico [Capítulo 105]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hijo-m20-225-do-clan-magi13424",
-			"date_published": "2025-11-27T03:07:47.748Z"
 		}
 	]
 }
