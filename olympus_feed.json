@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 359]",
+			"title": "Soldado Esqueleto [Capítulo 359]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20251212-081104095",
+			"date_published": "2025-12-13T10:15:30.118Z"
+		},
+		{
+			"id": "El Señor de Hielo [Capítulo 53]",
+			"title": "El Señor de Hielo [Capítulo 53]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20251212-080933172",
+			"date_published": "2025-12-13T10:15:30.118Z"
+		},
+		{
 			"id": "Asesino de nivel divino [Capítulo 77]",
 			"title": "Asesino de nivel divino [Capítulo 77]",
 			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-nivel-divino",
@@ -2989,18 +3001,6 @@
 			"title": "El Hijo Menor del Renombrado Clan Mágico [Capítulo 105]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-hijo-m20-225-do-clan-magi13424",
 			"date_published": "2025-11-27T03:07:47.748Z"
-		},
-		{
-			"id": "El Joven Maestro del Gran Archivo Celestial [Capítulo 154]",
-			"title": "El Joven Maestro del Gran Archivo Celestial [Capítulo 154]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-joven-maestro-del-gran-archivo-celestial-20251127-081219482",
-			"date_published": "2025-11-27T03:07:47.748Z"
-		},
-		{
-			"id": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 228]",
-			"title": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 228]",
-			"url": "https://olympusbiblioteca.com/series/comic-llevo-mil-anos-atrapado-en-el-mismo-dia",
-			"date_published": "2025-11-27T01:11:44.944Z"
 		}
 	]
 }
