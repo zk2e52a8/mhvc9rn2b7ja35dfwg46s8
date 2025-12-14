@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Sólo un gato. [Capítulo 11]",
+			"title": "Sólo un gato. [Capítulo 11]",
+			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
+			"date_published": "2025-12-14T03:25:16.602Z"
+		},
+		{
+			"id": "Reencarnación del demonio sangriento, la prueba del tanque. [Capítulo 21]",
+			"title": "Reencarnación del demonio sangriento, la prueba del tanque. [Capítulo 21]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarnacion-del-demonio-sangriento-la-prueba-del-tanque",
+			"date_published": "2025-12-14T03:25:16.602Z"
+		},
+		{
+			"id": "Emperador magico (magic emperor) [Capítulo 792]",
+			"title": "Emperador magico (magic emperor) [Capítulo 792]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
+			"date_published": "2025-12-14T03:25:16.602Z"
+		},
+		{
+			"id": "El Regreso Del Genio De Las Artes Marciales [Capítulo 116]",
+			"title": "El Regreso Del Genio De Las Artes Marciales [Capítulo 116]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-genio-de-las-artes-marciales-20251213-080202382",
+			"date_published": "2025-12-14T03:25:16.602Z"
+		},
+		{
+			"id": "El Stream del Reencarnado [Capítulo 11]",
+			"title": "El Stream del Reencarnado [Capítulo 11]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado",
+			"date_published": "2025-12-14T03:25:16.602Z"
+		},
+		{
 			"id": "El Stream del Reencarnado [Capítulo 10]",
 			"title": "El Stream del Reencarnado [Capítulo 10]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado",
@@ -2971,36 +3001,6 @@
 			"title": "Soldado Esqueleto [Capítulo 358]",
 			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20251128-081203844",
 			"date_published": "2025-11-28T06:25:25.195Z"
-		},
-		{
-			"id": "¡Que abundante cosecha, señor demonio! [Capítulo 43]",
-			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 43]",
-			"url": "https://olympusbiblioteca.com/series/comic-que-abundante-cosecha-senor-demonio-20251128-081017809",
-			"date_published": "2025-11-28T06:25:25.195Z"
-		},
-		{
-			"id": "Asesino de nivel divino [Capítulo 73]",
-			"title": "Asesino de nivel divino [Capítulo 73]",
-			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-nivel-divino",
-			"date_published": "2025-11-28T06:25:25.195Z"
-		},
-		{
-			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 6]",
-			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 6]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes",
-			"date_published": "2025-11-28T06:25:25.195Z"
-		},
-		{
-			"id": "Emperador magico (magic emperor) [Capítulo 784]",
-			"title": "Emperador magico (magic emperor) [Capítulo 784]",
-			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
-			"date_published": "2025-11-28T06:25:25.195Z"
-		},
-		{
-			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 5]",
-			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 5]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes",
-			"date_published": "2025-11-28T04:19:51.582Z"
 		}
 	]
 }
