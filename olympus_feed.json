@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Mi Vida Cuidando Dragonas [Capítulo 21]",
+			"title": "Mi Vida Cuidando Dragonas [Capítulo 21]",
+			"url": "https://olympusbiblioteca.com/series/comic-mi-vida-cuidando-dragonas",
+			"date_published": "2025-12-17T20:19:34.009Z"
+		},
+		{
+			"id": "El Asesino de la Luna a la Deriva [Capítulo 118]",
+			"title": "El Asesino de la Luna a la Deriva [Capítulo 118]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-asesino20-225-de-la-luna-a-la-deriva13424",
+			"date_published": "2025-12-17T20:19:34.009Z"
+		},
+		{
+			"id": "El Devoto Caballero [Capítulo 143]",
+			"title": "El Devoto Caballero [Capítulo 143]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-devoto-caballero-20251217-081140824",
+			"date_published": "2025-12-17T20:19:34.009Z"
+		},
+		{
+			"id": "El Maestro de la Espada que Saltó a Través del Tiempo [Capítulo 21]",
+			"title": "El Maestro de la Espada que Saltó a Través del Tiempo [Capítulo 21]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-que-salto-a-traves-del-tiempo",
+			"date_published": "2025-12-17T20:19:34.009Z"
+		},
+		{
 			"id": "el bully de bullies [Capítulo 166]",
 			"title": "el bully de bullies [Capítulo 166]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-bully-de-bullies-20251217-080749901",
@@ -2977,30 +3001,6 @@
 			"title": "Empiezo con 13 Rasgos Ocultos [Capítulo 7]",
 			"url": "https://olympusbiblioteca.com/series/comic-empiezo-con-13-rasgos-ocultos",
 			"date_published": "2025-12-01T18:27:01.087Z"
-		},
-		{
-			"id": "Comienza con una montaña [Capítulo 1172]",
-			"title": "Comienza con una montaña [Capítulo 1172]",
-			"url": "https://olympusbiblioteca.com/series/comic-montan10-05-2025ita13424",
-			"date_published": "2025-12-01T18:27:01.087Z"
-		},
-		{
-			"id": "Regresé con el poder del Rey [Capítulo 119]",
-			"title": "Regresé con el poder del Rey [Capítulo 119]",
-			"url": "https://olympusbiblioteca.com/series/comic-regrese-con-el-poder-del-rey-20251202-080345131",
-			"date_published": "2025-12-01T18:27:01.087Z"
-		},
-		{
-			"id": "El Joven Heredero de la Familia de Nigromantes [Capítulo 56]",
-			"title": "El Joven Heredero de la Familia de Nigromantes [Capítulo 56]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-joven-heredero-de-la-familia-de-nigromantes-20251202-080753767",
-			"date_published": "2025-12-01T16:22:34.729Z"
-		},
-		{
-			"id": "El legendario prodigio del ducado [Capítulo 24]",
-			"title": "El legendario prodigio del ducado [Capítulo 24]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado",
-			"date_published": "2025-12-01T16:22:34.729Z"
 		}
 	]
 }
