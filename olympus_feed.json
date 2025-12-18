@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Ascenso del Caballero Errante [Capítulo 12]",
+			"title": "El Ascenso del Caballero Errante [Capítulo 12]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-ascenso-del-caballero-errante",
+			"date_published": "2025-12-18T06:26:02.580Z"
+		},
+		{
 			"id": "El Mago Genio Destructor de Límites [Capítulo 40]",
 			"title": "El Mago Genio Destructor de Límites [Capítulo 40]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20251217-081247926",
@@ -2995,12 +3001,6 @@
 			"title": "El regreso del mago ilegítimo [Capítulo 23]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-mago-ilegitimo",
 			"date_published": "2025-12-02T08:24:10.369Z"
-		},
-		{
-			"id": "El mago oscuro reencarna Después De 66666 años [Capítulo 158]",
-			"title": "El mago oscuro reencarna Después De 66666 años [Capítulo 158]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago-oscuro-reencarna-despues-de-66666-anos-20251202-081317929",
-			"date_published": "2025-12-02T03:15:24.311Z"
 		}
 	]
 }
