@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Dios Marcial Celestial 2 [Capítulo 10]",
+			"title": "Dios Marcial Celestial 2 [Capítulo 10]",
+			"url": "https://olympusbiblioteca.com/series/comic-dios-marcial-celestial-2",
+			"date_published": "2025-12-20T20:16:21.917Z"
+		},
+		{
+			"id": "Heroe, regresa [Capítulo 133]",
+			"title": "Heroe, regresa [Capítulo 133]",
+			"url": "https://olympusbiblioteca.com/series/comic-dragon-20-225-y-heroe13424",
+			"date_published": "2025-12-20T20:16:21.917Z"
+		},
+		{
+			"id": "El Héroe Regresa a la Academia [Capítulo 35]",
+			"title": "El Héroe Regresa a la Academia [Capítulo 35]",
+			"url": "https://olympusbiblioteca.com/series/comic-5zxzsa-a-la-academia",
+			"date_published": "2025-12-20T20:16:21.917Z"
+		},
+		{
+			"id": "¿En Serio Hay Gente que Piensa que la Cultivación es Difícil? [Capítulo 44]",
+			"title": "¿En Serio Hay Gente que Piensa que la Cultivación es Difícil? [Capítulo 44]",
+			"url": "https://olympusbiblioteca.com/series/comic-en-serio-hay-gente-que-piensa-que-la-cultivacion-es-dificil",
+			"date_published": "2025-12-20T20:16:21.917Z"
+		},
+		{
+			"id": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 87]",
+			"title": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 87]",
+			"url": "https://olympusbiblioteca.com/series/comic-evolucion-marcial-comienza-por-despertar-al-rey-de-los-monstruos",
+			"date_published": "2025-12-20T20:16:21.917Z"
+		},
+		{
 			"id": "Renacido en el Campo de Batalla Demoníaco [Capítulo 19]",
 			"title": "Renacido en el Campo de Batalla Demoníaco [Capítulo 19]",
 			"url": "https://olympusbiblioteca.com/series/comic-renacido-en-el-campo-de-batalla-demoniaco",
@@ -2971,36 +3001,6 @@
 			"title": "Acumulador de rasgos [Capítulo 68]",
 			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos-20251206-080738834",
 			"date_published": "2025-12-05T16:20:54.038Z"
-		},
-		{
-			"id": "Mestizo [Capítulo 30]",
-			"title": "Mestizo [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-mestizo",
-			"date_published": "2025-12-05T16:20:54.038Z"
-		},
-		{
-			"id": "Como vivir como el principe enemigo [Capítulo 90]",
-			"title": "Como vivir como el principe enemigo [Capítulo 90]",
-			"url": "https://olympusbiblioteca.com/series/comic-como-v20-225-rincipe-enemigo5324",
-			"date_published": "2025-12-05T14:16:53.484Z"
-		},
-		{
-			"id": "Acampando en otro Mundo: buscandole el sazon a la vida [Capítulo 86]",
-			"title": "Acampando en otro Mundo: buscandole el sazon a la vida [Capítulo 86]",
-			"url": "https://olympusbiblioteca.com/series/comic-06-05-20210-05-202555030320254",
-			"date_published": "2025-12-05T14:16:53.484Z"
-		},
-		{
-			"id": "Jugador de la noble familia caída [Capítulo 22]",
-			"title": "Jugador de la noble familia caída [Capítulo 22]",
-			"url": "https://olympusbiblioteca.com/series/comic-jugador-de-la-noble-familia-caida",
-			"date_published": "2025-12-05T14:16:53.484Z"
-		},
-		{
-			"id": "El amo de la plaga [Capítulo 94]",
-			"title": "El amo de la plaga [Capítulo 94]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-a10-05-2025mo-de-la-plaga",
-			"date_published": "2025-12-05T14:16:53.484Z"
 		}
 	]
 }
