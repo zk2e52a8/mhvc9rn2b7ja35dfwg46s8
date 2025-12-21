@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Odisea en la Mazmorra [Capítulo 141]",
+			"title": "Odisea en la Mazmorra [Capítulo 141]",
+			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
+			"date_published": "2025-12-21T10:16:41.473Z"
+		},
+		{
 			"id": "Que alguien detenga al Papa [Capítulo 65]",
 			"title": "Que alguien detenga al Papa [Capítulo 65]",
 			"url": "https://olympusbiblioteca.com/series/comic-5zxzien-detenga-al-papa",
@@ -2995,12 +3001,6 @@
 			"title": "cultivador del dao bizarro [Capítulo 62]",
 			"url": "https://olympusbiblioteca.com/series/comic-cultiva5zxzdor-del-dao-bizarro",
 			"date_published": "2025-12-05T22:15:40.011Z"
-		},
-		{
-			"id": "Aragi Kai, el Asesino en el Mundo Paralelo [Capítulo 116]",
-			"title": "Aragi Kai, el Asesino en el Mundo Paralelo [Capítulo 116]",
-			"url": "https://olympusbiblioteca.com/series/comic-aragi-kai-el-asesino-en-el-mundo-paralelo77",
-			"date_published": "2025-12-05T20:18:02.407Z"
 		}
 	]
 }
