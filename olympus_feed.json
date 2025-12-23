@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 100]",
+			"title": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 100]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-dios-caotico-de-fuerza-extraordinaria-20251222-080724015",
+			"date_published": "2025-12-23T04:34:23.810Z"
+		},
+		{
 			"id": "Ciudad del pecado [Capítulo 8]",
 			"title": "Ciudad del pecado [Capítulo 8]",
 			"url": "https://olympusbiblioteca.com/series/comic-ciudad-del-pecado",
@@ -2995,12 +3001,6 @@
 			"title": "La Regresión Inigualable del Caza Dragones [Capítulo 62]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-reg10-05-2025del-caza-dragones",
 			"date_published": "2025-12-07T18:20:51.368Z"
-		},
-		{
-			"id": "El legendario prodigio del ducado [Capítulo 25]",
-			"title": "El legendario prodigio del ducado [Capítulo 25]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado",
-			"date_published": "2025-12-07T16:17:36.906Z"
 		}
 	]
 }
