@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Los Breakers [Capítulo 35]",
+			"title": "Los Breakers [Capítulo 35]",
+			"url": "https://olympusbiblioteca.com/series/comic-los-breakers",
+			"date_published": "2025-12-24T08:23:54.149Z"
+		},
+		{
 			"id": "El maestro de la espada acogedor de estrellas [Capítulo 102.1]",
 			"title": "El maestro de la espada acogedor de estrellas [Capítulo 102.1]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-acogedor-de-estrellas-20251223-080406843",
@@ -2995,12 +3001,6 @@
 			"title": "Archimago trascendiendo a través de la regresión [Capítulo 178]",
 			"url": "https://olympusbiblioteca.com/series/comic-archima20-225-de-la-regresion13424",
 			"date_published": "2025-12-08T16:21:47.542Z"
-		},
-		{
-			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 105]",
-			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 105]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-marcial-que-regreso-al-nivel-2-20251209-081434335",
-			"date_published": "2025-12-08T14:17:55.312Z"
 		}
 	]
 }
