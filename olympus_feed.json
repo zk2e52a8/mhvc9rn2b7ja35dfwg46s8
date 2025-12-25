@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Papá zombie [Capítulo 17]",
+			"title": "Papá zombie [Capítulo 17]",
+			"url": "https://olympusbiblioteca.com/series/comic-papa-zombie",
+			"date_published": "2025-12-25T03:23:13.813Z"
+		},
+		{
+			"id": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 26]",
+			"title": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 26]",
+			"url": "https://olympusbiblioteca.com/series/comic-cara-feliz-de-esclavo-a-leyenda-de-la-arena",
+			"date_published": "2025-12-25T03:23:13.813Z"
+		},
+		{
+			"id": "Villano antihéroe [Capítulo 215]",
+			"title": "Villano antihéroe [Capítulo 215]",
+			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe-20251224-081529239",
+			"date_published": "2025-12-25T03:23:13.813Z"
+		},
+		{
 			"id": "La vida de un mago de la academia de magia [Capítulo 133]",
 			"title": "La vida de un mago de la academia de magia [Capítulo 133]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-vida-d20-225-ademia-de-magia13424",
@@ -2983,24 +3001,6 @@
 			"title": "El Indomable Rey Marcial [Capítulo 111]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial-20251210-080536390",
 			"date_published": "2025-12-09T06:26:13.307Z"
-		},
-		{
-			"id": "El Indomable Rey Marcial [Capítulo 110]",
-			"title": "El Indomable Rey Marcial [Capítulo 110]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial-20251208-080614777",
-			"date_published": "2025-12-09T04:25:11.418Z"
-		},
-		{
-			"id": "La noche del goblin [Capítulo 122]",
-			"title": "La noche del goblin [Capítulo 122]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin-20251210-081350351",
-			"date_published": "2025-12-09T04:25:11.418Z"
-		},
-		{
-			"id": "El Perro Loco de la Mansión del Duque [Capítulo 33]",
-			"title": "El Perro Loco de la Mansión del Duque [Capítulo 33]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-perro-loco-de-la-mansion-del-duque",
-			"date_published": "2025-12-09T03:15:26.457Z"
 		}
 	]
 }
