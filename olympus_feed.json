@@ -3,9 +3,21 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Papá zombie [Capítulo 18]",
+			"title": "Papá zombie [Capítulo 18]",
+			"url": "https://olympusbiblioteca.com/series/comic-papa-zombie",
+			"date_published": "2025-12-27T12:30:58.597Z"
+		},
+		{
+			"id": "Regresé, Pero El Mundo No Terminó. [Capítulo 45]",
+			"title": "Regresé, Pero El Mundo No Terminó. [Capítulo 45]",
+			"url": "https://olympusbiblioteca.com/series/comic-regrese-pero-el-mundo-no-termino",
+			"date_published": "2025-12-27T12:30:58.597Z"
+		},
+		{
 			"id": "Lider Kim [Capítulo 221]",
 			"title": "Lider Kim [Capítulo 221]",
-			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20251226-081104724",
+			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20251227-081124326",
 			"date_published": "2025-12-27T10:16:04.796Z"
 		},
 		{
@@ -17,7 +29,7 @@
 		{
 			"id": "Acumulador de rasgos [Capítulo 72]",
 			"title": "Acumulador de rasgos [Capítulo 72]",
-			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos-20251226-080738409",
+			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos-20251227-080748837",
 			"date_published": "2025-12-27T04:29:16.466Z"
 		},
 		{
@@ -29,7 +41,7 @@
 		{
 			"id": "La vida del regresor después del retiro [Capítulo 72]",
 			"title": "La vida del regresor después del retiro [Capítulo 72]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-regresor-despues-del-retiro-20251226-080359946",
+			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-regresor-despues-del-retiro-20251227-080400354",
 			"date_published": "2025-12-27T03:19:31.671Z"
 		},
 		{
@@ -77,7 +89,7 @@
 		{
 			"id": "Sangre Maldita [Capítulo 67]",
 			"title": "Sangre Maldita [Capítulo 67]",
-			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20251226-080813699",
+			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20251227-080829920",
 			"date_published": "2025-12-27T01:14:52.239Z"
 		},
 		{
@@ -89,19 +101,19 @@
 		{
 			"id": "El guerrero despiadado [Capítulo 37]",
 			"title": "El guerrero despiadado [Capítulo 37]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado-20251226-081517920",
+			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado-20251227-081541725",
 			"date_published": "2025-12-26T22:15:51.111Z"
 		},
 		{
 			"id": "Loco Murim [Capítulo 178]",
 			"title": "Loco Murim [Capítulo 178]",
-			"url": "https://olympusbiblioteca.com/series/comic-loco-murim-20251226-080350144",
+			"url": "https://olympusbiblioteca.com/series/comic-loco-murim-20251227-080350640",
 			"date_published": "2025-12-26T20:17:06.350Z"
 		},
 		{
 			"id": "Asesino Pietro (Viejo sabroso)| [Capítulo 110.1]",
 			"title": "Asesino Pietro (Viejo sabroso)| [Capítulo 110.1]",
-			"url": "https://olympusbiblioteca.com/series/comic-asesino-pietro-viejo-sabroso",
+			"url": "https://olympusbiblioteca.com/series/comic-asesino-pietro-viejo-sabroso-20251227-080411205",
 			"date_published": "2025-12-26T20:17:06.350Z"
 		},
 		{
@@ -119,7 +131,7 @@
 		{
 			"id": "El Señor de Hielo [Capítulo 55]",
 			"title": "El Señor de Hielo [Capítulo 55]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20251226-080937339",
+			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20251227-080955931",
 			"date_published": "2025-12-26T20:17:06.350Z"
 		},
 		{
@@ -2988,18 +3000,6 @@
 			"id": "El amo de la plaga [Capítulo 95]",
 			"title": "El amo de la plaga [Capítulo 95]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-a10-05-2025mo-de-la-plaga",
-			"date_published": "2025-12-12T01:16:46.377Z"
-		},
-		{
-			"id": "Nueva Cara [Capítulo 585]",
-			"title": "Nueva Cara [Capítulo 585]",
-			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20251212-081154240",
-			"date_published": "2025-12-12T01:16:46.377Z"
-		},
-		{
-			"id": "De duende a Dios Goblin [Capítulo 88]",
-			"title": "De duende a Dios Goblin [Capítulo 88]",
-			"url": "https://olympusbiblioteca.com/series/comic-de-duen10-05-2025de-a-dios-goblin",
 			"date_published": "2025-12-12T01:16:46.377Z"
 		}
 	]
