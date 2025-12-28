@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El héroe que sabe lo que hace [Capítulo 3]",
+			"title": "El héroe que sabe lo que hace [Capítulo 3]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-que-sabe-lo-que-hace",
+			"date_published": "2025-12-28T16:19:10.785Z"
+		},
+		{
+			"id": "Genio del Linaje único [Capítulo 144]",
+			"title": "Genio del Linaje único [Capítulo 144]",
+			"url": "https://olympusbiblioteca.com/series/comic-genio-del-linaje-unico-20251228-081313245",
+			"date_published": "2025-12-28T16:19:10.785Z"
+		},
+		{
+			"id": "*El asesino que retornó como el hijo del duque [Capítulo 107]",
+			"title": "*El asesino que retornó como el hijo del duque [Capítulo 107]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-que-retorno-como-el-hijo-del-duque-20251228-080506449",
+			"date_published": "2025-12-28T16:19:10.785Z"
+		},
+		{
+			"id": "El legendario hijo menor de la Casa del Marques [Capítulo 158]",
+			"title": "El legendario hijo menor de la Casa del Marques [Capítulo 158]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-lege20-225-ndario-marques13424",
+			"date_published": "2025-12-28T16:19:10.785Z"
+		},
+		{
+			"id": "Amigo de la Infancia del Zenit [Capítulo 87]",
+			"title": "Amigo de la Infancia del Zenit [Capítulo 87]",
+			"url": "https://olympusbiblioteca.com/series/comic-amigo-de20-225-e-zenith",
+			"date_published": "2025-12-28T16:19:10.785Z"
+		},
+		{
 			"id": "La venganza del sabueso de sangre de hierro [Capítulo 145]",
 			"title": "La venganza del sabueso de sangre de hierro [Capítulo 145]",
 			"url": "https://olympusbiblioteca.com/series/comic-20-225-2sabueso13424",
@@ -2971,36 +3001,6 @@
 			"title": "Sobreviviendo como un genio con tiempo prestado [Capítulo 57]",
 			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-como-un-genio-con-tiempo-prestado-20251212-080755673",
 			"date_published": "2025-12-13T03:12:49.065Z"
-		},
-		{
-			"id": "El Mago Genio Destructor de Límites [Capítulo 39]",
-			"title": "El Mago Genio Destructor de Límites [Capítulo 39]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20251213-081327246",
-			"date_published": "2025-12-13T03:12:49.065Z"
-		},
-		{
-			"id": "Emperador magico (magic emperor) [Capítulo 791]",
-			"title": "Emperador magico (magic emperor) [Capítulo 791]",
-			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
-			"date_published": "2025-12-13T03:12:49.065Z"
-		},
-		{
-			"id": "La regresión del eunuco para recuperar su hombría [Capítulo 60]",
-			"title": "La regresión del eunuco para recuperar su hombría [Capítulo 60]",
-			"url": "https://olympusbiblioteca.com/series/comic-06-03-205zxz255320254zsz",
-			"date_published": "2025-12-13T03:12:49.065Z"
-		},
-		{
-			"id": "El Stream del Reencarnado [Capítulo 4]",
-			"title": "El Stream del Reencarnado [Capítulo 4]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado",
-			"date_published": "2025-12-13T01:12:07.844Z"
-		},
-		{
-			"id": "Empiezo con 13 Rasgos Ocultos [Capítulo 9]",
-			"title": "Empiezo con 13 Rasgos Ocultos [Capítulo 9]",
-			"url": "https://olympusbiblioteca.com/series/comic-empiezo-con-13-rasgos-ocultos",
-			"date_published": "2025-12-13T01:12:07.844Z"
 		}
 	]
 }
