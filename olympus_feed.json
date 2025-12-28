@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "*El jugador que no puede subir de nivel [Capítulo 218]",
+			"title": "*El jugador que no puede subir de nivel [Capítulo 218]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-jugador-que-no-puede-subir-de-nivel-20251228-081308509",
+			"date_published": "2025-12-28T18:23:23.365Z"
+		},
+		{
+			"id": "Un héroe que sabe lo que hace [Capítulo 7]",
+			"title": "Un héroe que sabe lo que hace [Capítulo 7]",
+			"url": "https://olympusbiblioteca.com/series/comic-un-heroe-que-sabe-lo-que-hace",
+			"date_published": "2025-12-28T18:23:23.365Z"
+		},
+		{
+			"id": "El soberano del hogar [Capítulo 61]",
+			"title": "El soberano del hogar [Capítulo 61]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-soberano-del-hogar-20251228-080735849",
+			"date_published": "2025-12-28T18:23:23.365Z"
+		},
+		{
+			"id": "Cazador de gachas de clase SSS [Capítulo 138.5]",
+			"title": "Cazador de gachas de clase SSS [Capítulo 138.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-cazador-de-gachas-de-clase-sss-20251228-081050097",
+			"date_published": "2025-12-28T18:23:23.365Z"
+		},
+		{
 			"id": "El héroe que sabe lo que hace [Capítulo 3]",
 			"title": "El héroe que sabe lo que hace [Capítulo 3]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-que-sabe-lo-que-hace",
@@ -2977,30 +3001,6 @@
 			"title": "Soldado Esqueleto [Capítulo 359]",
 			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20251214-080959090",
 			"date_published": "2025-12-13T10:15:30.118Z"
-		},
-		{
-			"id": "El Señor de Hielo [Capítulo 53]",
-			"title": "El Señor de Hielo [Capítulo 53]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20251214-080827788",
-			"date_published": "2025-12-13T10:15:30.118Z"
-		},
-		{
-			"id": "Asesino de nivel divino [Capítulo 77]",
-			"title": "Asesino de nivel divino [Capítulo 77]",
-			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-nivel-divino",
-			"date_published": "2025-12-13T08:19:45.347Z"
-		},
-		{
-			"id": "Caballero en Eterna Regresión [Capítulo 88]",
-			"title": "Caballero en Eterna Regresión [Capítulo 88]",
-			"url": "https://olympusbiblioteca.com/series/comic-caballero-en-eterna-regresion-20251213-080519349",
-			"date_published": "2025-12-13T06:23:51.028Z"
-		},
-		{
-			"id": "Sobreviviendo como un genio con tiempo prestado [Capítulo 57]",
-			"title": "Sobreviviendo como un genio con tiempo prestado [Capítulo 57]",
-			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-como-un-genio-con-tiempo-prestado-20251212-080755673",
-			"date_published": "2025-12-13T03:12:49.065Z"
 		}
 	]
 }
