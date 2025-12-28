@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El héroe que sabe lo que hace [Capítulo 1]",
+			"title": "El héroe que sabe lo que hace [Capítulo 1]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-que-sabe-lo-que-hace",
+			"date_published": "2025-12-28T10:16:12.040Z"
+		},
+		{
 			"id": "Lider Kim [Capítulo 222]",
 			"title": "Lider Kim [Capítulo 222]",
 			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20251227-081124326",
@@ -2994,12 +3000,6 @@
 			"id": "Montañas de cadáveres y mar de sangre [Capítulo 17]",
 			"title": "Montañas de cadáveres y mar de sangre [Capítulo 17]",
 			"url": "https://olympusbiblioteca.com/series/comic-montanas-de-cadaveres-y-mar-de-sangre",
-			"date_published": "2025-12-12T22:15:52.338Z"
-		},
-		{
-			"id": "Cómo criar villanos correctamente [Capítulo 13]",
-			"title": "Cómo criar villanos correctamente [Capítulo 13]",
-			"url": "https://olympusbiblioteca.com/series/comic-como-criar-villanos-correctamente",
 			"date_published": "2025-12-12T22:15:52.338Z"
 		}
 	]
