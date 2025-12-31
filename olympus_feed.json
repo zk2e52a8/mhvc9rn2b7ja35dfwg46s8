@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Manual de instrucciones del Reencarnado [Capítulo 170]",
+			"title": "Manual de instrucciones del Reencarnado [Capítulo 170]",
+			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado",
+			"date_published": "2025-12-31T01:18:24.789Z"
+		},
+		{
+			"id": "Deuda de Sangre [Capítulo 3]",
+			"title": "Deuda de Sangre [Capítulo 3]",
+			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre",
+			"date_published": "2025-12-31T01:18:24.789Z"
+		},
+		{
 			"id": "Las conspiraciones del mercenario regresado [Capítulo 70]",
 			"title": "Las conspiraciones del mercenario regresado [Capítulo 70]",
 			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado-20251230-080749995",
@@ -2989,18 +3001,6 @@
 			"title": "Guía de estrategia de un cobarde para conquistar la torre [Capítulo 4]",
 			"url": "https://olympusbiblioteca.com/series/comic-guia-de-estrategia-de-un-cobarde-para-conquistar-la-torre",
 			"date_published": "2025-12-15T16:24:04.641Z"
-		},
-		{
-			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 106]",
-			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 106]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-marcial-que-regreso-al-nivel-2-20251216-081339966",
-			"date_published": "2025-12-15T14:21:04.244Z"
-		},
-		{
-			"id": "Jugador de nivel máximo [Capítulo 127]",
-			"title": "Jugador de nivel máximo [Capítulo 127]",
-			"url": "https://olympusbiblioteca.com/series/comic-jug20-225-olympus513424",
-			"date_published": "2025-12-15T14:21:04.244Z"
 		}
 	]
 }
