@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "La segunda campaña del Berserker [Capítulo 9]",
+			"title": "La segunda campaña del Berserker [Capítulo 9]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-segunda-campana-del-berserker",
+			"date_published": "2026-01-01T22:15:58.126Z"
+		},
+		{
+			"id": "Nueva Cara [Capítulo 588]",
+			"title": "Nueva Cara [Capítulo 588]",
+			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20260101-081125053",
+			"date_published": "2026-01-01T22:15:58.126Z"
+		},
+		{
+			"id": "Cómo criar villanos correctamente [Capítulo 16]",
+			"title": "Cómo criar villanos correctamente [Capítulo 16]",
+			"url": "https://olympusbiblioteca.com/series/comic-como-criar-villanos-correctamente-20260101-081538424",
+			"date_published": "2026-01-01T22:15:58.126Z"
+		},
+		{
 			"id": "La segunda campaña del Berserker [Capítulo 6]",
 			"title": "La segunda campaña del Berserker [Capítulo 6]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-segunda-campana-del-berserker",
@@ -2983,24 +3001,6 @@
 			"title": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 161]",
 			"url": "https://olympusbiblioteca.com/series/comic-maestr10-05-2025ede-ser-el-hijo-sagrado5324",
 			"date_published": "2025-12-17T01:12:32.156Z"
-		},
-		{
-			"id": "Odisea en la Mazmorra [Capítulo 140]",
-			"title": "Odisea en la Mazmorra [Capítulo 140]",
-			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
-			"date_published": "2025-12-16T22:16:42.239Z"
-		},
-		{
-			"id": "El Héroe Regresa a la Academia [Capítulo 33]",
-			"title": "El Héroe Regresa a la Academia [Capítulo 33]",
-			"url": "https://olympusbiblioteca.com/series/comic-5zxzsa-a-la-academia",
-			"date_published": "2025-12-16T22:16:42.239Z"
-		},
-		{
-			"id": "Mago devorador de dragones [Capítulo 123]",
-			"title": "Mago devorador de dragones [Capítulo 123]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago20-225-r-de-11251151515",
-			"date_published": "2025-12-16T22:16:42.239Z"
 		}
 	]
 }
