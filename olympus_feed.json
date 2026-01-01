@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 49]",
+			"title": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 49]",
+			"url": "https://olympusbiblioteca.com/series/comic-ascension-divina-mi-camino-a-la-cima-de-las-artes-marciales",
+			"date_published": "2026-01-01T06:27:02.154Z"
+		},
+		{
 			"id": "La regresión del eunuco para recuperar su hombría [Capítulo 64]",
 			"title": "La regresión del eunuco para recuperar su hombría [Capítulo 64]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-regresion-del-eunuco-para-recuperar-su-hombria-20251231-081812753",
@@ -2995,12 +3001,6 @@
 			"title": "El Troll más fuerte del mundo [Capítulo 158]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-troll-mas-fuerte-del-mundo-20251216-080405521",
 			"date_published": "2025-12-16T14:20:02.328Z"
-		},
-		{
-			"id": "Reencarnación del demonio sangriento, la prueba del tanque. [Capítulo 22]",
-			"title": "Reencarnación del demonio sangriento, la prueba del tanque. [Capítulo 22]",
-			"url": "https://olympusbiblioteca.com/series/comic-reencarnacion-del-demonio-sangriento-la-prueba-del-tanque",
-			"date_published": "2025-12-16T12:36:05.845Z"
 		}
 	]
 }
