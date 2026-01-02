@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Actúe como un jefecito final, Sr. devorador [Capítulo 108]",
+			"title": "Actúe como un jefecito final, Sr. devorador [Capítulo 108]",
+			"url": "https://olympusbiblioteca.com/series/comic-actue-com20-225-l-sr-devorador",
+			"date_published": "2026-01-02T18:24:08.811Z"
+		},
+		{
+			"id": "Como vivir como el principe enemigo [Capítulo 94]",
+			"title": "Como vivir como el principe enemigo [Capítulo 94]",
+			"url": "https://olympusbiblioteca.com/series/comic-como-v20-225-rincipe-enemigo5324",
+			"date_published": "2026-01-02T18:24:08.811Z"
+		},
+		{
+			"id": "La Evolución del Depredador [Capítulo 85]",
+			"title": "La Evolución del Depredador [Capítulo 85]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-evolucion-del-depredador",
+			"date_published": "2026-01-02T18:24:08.811Z"
+		},
+		{
 			"id": "Subiendo de nivel con las mejores habilidades [Capítulo 132]",
 			"title": "Subiendo de nivel con las mejores habilidades [Capítulo 132]",
 			"url": "https://olympusbiblioteca.com/series/comic-s20-225-evel-mejores-221r1234",
@@ -683,7 +701,7 @@
 		{
 			"id": "Super humanos [Capítulo 216]",
 			"title": "Super humanos [Capítulo 216]",
-			"url": "https://olympusbiblioteca.com/series/comic-super-humanos-20251230-080735381",
+			"url": "https://olympusbiblioteca.com/series/comic-super-humanos-20260102-080659438",
 			"date_published": "2025-12-29T06:28:28.830Z"
 		},
 		{
@@ -2983,24 +3001,6 @@
 			"title": "Grupo de Estudio [Capítulo 302]",
 			"url": "https://olympusbiblioteca.com/series/comic-grupo-de-estudio-20251218-081052861",
 			"date_published": "2025-12-17T22:15:58.131Z"
-		},
-		{
-			"id": "El regreso del mago ilegítimo [Capítulo 24]",
-			"title": "El regreso del mago ilegítimo [Capítulo 24]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-mago-ilegitimo",
-			"date_published": "2025-12-17T22:15:58.130Z"
-		},
-		{
-			"id": "Mi Vida Cuidando Dragonas [Capítulo 21]",
-			"title": "Mi Vida Cuidando Dragonas [Capítulo 21]",
-			"url": "https://olympusbiblioteca.com/series/comic-mi-vida-cuidando-dragonas",
-			"date_published": "2025-12-17T20:19:34.009Z"
-		},
-		{
-			"id": "El Asesino de la Luna a la Deriva [Capítulo 118]",
-			"title": "El Asesino de la Luna a la Deriva [Capítulo 118]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino20-225-de-la-luna-a-la-deriva13424",
-			"date_published": "2025-12-17T20:19:34.009Z"
 		}
 	]
 }
