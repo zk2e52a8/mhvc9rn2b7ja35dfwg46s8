@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Deuda de Sangre [Capítulo 6]",
+			"title": "Deuda de Sangre [Capítulo 6]",
+			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre",
+			"date_published": "2026-01-02T04:36:48.007Z"
+		},
+		{
 			"id": "Papá zombie [Capítulo 19]",
 			"title": "Papá zombie [Capítulo 19]",
 			"url": "https://olympusbiblioteca.com/series/comic-papa-zombie",
@@ -2995,12 +3001,6 @@
 			"title": "El soberano del hogar [Capítulo 59]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-soberano-del-hogar-20251217-080606928",
 			"date_published": "2025-12-17T08:24:00.207Z"
-		},
-		{
-			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 49]",
-			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 49]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
-			"date_published": "2025-12-17T08:24:00.206Z"
 		}
 	]
 }
