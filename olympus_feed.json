@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 51]",
+			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 51]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
+			"date_published": "2026-01-02T06:27:19.608Z"
+		},
+		{
 			"id": "Deuda de Sangre [Capítulo 6]",
 			"title": "Deuda de Sangre [Capítulo 6]",
 			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre",
@@ -2995,12 +3001,6 @@
 			"title": "Comienza con una montaña [Capítulo 1180]",
 			"url": "https://olympusbiblioteca.com/series/comic-montan10-05-2025ita13424",
 			"date_published": "2025-12-17T14:17:52.138Z"
-		},
-		{
-			"id": "El soberano del hogar [Capítulo 59]",
-			"title": "El soberano del hogar [Capítulo 59]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-soberano-del-hogar-20251217-080606928",
-			"date_published": "2025-12-17T08:24:00.207Z"
 		}
 	]
 }
