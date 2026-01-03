@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Heroe, regresa [Capítulo 135]",
+			"title": "Heroe, regresa [Capítulo 135]",
+			"url": "https://olympusbiblioteca.com/series/comic-dragon-20-225-y-heroe13424",
+			"date_published": "2026-01-03T16:19:05.533Z"
+		},
+		{
+			"id": "El Blinker genio de la academia mágica [Capítulo 82]",
+			"title": "El Blinker genio de la academia mágica [Capítulo 82]",
+			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica",
+			"date_published": "2026-01-03T16:19:05.533Z"
+		},
+		{
+			"id": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 36]",
+			"title": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 36]",
+			"url": "https://olympusbiblioteca.com/series/comic-me-converti-en-el-villano-con-el-que-la-heroina-esta-obsesionada",
+			"date_published": "2026-01-03T16:19:05.533Z"
+		},
+		{
 			"id": "El hijo menor del maestro de la espada [Capítulo 192]",
 			"title": "El hijo menor del maestro de la espada [Capítulo 192]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-hijo20-225-de-la-espada13424",
@@ -2983,24 +3001,6 @@
 			"title": "Espada de la inquisición celestial [Capítulo 148]",
 			"url": "https://olympusbiblioteca.com/series/comic-inquisic20-225-ion-celestia13424",
 			"date_published": "2025-12-18T20:16:59.680Z"
-		},
-		{
-			"id": "Archimago trascendiendo a través de la regresión [Capítulo 180]",
-			"title": "Archimago trascendiendo a través de la regresión [Capítulo 180]",
-			"url": "https://olympusbiblioteca.com/series/comic-archima20-225-de-la-regresion13424",
-			"date_published": "2025-12-18T20:16:59.680Z"
-		},
-		{
-			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 9]",
-			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 9]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes",
-			"date_published": "2025-12-18T20:16:59.680Z"
-		},
-		{
-			"id": "Nueva Cara [Capítulo 586]",
-			"title": "Nueva Cara [Capítulo 586]",
-			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20251219-081054757",
-			"date_published": "2025-12-18T18:25:08.866Z"
 		}
 	]
 }
