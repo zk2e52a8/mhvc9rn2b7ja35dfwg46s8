@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 101]",
+			"title": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 101]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-dios-caotico-de-fuerza-extraordinaria-20260103-080652954",
+			"date_published": "2026-01-04T03:47:02.281Z"
+		},
+		{
+			"id": "Perfilador de villanos [Capítulo 23]",
+			"title": "Perfilador de villanos [Capítulo 23]",
+			"url": "https://olympusbiblioteca.com/series/comic-perfilador-de-villanos",
+			"date_published": "2026-01-04T03:47:02.281Z"
+		},
+		{
+			"id": "Villano antihéroe [Capítulo 216]",
+			"title": "Villano antihéroe [Capítulo 216]",
+			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe-20260103-081339103",
+			"date_published": "2026-01-04T03:47:02.281Z"
+		},
+		{
+			"id": "Ciudad del pecado [Capítulo 10]",
+			"title": "Ciudad del pecado [Capítulo 10]",
+			"url": "https://olympusbiblioteca.com/series/comic-ciudad-del-pecado",
+			"date_published": "2026-01-04T03:47:02.281Z"
+		},
+		{
+			"id": "La vida del regresor después del retiro [Capítulo 83]",
+			"title": "La vida del regresor después del retiro [Capítulo 83]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-regresor-despues-del-retiro-20260103-080448715",
+			"date_published": "2026-01-04T03:47:02.281Z"
+		},
+		{
 			"id": "Emperador magico (magic emperor) [Capítulo 801]",
 			"title": "Emperador magico (magic emperor) [Capítulo 801]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
@@ -2971,36 +3001,6 @@
 			"title": "Comienza con una montaña [Capítulo 1183]",
 			"url": "https://olympusbiblioteca.com/series/comic-montan10-05-2025ita13424",
 			"date_published": "2025-12-19T14:16:57.666Z"
-		},
-		{
-			"id": "Sólo un gato. [Capítulo 13]",
-			"title": "Sólo un gato. [Capítulo 13]",
-			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
-			"date_published": "2025-12-19T12:33:26.513Z"
-		},
-		{
-			"id": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 25]",
-			"title": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 25]",
-			"url": "https://olympusbiblioteca.com/series/comic-cara-feliz-de-esclavo-a-leyenda-de-la-arena",
-			"date_published": "2025-12-19T12:33:26.513Z"
-		},
-		{
-			"id": "Tengo la guía exclusiva de la torre [Capítulo 96]",
-			"title": "Tengo la guía exclusiva de la torre [Capítulo 96]",
-			"url": "https://olympusbiblioteca.com/series/comic-tengo-la-guia-exclusiva-de-la-torre-20251219-080512131",
-			"date_published": "2025-12-19T08:23:33.823Z"
-		},
-		{
-			"id": "Que alguien detenga al Papa [Capítulo 61]",
-			"title": "Que alguien detenga al Papa [Capítulo 61]",
-			"url": "https://olympusbiblioteca.com/series/comic-5zxzien-detenga-al-papa",
-			"date_published": "2025-12-19T06:25:24.525Z"
-		},
-		{
-			"id": "Regresé con el poder del Rey [Capítulo 121]",
-			"title": "Regresé con el poder del Rey [Capítulo 121]",
-			"url": "https://olympusbiblioteca.com/series/comic-regrese-con-el-poder-del-rey-20251219-080336988",
-			"date_published": "2025-12-19T06:25:24.525Z"
 		}
 	]
 }
