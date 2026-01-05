@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Indomable Rey Marcial [Capítulo 114]",
+			"title": "El Indomable Rey Marcial [Capítulo 114]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial-20260105-080516087",
+			"date_published": "2026-01-05T22:16:54.205Z"
+		},
+		{
+			"id": "Come y crece [Capítulo 30]",
+			"title": "Come y crece [Capítulo 30]",
+			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260105-081405913",
+			"date_published": "2026-01-05T22:16:54.205Z"
+		},
+		{
+			"id": "Torre de Dios : Urek Mazino [Capítulo 43]",
+			"title": "Torre de Dios : Urek Mazino [Capítulo 43]",
+			"url": "https://olympusbiblioteca.com/series/comic-torre-de-dios-urek-mazino-20260105-080852964",
+			"date_published": "2026-01-05T22:16:54.204Z"
+		},
+		{
 			"id": "El Indomable Rey Marcial [Capítulo 113]",
 			"title": "El Indomable Rey Marcial [Capítulo 113]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial-20260105-080516087",
@@ -2983,24 +3001,6 @@
 			"title": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 87]",
 			"url": "https://olympusbiblioteca.com/series/comic-evolucion-marcial-comienza-por-despertar-al-rey-de-los-monstruos",
 			"date_published": "2025-12-20T20:16:21.917Z"
-		},
-		{
-			"id": "Renacido en el Campo de Batalla Demoníaco [Capítulo 19]",
-			"title": "Renacido en el Campo de Batalla Demoníaco [Capítulo 19]",
-			"url": "https://olympusbiblioteca.com/series/comic-renacido-en-el-campo-de-batalla-demoniaco",
-			"date_published": "2025-12-20T18:20:38.979Z"
-		},
-		{
-			"id": "El Asesino Yu Ijin [Capítulo 268]",
-			"title": "El Asesino Yu Ijin [Capítulo 268]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-yu-ijin-20251221-080855764",
-			"date_published": "2025-12-20T18:20:38.979Z"
-		},
-		{
-			"id": "El enfermo terminal joven maestro Baek [Capítulo 84]",
-			"title": "El enfermo terminal joven maestro Baek [Capítulo 84]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-enfermo-terminal-joven-maestro-baek-20251221-080456767",
-			"date_published": "2025-12-20T18:20:38.979Z"
 		}
 	]
 }
