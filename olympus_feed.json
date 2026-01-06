@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Rayito [Capítulo 384]",
+			"title": "Rayito [Capítulo 384]",
+			"url": "https://olympusbiblioteca.com/series/comic-rayito-20260106-081546809",
+			"date_published": "2026-01-06T16:22:07.631Z"
+		},
+		{
+			"id": "Nivelando Con Los Dioses [Capítulo 155.05]",
+			"title": "Nivelando Con Los Dioses [Capítulo 155.05]",
+			"url": "https://olympusbiblioteca.com/series/comic-nivel20-225-ando-con-los-dioses13424",
+			"date_published": "2026-01-06T16:22:07.631Z"
+		},
+		{
+			"id": "El Retorno del Patriarca Mil Años Después [Capítulo 21]",
+			"title": "El Retorno del Patriarca Mil Años Después [Capítulo 21]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-retorno-del-patriarca-mil-anos-despues",
+			"date_published": "2026-01-06T16:22:07.630Z"
+		},
+		{
 			"id": "Mago Oscuro (Black Haze remake) [Capítulo 55.5]",
 			"title": "Mago Oscuro (Black Haze remake) [Capítulo 55.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-mago-oscuro-black-haze-remake",
@@ -2983,24 +3001,6 @@
 			"title": "Emperador magico (magic emperor) [Capítulo 795]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
 			"date_published": "2025-12-21T04:33:56.029Z"
-		},
-		{
-			"id": "El gran demonio celestial soberano [Capítulo 32]",
-			"title": "El gran demonio celestial soberano [Capítulo 32]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-gran-demonio-celestial-soberano",
-			"date_published": "2025-12-21T04:33:56.029Z"
-		},
-		{
-			"id": "El Stream del Reencarnado [Capítulo 28]",
-			"title": "El Stream del Reencarnado [Capítulo 28]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado",
-			"date_published": "2025-12-21T04:33:56.029Z"
-		},
-		{
-			"id": "Hijos de la Runa [Capítulo 45]",
-			"title": "Hijos de la Runa [Capítulo 45]",
-			"url": "https://olympusbiblioteca.com/series/comic-hijoo5324s-de-la-runa",
-			"date_published": "2025-12-21T03:25:50.109Z"
 		}
 	]
 }
