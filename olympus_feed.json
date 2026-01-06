@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Arquitecto de mazmorras [Capítulo 63]",
+			"title": "El Arquitecto de mazmorras [Capítulo 63]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-arquite5zxzorras",
+			"date_published": "2026-01-06T18:25:13.207Z"
+		},
+		{
+			"id": "Destinado a ser Amado por Villanas [Capítulo 51]",
+			"title": "Destinado a ser Amado por Villanas [Capítulo 51]",
+			"url": "https://olympusbiblioteca.com/series/comic-destin10-05-2025do-por-villanas",
+			"date_published": "2026-01-06T18:25:13.207Z"
+		},
+		{
+			"id": "Regresión del bastardo del clan de la espada [Capítulo 77]",
+			"title": "Regresión del bastardo del clan de la espada [Capítulo 77]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresion10-05-20250152309",
+			"date_published": "2026-01-06T18:25:13.207Z"
+		},
+		{
+			"id": "El Mago Devorador de Talentos [Capítulo 121]",
+			"title": "El Mago Devorador de Talentos [Capítulo 121]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago-20-225-devorador-de-talentos13424",
+			"date_published": "2026-01-06T18:25:13.207Z"
+		},
+		{
 			"id": "Rayito [Capítulo 384]",
 			"title": "Rayito [Capítulo 384]",
 			"url": "https://olympusbiblioteca.com/series/comic-rayito-20260106-081546809",
@@ -2977,30 +3001,6 @@
 			"title": "La venganza del sabueso de sangre de hierro [Capítulo 144]",
 			"url": "https://olympusbiblioteca.com/series/comic-20-225-2sabueso13424",
 			"date_published": "2025-12-21T14:14:43.264Z"
-		},
-		{
-			"id": "El Sentido Absoluto de las Espadas [Capítulo 160]",
-			"title": "El Sentido Absoluto de las Espadas [Capítulo 160]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-sentido-absoluto-de-las-espadas-20251222-080603184",
-			"date_published": "2025-12-21T14:14:43.264Z"
-		},
-		{
-			"id": "Odisea en la Mazmorra [Capítulo 141]",
-			"title": "Odisea en la Mazmorra [Capítulo 141]",
-			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
-			"date_published": "2025-12-21T10:16:41.473Z"
-		},
-		{
-			"id": "Que alguien detenga al Papa [Capítulo 65]",
-			"title": "Que alguien detenga al Papa [Capítulo 65]",
-			"url": "https://olympusbiblioteca.com/series/comic-5zxzien-detenga-al-papa",
-			"date_published": "2025-12-21T08:20:45.201Z"
-		},
-		{
-			"id": "Emperador magico (magic emperor) [Capítulo 795]",
-			"title": "Emperador magico (magic emperor) [Capítulo 795]",
-			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
-			"date_published": "2025-12-21T04:33:56.029Z"
 		}
 	]
 }
