@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Come y crece [Capítulo 35]",
+			"title": "Come y crece [Capítulo 35]",
+			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260108-081309065",
+			"date_published": "2026-01-08T20:19:53.182Z"
+		},
+		{
+			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 12]",
+			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 12]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes-20260108-081411784",
+			"date_published": "2026-01-08T20:19:53.182Z"
+		},
+		{
+			"id": "La Super Tienda de Mascotas Estelares [Capítulo 207]",
+			"title": "La Super Tienda de Mascotas Estelares [Capítulo 207]",
+			"url": "https://olympusbiblioteca.com/series/comic-13424la-super-tienda-de-mascotas-estelares5324",
+			"date_published": "2026-01-08T20:19:53.182Z"
+		},
+		{
 			"id": "El Maestro de la Espada que Saltó a Través del Tiempo [Capítulo 26]",
 			"title": "El Maestro de la Espada que Saltó a Través del Tiempo [Capítulo 26]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-que-salto-a-traves-del-tiempo-20260108-081345413",
@@ -2983,24 +3001,6 @@
 			"title": "Academia de la Ascensión [Capítulo 180]",
 			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20251224-080617141",
 			"date_published": "2025-12-23T20:18:12.572Z"
-		},
-		{
-			"id": "El Mercenario que Reencarno entre Aristócratas [Capítulo 9]",
-			"title": "El Mercenario que Reencarno entre Aristócratas [Capítulo 9]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mercenario-que-reencarno-entre-aristocratas",
-			"date_published": "2025-12-23T20:18:12.571Z"
-		},
-		{
-			"id": "Las conspiraciones del mercenario regresado [Capítulo 69]",
-			"title": "Las conspiraciones del mercenario regresado [Capítulo 69]",
-			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado-20251224-080956315",
-			"date_published": "2025-12-23T18:24:26.351Z"
-		},
-		{
-			"id": "Regresión del bastardo del clan de la espada [Capítulo 75]",
-			"title": "Regresión del bastardo del clan de la espada [Capítulo 75]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresion10-05-20250152309",
-			"date_published": "2025-12-23T18:24:26.351Z"
 		}
 	]
 }
