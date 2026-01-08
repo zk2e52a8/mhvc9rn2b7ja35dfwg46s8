@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "La Espada Suprema Demoníaca [Capítulo 4]",
+			"title": "La Espada Suprema Demoníaca [Capítulo 4]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-espada-suprema-demoniaca",
+			"date_published": "2026-01-08T03:26:11.963Z"
+		},
+		{
+			"id": "El Señor de Hielo [Capítulo 56]",
+			"title": "El Señor de Hielo [Capítulo 56]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20260107-081111566",
+			"date_published": "2026-01-08T03:26:11.963Z"
+		},
+		{
+			"id": "Murim jurasico [Capítulo 2]",
+			"title": "Murim jurasico [Capítulo 2]",
+			"url": "https://olympusbiblioteca.com/series/comic-murim-jurasico",
+			"date_published": "2026-01-08T03:26:11.963Z"
+		},
+		{
 			"id": "Hijos de la Runa [Capítulo 47]",
 			"title": "Hijos de la Runa [Capítulo 47]",
 			"url": "https://olympusbiblioteca.com/series/comic-hijoo5324s-de-la-runa",
@@ -2983,24 +3001,6 @@
 			"title": "Paladín De Rango SSS Que Transciende El Sentido Común [Capítulo 119]",
 			"url": "https://olympusbiblioteca.com/series/comic-paladin-de-rango-sss-que-transciende-el-sentido-comun",
 			"date_published": "2025-12-23T01:16:48.380Z"
-		},
-		{
-			"id": "Restaurante del mago [Capítulo 112]",
-			"title": "Restaurante del mago [Capítulo 112]",
-			"url": "https://olympusbiblioteca.com/series/comic-restaurante-del-mago-20251223-080545326",
-			"date_published": "2025-12-22T22:16:37.772Z"
-		},
-		{
-			"id": "Actuando como el villano de ojos de zorro Perfecto [Capítulo 45]",
-			"title": "Actuando como el villano de ojos de zorro Perfecto [Capítulo 45]",
-			"url": "https://olympusbiblioteca.com/series/comic-actuando-como-el-villano-de-ojos-de-zorro-perfecto-20251223-080914331",
-			"date_published": "2025-12-22T22:16:37.772Z"
-		},
-		{
-			"id": "Las crónicas del clan Tang [Capítulo 29]",
-			"title": "Las crónicas del clan Tang [Capítulo 29]",
-			"url": "https://olympusbiblioteca.com/series/comic-las-cronicas-del-clan-tang",
-			"date_published": "2025-12-22T22:16:37.771Z"
 		}
 	]
 }
