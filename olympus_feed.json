@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Mestizo [Capítulo 34]",
+			"title": "Mestizo [Capítulo 34]",
+			"url": "https://olympusbiblioteca.com/series/comic-mestizo",
+			"date_published": "2026-01-09T18:25:54.018Z"
+		},
+		{
+			"id": "La Espada Suprema Demoníaca [Capítulo 14]",
+			"title": "La Espada Suprema Demoníaca [Capítulo 14]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-espada-suprema-demoniaca",
+			"date_published": "2026-01-09T18:25:54.017Z"
+		},
+		{
 			"id": "Actúe como un jefecito final, Sr. devorador [Capítulo 109]",
 			"title": "Actúe como un jefecito final, Sr. devorador [Capítulo 109]",
 			"url": "https://olympusbiblioteca.com/series/comic-actue-com20-225-l-sr-devorador",
@@ -2989,18 +3001,6 @@
 			"title": "Un hombre moderno que transmigró al mundo murim [Capítulo 147]",
 			"url": "https://olympusbiblioteca.com/series/comic-comer10-05-2025ciante-odiado13424",
 			"date_published": "2025-12-24T22:16:15.928Z"
-		},
-		{
-			"id": "¡Que abundante cosecha, señor demonio! [Capítulo 47]",
-			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 47]",
-			"url": "https://olympusbiblioteca.com/series/comic-que-abundante-cosecha-senor-demonio-20251225-081116833",
-			"date_published": "2025-12-24T20:17:46.168Z"
-		},
-		{
-			"id": "Ranker Salvaje [Capítulo 36]",
-			"title": "Ranker Salvaje [Capítulo 36]",
-			"url": "https://olympusbiblioteca.com/series/comic-ranker-salvaje",
-			"date_published": "2025-12-24T20:17:46.167Z"
 		}
 	]
 }
