@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Civilización Nebula [Capítulo 111]",
+			"title": "Civilización Nebula [Capítulo 111]",
+			"url": "https://olympusbiblioteca.com/series/comic-civilizacion-nebula-20260108-080250213",
+			"date_published": "2026-01-09T03:27:02.001Z"
+		},
+		{
+			"id": "Un niño criado por dragones quiere ser adoptado. [Capítulo 9]",
+			"title": "Un niño criado por dragones quiere ser adoptado. [Capítulo 9]",
+			"url": "https://olympusbiblioteca.com/series/comic-un-nino-criado-por-dragones-quiere-ser-adoptado",
+			"date_published": "2026-01-09T03:27:02.001Z"
+		},
+		{
+			"id": "El Arquitecto de mazmorras [Capítulo 64]",
+			"title": "El Arquitecto de mazmorras [Capítulo 64]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-arquite5zxzorras",
+			"date_published": "2026-01-09T03:27:02.001Z"
+		},
+		{
+			"id": "Sólo un gato. [Capítulo 26]",
+			"title": "Sólo un gato. [Capítulo 26]",
+			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
+			"date_published": "2026-01-09T03:27:02.001Z"
+		},
+		{
+			"id": "Restaurante del mago [Capítulo 115]",
+			"title": "Restaurante del mago [Capítulo 115]",
+			"url": "https://olympusbiblioteca.com/series/comic-restaurante-del-mago-20260108-080322129",
+			"date_published": "2026-01-09T03:27:02.000Z"
+		},
+		{
 			"id": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 51]",
 			"title": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 51]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-ascenso-del-tercer-principe-del-reino-caido",
@@ -2971,36 +3001,6 @@
 			"title": "Chamán del dinero [Capítulo 21]",
 			"url": "https://olympusbiblioteca.com/series/comic-chaman-del-dinero",
 			"date_published": "2025-12-24T12:34:09.816Z"
-		},
-		{
-			"id": "Los Breakers [Capítulo 35]",
-			"title": "Los Breakers [Capítulo 35]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-breakers",
-			"date_published": "2025-12-24T08:23:54.149Z"
-		},
-		{
-			"id": "El maestro de la espada acogedor de estrellas [Capítulo 102.1]",
-			"title": "El maestro de la espada acogedor de estrellas [Capítulo 102.1]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-acogedor-de-estrellas-20251225-080607856",
-			"date_published": "2025-12-24T06:27:23.064Z"
-		},
-		{
-			"id": "El apóstol rebelde de la Diosa de la abundancia. [Capítulo 19]",
-			"title": "El apóstol rebelde de la Diosa de la abundancia. [Capítulo 19]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-apostol-rebelde-de-la-diosa-de-la-abundancia",
-			"date_published": "2025-12-24T03:20:43.944Z"
-		},
-		{
-			"id": "El maestro de la espada acogedor de estrellas [Capítulo 101]",
-			"title": "El maestro de la espada acogedor de estrellas [Capítulo 101]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-acogedor-de-estrellas-20251223-080406843",
-			"date_published": "2025-12-24T03:20:43.944Z"
-		},
-		{
-			"id": "Torre de Dios : Urek Mazino [Capítulo 41]",
-			"title": "Torre de Dios : Urek Mazino [Capítulo 41]",
-			"url": "https://olympusbiblioteca.com/series/comic-torre-de-dios-urek-mazino-20251224-081218975",
-			"date_published": "2025-12-24T03:20:43.944Z"
 		}
 	]
 }
