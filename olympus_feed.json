@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El legendario prodigio del ducado [Capítulo 30]",
+			"title": "El legendario prodigio del ducado [Capítulo 30]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado",
+			"date_published": "2026-01-10T18:23:01.840Z"
+		},
+		{
+			"id": "Colorista [Capítulo 14]",
+			"title": "Colorista [Capítulo 14]",
+			"url": "https://olympusbiblioteca.com/series/comic-colorista-20260110-081722783",
+			"date_published": "2026-01-10T18:23:01.840Z"
+		},
+		{
+			"id": "El gran demonio celestial soberano [Capítulo 35]",
+			"title": "El gran demonio celestial soberano [Capítulo 35]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-gran-demonio-celestial-soberano",
+			"date_published": "2026-01-10T18:23:01.840Z"
+		},
+		{
+			"id": "El Asesino Yu Ijin [Capítulo 270.5]",
+			"title": "El Asesino Yu Ijin [Capítulo 270.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-yu-ijin-20260110-080831364",
+			"date_published": "2026-01-10T18:23:01.840Z"
+		},
+		{
 			"id": "El Blinker genio de la academia mágica [Capítulo 83]",
 			"title": "El Blinker genio de la academia mágica [Capítulo 83]",
 			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica",
@@ -2977,30 +3001,6 @@
 			"title": "El Devoto Caballero [Capítulo 144]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-devoto-caballero-20251226-081357704",
 			"date_published": "2025-12-25T22:15:48.993Z"
-		},
-		{
-			"id": "El Asesino de la Luna a la Deriva [Capítulo 119]",
-			"title": "El Asesino de la Luna a la Deriva [Capítulo 119]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino20-225-de-la-luna-a-la-deriva13424",
-			"date_published": "2025-12-25T22:15:48.993Z"
-		},
-		{
-			"id": "El dinero del Lord no disminuye [Capítulo 189]",
-			"title": "El dinero del Lord no disminuye [Capítulo 189]",
-			"url": "https://olympusbiblioteca.com/series/comic-lordin12410-05-2025124124124",
-			"date_published": "2025-12-25T20:17:54.623Z"
-		},
-		{
-			"id": "Regreso del ranker de clase SSS [Capítulo 171]",
-			"title": "Regreso del ranker de clase SSS [Capítulo 171]",
-			"url": "https://olympusbiblioteca.com/series/comic-regr20-225-eso-del-ranker-de-clase-ss13424",
-			"date_published": "2025-12-25T20:17:54.623Z"
-		},
-		{
-			"id": "Espada de la inquisición celestial [Capítulo 149]",
-			"title": "Espada de la inquisición celestial [Capítulo 149]",
-			"url": "https://olympusbiblioteca.com/series/comic-inquisic20-225-ion-celestia13424",
-			"date_published": "2025-12-25T20:17:54.623Z"
 		}
 	]
 }
