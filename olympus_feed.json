@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Heroe, regresa [Capítulo 136]",
+			"title": "Heroe, regresa [Capítulo 136]",
+			"url": "https://olympusbiblioteca.com/series/comic-dragon-20-225-y-heroe13424",
+			"date_published": "2026-01-10T22:15:49.960Z"
+		},
+		{
 			"id": "Montañas de cadáveres y mar de sangre [Capítulo 21]",
 			"title": "Montañas de cadáveres y mar de sangre [Capítulo 21]",
 			"url": "https://olympusbiblioteca.com/series/comic-montanas-de-cadaveres-y-mar-de-sangre",
@@ -2994,12 +3000,6 @@
 			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 10]",
 			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 10]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes",
-			"date_published": "2025-12-26T01:17:01.641Z"
-		},
-		{
-			"id": "De duende a Dios Goblin [Capítulo 90]",
-			"title": "De duende a Dios Goblin [Capítulo 90]",
-			"url": "https://olympusbiblioteca.com/series/comic-de-duen10-05-2025de-a-dios-goblin",
 			"date_published": "2025-12-26T01:17:01.641Z"
 		}
 	]
