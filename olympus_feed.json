@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Perro Loco de la Mansión del Duque [Capítulo 38]",
+			"title": "El Perro Loco de la Mansión del Duque [Capítulo 38]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-perro-loco-de-la-mansion-del-duque",
+			"date_published": "2026-01-10T06:24:51.946Z"
+		},
+		{
 			"id": "Sólo un gato. [Capítulo 27]",
 			"title": "Sólo un gato. [Capítulo 27]",
 			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
@@ -2994,12 +3000,6 @@
 			"id": "Goblin de nivel 999 [Capítulo 34]",
 			"title": "Goblin de nivel 999 [Capítulo 34]",
 			"url": "https://olympusbiblioteca.com/series/comic-goblin-de-nivel-999-20251225-081201798",
-			"date_published": "2025-12-25T18:23:21.041Z"
-		},
-		{
-			"id": "Nueva Cara [Capítulo 587]",
-			"title": "Nueva Cara [Capítulo 587]",
-			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20251225-081400733",
 			"date_published": "2025-12-25T18:23:21.041Z"
 		}
 	]
