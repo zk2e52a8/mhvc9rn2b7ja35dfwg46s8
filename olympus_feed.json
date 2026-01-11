@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El chico problemático de la torre mágica [Capítulo 33]",
+			"title": "El chico problemático de la torre mágica [Capítulo 33]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-chico-problematico-de-la-torre-magica-20260111-081034120",
+			"date_published": "2026-01-11T14:15:25.060Z"
+		},
+		{
+			"id": "El legendario hijo menor de la Casa del Marques [Capítulo 160.5]",
+			"title": "El legendario hijo menor de la Casa del Marques [Capítulo 160.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-lege20-225-ndario-marques13424",
+			"date_published": "2026-01-11T14:15:25.060Z"
+		},
+		{
+			"id": "Jugador que regresó 10.000 años después [Capítulo 141.5]",
+			"title": "Jugador que regresó 10.000 años después [Capítulo 141.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugad20-225-reso-10000-anos-despues13424",
+			"date_published": "2026-01-11T14:15:25.060Z"
+		},
+		{
 			"id": "Papá zombie [Capítulo 20]",
 			"title": "Papá zombie [Capítulo 20]",
 			"url": "https://olympusbiblioteca.com/series/comic-papa-zombie",
@@ -2983,24 +3001,6 @@
 			"title": "Subiendo de nivel con las mejores habilidades [Capítulo 131]",
 			"url": "https://olympusbiblioteca.com/series/comic-s20-225-evel-mejores-221r1234",
 			"date_published": "2025-12-26T16:19:23.751Z"
-		},
-		{
-			"id": "Mestizo [Capítulo 33]",
-			"title": "Mestizo [Capítulo 33]",
-			"url": "https://olympusbiblioteca.com/series/comic-mestizo",
-			"date_published": "2025-12-26T16:19:23.751Z"
-		},
-		{
-			"id": "Estandar de la Reencarnación [Capítulo 168.1]",
-			"title": "Estandar de la Reencarnación [Capítulo 168.1]",
-			"url": "https://olympusbiblioteca.com/series/comic-elmancochet20-225-o532413424",
-			"date_published": "2025-12-26T16:19:23.751Z"
-		},
-		{
-			"id": "Jugador de la noble familia caída [Capítulo 25]",
-			"title": "Jugador de la noble familia caída [Capítulo 25]",
-			"url": "https://olympusbiblioteca.com/series/comic-jugador-de-la-noble-familia-caida",
-			"date_published": "2025-12-26T14:16:13.791Z"
 		}
 	]
 }
