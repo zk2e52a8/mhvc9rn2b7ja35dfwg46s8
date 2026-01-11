@@ -3,6 +3,42 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Un héroe que sabe lo que hace [Capítulo 9]",
+			"title": "Un héroe que sabe lo que hace [Capítulo 9]",
+			"url": "https://olympusbiblioteca.com/series/comic-un-heroe-que-sabe-lo-que-hace",
+			"date_published": "2026-01-11T03:46:06.444Z"
+		},
+		{
+			"id": "Emperador magico (magic emperor) [Capítulo 804]",
+			"title": "Emperador magico (magic emperor) [Capítulo 804]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
+			"date_published": "2026-01-11T03:46:06.444Z"
+		},
+		{
+			"id": "La novia yandere que dibujé. [Capítulo 1]",
+			"title": "La novia yandere que dibujé. [Capítulo 1]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-novia-yandere-que-dibuje",
+			"date_published": "2026-01-11T03:46:06.444Z"
+		},
+		{
+			"id": "Murim jurasico [Capítulo 3]",
+			"title": "Murim jurasico [Capítulo 3]",
+			"url": "https://olympusbiblioteca.com/series/comic-murim-jurasico",
+			"date_published": "2026-01-11T03:46:06.444Z"
+		},
+		{
+			"id": "Actuando como el villano de ojos de zorro Perfecto [Capítulo 47]",
+			"title": "Actuando como el villano de ojos de zorro Perfecto [Capítulo 47]",
+			"url": "https://olympusbiblioteca.com/series/comic-actuando-como-el-villano-de-ojos-de-zorro-perfecto-20260110-081013049",
+			"date_published": "2026-01-11T03:46:06.444Z"
+		},
+		{
+			"id": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 93]",
+			"title": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 93]",
+			"url": "https://olympusbiblioteca.com/series/comic-evolucion-marcial-comienza-por-despertar-al-rey-de-los-monstruos",
+			"date_published": "2026-01-11T03:46:06.444Z"
+		},
+		{
 			"id": "Emperador del Juego en Solitario [Capítulo 36]",
 			"title": "Emperador del Juego en Solitario [Capítulo 36]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-del-juego-en-solitario-20260110-081049450",
@@ -2965,42 +3001,6 @@
 			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 50]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
 			"date_published": "2025-12-26T06:26:18.113Z"
-		},
-		{
-			"id": "Mi esposa es la líder del culto demoníaco [Capítulo 44]",
-			"title": "Mi esposa es la líder del culto demoníaco [Capítulo 44]",
-			"url": "https://olympusbiblioteca.com/series/comic-mi-esposa-es-la-lider-del-culto-demoniaco-20251226-080926888",
-			"date_published": "2025-12-26T06:26:18.113Z"
-		},
-		{
-			"id": "Roman demonio [Capítulo 181]",
-			"title": "Roman demonio [Capítulo 181]",
-			"url": "https://olympusbiblioteca.com/series/comic-roman-demonio-20251226-081259509",
-			"date_published": "2025-12-26T06:26:18.113Z"
-		},
-		{
-			"id": "Yo mate al jugador de la Academia [Capítulo 104]",
-			"title": "Yo mate al jugador de la Academia [Capítulo 104]",
-			"url": "https://olympusbiblioteca.com/series/comic-yo-mate-al-jugador-de-la-academia-20251226-080448661",
-			"date_published": "2025-12-26T06:26:18.113Z"
-		},
-		{
-			"id": "Empiezo con 13 Rasgos Ocultos [Capítulo 11]",
-			"title": "Empiezo con 13 Rasgos Ocultos [Capítulo 11]",
-			"url": "https://olympusbiblioteca.com/series/comic-empiezo-con-13-rasgos-ocultos",
-			"date_published": "2025-12-26T03:21:31.166Z"
-		},
-		{
-			"id": "Jugador de nivel máximo [Capítulo 129]",
-			"title": "Jugador de nivel máximo [Capítulo 129]",
-			"url": "https://olympusbiblioteca.com/series/comic-jug20-225-olympus513424",
-			"date_published": "2025-12-26T03:21:31.166Z"
-		},
-		{
-			"id": "Un niño criado por dragones quiere ser adoptado. [Capítulo 1]",
-			"title": "Un niño criado por dragones quiere ser adoptado. [Capítulo 1]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-nino-criado-por-dragones-quiere-ser-adoptado",
-			"date_published": "2025-12-26T03:21:31.166Z"
 		}
 	]
 }
