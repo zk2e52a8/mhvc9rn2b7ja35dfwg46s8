@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Regresión absoluta [Capítulo 83]",
+			"title": "Regresión absoluta [Capítulo 83]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta-20260112-080806484",
+			"date_published": "2026-01-12T18:26:37.560Z"
+		},
+		{
+			"id": "El Indomable Rey Marcial [Capítulo 115]",
+			"title": "El Indomable Rey Marcial [Capítulo 115]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial-20260112-080714758",
+			"date_published": "2026-01-12T18:26:37.560Z"
+		},
+		{
+			"id": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 239]",
+			"title": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 239]",
+			"url": "https://olympusbiblioteca.com/series/comic-llevo-mil-anos-atrapado-en-el-mismo-dia",
+			"date_published": "2026-01-12T18:26:37.560Z"
+		},
+		{
 			"id": "La noche del goblin [Capítulo 127]",
 			"title": "La noche del goblin [Capítulo 127]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin-20260112-081607659",
@@ -2983,24 +3001,6 @@
 			"title": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 89]",
 			"url": "https://olympusbiblioteca.com/series/comic-evolucion-marcial-comienza-por-despertar-al-rey-de-los-monstruos",
 			"date_published": "2025-12-27T18:22:28.483Z"
-		},
-		{
-			"id": "El Regreso del Maestro del Infierno [Capítulo 40]",
-			"title": "El Regreso del Maestro del Infierno [Capítulo 40]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-maestro-del-infierno-20251228-081419770",
-			"date_published": "2025-12-27T18:22:28.483Z"
-		},
-		{
-			"id": "El gran demonio celestial soberano [Capítulo 33]",
-			"title": "El gran demonio celestial soberano [Capítulo 33]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-gran-demonio-celestial-soberano",
-			"date_published": "2025-12-27T18:22:28.483Z"
-		},
-		{
-			"id": "Heroe, regresa [Capítulo 134]",
-			"title": "Heroe, regresa [Capítulo 134]",
-			"url": "https://olympusbiblioteca.com/series/comic-dragon-20-225-y-heroe13424",
-			"date_published": "2025-12-27T16:18:54.413Z"
 		}
 	]
 }
