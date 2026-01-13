@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 217]",
+			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 217]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin-20260113-080240717",
+			"date_published": "2026-01-13T18:26:27.250Z"
+		},
+		{
+			"id": "El Devoto Caballero [Capítulo 147]",
+			"title": "El Devoto Caballero [Capítulo 147]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-devoto-caballero-20260113-081345251",
+			"date_published": "2026-01-13T18:26:27.250Z"
+		},
+		{
+			"id": "Regresión del bastardo del clan de la espada [Capítulo 78]",
+			"title": "Regresión del bastardo del clan de la espada [Capítulo 78]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresion10-05-20250152309",
+			"date_published": "2026-01-13T18:26:27.250Z"
+		},
+		{
+			"id": "Destinado a ser Amado por Villanas [Capítulo 52]",
+			"title": "Destinado a ser Amado por Villanas [Capítulo 52]",
+			"url": "https://olympusbiblioteca.com/series/comic-destin10-05-2025do-por-villanas",
+			"date_published": "2026-01-13T18:26:27.250Z"
+		},
+		{
+			"id": "Las conspiraciones del mercenario regresado [Capítulo 72]",
+			"title": "Las conspiraciones del mercenario regresado [Capítulo 72]",
+			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado-20260113-080721584",
+			"date_published": "2026-01-13T18:26:27.250Z"
+		},
+		{
 			"id": "El Retorno del Patriarca Mil Años Después [Capítulo 22]",
 			"title": "El Retorno del Patriarca Mil Años Después [Capítulo 22]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-retorno-del-patriarca-mil-anos-despues",
@@ -2971,36 +3001,6 @@
 			"title": "El héroe que sabe lo que hace [Capítulo 3]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-que-sabe-lo-que-hace",
 			"date_published": "2025-12-28T16:19:10.785Z"
-		},
-		{
-			"id": "Genio del Linaje único [Capítulo 144]",
-			"title": "Genio del Linaje único [Capítulo 144]",
-			"url": "https://olympusbiblioteca.com/series/comic-genio-del-linaje-unico-20251229-081342131",
-			"date_published": "2025-12-28T16:19:10.785Z"
-		},
-		{
-			"id": "*El asesino que retornó como el hijo del duque [Capítulo 107]",
-			"title": "*El asesino que retornó como el hijo del duque [Capítulo 107]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-que-retorno-como-el-hijo-del-duque-20251229-080510450",
-			"date_published": "2025-12-28T16:19:10.785Z"
-		},
-		{
-			"id": "El legendario hijo menor de la Casa del Marques [Capítulo 158]",
-			"title": "El legendario hijo menor de la Casa del Marques [Capítulo 158]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-lege20-225-ndario-marques13424",
-			"date_published": "2025-12-28T16:19:10.785Z"
-		},
-		{
-			"id": "Amigo de la Infancia del Zenit [Capítulo 87]",
-			"title": "Amigo de la Infancia del Zenit [Capítulo 87]",
-			"url": "https://olympusbiblioteca.com/series/comic-amigo-de20-225-e-zenith",
-			"date_published": "2025-12-28T16:19:10.785Z"
-		},
-		{
-			"id": "La venganza del sabueso de sangre de hierro [Capítulo 145]",
-			"title": "La venganza del sabueso de sangre de hierro [Capítulo 145]",
-			"url": "https://olympusbiblioteca.com/series/comic-20-225-2sabueso13424",
-			"date_published": "2025-12-28T14:15:29.706Z"
 		}
 	]
 }
