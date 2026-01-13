@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Paladín De Rango SSS Que Transciende El Sentido Común [Capítulo 124]",
+			"title": "Paladín De Rango SSS Que Transciende El Sentido Común [Capítulo 124]",
+			"url": "https://olympusbiblioteca.com/series/comic-paladin-de-rango-sss-que-transciende-el-sentido-comun",
+			"date_published": "2026-01-13T10:19:20.771Z"
+		},
+		{
 			"id": "Soy el Rey de los Virus [Capítulo 93]",
 			"title": "Soy el Rey de los Virus [Capítulo 93]",
 			"url": "https://olympusbiblioteca.com/series/comic-soy-el-rey-de-los-virus14314",
@@ -2995,12 +3001,6 @@
 			"title": "Regresé, Pero El Mundo No Terminó. [Capítulo 46]",
 			"url": "https://olympusbiblioteca.com/series/comic-regrese-pero-el-mundo-no-termino",
 			"date_published": "2025-12-28T12:32:00.065Z"
-		},
-		{
-			"id": "El héroe que sabe lo que hace [Capítulo 1]",
-			"title": "El héroe que sabe lo que hace [Capítulo 1]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-que-sabe-lo-que-hace",
-			"date_published": "2025-12-28T10:16:12.040Z"
 		}
 	]
 }
