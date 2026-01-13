@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 240]",
+			"title": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 240]",
+			"url": "https://olympusbiblioteca.com/series/comic-nigrom20-225-ante-yo-soy-la-plagaasdfasd",
+			"date_published": "2026-01-13T06:27:31.507Z"
+		},
+		{
 			"id": "Item Chetado [Capítulo 162]",
 			"title": "Item Chetado [Capítulo 162]",
 			"url": "https://olympusbiblioteca.com/series/comic-item-chetado-20260112-081203463",
@@ -2995,12 +3001,6 @@
 			"title": "Odisea en la Mazmorra [Capítulo 142]",
 			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
 			"date_published": "2025-12-28T08:20:50.429Z"
-		},
-		{
-			"id": "Jugador de nivel máximo [Capítulo 130.5]",
-			"title": "Jugador de nivel máximo [Capítulo 130.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-jug20-225-olympus513424",
-			"date_published": "2025-12-28T06:24:47.132Z"
 		}
 	]
 }
