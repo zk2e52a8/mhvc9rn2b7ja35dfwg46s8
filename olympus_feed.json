@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Deuda de Sangre [Capítulo 8]",
+			"title": "Deuda de Sangre [Capítulo 8]",
+			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260112-082004294",
+			"date_published": "2026-01-13T03:24:43.961Z"
+		},
+		{
+			"id": "La segunda campaña del Berserker [Capítulo 13]",
+			"title": "La segunda campaña del Berserker [Capítulo 13]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-segunda-campana-del-berserker-20260112-081958963",
+			"date_published": "2026-01-13T03:24:43.961Z"
+		},
+		{
 			"id": "Maestro de la espada devorador de espadas [Capítulo 11]",
 			"title": "Maestro de la espada devorador de espadas [Capítulo 11]",
 			"url": "https://olympusbiblioteca.com/series/comic-maestro-de-la-espada-devorador-de-espadas-20260112-081847745",
@@ -2989,18 +3001,6 @@
 			"title": "Desperte como un Dios después de batallar en solitario durante un millón de años [Capítulo 57]",
 			"url": "https://olympusbiblioteca.com/series/comic-desperte-10-05-2025e-un-millon-de-anos",
 			"date_published": "2025-12-28T06:24:47.131Z"
-		},
-		{
-			"id": "El amo de la plaga [Capítulo 97]",
-			"title": "El amo de la plaga [Capítulo 97]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-a10-05-2025mo-de-la-plaga",
-			"date_published": "2025-12-28T04:40:56.560Z"
-		},
-		{
-			"id": "cultivador del dao bizarro [Capítulo 66]",
-			"title": "cultivador del dao bizarro [Capítulo 66]",
-			"url": "https://olympusbiblioteca.com/series/comic-cultiva5zxzdor-del-dao-bizarro",
-			"date_published": "2025-12-28T04:40:56.560Z"
 		}
 	]
 }
