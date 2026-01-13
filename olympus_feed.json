@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soy el Rey de los Virus [Capítulo 93]",
+			"title": "Soy el Rey de los Virus [Capítulo 93]",
+			"url": "https://olympusbiblioteca.com/series/comic-soy-el-rey-de-los-virus14314",
+			"date_published": "2026-01-13T08:24:47.164Z"
+		},
+		{
+			"id": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 136]",
+			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 136]",
+			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-al-juego-siendo-un-barbaro-bjorn-el-barbaro-20260112-081500141",
+			"date_published": "2026-01-13T08:24:47.164Z"
+		},
+		{
 			"id": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 240]",
 			"title": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 240]",
 			"url": "https://olympusbiblioteca.com/series/comic-nigrom20-225-ante-yo-soy-la-plagaasdfasd",
@@ -2989,18 +3001,6 @@
 			"title": "El héroe que sabe lo que hace [Capítulo 1]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-que-sabe-lo-que-hace",
 			"date_published": "2025-12-28T10:16:12.040Z"
-		},
-		{
-			"id": "Lider Kim [Capítulo 222]",
-			"title": "Lider Kim [Capítulo 222]",
-			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20251228-081002431",
-			"date_published": "2025-12-28T08:20:50.429Z"
-		},
-		{
-			"id": "Odisea en la Mazmorra [Capítulo 142]",
-			"title": "Odisea en la Mazmorra [Capítulo 142]",
-			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
-			"date_published": "2025-12-28T08:20:50.429Z"
 		}
 	]
 }
