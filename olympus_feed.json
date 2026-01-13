@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Item Chetado [Capítulo 162]",
+			"title": "Item Chetado [Capítulo 162]",
+			"url": "https://olympusbiblioteca.com/series/comic-item-chetado-20260112-081203463",
+			"date_published": "2026-01-13T04:36:07.296Z"
+		},
+		{
 			"id": "Deuda de Sangre [Capítulo 8]",
 			"title": "Deuda de Sangre [Capítulo 8]",
 			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260112-082004294",
@@ -2995,12 +3001,6 @@
 			"title": "Jugador de nivel máximo [Capítulo 130.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-jug20-225-olympus513424",
 			"date_published": "2025-12-28T06:24:47.132Z"
-		},
-		{
-			"id": "Desperte como un Dios después de batallar en solitario durante un millón de años [Capítulo 57]",
-			"title": "Desperte como un Dios después de batallar en solitario durante un millón de años [Capítulo 57]",
-			"url": "https://olympusbiblioteca.com/series/comic-desperte-10-05-2025e-un-millon-de-anos",
-			"date_published": "2025-12-28T06:24:47.131Z"
 		}
 	]
 }
