@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El guerrero despiadado [Capítulo 40]",
+			"title": "El guerrero despiadado [Capítulo 40]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado-20260113-081507172",
+			"date_published": "2026-01-13T22:17:53.228Z"
+		},
+		{
 			"id": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 137]",
 			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 137]",
 			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-al-juego-siendo-un-barbaro-bjorn-el-barbaro-20260113-081324819",
@@ -2994,12 +3000,6 @@
 			"id": "*El jugador que no puede subir de nivel [Capítulo 218]",
 			"title": "*El jugador que no puede subir de nivel [Capítulo 218]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-jugador-que-no-puede-subir-de-nivel-20251229-081337179",
-			"date_published": "2025-12-28T18:23:23.365Z"
-		},
-		{
-			"id": "Un héroe que sabe lo que hace [Capítulo 7]",
-			"title": "Un héroe que sabe lo que hace [Capítulo 7]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-heroe-que-sabe-lo-que-hace",
 			"date_published": "2025-12-28T18:23:23.365Z"
 		}
 	]
