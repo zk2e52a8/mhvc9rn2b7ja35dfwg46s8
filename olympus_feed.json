@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 137]",
+			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 137]",
+			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-al-juego-siendo-un-barbaro-bjorn-el-barbaro-20260113-081324819",
+			"date_published": "2026-01-13T20:19:57.655Z"
+		},
+		{
+			"id": "El Regreso del Maestro del Infierno [Capítulo 41.5]",
+			"title": "El Regreso del Maestro del Infierno [Capítulo 41.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-maestro-del-infierno-20260113-081527328",
+			"date_published": "2026-01-13T20:19:57.655Z"
+		},
+		{
+			"id": "El Indomable Rey Marcial [Capítulo 116]",
+			"title": "El Indomable Rey Marcial [Capítulo 116]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial-20260113-080548776",
+			"date_published": "2026-01-13T20:19:57.655Z"
+		},
+		{
 			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 217]",
 			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 217]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin-20260113-080240717",
@@ -2983,24 +3001,6 @@
 			"title": "Un héroe que sabe lo que hace [Capítulo 7]",
 			"url": "https://olympusbiblioteca.com/series/comic-un-heroe-que-sabe-lo-que-hace",
 			"date_published": "2025-12-28T18:23:23.365Z"
-		},
-		{
-			"id": "El soberano del hogar [Capítulo 61]",
-			"title": "El soberano del hogar [Capítulo 61]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-soberano-del-hogar-20251229-080747142",
-			"date_published": "2025-12-28T18:23:23.365Z"
-		},
-		{
-			"id": "Cazador de gachas de clase SSS [Capítulo 138.5]",
-			"title": "Cazador de gachas de clase SSS [Capítulo 138.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-cazador-de-gachas-de-clase-sss-20251229-081110850",
-			"date_published": "2025-12-28T18:23:23.365Z"
-		},
-		{
-			"id": "El héroe que sabe lo que hace [Capítulo 3]",
-			"title": "El héroe que sabe lo que hace [Capítulo 3]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-que-sabe-lo-que-hace",
-			"date_published": "2025-12-28T16:19:10.785Z"
 		}
 	]
 }
