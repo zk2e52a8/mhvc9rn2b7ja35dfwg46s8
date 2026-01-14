@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Stream del Arquero Genio [Capítulo 96]",
+			"title": "Stream del Arquero Genio [Capítulo 96]",
+			"url": "https://olympusbiblioteca.com/series/comic-stream-del-arquero-genio-20260114-081618694",
+			"date_published": "2026-01-14T22:18:06.458Z"
+		},
+		{
 			"id": "Cazador Carnívoro [Capítulo 149]",
 			"title": "Cazador Carnívoro [Capítulo 149]",
 			"url": "https://olympusbiblioteca.com/series/comic-cazador10-05-2025-carnivoro13424",
@@ -2995,12 +3001,6 @@
 			"title": "Jugador de talento insano [Capítulo 108]",
 			"url": "https://olympusbiblioteca.com/series/comic-jugador-de-talento-insano-20251230-080413129",
 			"date_published": "2025-12-29T16:20:06.830Z"
-		},
-		{
-			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 108]",
-			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 108]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-marcial-que-regreso-al-nivel-2-20251230-081433651",
-			"date_published": "2025-12-29T14:17:52.278Z"
 		}
 	]
 }
