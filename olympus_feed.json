@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Nueva Cara [Capítulo 590]",
+			"title": "Nueva Cara [Capítulo 590]",
+			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20260115-081351094",
+			"date_published": "2026-01-15T18:30:40.125Z"
+		},
+		{
+			"id": "Sin fin skills [Capítulo 241]",
+			"title": "Sin fin skills [Capítulo 241]",
+			"url": "https://olympusbiblioteca.com/series/comic-sin-fin-skills-20260115-081232375",
+			"date_published": "2026-01-15T18:30:40.125Z"
+		},
+		{
+			"id": "Tower Crush [Capítulo 155]",
+			"title": "Tower Crush [Capítulo 155]",
+			"url": "https://olympusbiblioteca.com/series/comic-tower-crush-20260115-081209060",
+			"date_published": "2026-01-15T18:30:40.125Z"
+		},
+		{
+			"id": "El Joven Maestro del Gran Archivo Celestial [Capítulo 160]",
+			"title": "El Joven Maestro del Gran Archivo Celestial [Capítulo 160]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-joven-maestro-del-gran-archivo-celestial-20260115-081247863",
+			"date_published": "2026-01-15T18:30:40.125Z"
+		},
+		{
 			"id": "¡Que abundante cosecha, señor demonio! [Capítulo 50]",
 			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 50]",
 			"url": "https://olympusbiblioteca.com/series/comic-que-abundante-cosecha-senor-demonio-20260115-081059768",
@@ -2977,30 +3001,6 @@
 			"title": "Sólo un gato. [Capítulo 21]",
 			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
 			"date_published": "2025-12-30T12:35:01.050Z"
-		},
-		{
-			"id": "Tower Crush [Capítulo 152]",
-			"title": "Tower Crush [Capítulo 152]",
-			"url": "https://olympusbiblioteca.com/series/comic-tower-crush-20251231-081103572",
-			"date_published": "2025-12-30T03:24:03.069Z"
-		},
-		{
-			"id": "Reencarnación del demonio sangriento, la prueba del tanque. [Capítulo 25]",
-			"title": "Reencarnación del demonio sangriento, la prueba del tanque. [Capítulo 25]",
-			"url": "https://olympusbiblioteca.com/series/comic-reencarnacion-del-demonio-sangriento-la-prueba-del-tanque",
-			"date_published": "2025-12-30T03:24:03.069Z"
-		},
-		{
-			"id": "Ciudad del pecado [Capítulo 9]",
-			"title": "Ciudad del pecado [Capítulo 9]",
-			"url": "https://olympusbiblioteca.com/series/comic-ciudad-del-pecado",
-			"date_published": "2025-12-30T03:24:03.069Z"
-		},
-		{
-			"id": "*El Villano Del Destino [Capítulo 302]",
-			"title": "*El Villano Del Destino [Capítulo 302]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
-			"date_published": "2025-12-30T01:17:25.593Z"
 		}
 	]
 }
