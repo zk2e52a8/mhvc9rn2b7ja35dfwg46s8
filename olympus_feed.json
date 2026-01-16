@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Mestizo [Capítulo 35]",
+			"title": "Mestizo [Capítulo 35]",
+			"url": "https://olympusbiblioteca.com/series/comic-mestizo",
+			"date_published": "2026-01-16T14:19:37.051Z"
+		},
+		{
+			"id": "Jugador de la noble familia caída [Capítulo 28]",
+			"title": "Jugador de la noble familia caída [Capítulo 28]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugador-de-la-noble-familia-caida",
+			"date_published": "2026-01-16T14:19:37.051Z"
+		},
+		{
+			"id": "Como vivir como el principe enemigo [Capítulo 96]",
+			"title": "Como vivir como el principe enemigo [Capítulo 96]",
+			"url": "https://olympusbiblioteca.com/series/comic-como-v20-225-rincipe-enemigo5324",
+			"date_published": "2026-01-16T14:19:37.051Z"
+		},
+		{
+			"id": "Comienza con una montaña [Capítulo 1195]",
+			"title": "Comienza con una montaña [Capítulo 1195]",
+			"url": "https://olympusbiblioteca.com/series/comic-montan10-05-2025ita13424",
+			"date_published": "2026-01-16T14:19:37.051Z"
+		},
+		{
+			"id": "Sólo un gato. [Capítulo 30]",
+			"title": "Sólo un gato. [Capítulo 30]",
+			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
+			"date_published": "2026-01-16T14:19:37.051Z"
+		},
+		{
 			"id": "Perfilador de villanos [Capítulo 27]",
 			"title": "Perfilador de villanos [Capítulo 27]",
 			"url": "https://olympusbiblioteca.com/series/comic-perfilador-de-villanos",
@@ -2971,36 +3001,6 @@
 			"title": "Mi Vida Cuidando Dragonas [Capítulo 23]",
 			"url": "https://olympusbiblioteca.com/series/comic-mi-vida-cuidando-dragonas-20260101-081518871",
 			"date_published": "2025-12-31T18:23:28.148Z"
-		},
-		{
-			"id": "El Asesino de la Luna a la Deriva [Capítulo 120]",
-			"title": "El Asesino de la Luna a la Deriva [Capítulo 120]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino20-225-de-la-luna-a-la-deriva13424",
-			"date_published": "2025-12-31T18:23:28.148Z"
-		},
-		{
-			"id": "Comienza con una montaña [Capítulo 1190]",
-			"title": "Comienza con una montaña [Capítulo 1190]",
-			"url": "https://olympusbiblioteca.com/series/comic-montan10-05-2025ita13424",
-			"date_published": "2025-12-31T18:23:28.148Z"
-		},
-		{
-			"id": "Solo Leveling: Ragnarok [Capítulo 67]",
-			"title": "Solo Leveling: Ragnarok [Capítulo 67]",
-			"url": "https://olympusbiblioteca.com/series/comic-27-02-20-225-eling456456",
-			"date_published": "2025-12-31T16:20:33.841Z"
-		},
-		{
-			"id": "Ecos del Mundo Invertido [Capítulo 17]",
-			"title": "Ecos del Mundo Invertido [Capítulo 17]",
-			"url": "https://olympusbiblioteca.com/series/comic-ecos-del-mundo-invertido",
-			"date_published": "2025-12-31T16:20:33.841Z"
-		},
-		{
-			"id": "El regreso del héroe de clase: Desastre [Capítulo 158]",
-			"title": "El regreso del héroe de clase: Desastre [Capítulo 158]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-cl20-225-ase-desastre13424",
-			"date_published": "2025-12-31T16:20:33.841Z"
 		}
 	]
 }
