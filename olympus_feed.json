@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Emperador magico (magic emperor) [Capítulo 805]",
+			"title": "Emperador magico (magic emperor) [Capítulo 805]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
+			"date_published": "2026-01-16T10:18:59.108Z"
+		},
+		{
 			"id": "Asesino de nivel divino [Capítulo 85]",
 			"title": "Asesino de nivel divino [Capítulo 85]",
 			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-nivel-divino",
@@ -2995,12 +3001,6 @@
 			"title": "El hombre más guapo se convirtió en esqueleto [Capítulo 71]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto-20260101-080805795",
 			"date_published": "2025-12-31T14:16:31.008Z"
-		},
-		{
-			"id": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 48]",
-			"title": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 48]",
-			"url": "https://olympusbiblioteca.com/series/comic-ascension-divina-mi-camino-a-la-cima-de-las-artes-marciales",
-			"date_published": "2025-12-31T10:17:51.508Z"
 		}
 	]
 }
