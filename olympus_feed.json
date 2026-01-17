@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Heroe, regresa [Capítulo 137]",
+			"title": "Heroe, regresa [Capítulo 137]",
+			"url": "https://olympusbiblioteca.com/series/comic-dragon-20-225-y-heroe13424",
+			"date_published": "2026-01-17T14:15:00.928Z"
+		},
+		{
+			"id": "El hijo menor del maestro de la espada [Capítulo 194]",
+			"title": "El hijo menor del maestro de la espada [Capítulo 194]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-hijo20-225-de-la-espada13424",
+			"date_published": "2026-01-17T14:15:00.928Z"
+		},
+		{
+			"id": "Un hombre moderno que transmigró al mundo murim [Capítulo 154]",
+			"title": "Un hombre moderno que transmigró al mundo murim [Capítulo 154]",
+			"url": "https://olympusbiblioteca.com/series/comic-un-hombre-moderno-que-transmigro-al-mundo-murim-20260117-081926981",
+			"date_published": "2026-01-17T14:15:00.928Z"
+		},
+		{
 			"id": "La vida escolar del líder de la tierra [Capítulo 36]",
 			"title": "La vida escolar del líder de la tierra [Capítulo 36]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-vida-escolar-del-lider-de-la-tierra",
@@ -2983,24 +3001,6 @@
 			"title": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 50]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-ascenso-del-tercer-principe-del-reino-caido",
 			"date_published": "2026-01-01T18:24:00.775Z"
-		},
-		{
-			"id": "El Regreso del Espadachín Oscuro [Capítulo 30]",
-			"title": "El Regreso del Espadachín Oscuro [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
-			"date_published": "2026-01-01T18:24:00.775Z"
-		},
-		{
-			"id": "Un hombre moderno que transmigró al mundo murim [Capítulo 150]",
-			"title": "Un hombre moderno que transmigró al mundo murim [Capítulo 150]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-hombre-moderno-que-transmigro-al-mundo-murim-20260102-081644363",
-			"date_published": "2026-01-01T16:21:05.954Z"
-		},
-		{
-			"id": "La segunda campaña del Berserker [Capítulo 5]",
-			"title": "La segunda campaña del Berserker [Capítulo 5]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-segunda-campana-del-berserker",
-			"date_published": "2026-01-01T16:21:05.954Z"
 		}
 	]
 }
