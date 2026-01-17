@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Registros del Erudito Espadachín [Capítulo 188]",
+			"title": "Registros del Erudito Espadachín [Capítulo 188]",
+			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025ito-espadachin5324",
+			"date_published": "2026-01-17T22:15:33.315Z"
+		},
+		{
+			"id": "Academia de la Ascensión [Capítulo 184]",
+			"title": "Academia de la Ascensión [Capítulo 184]",
+			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20260117-080542969",
+			"date_published": "2026-01-17T22:15:33.315Z"
+		},
+		{
 			"id": "Sistema de cultivo del demonio celestial [Capítulo 160]",
 			"title": "Sistema de cultivo del demonio celestial [Capítulo 160]",
 			"url": "https://olympusbiblioteca.com/series/comic-sistema-de-cultivo-del-demonio-celestial-20260117-080558594",
@@ -2989,18 +3001,6 @@
 			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 48]",
 			"url": "https://olympusbiblioteca.com/series/comic-que-abundante-cosecha-senor-demonio-20260102-080845355",
 			"date_published": "2026-01-02T01:18:54.128Z"
-		},
-		{
-			"id": "De duende a Dios Goblin [Capítulo 91]",
-			"title": "De duende a Dios Goblin [Capítulo 91]",
-			"url": "https://olympusbiblioteca.com/series/comic-de-duen10-05-2025de-a-dios-goblin",
-			"date_published": "2026-01-02T01:18:54.128Z"
-		},
-		{
-			"id": "La segunda campaña del Berserker [Capítulo 9]",
-			"title": "La segunda campaña del Berserker [Capítulo 9]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-segunda-campana-del-berserker",
-			"date_published": "2026-01-01T22:15:58.126Z"
 		}
 	]
 }
