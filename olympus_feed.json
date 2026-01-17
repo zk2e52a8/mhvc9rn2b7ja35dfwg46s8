@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El renacimiento del Demonio Divino [Capítulo 17]",
+			"title": "El renacimiento del Demonio Divino [Capítulo 17]",
+			"url": "https://olympusbiblioteca.com/series/comic-1el-renacimiento-del-demonio-divino",
+			"date_published": "2026-01-17T18:22:23.303Z"
+		},
+		{
+			"id": "El legendario prodigio del ducado [Capítulo 31]",
+			"title": "El legendario prodigio del ducado [Capítulo 31]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado",
+			"date_published": "2026-01-17T18:22:23.303Z"
+		},
+		{
+			"id": "El Perro Loco de la Mansión del Duque [Capítulo 39]",
+			"title": "El Perro Loco de la Mansión del Duque [Capítulo 39]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-perro-loco-de-la-mansion-del-duque",
+			"date_published": "2026-01-17T18:22:23.303Z"
+		},
+		{
+			"id": "El Asesino Yu Ijin [Capítulo 271]",
+			"title": "El Asesino Yu Ijin [Capítulo 271]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-yu-ijin-20260117-080906042",
+			"date_published": "2026-01-17T18:22:23.303Z"
+		},
+		{
+			"id": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 52]",
+			"title": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 52]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-ascenso-del-tercer-principe-del-reino-caido",
+			"date_published": "2026-01-17T18:22:23.303Z"
+		},
+		{
 			"id": "El Blinker genio de la academia mágica [Capítulo 84]",
 			"title": "El Blinker genio de la academia mágica [Capítulo 84]",
 			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica",
@@ -2971,36 +3001,6 @@
 			"title": "Cómo criar villanos correctamente [Capítulo 16]",
 			"url": "https://olympusbiblioteca.com/series/comic-como-criar-villanos-correctamente-20260102-081535642",
 			"date_published": "2026-01-01T22:15:58.126Z"
-		},
-		{
-			"id": "La segunda campaña del Berserker [Capítulo 6]",
-			"title": "La segunda campaña del Berserker [Capítulo 6]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-segunda-campana-del-berserker",
-			"date_published": "2026-01-01T20:19:26.854Z"
-		},
-		{
-			"id": "Regresando al Otro Mundo una vez mas. [Capítulo 125]",
-			"title": "Regresando al Otro Mundo una vez mas. [Capítulo 125]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresando-al-otro-mundo-una-vez-mas-20260102-080559677",
-			"date_published": "2026-01-01T20:19:26.854Z"
-		},
-		{
-			"id": "La Evolución del Depredador [Capítulo 84]",
-			"title": "La Evolución del Depredador [Capítulo 84]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-evolucion-del-depredador",
-			"date_published": "2026-01-01T18:24:00.775Z"
-		},
-		{
-			"id": "Loco Frontera [Capítulo 222]",
-			"title": "Loco Frontera [Capítulo 222]",
-			"url": "https://olympusbiblioteca.com/series/comic-loco-frontera-20260102-081139523",
-			"date_published": "2026-01-01T18:24:00.775Z"
-		},
-		{
-			"id": "Dios Marcial Celestial 2 [Capítulo 26]",
-			"title": "Dios Marcial Celestial 2 [Capítulo 26]",
-			"url": "https://olympusbiblioteca.com/series/comic-dios-marcial-celestial-2",
-			"date_published": "2026-01-01T18:24:00.775Z"
 		}
 	]
 }
