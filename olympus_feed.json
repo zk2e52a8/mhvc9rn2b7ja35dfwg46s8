@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Mago devorador de dragones [Capítulo 126]",
+			"title": "Mago devorador de dragones [Capítulo 126]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago20-225-r-de-11251151515",
+			"date_published": "2026-01-18T03:42:20.645Z"
+		},
+		{
+			"id": "El amo de la plaga [Capítulo 99]",
+			"title": "El amo de la plaga [Capítulo 99]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-a10-05-2025mo-de-la-plaga",
+			"date_published": "2026-01-18T03:42:20.645Z"
+		},
+		{
+			"id": "Emperador magico (magic emperor) [Capítulo 807]",
+			"title": "Emperador magico (magic emperor) [Capítulo 807]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
+			"date_published": "2026-01-18T03:42:20.645Z"
+		},
+		{
+			"id": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 94]",
+			"title": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 94]",
+			"url": "https://olympusbiblioteca.com/series/comic-evolucion-marcial-comienza-por-despertar-al-rey-de-los-monstruos",
+			"date_published": "2026-01-18T03:42:20.645Z"
+		},
+		{
+			"id": "Un héroe que sabe lo que hace [Capítulo 10]",
+			"title": "Un héroe que sabe lo que hace [Capítulo 10]",
+			"url": "https://olympusbiblioteca.com/series/comic-un-heroe-que-sabe-lo-que-hace",
+			"date_published": "2026-01-18T03:42:20.644Z"
+		},
+		{
 			"id": "Ranker Salvaje [Capítulo 38]",
 			"title": "Ranker Salvaje [Capítulo 38]",
 			"url": "https://olympusbiblioteca.com/series/comic-ranker-salvaje-20260117-081906214",
@@ -2971,36 +3001,6 @@
 			"title": "El Mago Genio Destructor de Límites [Capítulo 42]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20260102-081422517",
 			"date_published": "2026-01-02T10:17:02.118Z"
-		},
-		{
-			"id": "El Hijo Menor del Renombrado Clan Mágico [Capítulo 110]",
-			"title": "El Hijo Menor del Renombrado Clan Mágico [Capítulo 110]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hijo-m20-225-do-clan-magi13424",
-			"date_published": "2026-01-02T08:23:20.589Z"
-		},
-		{
-			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 51]",
-			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 51]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
-			"date_published": "2026-01-02T06:27:19.608Z"
-		},
-		{
-			"id": "Deuda de Sangre [Capítulo 6]",
-			"title": "Deuda de Sangre [Capítulo 6]",
-			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre",
-			"date_published": "2026-01-02T04:36:48.007Z"
-		},
-		{
-			"id": "Papá zombie [Capítulo 19]",
-			"title": "Papá zombie [Capítulo 19]",
-			"url": "https://olympusbiblioteca.com/series/comic-papa-zombie",
-			"date_published": "2026-01-02T03:26:59.056Z"
-		},
-		{
-			"id": "Un niño criado por dragones quiere ser adoptado. [Capítulo 4]",
-			"title": "Un niño criado por dragones quiere ser adoptado. [Capítulo 4]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-nino-criado-por-dragones-quiere-ser-adoptado",
-			"date_published": "2026-01-02T03:26:59.056Z"
 		}
 	]
 }
