@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "CUltivador de no muertos [Capítulo 10]",
+			"title": "CUltivador de no muertos [Capítulo 10]",
+			"url": "https://olympusbiblioteca.com/series/comic-cultivador-de-no-muertos",
+			"date_published": "2026-01-19T20:19:12.900Z"
+		},
+		{
+			"id": "Ciudad del pecado [Capítulo 12]",
+			"title": "Ciudad del pecado [Capítulo 12]",
+			"url": "https://olympusbiblioteca.com/series/comic-ciudad-del-pecado",
+			"date_published": "2026-01-19T20:19:12.900Z"
+		},
+		{
+			"id": "Acumulador de rasgos [Capítulo 75]",
+			"title": "Acumulador de rasgos [Capítulo 75]",
+			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos-20260119-080900473",
+			"date_published": "2026-01-19T20:19:12.899Z"
+		},
+		{
+			"id": "Desperte como un Dios después de batallar en solitario durante un millón de años [Capítulo 62]",
+			"title": "Desperte como un Dios después de batallar en solitario durante un millón de años [Capítulo 62]",
+			"url": "https://olympusbiblioteca.com/series/comic-desperte-10-05-2025e-un-millon-de-anos",
+			"date_published": "2026-01-19T20:19:12.899Z"
+		},
+		{
+			"id": "El Joven Maestro del Gran Archivo Celestial [Capítulo 161]",
+			"title": "El Joven Maestro del Gran Archivo Celestial [Capítulo 161]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-joven-maestro-del-gran-archivo-celestial-20260119-081225017",
+			"date_published": "2026-01-19T20:19:12.899Z"
+		},
+		{
 			"id": "Reencarne como el heredero loco [Capítulo 183]",
 			"title": "Reencarne como el heredero loco [Capítulo 183]",
 			"url": "https://olympusbiblioteca.com/series/comic-reencarne-como-el-heredero-loco-20260119-080819414",
@@ -2971,36 +3001,6 @@
 			"title": "Heroe, regresa [Capítulo 135]",
 			"url": "https://olympusbiblioteca.com/series/comic-dragon-20-225-y-heroe13424",
 			"date_published": "2026-01-03T16:19:05.533Z"
-		},
-		{
-			"id": "El Blinker genio de la academia mágica [Capítulo 82]",
-			"title": "El Blinker genio de la academia mágica [Capítulo 82]",
-			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica",
-			"date_published": "2026-01-03T16:19:05.533Z"
-		},
-		{
-			"id": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 36]",
-			"title": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 36]",
-			"url": "https://olympusbiblioteca.com/series/comic-me-converti-en-el-villano-con-el-que-la-heroina-esta-obsesionada",
-			"date_published": "2026-01-03T16:19:05.533Z"
-		},
-		{
-			"id": "El hijo menor del maestro de la espada [Capítulo 192]",
-			"title": "El hijo menor del maestro de la espada [Capítulo 192]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hijo20-225-de-la-espada13424",
-			"date_published": "2026-01-03T14:15:16.524Z"
-		},
-		{
-			"id": "El príncipe heredero que vende medicina [Capítulo 89]",
-			"title": "El príncipe heredero que vende medicina [Capítulo 89]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-principe-heredero-que-vende-medicina-20260103-080600553",
-			"date_published": "2026-01-03T14:15:16.524Z"
-		},
-		{
-			"id": "Maestro de la espada devorador de espadas [Capítulo 8]",
-			"title": "Maestro de la espada devorador de espadas [Capítulo 8]",
-			"url": "https://olympusbiblioteca.com/series/comic-maestro-de-la-espada-devorador-de-espadas-20260103-081808319",
-			"date_published": "2026-01-03T12:31:20.945Z"
 		}
 	]
 }
