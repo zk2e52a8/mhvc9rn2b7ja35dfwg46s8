@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Arquitecto de mazmorras [Capítulo 66]",
+			"title": "El Arquitecto de mazmorras [Capítulo 66]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-arquite5zxzorras",
+			"date_published": "2026-01-20T22:19:10.264Z"
+		},
+		{
+			"id": "El Regreso del Espadachín Oscuro [Capítulo 33]",
+			"title": "El Regreso del Espadachín Oscuro [Capítulo 33]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
+			"date_published": "2026-01-20T22:19:10.263Z"
+		},
+		{
 			"id": "Grupo de Estudio [Capítulo 304]",
 			"title": "Grupo de Estudio [Capítulo 304]",
 			"url": "https://olympusbiblioteca.com/series/comic-grupo-de-estudio-20260120-081437540",
@@ -2989,18 +3001,6 @@
 			"title": "Amigo de la Infancia del Zenit [Capítulo 88]",
 			"url": "https://olympusbiblioteca.com/series/comic-amigo-de20-225-e-zenith",
 			"date_published": "2026-01-04T16:18:48.633Z"
-		},
-		{
-			"id": "CUltivador de no muertos [Capítulo 8]",
-			"title": "CUltivador de no muertos [Capítulo 8]",
-			"url": "https://olympusbiblioteca.com/series/comic-cultivador-de-no-muertos",
-			"date_published": "2026-01-04T14:15:02.413Z"
-		},
-		{
-			"id": "Un niño criado por dragones quiere ser adoptado. [Capítulo 6]",
-			"title": "Un niño criado por dragones quiere ser adoptado. [Capítulo 6]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-nino-criado-por-dragones-quiere-ser-adoptado",
-			"date_published": "2026-01-04T14:15:02.413Z"
 		}
 	]
 }
