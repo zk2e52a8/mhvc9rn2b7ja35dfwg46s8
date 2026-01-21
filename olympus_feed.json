@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Hijo Menor del Renombrado Clan Mágico [Capítulo 113]",
+			"title": "El Hijo Menor del Renombrado Clan Mágico [Capítulo 113]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-hijo-m20-225-do-clan-magi13424",
+			"date_published": "2026-01-21T08:26:58.028Z"
+		},
+		{
+			"id": "La noche del goblin [Capítulo 128]",
+			"title": "La noche del goblin [Capítulo 128]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin-20260120-081606752",
+			"date_published": "2026-01-21T08:26:58.028Z"
+		},
+		{
 			"id": "El regreso del mago ilegítimo [Capítulo 31]",
 			"title": "El regreso del mago ilegítimo [Capítulo 31]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-mago-ilegitimo-20260120-081832915",
@@ -2989,18 +3001,6 @@
 			"title": "Villano antihéroe [Capítulo 217]",
 			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe-20260105-081145323",
 			"date_published": "2026-01-04T22:15:44.495Z"
-		},
-		{
-			"id": "El Stream del Reencarnado [Capítulo 30]",
-			"title": "El Stream del Reencarnado [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado-20260104-081810174",
-			"date_published": "2026-01-04T22:15:44.494Z"
-		},
-		{
-			"id": "Un héroe que sabe lo que hace [Capítulo 8]",
-			"title": "Un héroe que sabe lo que hace [Capítulo 8]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-heroe-que-sabe-lo-que-hace",
-			"date_published": "2026-01-04T20:18:31.279Z"
 		}
 	]
 }
