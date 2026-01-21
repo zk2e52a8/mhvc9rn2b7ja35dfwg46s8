@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Al Diablo la Ventana de Estado [Capítulo 6]",
+			"title": "Al Diablo la Ventana de Estado [Capítulo 6]",
+			"url": "https://olympusbiblioteca.com/series/comic-al-diablo-la-ventana-de-estado-20260120-082012144",
+			"date_published": "2026-01-21T03:40:27.461Z"
+		},
+		{
+			"id": "Regresé con el poder del Rey [Capítulo 126]",
+			"title": "Regresé con el poder del Rey [Capítulo 126]",
+			"url": "https://olympusbiblioteca.com/series/comic-regrese-con-el-poder-del-rey-20260120-080506447",
+			"date_published": "2026-01-21T03:40:27.461Z"
+		},
+		{
+			"id": "Reencarnación del Rey del Puño [Capítulo 31]",
+			"title": "Reencarnación del Rey del Puño [Capítulo 31]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarnacion-del-rey-del-puno-20260120-081639172",
+			"date_published": "2026-01-21T03:40:27.461Z"
+		},
+		{
+			"id": "Chamán del dinero [Capítulo 23]",
+			"title": "Chamán del dinero [Capítulo 23]",
+			"url": "https://olympusbiblioteca.com/series/comic-chaman-del-dinero",
+			"date_published": "2026-01-21T03:40:27.461Z"
+		},
+		{
+			"id": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 29]",
+			"title": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 29]",
+			"url": "https://olympusbiblioteca.com/series/comic-cara-feliz-de-esclavo-a-leyenda-de-la-arena",
+			"date_published": "2026-01-21T03:40:27.461Z"
+		},
+		{
 			"id": "Las conspiraciones del mercenario regresado [Capítulo 73]",
 			"title": "Las conspiraciones del mercenario regresado [Capítulo 73]",
 			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado-20260120-080818995",
@@ -2971,36 +3001,6 @@
 			"title": "*El asesino que retornó como el hijo del duque [Capítulo 108]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-que-retorno-como-el-hijo-del-duque-20260105-080456222",
 			"date_published": "2026-01-04T20:18:31.279Z"
-		},
-		{
-			"id": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 49]",
-			"title": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 49]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hijo-menor-del-grupo-mercantil-eunhae",
-			"date_published": "2026-01-04T18:22:50.215Z"
-		},
-		{
-			"id": "Dominación Del Emperador [Capítulo 128]",
-			"title": "Dominación Del Emperador [Capítulo 128]",
-			"url": "https://olympusbiblioteca.com/series/comic-5zxzel-emperador87877",
-			"date_published": "2026-01-04T18:22:50.215Z"
-		},
-		{
-			"id": "El príncipe heredero que vende medicina [Capítulo 90]",
-			"title": "El príncipe heredero que vende medicina [Capítulo 90]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-principe-heredero-que-vende-medicina-20260104-080557382",
-			"date_published": "2026-01-04T18:22:50.215Z"
-		},
-		{
-			"id": "*El jugador que no puede subir de nivel [Capítulo 219]",
-			"title": "*El jugador que no puede subir de nivel [Capítulo 219]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-jugador-que-no-puede-subir-de-nivel-20260105-081321189",
-			"date_published": "2026-01-04T16:18:48.633Z"
-		},
-		{
-			"id": "Yo mate al jugador de la Academia [Capítulo 105]",
-			"title": "Yo mate al jugador de la Academia [Capítulo 105]",
-			"url": "https://olympusbiblioteca.com/series/comic-yo-mate-al-jugador-de-la-academia-20260105-080350248",
-			"date_published": "2026-01-04T16:18:48.633Z"
 		}
 	]
 }
