@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Ascenso del Caballero Errante [Capítulo 20]",
+			"title": "El Ascenso del Caballero Errante [Capítulo 20]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-ascenso-del-caballero-errante",
+			"date_published": "2026-01-21T20:25:50.743Z"
+		},
+		{
+			"id": "Acampando en otro Mundo: buscandole el sazon a la vida [Capítulo 93]",
+			"title": "Acampando en otro Mundo: buscandole el sazon a la vida [Capítulo 93]",
+			"url": "https://olympusbiblioteca.com/series/comic-acampando-en-otro-mundo-buscandole-el-sazon-a-la-vida-20260121-081715632",
+			"date_published": "2026-01-21T20:25:50.743Z"
+		},
+		{
 			"id": "Come y crece [Capítulo 36]",
 			"title": "Come y crece [Capítulo 36]",
 			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260121-081627489",
@@ -2989,18 +3001,6 @@
 			"title": "La Evolución del Depredador [Capítulo 87.9]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-evolucion-del-depredador",
 			"date_published": "2026-01-05T16:22:37.869Z"
-		},
-		{
-			"id": "Mi esposa es la líder del culto demoníaco [Capítulo 45]",
-			"title": "Mi esposa es la líder del culto demoníaco [Capítulo 45]",
-			"url": "https://olympusbiblioteca.com/series/comic-mi-esposa-es-la-lider-del-culto-demoniaco-20260106-081106909",
-			"date_published": "2026-01-05T08:26:42.314Z"
-		},
-		{
-			"id": "Tengo la guía exclusiva de la torre [Capítulo 99]",
-			"title": "Tengo la guía exclusiva de la torre [Capítulo 99]",
-			"url": "https://olympusbiblioteca.com/series/comic-tengo-la-guia-exclusiva-de-la-torre-20260106-080756793",
-			"date_published": "2026-01-05T08:26:42.314Z"
 		}
 	]
 }
