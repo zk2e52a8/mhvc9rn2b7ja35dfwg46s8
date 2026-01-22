@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Ascenso del Caballero Errante [Capítulo 21]",
+			"title": "El Ascenso del Caballero Errante [Capítulo 21]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-ascenso-del-caballero-errante",
+			"date_published": "2026-01-22T03:44:01.781Z"
+		},
+		{
+			"id": "Regresión absoluta [Capítulo 85]",
+			"title": "Regresión absoluta [Capítulo 85]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta-20260121-080744712",
+			"date_published": "2026-01-22T03:44:01.781Z"
+		},
+		{
 			"id": "Mi Vida Cuidando Dragonas [Capítulo 26]",
 			"title": "Mi Vida Cuidando Dragonas [Capítulo 26]",
 			"url": "https://olympusbiblioteca.com/series/comic-mi-vida-cuidando-dragonas-20260121-081720966",
@@ -2989,18 +3001,6 @@
 			"title": "Come y crece [Capítulo 30]",
 			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260105-081405913",
 			"date_published": "2026-01-05T22:16:54.205Z"
-		},
-		{
-			"id": "Torre de Dios : Urek Mazino [Capítulo 43]",
-			"title": "Torre de Dios : Urek Mazino [Capítulo 43]",
-			"url": "https://olympusbiblioteca.com/series/comic-torre-de-dios-urek-mazino-20260106-081131932",
-			"date_published": "2026-01-05T22:16:54.204Z"
-		},
-		{
-			"id": "El Indomable Rey Marcial [Capítulo 113]",
-			"title": "El Indomable Rey Marcial [Capítulo 113]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial-20260105-080516087",
-			"date_published": "2026-01-05T20:20:26.419Z"
 		}
 	]
 }
