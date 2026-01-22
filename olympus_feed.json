@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Los gemelos Baek [Capítulo 156]",
+			"title": "Los gemelos Baek [Capítulo 156]",
+			"url": "https://olympusbiblioteca.com/series/comic-los-gemelos-baek-20260122-081450147",
+			"date_published": "2026-01-22T14:25:48.958Z"
+		},
+		{
 			"id": "Reverend Insanity [remake] [Capítulo 13]",
 			"title": "Reverend Insanity [remake] [Capítulo 13]",
 			"url": "https://olympusbiblioteca.com/series/comic-reverend-insanity-remake",
@@ -2995,12 +3001,6 @@
 			"title": "La vida del cazador de clase S entre monstruos [Capítulo 29]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-cazador-de-clase-s-entre-monstruos-20260106-081850251",
 			"date_published": "2026-01-06T03:25:35.331Z"
-		},
-		{
-			"id": "El Mercenario que Reencarno entre Aristócratas [Capítulo 10]",
-			"title": "El Mercenario que Reencarno entre Aristócratas [Capítulo 10]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mercenario-que-reencarno-entre-aristocratas-20260105-081543666",
-			"date_published": "2026-01-06T01:18:45.609Z"
 		}
 	]
 }
