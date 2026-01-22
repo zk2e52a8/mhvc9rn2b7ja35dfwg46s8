@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Crónicas del soberano perezoso [Capítulo 25]",
+			"title": "Crónicas del soberano perezoso [Capítulo 25]",
+			"url": "https://olympusbiblioteca.com/series/comic-cronicas-del-soberano-perezoso-20260121-081825043",
+			"date_published": "2026-01-22T04:43:37.409Z"
+		},
+		{
+			"id": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 243]",
+			"title": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 243]",
+			"url": "https://olympusbiblioteca.com/series/comic-nigrom20-225-ante-yo-soy-la-plagaasdfasd",
+			"date_published": "2026-01-22T04:43:37.409Z"
+		},
+		{
 			"id": "El Ascenso del Caballero Errante [Capítulo 21]",
 			"title": "El Ascenso del Caballero Errante [Capítulo 21]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-ascenso-del-caballero-errante",
@@ -2989,18 +3001,6 @@
 			"title": "¿En Serio Hay Gente que Piensa que la Cultivación es Difícil? [Capítulo 46]",
 			"url": "https://olympusbiblioteca.com/series/comic-en-serio-hay-gente-que-piensa-que-la-cultivacion-es-dificil",
 			"date_published": "2026-01-06T01:18:45.609Z"
-		},
-		{
-			"id": "El Indomable Rey Marcial [Capítulo 114]",
-			"title": "El Indomable Rey Marcial [Capítulo 114]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial-20260106-080751695",
-			"date_published": "2026-01-05T22:16:54.205Z"
-		},
-		{
-			"id": "Come y crece [Capítulo 30]",
-			"title": "Come y crece [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260105-081405913",
-			"date_published": "2026-01-05T22:16:54.205Z"
 		}
 	]
 }
