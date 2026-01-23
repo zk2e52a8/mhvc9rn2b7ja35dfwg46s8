@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Academia de la Ascensión [Capítulo 185]",
+			"title": "Academia de la Ascensión [Capítulo 185]",
+			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20260123-080424369",
+			"date_published": "2026-01-23T20:20:48.428Z"
+		},
+		{
 			"id": "Sistema de cultivo del demonio celestial [Capítulo 161]",
 			"title": "Sistema de cultivo del demonio celestial [Capítulo 161]",
 			"url": "https://olympusbiblioteca.com/series/comic-sistema-de-cultivo-del-demonio-celestial-20260123-080440564",
@@ -2994,12 +3000,6 @@
 			"id": "La noche del goblin [Capítulo 126]",
 			"title": "La noche del goblin [Capítulo 126]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin-20260107-081633036",
-			"date_published": "2026-01-07T06:27:30.522Z"
-		},
-		{
-			"id": "Después de Obtener Riqueza y Libertad, Ofrecen su Lealtad. [Capítulo 67]",
-			"title": "Después de Obtener Riqueza y Libertad, Ofrecen su Lealtad. [Capítulo 67]",
-			"url": "https://olympusbiblioteca.com/series/comic-despues-de-obtener-riqueza-y-libertad-ofrecen-su-lealtad",
 			"date_published": "2026-01-07T06:27:30.522Z"
 		}
 	]
