@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Crónicas del soberano perezoso [Capítulo 31]",
+			"title": "Crónicas del soberano perezoso [Capítulo 31]",
+			"url": "https://olympusbiblioteca.com/series/comic-cronicas-del-soberano-perezoso-20260123-081802283",
+			"date_published": "2026-01-23T22:14:34.172Z"
+		},
+		{
+			"id": "Montañas de cadáveres y mar de sangre [Capítulo 23]",
+			"title": "Montañas de cadáveres y mar de sangre [Capítulo 23]",
+			"url": "https://olympusbiblioteca.com/series/comic-montanas-de-cadaveres-y-mar-de-sangre",
+			"date_published": "2026-01-23T22:14:34.172Z"
+		},
+		{
+			"id": "Guia de supervivencia del extra de la academia [Capítulo 87]",
+			"title": "Guia de supervivencia del extra de la academia [Capítulo 87]",
+			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-extra-de-la-academia-20260123-080523820",
+			"date_published": "2026-01-23T22:14:34.172Z"
+		},
+		{
+			"id": "Inicializando el Sistema de la Secta [Capítulo 24]",
+			"title": "Inicializando el Sistema de la Secta [Capítulo 24]",
+			"url": "https://olympusbiblioteca.com/series/comic-inicializando-el-sistema-de-la-secta-20260123-081724869",
+			"date_published": "2026-01-23T22:14:34.172Z"
+		},
+		{
+			"id": "Registros del Erudito Espadachín [Capítulo 189]",
+			"title": "Registros del Erudito Espadachín [Capítulo 189]",
+			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025ito-espadachin5324",
+			"date_published": "2026-01-23T22:14:34.172Z"
+		},
+		{
 			"id": "Academia de la Ascensión [Capítulo 185]",
 			"title": "Academia de la Ascensión [Capítulo 185]",
 			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20260123-080424369",
@@ -2971,36 +3001,6 @@
 			"title": "Solo Leveling: Ragnarok [Capítulo 68.05]",
 			"url": "https://olympusbiblioteca.com/series/comic-27-02-20-225-eling456456",
 			"date_published": "2026-01-07T16:24:23.653Z"
-		},
-		{
-			"id": "Mago Oscuro (Black Haze remake) [Capítulo 56]",
-			"title": "Mago Oscuro (Black Haze remake) [Capítulo 56]",
-			"url": "https://olympusbiblioteca.com/series/comic-mago-oscuro-black-haze-remake",
-			"date_published": "2026-01-07T16:24:23.653Z"
-		},
-		{
-			"id": "El regreso del héroe de clase: Desastre [Capítulo 159]",
-			"title": "El regreso del héroe de clase: Desastre [Capítulo 159]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-cl20-225-ase-desastre13424",
-			"date_published": "2026-01-07T14:20:07.160Z"
-		},
-		{
-			"id": "Regresé, Pero El Mundo No Terminó. [Capítulo 48]",
-			"title": "Regresé, Pero El Mundo No Terminó. [Capítulo 48]",
-			"url": "https://olympusbiblioteca.com/series/comic-regrese-pero-el-mundo-no-termino",
-			"date_published": "2026-01-07T12:36:34.141Z"
-		},
-		{
-			"id": "Me vuelvo invencible al sorprender a otros [Capítulo 110]",
-			"title": "Me vuelvo invencible al sorprender a otros [Capítulo 110]",
-			"url": "https://olympusbiblioteca.com/series/comic-me-vuelvo-invencible-al-sorprender-a-otros",
-			"date_published": "2026-01-07T08:24:15.132Z"
-		},
-		{
-			"id": "La noche del goblin [Capítulo 126]",
-			"title": "La noche del goblin [Capítulo 126]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin-20260107-081633036",
-			"date_published": "2026-01-07T06:27:30.522Z"
 		}
 	]
 }
