@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 366]",
+			"title": "Soldado Esqueleto [Capítulo 366]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20260123-081144712",
+			"date_published": "2026-01-24T06:25:45.044Z"
+		},
+		{
 			"id": "el pasado oculto del jugador [Capítulo 105]",
 			"title": "el pasado oculto del jugador [Capítulo 105]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-pasado-oculto-del-jugador-20260123-081452459",
@@ -2995,12 +3001,6 @@
 			"title": "Come y crece [Capítulo 34]",
 			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260108-081309065",
 			"date_published": "2026-01-08T04:35:56.202Z"
-		},
-		{
-			"id": "La Espada Suprema Demoníaca [Capítulo 4]",
-			"title": "La Espada Suprema Demoníaca [Capítulo 4]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-espada-suprema-demoniaca",
-			"date_published": "2026-01-08T03:26:11.963Z"
 		}
 	]
 }
