@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El hijo menor del maestro de la espada [Capítulo 195]",
+			"title": "El hijo menor del maestro de la espada [Capítulo 195]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-hijo20-225-de-la-espada13424",
+			"date_published": "2026-01-24T14:15:40.899Z"
+		},
+		{
+			"id": "La regresión del eunuco para recuperar su hombría [Capítulo 67]",
+			"title": "La regresión del eunuco para recuperar su hombría [Capítulo 67]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-regresion-del-eunuco-para-recuperar-su-hombria-20260124-081647828",
+			"date_published": "2026-01-24T14:15:40.899Z"
+		},
+		{
+			"id": "Sólo un gato. [Capítulo 34]",
+			"title": "Sólo un gato. [Capítulo 34]",
+			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
+			"date_published": "2026-01-24T14:15:40.899Z"
+		},
+		{
+			"id": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 30]",
+			"title": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 30]",
+			"url": "https://olympusbiblioteca.com/series/comic-cara-feliz-de-esclavo-a-leyenda-de-la-arena",
+			"date_published": "2026-01-24T14:15:40.899Z"
+		},
+		{
 			"id": "Soldado Esqueleto [Capítulo 366]",
 			"title": "Soldado Esqueleto [Capítulo 366]",
 			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20260124-080952796",
@@ -2977,30 +3001,6 @@
 			"title": "Regresé con el poder del Rey [Capítulo 122]",
 			"url": "https://olympusbiblioteca.com/series/comic-regrese-con-el-poder-del-rey-20260107-080601881",
 			"date_published": "2026-01-08T06:27:41.334Z"
-		},
-		{
-			"id": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 51]",
-			"title": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 51]",
-			"url": "https://olympusbiblioteca.com/series/comic-ascension-divina-mi-camino-a-la-cima-de-las-artes-marciales",
-			"date_published": "2026-01-08T06:27:41.334Z"
-		},
-		{
-			"id": "La Espada Suprema Demoníaca [Capítulo 5]",
-			"title": "La Espada Suprema Demoníaca [Capítulo 5]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-espada-suprema-demoniaca",
-			"date_published": "2026-01-08T06:27:41.334Z"
-		},
-		{
-			"id": "Roman demonio [Capítulo 182]",
-			"title": "Roman demonio [Capítulo 182]",
-			"url": "https://olympusbiblioteca.com/series/comic-roman-demonio-20260108-081057633",
-			"date_published": "2026-01-08T04:35:56.202Z"
-		},
-		{
-			"id": "Come y crece [Capítulo 34]",
-			"title": "Come y crece [Capítulo 34]",
-			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260108-081309065",
-			"date_published": "2026-01-08T04:35:56.202Z"
 		}
 	]
 }
