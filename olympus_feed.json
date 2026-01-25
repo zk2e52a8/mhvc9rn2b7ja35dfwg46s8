@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 155]",
+			"title": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 155]",
+			"url": "https://olympusbiblioteca.com/series/comic-cronicas-de-la-faccion-demoniaca-chun-hajin-el-asesino-mas-fuerte-20260125-081512937",
+			"date_published": "2026-01-25T18:23:55.866Z"
+		},
+		{
+			"id": "Manual de Reeducación de Damas Nobles [Capítulo 3]",
+			"title": "Manual de Reeducación de Damas Nobles [Capítulo 3]",
+			"url": "https://olympusbiblioteca.com/series/comic-manual-de-reeducacion-de-damas-nobles",
+			"date_published": "2026-01-25T18:23:55.866Z"
+		},
+		{
+			"id": "*El asesino que retornó como el hijo del duque [Capítulo 111]",
+			"title": "*El asesino que retornó como el hijo del duque [Capítulo 111]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-que-retorno-como-el-hijo-del-duque-20260125-080608853",
+			"date_published": "2026-01-25T18:23:55.866Z"
+		},
+		{
 			"id": "Evolución Demoníaca [Capítulo 141]",
 			"title": "Evolución Demoníaca [Capítulo 141]",
 			"url": "https://olympusbiblioteca.com/series/comic-evolucion-demoniac1342-1n",
@@ -2983,24 +3001,6 @@
 			"title": "Reverend Insanity [remake] [Capítulo 12]",
 			"url": "https://olympusbiblioteca.com/series/comic-reverend-insanity-remake",
 			"date_published": "2026-01-09T12:35:33.658Z"
-		},
-		{
-			"id": "Asesino de nivel divino [Capítulo 83]",
-			"title": "Asesino de nivel divino [Capítulo 83]",
-			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-nivel-divino",
-			"date_published": "2026-01-09T08:24:12.875Z"
-		},
-		{
-			"id": "El soberano del hogar [Capítulo 62]",
-			"title": "El soberano del hogar [Capítulo 62]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-soberano-del-hogar-20260110-080931384",
-			"date_published": "2026-01-09T08:24:12.875Z"
-		},
-		{
-			"id": "Civilización Nebula [Capítulo 111]",
-			"title": "Civilización Nebula [Capítulo 111]",
-			"url": "https://olympusbiblioteca.com/series/comic-civilizacion-nebula-20260109-080618593",
-			"date_published": "2026-01-09T03:27:02.001Z"
 		}
 	]
 }
