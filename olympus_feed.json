@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Evolución Demoníaca [Capítulo 141]",
+			"title": "Evolución Demoníaca [Capítulo 141]",
+			"url": "https://olympusbiblioteca.com/series/comic-evolucion-demoniac1342-1n",
+			"date_published": "2026-01-25T16:20:11.135Z"
+		},
+		{
+			"id": "La venganza del sabueso de sangre de hierro [Capítulo 147]",
+			"title": "La venganza del sabueso de sangre de hierro [Capítulo 147]",
+			"url": "https://olympusbiblioteca.com/series/comic-20-225-2sabueso13424",
+			"date_published": "2026-01-25T16:20:11.134Z"
+		},
+		{
 			"id": "Jugador que regresó 10.000 años después [Capítulo 143]",
 			"title": "Jugador que regresó 10.000 años después [Capítulo 143]",
 			"url": "https://olympusbiblioteca.com/series/comic-jugad20-225-reso-10000-anos-despues13424",
@@ -2988,18 +3000,6 @@
 			"id": "Civilización Nebula [Capítulo 111]",
 			"title": "Civilización Nebula [Capítulo 111]",
 			"url": "https://olympusbiblioteca.com/series/comic-civilizacion-nebula-20260109-080618593",
-			"date_published": "2026-01-09T03:27:02.001Z"
-		},
-		{
-			"id": "Un niño criado por dragones quiere ser adoptado. [Capítulo 9]",
-			"title": "Un niño criado por dragones quiere ser adoptado. [Capítulo 9]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-nino-criado-por-dragones-quiere-ser-adoptado",
-			"date_published": "2026-01-09T03:27:02.001Z"
-		},
-		{
-			"id": "El Arquitecto de mazmorras [Capítulo 64]",
-			"title": "El Arquitecto de mazmorras [Capítulo 64]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-arquite5zxzorras",
 			"date_published": "2026-01-09T03:27:02.001Z"
 		}
 	]
