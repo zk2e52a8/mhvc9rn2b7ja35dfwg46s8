@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Sentido Absoluto de las Espadas [Capítulo 166]",
+			"title": "El Sentido Absoluto de las Espadas [Capítulo 166]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-sentido-absoluto-de-las-espadas-20260124-080229434",
+			"date_published": "2026-01-25T01:27:02.200Z"
+		},
+		{
+			"id": "El legendario prodigio del ducado [Capítulo 32]",
+			"title": "El legendario prodigio del ducado [Capítulo 32]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado",
+			"date_published": "2026-01-25T01:27:02.200Z"
+		},
+		{
+			"id": "El Señor de Hielo [Capítulo 59]",
+			"title": "El Señor de Hielo [Capítulo 59]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20260124-080814182",
+			"date_published": "2026-01-25T01:27:02.200Z"
+		},
+		{
+			"id": "La vida del regresor después del retiro [Capítulo 93]",
+			"title": "La vida del regresor después del retiro [Capítulo 93]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-regresor-despues-del-retiro-20260124-080146867",
+			"date_published": "2026-01-25T01:27:02.199Z"
+		},
+		{
 			"id": "El chico problemático de la torre mágica [Capítulo 35]",
 			"title": "El chico problemático de la torre mágica [Capítulo 35]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-chico-problematico-de-la-torre-magica-20260124-080757511",
@@ -2977,30 +3001,6 @@
 			"title": "Obligado a ser Demonio Celestial [Capítulo 24]",
 			"url": "https://olympusbiblioteca.com/series/comic-obligado-a-ser-demonio-celestial",
 			"date_published": "2026-01-08T22:17:13.305Z"
-		},
-		{
-			"id": "Come y crece [Capítulo 35]",
-			"title": "Come y crece [Capítulo 35]",
-			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260109-081633509",
-			"date_published": "2026-01-08T20:19:53.182Z"
-		},
-		{
-			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 12]",
-			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 12]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes-20260109-081734557",
-			"date_published": "2026-01-08T20:19:53.182Z"
-		},
-		{
-			"id": "La Super Tienda de Mascotas Estelares [Capítulo 207]",
-			"title": "La Super Tienda de Mascotas Estelares [Capítulo 207]",
-			"url": "https://olympusbiblioteca.com/series/comic-13424la-super-tienda-de-mascotas-estelares5324",
-			"date_published": "2026-01-08T20:19:53.182Z"
-		},
-		{
-			"id": "El Maestro de la Espada que Saltó a Través del Tiempo [Capítulo 26]",
-			"title": "El Maestro de la Espada que Saltó a Través del Tiempo [Capítulo 26]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-que-salto-a-traves-del-tiempo-20260109-081709211",
-			"date_published": "2026-01-08T18:21:46.548Z"
 		}
 	]
 }
