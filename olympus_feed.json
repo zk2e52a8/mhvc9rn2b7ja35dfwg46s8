@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Rayito [Capítulo 387]",
+			"title": "Rayito [Capítulo 387]",
+			"url": "https://olympusbiblioteca.com/series/comic-rayito-20260127-081353796",
+			"date_published": "2026-01-27T22:19:10.236Z"
+		},
+		{
+			"id": "El maestro de la espada acogedor de estrellas [Capítulo 107]",
+			"title": "El maestro de la espada acogedor de estrellas [Capítulo 107]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-acogedor-de-estrellas-20260127-080251234",
+			"date_published": "2026-01-27T22:19:10.236Z"
+		},
+		{
+			"id": "El Guerrero Escolta Reencarnado [Capítulo 136]",
+			"title": "El Guerrero Escolta Reencarnado [Capítulo 136]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-gu10-05-2025encarnado",
+			"date_published": "2026-01-27T22:19:10.236Z"
+		},
+		{
+			"id": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 129]",
+			"title": "El prodigioso caballero oscuro con tiempo Limitado [Capítulo 129]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-prodigioso-caballero-oscuro-con-tiempo-limitado-20260127-081336888",
+			"date_published": "2026-01-27T22:19:10.236Z"
+		},
+		{
 			"id": "El Regreso del Espadachín Oscuro [Capítulo 34]",
 			"title": "El Regreso del Espadachín Oscuro [Capítulo 34]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
@@ -2977,30 +3001,6 @@
 			"title": "Asesino de nivel divino [Capítulo 84]",
 			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-nivel-divino",
 			"date_published": "2026-01-11T08:20:59.140Z"
-		},
-		{
-			"id": "El villano de mirada cortante de la Academia Demoniaca [Capítulo 59]",
-			"title": "El villano de mirada cortante de la Academia Demoniaca [Capítulo 59]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villano-de-mirada-cortante-de-la-academia-demoniaca-20260111-081044906",
-			"date_published": "2026-01-11T06:25:29.099Z"
-		},
-		{
-			"id": "El Chetado (Overgeared) [Capítulo 308]",
-			"title": "El Chetado (Overgeared) [Capítulo 308]",
-			"url": "https://olympusbiblioteca.com/series/comic-27-220-225-565464565465",
-			"date_published": "2026-01-11T04:43:25.337Z"
-		},
-		{
-			"id": "Un héroe que sabe lo que hace [Capítulo 9]",
-			"title": "Un héroe que sabe lo que hace [Capítulo 9]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-heroe-que-sabe-lo-que-hace",
-			"date_published": "2026-01-11T03:46:06.444Z"
-		},
-		{
-			"id": "Emperador magico (magic emperor) [Capítulo 804]",
-			"title": "Emperador magico (magic emperor) [Capítulo 804]",
-			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
-			"date_published": "2026-01-11T03:46:06.444Z"
 		}
 	]
 }
