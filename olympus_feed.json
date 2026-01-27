@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El chico problemático de la torre mágica [Capítulo 40]",
+			"title": "El chico problemático de la torre mágica [Capítulo 40]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-chico-problematico-de-la-torre-magica-20260126-081014063",
+			"date_published": "2026-01-27T03:44:01.871Z"
+		},
+		{
+			"id": "Sólo un gato. [Capítulo 35]",
+			"title": "Sólo un gato. [Capítulo 35]",
+			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
+			"date_published": "2026-01-27T03:44:01.871Z"
+		},
+		{
+			"id": "El Mago Devorador de Talentos [Capítulo 122]",
+			"title": "El Mago Devorador de Talentos [Capítulo 122]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago-20-225-devorador-de-talentos13424",
+			"date_published": "2026-01-27T03:44:01.871Z"
+		},
+		{
+			"id": "Ciudad del pecado [Capítulo 13]",
+			"title": "Ciudad del pecado [Capítulo 13]",
+			"url": "https://olympusbiblioteca.com/series/comic-ciudad-del-pecado",
+			"date_published": "2026-01-27T03:44:01.871Z"
+		},
+		{
+			"id": "Las crónicas del clan Tang [Capítulo 34]",
+			"title": "Las crónicas del clan Tang [Capítulo 34]",
+			"url": "https://olympusbiblioteca.com/series/comic-las-cronicas-del-clan-tang-20260126-081740205",
+			"date_published": "2026-01-27T03:44:01.871Z"
+		},
+		{
 			"id": "Emperador del Juego en Solitario [Capítulo 41]",
 			"title": "Emperador del Juego en Solitario [Capítulo 41]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-del-juego-en-solitario-20260126-081043732",
@@ -2971,36 +3001,6 @@
 			"title": "El Mercenario que Reencarno entre Aristócratas [Capítulo 13]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mercenario-que-reencarno-entre-aristocratas-20260111-081826058",
 			"date_published": "2026-01-10T20:17:44.445Z"
-		},
-		{
-			"id": "El Stream del Reencarnado [Capítulo 32]",
-			"title": "El Stream del Reencarnado [Capítulo 32]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado-20260111-081904601",
-			"date_published": "2026-01-10T20:17:44.445Z"
-		},
-		{
-			"id": "Apocalipsis de Calor Extremo: Me Convertí en Dios Gracias a Mi Refugio [Capítulo 10]",
-			"title": "Apocalipsis de Calor Extremo: Me Convertí en Dios Gracias a Mi Refugio [Capítulo 10]",
-			"url": "https://olympusbiblioteca.com/series/comic-apocalipsis-de-calor-extremo-me-converti-en-dios-gracias-a-mi-refugio",
-			"date_published": "2026-01-10T20:17:44.445Z"
-		},
-		{
-			"id": "El legendario prodigio del ducado [Capítulo 30]",
-			"title": "El legendario prodigio del ducado [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado",
-			"date_published": "2026-01-10T18:23:01.840Z"
-		},
-		{
-			"id": "Colorista [Capítulo 14]",
-			"title": "Colorista [Capítulo 14]",
-			"url": "https://olympusbiblioteca.com/series/comic-colorista-20260111-081747841",
-			"date_published": "2026-01-10T18:23:01.840Z"
-		},
-		{
-			"id": "El gran demonio celestial soberano [Capítulo 35]",
-			"title": "El gran demonio celestial soberano [Capítulo 35]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-gran-demonio-celestial-soberano",
-			"date_published": "2026-01-10T18:23:01.840Z"
 		}
 	]
 }
