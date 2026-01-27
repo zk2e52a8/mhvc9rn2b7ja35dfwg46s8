@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Mago Devorador de Talentos [Capítulo 123]",
+			"title": "El Mago Devorador de Talentos [Capítulo 123]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago-20-225-devorador-de-talentos13424",
+			"date_published": "2026-01-27T10:22:44.121Z"
+		},
+		{
 			"id": "Odisea en la Mazmorra [Capítulo 145]",
 			"title": "Odisea en la Mazmorra [Capítulo 145]",
 			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
@@ -2994,12 +3000,6 @@
 			"id": "Montañas de cadáveres y mar de sangre [Capítulo 21]",
 			"title": "Montañas de cadáveres y mar de sangre [Capítulo 21]",
 			"url": "https://olympusbiblioteca.com/series/comic-montanas-de-cadaveres-y-mar-de-sangre",
-			"date_published": "2026-01-10T20:17:44.445Z"
-		},
-		{
-			"id": "Inicializando el Sistema de la Secta [Capítulo 22]",
-			"title": "Inicializando el Sistema de la Secta [Capítulo 22]",
-			"url": "https://olympusbiblioteca.com/series/comic-inicializando-el-sistema-de-la-secta-20260111-081758725",
 			"date_published": "2026-01-10T20:17:44.445Z"
 		}
 	]
