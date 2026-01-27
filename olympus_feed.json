@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Emperador del Juego en Solitario [Capítulo 41]",
+			"title": "Emperador del Juego en Solitario [Capítulo 41]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-del-juego-en-solitario-20260126-081043732",
+			"date_published": "2026-01-27T01:24:39.324Z"
+		},
+		{
+			"id": "Lider Kim [Capítulo 225]",
+			"title": "Lider Kim [Capítulo 225]",
+			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20260126-081216869",
+			"date_published": "2026-01-27T01:24:39.324Z"
+		},
+		{
+			"id": "*El Villano Del Destino [Capítulo 308]",
+			"title": "*El Villano Del Destino [Capítulo 308]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
+			"date_published": "2026-01-27T01:24:39.324Z"
+		},
+		{
+			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 218]",
+			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 218]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin-20260126-080245211",
+			"date_published": "2026-01-27T01:24:39.324Z"
+		},
+		{
 			"id": "El enfermo terminal joven maestro Baek [Capítulo 91]",
 			"title": "El enfermo terminal joven maestro Baek [Capítulo 91]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-enfermo-terminal-joven-maestro-baek-20260126-080314468",
@@ -2977,30 +3001,6 @@
 			"title": "El gran demonio celestial soberano [Capítulo 35]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-gran-demonio-celestial-soberano",
 			"date_published": "2026-01-10T18:23:01.840Z"
-		},
-		{
-			"id": "El Asesino Yu Ijin [Capítulo 270.5]",
-			"title": "El Asesino Yu Ijin [Capítulo 270.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-yu-ijin-20260111-080840213",
-			"date_published": "2026-01-10T18:23:01.840Z"
-		},
-		{
-			"id": "El Blinker genio de la academia mágica [Capítulo 83]",
-			"title": "El Blinker genio de la academia mágica [Capítulo 83]",
-			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica",
-			"date_published": "2026-01-10T16:18:59.074Z"
-		},
-		{
-			"id": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 37]",
-			"title": "Me convertí en el villano con el que la heroína está obsesionada [Capítulo 37]",
-			"url": "https://olympusbiblioteca.com/series/comic-me-converti-en-el-villano-con-el-que-la-heroina-esta-obsesionada",
-			"date_published": "2026-01-10T16:18:59.074Z"
-		},
-		{
-			"id": "El hijo menor del maestro de la espada [Capítulo 193]",
-			"title": "El hijo menor del maestro de la espada [Capítulo 193]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hijo20-225-de-la-espada13424",
-			"date_published": "2026-01-10T14:15:18.014Z"
 		}
 	]
 }
