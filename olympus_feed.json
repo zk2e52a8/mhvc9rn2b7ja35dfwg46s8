@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El regreso del héroe de clase: Desastre [Capítulo 161]",
+			"title": "El regreso del héroe de clase: Desastre [Capítulo 161]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-cl20-225-ase-desastre13424",
+			"date_published": "2026-01-28T16:30:37.531Z"
+		},
+		{
 			"id": "Emperador del Juego en Solitario [Capítulo 45]",
 			"title": "Emperador del Juego en Solitario [Capítulo 45]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-del-juego-en-solitario-20260127-080904031",
@@ -2995,12 +3001,6 @@
 			"title": "Artes Marciales Globales [Capítulo 322]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-m10-05-2025en-de-las-peleas",
 			"date_published": "2026-01-11T18:22:44.003Z"
-		},
-		{
-			"id": "Regresor de la familia caída [Capítulo 115]",
-			"title": "Regresor de la familia caída [Capítulo 115]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260112-080627989",
-			"date_published": "2026-01-11T16:19:41.561Z"
 		}
 	]
 }
