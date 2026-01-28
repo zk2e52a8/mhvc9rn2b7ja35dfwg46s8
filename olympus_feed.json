@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Ascenso del Caballero Errante [Capítulo 22]",
+			"title": "El Ascenso del Caballero Errante [Capítulo 22]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-ascenso-del-caballero-errante",
+			"date_published": "2026-01-28T22:21:55.754Z"
+		},
+		{
+			"id": "Restaurante del mago [Capítulo 117]",
+			"title": "Restaurante del mago [Capítulo 117]",
+			"url": "https://olympusbiblioteca.com/series/comic-restaurante-del-mago-20260127-080436624",
+			"date_published": "2026-01-28T22:21:55.754Z"
+		},
+		{
+			"id": "Actuando como el villano de ojos de zorro Perfecto [Capítulo 50]",
+			"title": "Actuando como el villano de ojos de zorro Perfecto [Capítulo 50]",
+			"url": "https://olympusbiblioteca.com/series/comic-actuando-como-el-villano-de-ojos-de-zorro-perfecto-20260127-080824762",
+			"date_published": "2026-01-28T22:21:55.754Z"
+		},
+		{
+			"id": "Yo mate al jugador de la Academia [Capítulo 108]",
+			"title": "Yo mate al jugador de la Academia [Capítulo 108]",
+			"url": "https://olympusbiblioteca.com/series/comic-yo-mate-al-jugador-de-la-academia-20260127-080330292",
+			"date_published": "2026-01-28T22:21:55.753Z"
+		},
+		{
 			"id": "Actuando como el villano de ojos de zorro Perfecto [Capítulo 49]",
 			"title": "Actuando como el villano de ojos de zorro Perfecto [Capítulo 49]",
 			"url": "https://olympusbiblioteca.com/series/comic-actuando-como-el-villano-de-ojos-de-zorro-perfecto-20260127-080824762",
@@ -2977,30 +3001,6 @@
 			"title": "El Regreso Del Genio De Las Artes Marciales [Capítulo 118]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-genio-de-las-artes-marciales-20260112-080410167",
 			"date_published": "2026-01-11T22:15:56.264Z"
-		},
-		{
-			"id": "El retorno del mago oscuro del alistamiento [Capítulo 59]",
-			"title": "El retorno del mago oscuro del alistamiento [Capítulo 59]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-retorno-del-mago-oscuro-del-alistamiento-20260112-081428342",
-			"date_published": "2026-01-11T22:15:56.264Z"
-		},
-		{
-			"id": "Después de Obtener Riqueza y Libertad, Ofrecen su Lealtad. [Capítulo 68]",
-			"title": "Después de Obtener Riqueza y Libertad, Ofrecen su Lealtad. [Capítulo 68]",
-			"url": "https://olympusbiblioteca.com/series/comic-despues-de-obtener-riqueza-y-libertad-ofrecen-su-lealtad",
-			"date_published": "2026-01-11T20:18:30.157Z"
-		},
-		{
-			"id": "El Joven Maestro del Gran Archivo Celestial [Capítulo 159]",
-			"title": "El Joven Maestro del Gran Archivo Celestial [Capítulo 159]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-joven-maestro-del-gran-archivo-celestial-20260112-081213743",
-			"date_published": "2026-01-11T20:18:30.157Z"
-		},
-		{
-			"id": "La evolución del nigromante [Capítulo 106]",
-			"title": "La evolución del nigromante [Capítulo 106]",
-			"url": "https://olympusbiblioteca.com/series/comic-nigromante-j20-225-apone-1n",
-			"date_published": "2026-01-11T20:18:30.157Z"
 		}
 	]
 }
