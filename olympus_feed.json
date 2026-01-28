@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Emperador del Juego en Solitario [Capítulo 45]",
+			"title": "Emperador del Juego en Solitario [Capítulo 45]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-del-juego-en-solitario-20260127-080904031",
+			"date_published": "2026-01-28T08:25:58.560Z"
+		},
+		{
 			"id": "Super humanos [Capítulo 218]",
 			"title": "Super humanos [Capítulo 218]",
 			"url": "https://olympusbiblioteca.com/series/comic-super-humanos-20260127-080630383",
@@ -2994,12 +3000,6 @@
 			"id": "Regresor de la familia caída [Capítulo 115]",
 			"title": "Regresor de la familia caída [Capítulo 115]",
 			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260112-080627989",
-			"date_published": "2026-01-11T16:19:41.561Z"
-		},
-		{
-			"id": "Deuda de Sangre [Capítulo 7]",
-			"title": "Deuda de Sangre [Capítulo 7]",
-			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260112-082004294",
 			"date_published": "2026-01-11T16:19:41.561Z"
 		}
 	]
