@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Dios Demonio [Capítulo 5]",
+			"title": "El Dios Demonio [Capítulo 5]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-dios-demonio",
+			"date_published": "2026-01-29T22:22:55.540Z"
+		},
+		{
+			"id": "Villano antihéroe [Capítulo 218]",
+			"title": "Villano antihéroe [Capítulo 218]",
+			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe-20260127-081225130",
+			"date_published": "2026-01-29T22:22:55.540Z"
+		},
+		{
+			"id": "El bastardo devorador de armas. [Capítulo 72]",
+			"title": "El bastardo devorador de armas. [Capítulo 72]",
+			"url": "https://olympusbiblioteca.com/series/comic-o5324evorador-de-armas",
+			"date_published": "2026-01-29T22:22:55.539Z"
+		},
+		{
 			"id": "El Dios Demonio [Capítulo 3]",
 			"title": "El Dios Demonio [Capítulo 3]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-dios-demonio",
@@ -2983,24 +3001,6 @@
 			"title": "La 31ma pieza revierte la situación [Capítulo 101]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-3110-05-2025-la-situacion5313424",
 			"date_published": "2026-01-13T01:15:49.807Z"
-		},
-		{
-			"id": "*El Villano Del Destino [Capítulo 305]",
-			"title": "*El Villano Del Destino [Capítulo 305]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
-			"date_published": "2026-01-13T01:15:49.807Z"
-		},
-		{
-			"id": "El Mago Genio Destructor de Límites [Capítulo 43]",
-			"title": "El Mago Genio Destructor de Límites [Capítulo 43]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20260113-081451739",
-			"date_published": "2026-01-13T01:15:49.807Z"
-		},
-		{
-			"id": "El último aventurero [Capítulo 105]",
-			"title": "El último aventurero [Capítulo 105]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-ultimo-aventurero-20260113-080543758",
-			"date_published": "2026-01-12T22:15:16.309Z"
 		}
 	]
 }
