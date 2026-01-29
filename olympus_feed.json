@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Lider Kim [Capítulo 226]",
+			"title": "Lider Kim [Capítulo 226]",
+			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20260127-081029653",
+			"date_published": "2026-01-29T16:37:38.287Z"
+		},
+		{
+			"id": "Loco Murim [Capítulo 182]",
+			"title": "Loco Murim [Capítulo 182]",
+			"url": "https://olympusbiblioteca.com/series/comic-loco-murim-20260127-080223800",
+			"date_published": "2026-01-29T16:37:38.287Z"
+		},
+		{
+			"id": "El chico problemático de la torre mágica [Capítulo 44.5]",
+			"title": "El chico problemático de la torre mágica [Capítulo 44.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-chico-problematico-de-la-torre-magica-20260127-080835179",
+			"date_published": "2026-01-29T16:37:38.287Z"
+		},
+		{
+			"id": "La luz de Arad: Aquel que camina primero [Capítulo 82]",
+			"title": "La luz de Arad: Aquel que camina primero [Capítulo 82]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-luz-de-arad-aquel-que-camina-primero-20260127-080619296",
+			"date_published": "2026-01-29T16:37:38.287Z"
+		},
+		{
+			"id": "Goblin de nivel 999 [Capítulo 38]",
+			"title": "Goblin de nivel 999 [Capítulo 38]",
+			"url": "https://olympusbiblioteca.com/series/comic-goblin-de-nivel-999-20260127-080920694",
+			"date_published": "2026-01-29T16:37:38.287Z"
+		},
+		{
 			"id": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 99]",
 			"title": "Evolución Marcial: Comienza por Despertar al Rey de los Monstruos [Capítulo 99]",
 			"url": "https://olympusbiblioteca.com/series/comic-evolucion-marcial-comienza-por-despertar-al-rey-de-los-monstruos",
@@ -2971,36 +3001,6 @@
 			"title": "Que alguien detenga al Papa [Capítulo 67]",
 			"url": "https://olympusbiblioteca.com/series/comic-5zxzien-detenga-al-papa",
 			"date_published": "2026-01-12T20:20:05.579Z"
-		},
-		{
-			"id": "Regresión absoluta [Capítulo 83]",
-			"title": "Regresión absoluta [Capítulo 83]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta-20260112-080806484",
-			"date_published": "2026-01-12T18:26:37.560Z"
-		},
-		{
-			"id": "El Indomable Rey Marcial [Capítulo 115]",
-			"title": "El Indomable Rey Marcial [Capítulo 115]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial-20260113-080548776",
-			"date_published": "2026-01-12T18:26:37.560Z"
-		},
-		{
-			"id": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 239]",
-			"title": "Llevo Mil Años Atrapado En El Mismo Día [Capítulo 239]",
-			"url": "https://olympusbiblioteca.com/series/comic-llevo-mil-anos-atrapado-en-el-mismo-dia",
-			"date_published": "2026-01-12T18:26:37.560Z"
-		},
-		{
-			"id": "La noche del goblin [Capítulo 127]",
-			"title": "La noche del goblin [Capítulo 127]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin-20260113-081431155",
-			"date_published": "2026-01-12T16:22:23.205Z"
-		},
-		{
-			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 110]",
-			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 110]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-marcial-que-regreso-al-nivel-2-20260113-081426125",
-			"date_published": "2026-01-12T16:22:23.205Z"
 		}
 	]
 }
