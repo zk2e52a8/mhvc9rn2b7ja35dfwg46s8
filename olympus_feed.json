@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Torre de Dios : Urek Mazino [Capítulo 48]",
+			"title": "Torre de Dios : Urek Mazino [Capítulo 48]",
+			"url": "https://olympusbiblioteca.com/series/comic-torre-de-dios-urek-mazino-20260127-080909533",
+			"date_published": "2026-01-29T06:40:17.966Z"
+		},
+		{
 			"id": "Sólo un gato. [Capítulo 36]",
 			"title": "Sólo un gato. [Capítulo 36]",
 			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
@@ -2994,12 +3000,6 @@
 			"id": "Las crónicas del clan Tang [Capítulo 30]",
 			"title": "Las crónicas del clan Tang [Capítulo 30]",
 			"url": "https://olympusbiblioteca.com/series/comic-las-cronicas-del-clan-tang-20260112-081658695",
-			"date_published": "2026-01-12T03:45:07.707Z"
-		},
-		{
-			"id": "Sólo un gato. [Capítulo 28]",
-			"title": "Sólo un gato. [Capítulo 28]",
-			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
 			"date_published": "2026-01-12T03:45:07.707Z"
 		}
 	]
