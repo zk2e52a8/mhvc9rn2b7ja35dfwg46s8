@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "La noche del goblin [Capítulo 129]",
+			"title": "La noche del goblin [Capítulo 129]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-noche-del-goblin-20260127-081433315",
+			"date_published": "2026-01-29T08:33:11.249Z"
+		},
+		{
 			"id": "Torre de Dios : Urek Mazino [Capítulo 48]",
 			"title": "Torre de Dios : Urek Mazino [Capítulo 48]",
 			"url": "https://olympusbiblioteca.com/series/comic-torre-de-dios-urek-mazino-20260127-080909533",
@@ -2994,12 +3000,6 @@
 			"id": "No soy esa clase de talento [Capítulo 114]",
 			"title": "No soy esa clase de talento [Capítulo 114]",
 			"url": "https://olympusbiblioteca.com/series/comic-no-soy-esa-clase-de-talento-20260112-081153031",
-			"date_published": "2026-01-12T03:45:07.707Z"
-		},
-		{
-			"id": "Las crónicas del clan Tang [Capítulo 30]",
-			"title": "Las crónicas del clan Tang [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-las-cronicas-del-clan-tang-20260112-081658695",
 			"date_published": "2026-01-12T03:45:07.707Z"
 		}
 	]
