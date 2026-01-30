@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Asesino de nivel divino [Capítulo 88]",
+			"title": "Asesino de nivel divino [Capítulo 88]",
+			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-nivel-divino",
+			"date_published": "2026-01-30T08:32:20.580Z"
+		},
+		{
+			"id": "Emperador del Juego en Solitario [Capítulo 49]",
+			"title": "Emperador del Juego en Solitario [Capítulo 49]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-del-juego-en-solitario-20260127-080904031",
+			"date_published": "2026-01-30T08:32:20.580Z"
+		},
+		{
 			"id": "El Dios de la Espada de un Mundo Destruido [Capítulo 48.1]",
 			"title": "El Dios de la Espada de un Mundo Destruido [Capítulo 48.1]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-dios-de-la-espada-de-un-mundo-destruido",
@@ -2989,18 +3001,6 @@
 			"title": "Mago Oscuro (Black Haze remake) [Capítulo 56.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-mago-oscuro-black-haze-remake",
 			"date_published": "2026-01-13T14:21:24.091Z"
-		},
-		{
-			"id": "Sistema de cultivo del demonio celestial [Capítulo 159]",
-			"title": "Sistema de cultivo del demonio celestial [Capítulo 159]",
-			"url": "https://olympusbiblioteca.com/series/comic-sistema-de-cultivo-del-demonio-celestial-20260114-080408588",
-			"date_published": "2026-01-13T14:21:24.091Z"
-		},
-		{
-			"id": "Nivelando Con Los Dioses [Capítulo 156]",
-			"title": "Nivelando Con Los Dioses [Capítulo 156]",
-			"url": "https://olympusbiblioteca.com/series/comic-nivel20-225-ando-con-los-dioses13424",
-			"date_published": "2026-01-13T14:21:24.090Z"
 		}
 	]
 }
