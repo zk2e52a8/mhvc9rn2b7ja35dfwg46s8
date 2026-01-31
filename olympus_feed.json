@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 20.5]",
+			"title": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 20.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-primer-principe-la-leyenda-del-canto-de-la-espada",
+			"date_published": "2026-01-31T20:20:08.815Z"
+		},
+		{
+			"id": "El Asesino Yu Ijin [Capítulo 273]",
+			"title": "El Asesino Yu Ijin [Capítulo 273]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-yu-ijin-20260131-080914402",
+			"date_published": "2026-01-31T20:20:08.815Z"
+		},
+		{
 			"id": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 11]",
 			"title": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 11]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-primer-principe-la-leyenda-del-canto-de-la-espada",
@@ -2989,18 +3001,6 @@
 			"title": "Reencarne como el heredero loco [Capítulo 182]",
 			"url": "https://olympusbiblioteca.com/series/comic-reencarne-como-el-heredero-loco-20260115-080831865",
 			"date_published": "2026-01-15T03:27:18.332Z"
-		},
-		{
-			"id": "Regresor de la familia caída [Capítulo 116]",
-			"title": "Regresor de la familia caída [Capítulo 116]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260115-080656993",
-			"date_published": "2026-01-15T03:27:18.332Z"
-		},
-		{
-			"id": "Al Diablo la Ventana de Estado [Capítulo 5]",
-			"title": "Al Diablo la Ventana de Estado [Capítulo 5]",
-			"url": "https://olympusbiblioteca.com/series/comic-al-diablo-la-ventana-de-estado-20260115-082024960",
-			"date_published": "2026-01-15T01:17:39.385Z"
 		}
 	]
 }
