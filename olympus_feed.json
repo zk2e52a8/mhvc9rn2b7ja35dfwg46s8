@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Regresor de la familia caída [Capítulo 118]",
+			"title": "Regresor de la familia caída [Capítulo 118]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260131-080635617",
+			"date_published": "2026-01-31T14:20:10.484Z"
+		},
+		{
+			"id": "El hijo menor del maestro de la espada [Capítulo 196]",
+			"title": "El hijo menor del maestro de la espada [Capítulo 196]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-hijo20-225-de-la-espada13424",
+			"date_published": "2026-01-31T14:20:10.484Z"
+		},
+		{
+			"id": "Guia de supervivencia del extra de la academia [Capítulo 89]",
+			"title": "Guia de supervivencia del extra de la academia [Capítulo 89]",
+			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-extra-de-la-academia-20260131-080617182",
+			"date_published": "2026-01-31T14:20:10.484Z"
+		},
+		{
 			"id": "El enfermo terminal joven maestro Baek [Capítulo 92.05]",
 			"title": "El enfermo terminal joven maestro Baek [Capítulo 92.05]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-enfermo-terminal-joven-maestro-baek-20260131-080413493",
@@ -2983,24 +3001,6 @@
 			"title": "Stream del Arquero Genio [Capítulo 96]",
 			"url": "https://olympusbiblioteca.com/series/comic-stream-del-arquero-genio-20260115-081802232",
 			"date_published": "2026-01-14T22:18:06.458Z"
-		},
-		{
-			"id": "Cazador Carnívoro [Capítulo 149]",
-			"title": "Cazador Carnívoro [Capítulo 149]",
-			"url": "https://olympusbiblioteca.com/series/comic-cazador10-05-2025-carnivoro13424",
-			"date_published": "2026-01-14T20:17:09.297Z"
-		},
-		{
-			"id": "Goblin de nivel 999 [Capítulo 37]",
-			"title": "Goblin de nivel 999 [Capítulo 37]",
-			"url": "https://olympusbiblioteca.com/series/comic-goblin-de-nivel-999-20260115-081147448",
-			"date_published": "2026-01-14T18:27:42.211Z"
-		},
-		{
-			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 53]",
-			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 53]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
-			"date_published": "2026-01-14T18:27:42.211Z"
 		}
 	]
 }
