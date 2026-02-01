@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Heroe, regresa [Capítulo 139]",
+			"title": "Heroe, regresa [Capítulo 139]",
+			"url": "https://olympusbiblioteca.com/series/comic-dragon-20-225-y-heroe13424",
+			"date_published": "2026-02-01T14:21:56.498Z"
+		},
+		{
+			"id": "Sólo un gato. [Capítulo 37]",
+			"title": "Sólo un gato. [Capítulo 37]",
+			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
+			"date_published": "2026-02-01T14:21:56.498Z"
+		},
+		{
+			"id": "La novia yandere que dibujé. [Capítulo 4]",
+			"title": "La novia yandere que dibujé. [Capítulo 4]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-novia-yandere-que-dibuje",
+			"date_published": "2026-02-01T14:21:56.498Z"
+		},
+		{
+			"id": "La venganza del sabueso de sangre de hierro [Capítulo 148]",
+			"title": "La venganza del sabueso de sangre de hierro [Capítulo 148]",
+			"url": "https://olympusbiblioteca.com/series/comic-20-225-2sabueso13424",
+			"date_published": "2026-02-01T14:21:56.497Z"
+		},
+		{
 			"id": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 58]",
 			"title": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 58]",
 			"url": "https://olympusbiblioteca.com/series/comic-ascension-divina-mi-camino-a-la-cima-de-las-artes-marciales",
@@ -2977,30 +3001,6 @@
 			"title": "Artes Marciales Globales [Capítulo 323]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-m10-05-2025en-de-las-peleas",
 			"date_published": "2026-01-15T20:20:43.245Z"
-		},
-		{
-			"id": "Construyendo un imperio industrial en un mundo mágico [Capítulo 69]",
-			"title": "Construyendo un imperio industrial en un mundo mágico [Capítulo 69]",
-			"url": "https://olympusbiblioteca.com/series/comic-construye10-05-2025en-un-mundo-magico",
-			"date_published": "2026-01-15T20:20:43.244Z"
-		},
-		{
-			"id": "Nueva Cara [Capítulo 590]",
-			"title": "Nueva Cara [Capítulo 590]",
-			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20260116-081350415",
-			"date_published": "2026-01-15T18:30:40.125Z"
-		},
-		{
-			"id": "Sin fin skills [Capítulo 241]",
-			"title": "Sin fin skills [Capítulo 241]",
-			"url": "https://olympusbiblioteca.com/series/comic-sin-fin-skills-20260116-081230110",
-			"date_published": "2026-01-15T18:30:40.125Z"
-		},
-		{
-			"id": "Tower Crush [Capítulo 155]",
-			"title": "Tower Crush [Capítulo 155]",
-			"url": "https://olympusbiblioteca.com/series/comic-tower-crush-20260116-081206873",
-			"date_published": "2026-01-15T18:30:40.125Z"
 		}
 	]
 }
