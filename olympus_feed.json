@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Emperador magico (magic emperor) [Capítulo 813]",
+			"title": "Emperador magico (magic emperor) [Capítulo 813]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
+			"date_published": "2026-02-01T06:43:02.460Z"
+		},
+		{
+			"id": "Goblin de nivel 999 [Capítulo 39]",
+			"title": "Goblin de nivel 999 [Capítulo 39]",
+			"url": "https://olympusbiblioteca.com/series/comic-goblin-de-nivel-999-20260131-081216625",
+			"date_published": "2026-02-01T06:43:02.460Z"
+		},
+		{
 			"id": "El Chetado (Overgeared) [Capítulo 310]",
 			"title": "El Chetado (Overgeared) [Capítulo 310]",
 			"url": "https://olympusbiblioteca.com/series/comic-27-220-225-565464565465",
@@ -2989,18 +3001,6 @@
 			"title": "El Joven Maestro del Gran Archivo Celestial [Capítulo 160]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-joven-maestro-del-gran-archivo-celestial-20260116-081246062",
 			"date_published": "2026-01-15T18:30:40.125Z"
-		},
-		{
-			"id": "¡Que abundante cosecha, señor demonio! [Capítulo 50]",
-			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 50]",
-			"url": "https://olympusbiblioteca.com/series/comic-que-abundante-cosecha-senor-demonio-20260116-081057040",
-			"date_published": "2026-01-15T16:29:24.163Z"
-		},
-		{
-			"id": "Tower Crush [Capítulo 154]",
-			"title": "Tower Crush [Capítulo 154]",
-			"url": "https://olympusbiblioteca.com/series/comic-tower-crush-20260115-081209060",
-			"date_published": "2026-01-15T16:29:24.163Z"
 		}
 	]
 }
