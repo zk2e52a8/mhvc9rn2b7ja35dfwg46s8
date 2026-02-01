@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Mago prismático genio [Capítulo 61]",
+			"title": "Mago prismático genio [Capítulo 61]",
+			"url": "https://olympusbiblioteca.com/series/comic-mago-prismatico-genio-20260131-081054598",
+			"date_published": "2026-02-01T01:55:16.287Z"
+		},
+		{
+			"id": "El guerrero despiadado [Capítulo 41]",
+			"title": "El guerrero despiadado [Capítulo 41]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado-20260131-081853977",
+			"date_published": "2026-02-01T01:55:16.287Z"
+		},
+		{
+			"id": "Sangre Maldita [Capítulo 72]",
+			"title": "Sangre Maldita [Capítulo 72]",
+			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20260131-081005127",
+			"date_published": "2026-02-01T01:55:16.287Z"
+		},
+		{
+			"id": "Evolución Demoníaca [Capítulo 142]",
+			"title": "Evolución Demoníaca [Capítulo 142]",
+			"url": "https://olympusbiblioteca.com/series/comic-evolucion-demoniac1342-1n",
+			"date_published": "2026-02-01T01:55:16.287Z"
+		},
+		{
+			"id": "El Blinker genio de la academia mágica [Capítulo 85]",
+			"title": "El Blinker genio de la academia mágica [Capítulo 85]",
+			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica",
+			"date_published": "2026-02-01T01:55:16.287Z"
+		},
+		{
 			"id": "El legendario prodigio del ducado [Capítulo 33]",
 			"title": "El legendario prodigio del ducado [Capítulo 33]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado",
@@ -2971,36 +3001,6 @@
 			"title": "El enfermo terminal joven maestro Baek [Capítulo 90]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-enfermo-terminal-joven-maestro-baek-20260116-080454372",
 			"date_published": "2026-01-15T14:20:52.992Z"
-		},
-		{
-			"id": "Sólo un gato. [Capítulo 29]",
-			"title": "Sólo un gato. [Capítulo 29]",
-			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
-			"date_published": "2026-01-15T12:36:28.365Z"
-		},
-		{
-			"id": "Un niño criado por dragones quiere ser adoptado. [Capítulo 12]",
-			"title": "Un niño criado por dragones quiere ser adoptado. [Capítulo 12]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-nino-criado-por-dragones-quiere-ser-adoptado",
-			"date_published": "2026-01-15T12:36:28.365Z"
-		},
-		{
-			"id": "Palo De Madera [Capítulo 165.2]",
-			"title": "Palo De Madera [Capítulo 165.2]",
-			"url": "https://olympusbiblioteca.com/series/comic-palo-de-madera-20260115-081401541",
-			"date_published": "2026-01-15T12:36:28.365Z"
-		},
-		{
-			"id": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 53]",
-			"title": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 53]",
-			"url": "https://olympusbiblioteca.com/series/comic-ascension-divina-mi-camino-a-la-cima-de-las-artes-marciales",
-			"date_published": "2026-01-15T08:25:33.114Z"
-		},
-		{
-			"id": "Después de Obtener Riqueza y Libertad, Ofrecen su Lealtad. [Capítulo 69]",
-			"title": "Después de Obtener Riqueza y Libertad, Ofrecen su Lealtad. [Capítulo 69]",
-			"url": "https://olympusbiblioteca.com/series/comic-despues-de-obtener-riqueza-y-libertad-ofrecen-su-lealtad",
-			"date_published": "2026-01-15T06:27:17.264Z"
 		}
 	]
 }
