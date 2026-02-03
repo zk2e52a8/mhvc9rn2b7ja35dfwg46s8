@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 367]",
+			"title": "Soldado Esqueleto [Capítulo 367]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20260202-081155643",
+			"date_published": "2026-02-03T06:43:32.448Z"
+		},
+		{
 			"id": "El Regreso del Espadachín Oscuro [Capítulo 35]",
 			"title": "El Regreso del Espadachín Oscuro [Capítulo 35]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
@@ -2995,12 +3001,6 @@
 			"title": "Despues De Dejar De Actuar Como Un Perro, Me Convertí En Un Magnate Celestial Urbano [Capítulo 270]",
 			"url": "https://olympusbiblioteca.com/series/comic-despues-de-dejar-de-actuar-como-un-perro-me-converti-en-un-magnate-celestial-urbano",
 			"date_published": "2026-01-17T03:19:10.472Z"
-		},
-		{
-			"id": "Emperador magico (magic emperor) [Capítulo 806]",
-			"title": "Emperador magico (magic emperor) [Capítulo 806]",
-			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
-			"date_published": "2026-01-17T03:19:10.471Z"
 		}
 	]
 }
