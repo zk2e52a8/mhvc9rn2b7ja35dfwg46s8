@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Regreso del Espadachín Oscuro [Capítulo 35]",
+			"title": "El Regreso del Espadachín Oscuro [Capítulo 35]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
+			"date_published": "2026-02-03T04:11:16.595Z"
+		},
+		{
+			"id": "Villano antihéroe [Capítulo 220]",
+			"title": "Villano antihéroe [Capítulo 220]",
+			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe-20260202-081406951",
+			"date_published": "2026-02-03T04:11:16.595Z"
+		},
+		{
+			"id": "Ranker Salvaje [Capítulo 42]",
+			"title": "Ranker Salvaje [Capítulo 42]",
+			"url": "https://olympusbiblioteca.com/series/comic-ranker-salvaje-20260202-082015541",
+			"date_published": "2026-02-03T04:11:16.595Z"
+		},
+		{
 			"id": "Al caer la luz de la luna [Capítulo 1]",
 			"title": "Al caer la luz de la luna [Capítulo 1]",
 			"url": "https://olympusbiblioteca.com/series/comic-al-caer-la-luz-de-la-luna",
@@ -2983,24 +3001,6 @@
 			"title": "Emperador magico (magic emperor) [Capítulo 806]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
 			"date_published": "2026-01-17T03:19:10.471Z"
-		},
-		{
-			"id": "Actúe como un jefecito final, Sr. devorador [Capítulo 110]",
-			"title": "Actúe como un jefecito final, Sr. devorador [Capítulo 110]",
-			"url": "https://olympusbiblioteca.com/series/comic-actue-com20-225-l-sr-devorador",
-			"date_published": "2026-01-17T01:16:02.054Z"
-		},
-		{
-			"id": "Apocalipsis Despiadado: Acumular Billones de Suministros al Principio [Capítulo 87]",
-			"title": "Apocalipsis Despiadado: Acumular Billones de Suministros al Principio [Capítulo 87]",
-			"url": "https://olympusbiblioteca.com/series/comic-apocalipsis-despiadado-acumular-billones-de-suministros-al-principio",
-			"date_published": "2026-01-17T01:16:02.054Z"
-		},
-		{
-			"id": "El Señor de Hielo [Capítulo 58]",
-			"title": "El Señor de Hielo [Capítulo 58]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20260117-081114733",
-			"date_published": "2026-01-17T01:16:02.054Z"
 		}
 	]
 }
