@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Academia de la Ascensión [Capítulo 186]",
+			"title": "Academia de la Ascensión [Capítulo 186]",
+			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20260204-080330988",
+			"date_published": "2026-02-04T22:21:41.375Z"
+		},
+		{
+			"id": "Subiendo de nivel con las mejores habilidades [Capítulo 136]",
+			"title": "Subiendo de nivel con las mejores habilidades [Capítulo 136]",
+			"url": "https://olympusbiblioteca.com/series/comic-s20-225-evel-mejores-221r1234",
+			"date_published": "2026-02-04T22:21:41.375Z"
+		},
+		{
 			"id": "El hombre más guapo se convirtió en esqueleto [Capítulo 75]",
 			"title": "El hombre más guapo se convirtió en esqueleto [Capítulo 75]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto-20260204-080923283",
@@ -2989,18 +3001,6 @@
 			"title": "Torre de Dios : Urek Mazino [Capítulo 44]",
 			"url": "https://olympusbiblioteca.com/series/comic-torre-de-dios-urek-mazino-20260119-081116421",
 			"date_published": "2026-01-18T18:21:55.794Z"
-		},
-		{
-			"id": "La vida del regresor después del retiro [Capítulo 88]",
-			"title": "La vida del regresor después del retiro [Capítulo 88]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-regresor-despues-del-retiro-20260119-080516753",
-			"date_published": "2026-01-18T18:21:55.794Z"
-		},
-		{
-			"id": "*El asesino que retornó como el hijo del duque [Capítulo 110]",
-			"title": "*El asesino que retornó como el hijo del duque [Capítulo 110]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-que-retorno-como-el-hijo-del-duque-20260119-080712737",
-			"date_published": "2026-01-18T16:19:30.546Z"
 		}
 	]
 }
