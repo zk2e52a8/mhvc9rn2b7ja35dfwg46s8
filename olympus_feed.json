@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Resurrección solitaria [Capítulo 81]",
+			"title": "Resurrección solitaria [Capítulo 81]",
+			"url": "https://olympusbiblioteca.com/series/comic-resurreccion-solitaria-20260204-080737830",
+			"date_published": "2026-02-05T06:52:23.617Z"
+		},
+		{
+			"id": "Asesino de nivel divino [Capítulo 89]",
+			"title": "Asesino de nivel divino [Capítulo 89]",
+			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-nivel-divino",
+			"date_published": "2026-02-05T06:52:23.617Z"
+		},
+		{
+			"id": "El regreso del mago ilegítimo [Capítulo 33]",
+			"title": "El regreso del mago ilegítimo [Capítulo 33]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-mago-ilegitimo-20260204-082045145",
+			"date_published": "2026-02-05T06:52:23.617Z"
+		},
+		{
 			"id": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 104]",
 			"title": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 104]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-dios-caotico-de-fuerza-extraordinaria-20260204-080546156",
@@ -2983,24 +3001,6 @@
 			"title": "Jugador de talento insano [Capítulo 110]",
 			"url": "https://olympusbiblioteca.com/series/comic-jugador-de-talento-insano-20260119-080521671",
 			"date_published": "2026-01-19T03:46:02.470Z"
-		},
-		{
-			"id": "El heroe de nivel legendario prodigio de la academia. [Capítulo 68]",
-			"title": "El heroe de nivel legendario prodigio de la academia. [Capítulo 68]",
-			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025rio-prodigio-de-la-academia",
-			"date_published": "2026-01-19T03:46:02.469Z"
-		},
-		{
-			"id": "La 31ma pieza revierte la situación [Capítulo 102]",
-			"title": "La 31ma pieza revierte la situación [Capítulo 102]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-3110-05-2025-la-situacion5313424",
-			"date_published": "2026-01-19T01:23:31.983Z"
-		},
-		{
-			"id": "El Mercenario que Reencarno entre Aristócratas [Capítulo 14]",
-			"title": "El Mercenario que Reencarno entre Aristócratas [Capítulo 14]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mercenario-que-reencarno-entre-aristocratas-20260119-081819090",
-			"date_published": "2026-01-19T01:23:31.983Z"
 		}
 	]
 }
