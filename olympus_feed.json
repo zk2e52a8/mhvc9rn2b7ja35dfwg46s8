@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "La luz de Arad: Aquel que camina primero [Capítulo 83]",
+			"title": "La luz de Arad: Aquel que camina primero [Capítulo 83]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-luz-de-arad-aquel-que-camina-primero-20260205-080806985",
+			"date_published": "2026-02-05T16:40:57.149Z"
+		},
+		{
+			"id": "Viaje de hielo y hierro [Capítulo 2]",
+			"title": "Viaje de hielo y hierro [Capítulo 2]",
+			"url": "https://olympusbiblioteca.com/series/comic-viaje-de-hielo-y-hierro",
+			"date_published": "2026-02-05T16:40:57.149Z"
+		},
+		{
+			"id": "El Genio entrenador de artes marciales [Capítulo 99]",
+			"title": "El Genio entrenador de artes marciales [Capítulo 99]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-genio-entrenador-de-artes-marciales-20260205-080656605",
+			"date_published": "2026-02-05T16:40:57.148Z"
+		},
+		{
 			"id": "Un niño criado por dragones quiere ser adoptado. [Capítulo 19]",
 			"title": "Un niño criado por dragones quiere ser adoptado. [Capítulo 19]",
 			"url": "https://olympusbiblioteca.com/series/comic-un-nino-criado-por-dragones-quiere-ser-adoptado",
@@ -2983,24 +3001,6 @@
 			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 110.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-dios-marcial-que-regreso-al-nivel-2-20260120-081601254",
 			"date_published": "2026-01-19T16:23:10.077Z"
-		},
-		{
-			"id": "El Troll más fuerte del mundo [Capítulo 160]",
-			"title": "El Troll más fuerte del mundo [Capítulo 160]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-troll-mas-fuerte-del-mundo-20260120-080526668",
-			"date_published": "2026-01-19T14:22:52.785Z"
-		},
-		{
-			"id": "Odisea en la Mazmorra [Capítulo 144]",
-			"title": "Odisea en la Mazmorra [Capítulo 144]",
-			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
-			"date_published": "2026-01-19T04:48:02.105Z"
-		},
-		{
-			"id": "Regresor de la familia caída [Capítulo 117]",
-			"title": "Regresor de la familia caída [Capítulo 117]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260120-080553374",
-			"date_published": "2026-01-19T04:48:02.105Z"
 		}
 	]
 }
