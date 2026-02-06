@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 148]",
+			"title": "Crónicas del Retorno del Dios Marcial [Capítulo 148]",
+			"url": "https://olympusbiblioteca.com/series/comic-cronica20-225-os-marcial13424",
+			"date_published": "2026-02-06T06:47:28.205Z"
+		},
+		{
+			"id": "Apocalipsis de Calor Extremo: Me Convertí en Dios Gracias a Mi Refugio [Capítulo 17]",
+			"title": "Apocalipsis de Calor Extremo: Me Convertí en Dios Gracias a Mi Refugio [Capítulo 17]",
+			"url": "https://olympusbiblioteca.com/series/comic-apocalipsis-de-calor-extremo-me-converti-en-dios-gracias-a-mi-refugio",
+			"date_published": "2026-02-06T06:47:28.205Z"
+		},
+		{
 			"id": "Colorista [Capítulo 17]",
 			"title": "Colorista [Capítulo 17]",
 			"url": "https://olympusbiblioteca.com/series/comic-colorista-20260205-082027790",
@@ -2989,18 +3001,6 @@
 			"title": "Guía de estrategia de un cobarde para conquistar la torre [Capítulo 9]",
 			"url": "https://olympusbiblioteca.com/series/comic-guia-de-estrategia-de-un-cobarde-para-conquistar-la-torre-20260120-081847293",
 			"date_published": "2026-01-20T03:39:55.196Z"
-		},
-		{
-			"id": "Tower Crush [Capítulo 159]",
-			"title": "Tower Crush [Capítulo 159]",
-			"url": "https://olympusbiblioteca.com/series/comic-tower-crush-20260120-081117690",
-			"date_published": "2026-01-20T03:39:55.196Z"
-		},
-		{
-			"id": "El Sentido Absoluto de las Espadas [Capítulo 165]",
-			"title": "El Sentido Absoluto de las Espadas [Capítulo 165]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-sentido-absoluto-de-las-espadas-20260120-080501180",
-			"date_published": "2026-01-20T01:18:48.188Z"
 		}
 	]
 }
