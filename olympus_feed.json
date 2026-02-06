@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Colorista [Capítulo 17]",
+			"title": "Colorista [Capítulo 17]",
+			"url": "https://olympusbiblioteca.com/series/comic-colorista-20260205-082027790",
+			"date_published": "2026-02-06T04:10:40.863Z"
+		},
+		{
+			"id": "El apóstol rebelde de la Diosa de la abundancia. [Capítulo 25]",
+			"title": "El apóstol rebelde de la Diosa de la abundancia. [Capítulo 25]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-apostol-rebelde-de-la-diosa-de-la-abundancia",
+			"date_published": "2026-02-06T04:10:40.863Z"
+		},
+		{
+			"id": "Viaje de hielo y hierro [Capítulo 3]",
+			"title": "Viaje de hielo y hierro [Capítulo 3]",
+			"url": "https://olympusbiblioteca.com/series/comic-viaje-de-hielo-y-hierro",
+			"date_published": "2026-02-06T04:10:40.863Z"
+		},
+		{
+			"id": "El Joven Maestro del Gran Archivo Celestial [Capítulo 163]",
+			"title": "El Joven Maestro del Gran Archivo Celestial [Capítulo 163]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-joven-maestro-del-gran-archivo-celestial-20260205-081317926",
+			"date_published": "2026-02-06T04:10:40.863Z"
+		},
+		{
+			"id": "Emperador magico (magic emperor) [Capítulo 814]",
+			"title": "Emperador magico (magic emperor) [Capítulo 814]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
+			"date_published": "2026-02-06T04:10:40.863Z"
+		},
+		{
 			"id": "Los Breakers [Capítulo 40]",
 			"title": "Los Breakers [Capítulo 40]",
 			"url": "https://olympusbiblioteca.com/series/comic-los-breakers-20260205-082109681",
@@ -2971,36 +3001,6 @@
 			"title": "El Sentido Absoluto de las Espadas [Capítulo 165]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-sentido-absoluto-de-las-espadas-20260120-080501180",
 			"date_published": "2026-01-20T01:18:48.188Z"
-		},
-		{
-			"id": "Sólo un gato. [Capítulo 32]",
-			"title": "Sólo un gato. [Capítulo 32]",
-			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
-			"date_published": "2026-01-20T01:18:48.187Z"
-		},
-		{
-			"id": "Un niño criado por dragones quiere ser adoptado. [Capítulo 14]",
-			"title": "Un niño criado por dragones quiere ser adoptado. [Capítulo 14]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-nino-criado-por-dragones-quiere-ser-adoptado",
-			"date_published": "2026-01-20T01:18:48.187Z"
-		},
-		{
-			"id": "Mago devorador de dragones [Capítulo 128]",
-			"title": "Mago devorador de dragones [Capítulo 128]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mago20-225-r-de-11251151515",
-			"date_published": "2026-01-20T01:18:48.187Z"
-		},
-		{
-			"id": "El último aventurero [Capítulo 106]",
-			"title": "El último aventurero [Capítulo 106]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-ultimo-aventurero-20260120-080635565",
-			"date_published": "2026-01-20T01:18:48.187Z"
-		},
-		{
-			"id": "La vida del cazador de clase S entre monstruos [Capítulo 31]",
-			"title": "La vida del cazador de clase S entre monstruos [Capítulo 31]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-cazador-de-clase-s-entre-monstruos-20260120-081859032",
-			"date_published": "2026-01-20T01:18:48.187Z"
 		}
 	]
 }
