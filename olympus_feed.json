@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Al caer la luz de la luna [Capítulo 20]",
+			"title": "Al caer la luz de la luna [Capítulo 20]",
+			"url": "https://olympusbiblioteca.com/series/comic-al-caer-la-luz-de-la-luna",
+			"date_published": "2026-02-07T18:28:35.826Z"
+		},
+		{
 			"id": "Al caer la luz de la luna [Capítulo 8]",
 			"title": "Al caer la luz de la luna [Capítulo 8]",
 			"url": "https://olympusbiblioteca.com/series/comic-al-caer-la-luz-de-la-luna",
@@ -2994,12 +3000,6 @@
 			"id": "Sólo un gato. [Capítulo 33]",
 			"title": "Sólo un gato. [Capítulo 33]",
 			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
-			"date_published": "2026-01-21T12:39:23.485Z"
-		},
-		{
-			"id": "Un niño criado por dragones quiere ser adoptado. [Capítulo 15]",
-			"title": "Un niño criado por dragones quiere ser adoptado. [Capítulo 15]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-nino-criado-por-dragones-quiere-ser-adoptado",
 			"date_published": "2026-01-21T12:39:23.485Z"
 		}
 	]
