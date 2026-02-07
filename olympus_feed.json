@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Señor de Hielo [Capítulo 61]",
+			"title": "El Señor de Hielo [Capítulo 61]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20260206-081412691",
+			"date_published": "2026-02-07T10:21:01.109Z"
+		},
+		{
+			"id": "Regresé con el poder del Rey [Capítulo 128]",
+			"title": "Regresé con el poder del Rey [Capítulo 128]",
+			"url": "https://olympusbiblioteca.com/series/comic-regrese-con-el-poder-del-rey-20260206-080718194",
+			"date_published": "2026-02-07T10:21:01.109Z"
+		},
+		{
+			"id": "El Indomable Rey Marcial [Capítulo 119]",
+			"title": "El Indomable Rey Marcial [Capítulo 119]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial-20260206-080926320",
+			"date_published": "2026-02-07T10:21:01.109Z"
+		},
+		{
 			"id": "Los Breakers [Capítulo 43]",
 			"title": "Los Breakers [Capítulo 43]",
 			"url": "https://olympusbiblioteca.com/series/comic-los-breakers-20260206-082429468",
@@ -497,7 +515,7 @@
 		{
 			"id": "Tengo la guía exclusiva de la torre [Capítulo 104]",
 			"title": "Tengo la guía exclusiva de la torre [Capítulo 104]",
-			"url": "https://olympusbiblioteca.com/series/comic-tengo-la-guia-exclusiva-de-la-torre-20260205-080633803",
+			"url": "https://olympusbiblioteca.com/series/comic-tengo-la-guia-exclusiva-de-la-torre-20260206-080932942",
 			"date_published": "2026-02-04T14:38:18.278Z"
 		},
 		{
@@ -2983,24 +3001,6 @@
 			"title": "Reencarnación del Rey del Puño [Capítulo 32]",
 			"url": "https://olympusbiblioteca.com/series/comic-reencarnacion-del-rey-del-puno-20260121-081632963",
 			"date_published": "2026-01-21T06:29:41.387Z"
-		},
-		{
-			"id": "Despues De Dejar De Actuar Como Un Perro, Me Convertí En Un Magnate Celestial Urbano [Capítulo 271]",
-			"title": "Despues De Dejar De Actuar Como Un Perro, Me Convertí En Un Magnate Celestial Urbano [Capítulo 271]",
-			"url": "https://olympusbiblioteca.com/series/comic-despues-de-dejar-de-actuar-como-un-perro-me-converti-en-un-magnate-celestial-urbano",
-			"date_published": "2026-01-21T04:40:22.017Z"
-		},
-		{
-			"id": "Al Diablo la Ventana de Estado [Capítulo 6]",
-			"title": "Al Diablo la Ventana de Estado [Capítulo 6]",
-			"url": "https://olympusbiblioteca.com/series/comic-al-diablo-la-ventana-de-estado-20260121-081957109",
-			"date_published": "2026-01-21T03:40:27.461Z"
-		},
-		{
-			"id": "Regresé con el poder del Rey [Capítulo 126]",
-			"title": "Regresé con el poder del Rey [Capítulo 126]",
-			"url": "https://olympusbiblioteca.com/series/comic-regrese-con-el-poder-del-rey-20260121-080512466",
-			"date_published": "2026-01-21T03:40:27.461Z"
 		}
 	]
 }
