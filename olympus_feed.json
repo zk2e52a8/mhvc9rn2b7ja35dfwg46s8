@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Acumulador de rasgos [Capítulo 78]",
+			"title": "Acumulador de rasgos [Capítulo 78]",
+			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos-20260208-080651535",
+			"date_published": "2026-02-08T16:24:25.101Z"
+		},
+		{
+			"id": "Amigo de la Infancia del Zenit [Capítulo 93]",
+			"title": "Amigo de la Infancia del Zenit [Capítulo 93]",
+			"url": "https://olympusbiblioteca.com/series/comic-amigo-de20-225-e-zenith",
+			"date_published": "2026-02-08T16:24:25.101Z"
+		},
+		{
+			"id": "Evolución Demoníaca [Capítulo 143]",
+			"title": "Evolución Demoníaca [Capítulo 143]",
+			"url": "https://olympusbiblioteca.com/series/comic-evolucion-demoniac1342-1n",
+			"date_published": "2026-02-08T16:24:25.101Z"
+		},
+		{
+			"id": "Las constelaciones son mis discípulos [Capítulo 131]",
+			"title": "Las constelaciones son mis discípulos [Capítulo 131]",
+			"url": "https://olympusbiblioteca.com/series/comic-las-constelaciones-son-mis-discipulos-20260208-081339324",
+			"date_published": "2026-02-08T16:24:25.101Z"
+		},
+		{
 			"id": "La venganza del sabueso de sangre de hierro [Capítulo 149]",
 			"title": "La venganza del sabueso de sangre de hierro [Capítulo 149]",
 			"url": "https://olympusbiblioteca.com/series/comic-20-225-2sabueso13424",
@@ -2977,30 +3001,6 @@
 			"title": "Espada de la inquisición celestial [Capítulo 153.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-inquisic20-225-ion-celestia13424",
 			"date_published": "2026-01-22T16:28:52.190Z"
-		},
-		{
-			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 54]",
-			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 54]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
-			"date_published": "2026-01-22T16:28:52.190Z"
-		},
-		{
-			"id": "El Despiadado Demonio Celestial [Capítulo 296]",
-			"title": "El Despiadado Demonio Celestial [Capítulo 296]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-despiadado-demonio-celestial-20260123-081059430",
-			"date_published": "2026-01-22T16:28:52.190Z"
-		},
-		{
-			"id": "Viviendo como un Lord Vampiro [Capítulo 27]",
-			"title": "Viviendo como un Lord Vampiro [Capítulo 27]",
-			"url": "https://olympusbiblioteca.com/series/comic-viviendo-como-un-lord-vampiro",
-			"date_published": "2026-01-22T16:28:52.190Z"
-		},
-		{
-			"id": "Los gemelos Baek [Capítulo 156]",
-			"title": "Los gemelos Baek [Capítulo 156]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-gemelos-baek-20260123-081436210",
-			"date_published": "2026-01-22T14:25:48.958Z"
 		}
 	]
 }
