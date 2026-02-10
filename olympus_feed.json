@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Dios Marcial Celestial 2 [Capítulo 30]",
+			"title": "Dios Marcial Celestial 2 [Capítulo 30]",
+			"url": "https://olympusbiblioteca.com/series/comic-dios-marcial-celestial-2",
+			"date_published": "2026-02-10T22:35:04.665Z"
+		},
+		{
 			"id": "Deuda de Sangre [Capítulo 12]",
 			"title": "Deuda de Sangre [Capítulo 12]",
 			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260210-081716492",
@@ -2995,12 +3001,6 @@
 			"title": "El Blinker genio de la academia mágica [Capítulo 84.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica",
 			"date_published": "2026-01-24T16:19:35.719Z"
-		},
-		{
-			"id": "El hijo menor del maestro de la espada [Capítulo 195]",
-			"title": "El hijo menor del maestro de la espada [Capítulo 195]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-hijo20-225-de-la-espada13424",
-			"date_published": "2026-01-24T14:15:40.899Z"
 		}
 	]
 }
