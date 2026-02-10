@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Deuda de Sangre [Capítulo 12]",
+			"title": "Deuda de Sangre [Capítulo 12]",
+			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260210-081716492",
+			"date_published": "2026-02-10T20:38:34.626Z"
+		},
+		{
 			"id": "El gran demonio celestial soberano [Capítulo 39]",
 			"title": "El gran demonio celestial soberano [Capítulo 39]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-gran-demonio-celestial-soberano",
@@ -2994,12 +3000,6 @@
 			"id": "El hijo menor del maestro de la espada [Capítulo 195]",
 			"title": "El hijo menor del maestro de la espada [Capítulo 195]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-hijo20-225-de-la-espada13424",
-			"date_published": "2026-01-24T14:15:40.899Z"
-		},
-		{
-			"id": "La regresión del eunuco para recuperar su hombría [Capítulo 67]",
-			"title": "La regresión del eunuco para recuperar su hombría [Capítulo 67]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-regresion-del-eunuco-para-recuperar-su-hombria-20260125-082047646",
 			"date_published": "2026-01-24T14:15:40.899Z"
 		}
 	]
