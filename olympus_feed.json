@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Genio entrenador de artes marciales [Capítulo 101]",
+			"title": "El Genio entrenador de artes marciales [Capítulo 101]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-genio-entrenador-de-artes-marciales-20260209-080652920",
+			"date_published": "2026-02-10T02:00:39.587Z"
+		},
+		{
+			"id": "El Rey demonio tiene 18 años [Capítulo 25]",
+			"title": "El Rey demonio tiene 18 años [Capítulo 25]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-tiene-18-anos",
+			"date_published": "2026-02-10T02:00:39.587Z"
+		},
+		{
+			"id": "Yo mate al jugador de la Academia [Capítulo 111]",
+			"title": "Yo mate al jugador de la Academia [Capítulo 111]",
+			"url": "https://olympusbiblioteca.com/series/comic-yo-mate-al-jugador-de-la-academia-20260209-080435457",
+			"date_published": "2026-02-10T02:00:39.587Z"
+		},
+		{
+			"id": "*El Villano Del Destino [Capítulo 311]",
+			"title": "*El Villano Del Destino [Capítulo 311]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
+			"date_published": "2026-02-10T02:00:39.587Z"
+		},
+		{
 			"id": "El Rey demonio tiene 18 años [Capítulo 20]",
 			"title": "El Rey demonio tiene 18 años [Capítulo 20]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-tiene-18-anos",
@@ -2977,30 +3001,6 @@
 			"title": "Loco Murim [Capítulo 180]",
 			"url": "https://olympusbiblioteca.com/series/comic-loco-murim-20260124-080136046",
 			"date_published": "2026-01-24T01:17:23.856Z"
-		},
-		{
-			"id": "La evolución de la serpiente inmortal [Capítulo 72]",
-			"title": "La evolución de la serpiente inmortal [Capítulo 72]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-evolucion-de-la-serpiente-inmortal",
-			"date_published": "2026-01-24T01:17:23.856Z"
-		},
-		{
-			"id": "Crónicas del soberano perezoso [Capítulo 31]",
-			"title": "Crónicas del soberano perezoso [Capítulo 31]",
-			"url": "https://olympusbiblioteca.com/series/comic-cronicas-del-soberano-perezoso-20260124-081605966",
-			"date_published": "2026-01-23T22:14:34.172Z"
-		},
-		{
-			"id": "Montañas de cadáveres y mar de sangre [Capítulo 23]",
-			"title": "Montañas de cadáveres y mar de sangre [Capítulo 23]",
-			"url": "https://olympusbiblioteca.com/series/comic-montanas-de-cadaveres-y-mar-de-sangre",
-			"date_published": "2026-01-23T22:14:34.172Z"
-		},
-		{
-			"id": "Guia de supervivencia del extra de la academia [Capítulo 87]",
-			"title": "Guia de supervivencia del extra de la academia [Capítulo 87]",
-			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-extra-de-la-academia-20260123-080523820",
-			"date_published": "2026-01-23T22:14:34.172Z"
 		}
 	]
 }
