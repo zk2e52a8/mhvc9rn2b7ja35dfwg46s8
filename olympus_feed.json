@@ -3,9 +3,21 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 33]",
+			"title": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 33]",
+			"url": "https://olympusbiblioteca.com/series/comic-cara-feliz-de-esclavo-a-leyenda-de-la-arena",
+			"date_published": "2026-02-11T12:58:40.348Z"
+		},
+		{
+			"id": "Regresé, Pero El Mundo No Terminó. [Capítulo 50]",
+			"title": "Regresé, Pero El Mundo No Terminó. [Capítulo 50]",
+			"url": "https://olympusbiblioteca.com/series/comic-regrese-pero-el-mundo-no-termino",
+			"date_published": "2026-02-11T12:58:40.348Z"
+		},
+		{
 			"id": "Sobreviviendo como un genio con tiempo prestado [Capítulo 66]",
 			"title": "Sobreviviendo como un genio con tiempo prestado [Capítulo 66]",
-			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-como-un-genio-con-tiempo-prestado-20260210-080837436",
+			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-como-un-genio-con-tiempo-prestado-20260211-080907454",
 			"date_published": "2026-02-11T10:44:15.073Z"
 		},
 		{
@@ -29,13 +41,13 @@
 		{
 			"id": "Come y crece [Capítulo 41]",
 			"title": "Come y crece [Capítulo 41]",
-			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260210-081428174",
+			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260211-081532763",
 			"date_published": "2026-02-11T04:28:12.460Z"
 		},
 		{
 			"id": "Los Breakers [Capítulo 45]",
 			"title": "Los Breakers [Capítulo 45]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-breakers-20260210-081548540",
+			"url": "https://olympusbiblioteca.com/series/comic-los-breakers-20260211-081657839",
 			"date_published": "2026-02-11T04:28:12.460Z"
 		},
 		{
@@ -53,7 +65,7 @@
 		{
 			"id": "El maestro de la espada acogedor de estrellas [Capítulo 109]",
 			"title": "El maestro de la espada acogedor de estrellas [Capítulo 109]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-acogedor-de-estrellas-20260210-080530416",
+			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-acogedor-de-estrellas-20260211-080540587",
 			"date_published": "2026-02-11T01:56:34.733Z"
 		},
 		{
@@ -89,7 +101,7 @@
 		{
 			"id": "Deuda de Sangre [Capítulo 12]",
 			"title": "Deuda de Sangre [Capítulo 12]",
-			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260210-081716492",
+			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260211-081833489",
 			"date_published": "2026-02-10T20:38:34.626Z"
 		},
 		{
@@ -131,7 +143,7 @@
 		{
 			"id": "El Stream del Reencarnado [Capítulo 36]",
 			"title": "El Stream del Reencarnado [Capítulo 36]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado-20260210-081621960",
+			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado-20260211-081734261",
 			"date_published": "2026-02-10T16:58:34.373Z"
 		},
 		{
@@ -149,7 +161,7 @@
 		{
 			"id": "Rayito [Capítulo 388.5]",
 			"title": "Rayito [Capítulo 388.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-rayito-20260210-081338180",
+			"url": "https://olympusbiblioteca.com/series/comic-rayito-20260211-081434881",
 			"date_published": "2026-02-10T14:54:04.665Z"
 		},
 		{
@@ -161,7 +173,7 @@
 		{
 			"id": "Civilización Nebula [Capítulo 114]",
 			"title": "Civilización Nebula [Capítulo 114]",
-			"url": "https://olympusbiblioteca.com/series/comic-civilizacion-nebula-20260210-080624688",
+			"url": "https://olympusbiblioteca.com/series/comic-civilizacion-nebula-20260211-080640762",
 			"date_published": "2026-02-10T14:54:04.665Z"
 		},
 		{
@@ -173,7 +185,7 @@
 		{
 			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 112.5]",
 			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 112.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-marcial-que-regreso-al-nivel-2-20260210-081403290",
+			"url": "https://olympusbiblioteca.com/series/comic-el-dios-marcial-que-regreso-al-nivel-2-20260211-081505516",
 			"date_published": "2026-02-10T13:02:48.001Z"
 		},
 		{
@@ -2989,18 +3001,6 @@
 			"title": "El legendario prodigio del ducado [Capítulo 32]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado",
 			"date_published": "2026-01-25T01:27:02.200Z"
-		},
-		{
-			"id": "El Señor de Hielo [Capítulo 59]",
-			"title": "El Señor de Hielo [Capítulo 59]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20260125-081041604",
-			"date_published": "2026-01-25T01:27:02.200Z"
-		},
-		{
-			"id": "La vida del regresor después del retiro [Capítulo 93]",
-			"title": "La vida del regresor después del retiro [Capítulo 93]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-regresor-despues-del-retiro-20260125-080344627",
-			"date_published": "2026-01-25T01:27:02.199Z"
 		}
 	]
 }
