@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Viaje de hielo y hierro [Capítulo 5]",
+			"title": "Viaje de hielo y hierro [Capítulo 5]",
+			"url": "https://olympusbiblioteca.com/series/comic-viaje-de-hielo-y-hierro",
+			"date_published": "2026-02-11T04:28:12.460Z"
+		},
+		{
+			"id": "Destinado a ser Amado por Villanas [Capítulo 55.5]",
+			"title": "Destinado a ser Amado por Villanas [Capítulo 55.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-destin10-05-2025do-por-villanas",
+			"date_published": "2026-02-11T04:28:12.460Z"
+		},
+		{
+			"id": "Come y crece [Capítulo 41]",
+			"title": "Come y crece [Capítulo 41]",
+			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260210-081428174",
+			"date_published": "2026-02-11T04:28:12.460Z"
+		},
+		{
+			"id": "Los Breakers [Capítulo 45]",
+			"title": "Los Breakers [Capítulo 45]",
+			"url": "https://olympusbiblioteca.com/series/comic-los-breakers-20260210-081548540",
+			"date_published": "2026-02-11T04:28:12.460Z"
+		},
+		{
+			"id": "Perfilador de villanos [Capítulo 31]",
+			"title": "Perfilador de villanos [Capítulo 31]",
+			"url": "https://olympusbiblioteca.com/series/comic-perfilador-de-villanos",
+			"date_published": "2026-02-11T04:28:12.459Z"
+		},
+		{
 			"id": "Despues De Dejar De Actuar Como Un Perro, Me Convertí En Un Magnate Celestial Urbano [Capítulo 277]",
 			"title": "Despues De Dejar De Actuar Como Un Perro, Me Convertí En Un Magnate Celestial Urbano [Capítulo 277]",
 			"url": "https://olympusbiblioteca.com/series/comic-despues-de-dejar-de-actuar-como-un-perro-me-converti-en-un-magnate-celestial-urbano",
@@ -2971,36 +3001,6 @@
 			"title": "Emperador magico (magic emperor) [Capítulo 809]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
 			"date_published": "2026-01-24T22:16:05.248Z"
-		},
-		{
-			"id": "Iniciando sesión en 10,000 años en el futuro [Capítulo 291]",
-			"title": "Iniciando sesión en 10,000 años en el futuro [Capítulo 291]",
-			"url": "https://olympusbiblioteca.com/series/comic-isecaikr20-225-arochino13424",
-			"date_published": "2026-01-24T22:16:05.247Z"
-		},
-		{
-			"id": "El chico problemático de la torre mágica [Capítulo 34]",
-			"title": "El chico problemático de la torre mágica [Capítulo 34]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-chico-problematico-de-la-torre-magica-20260124-080757511",
-			"date_published": "2026-01-24T20:17:16.138Z"
-		},
-		{
-			"id": "El Asesino Yu Ijin [Capítulo 272]",
-			"title": "El Asesino Yu Ijin [Capítulo 272]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-yu-ijin-20260125-080817233",
-			"date_published": "2026-01-24T20:17:16.138Z"
-		},
-		{
-			"id": "Asesino Pietro (Viejo sabroso)| [Capítulo 114]",
-			"title": "Asesino Pietro (Viejo sabroso)| [Capítulo 114]",
-			"url": "https://olympusbiblioteca.com/series/comic-asesino-pietro-viejo-sabroso-20260125-080356859",
-			"date_published": "2026-01-24T20:17:16.138Z"
-		},
-		{
-			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 14]",
-			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 14]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes-20260125-081855804",
-			"date_published": "2026-01-24T18:23:57.225Z"
 		}
 	]
 }
