@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Mago prismático genio [Capítulo 62]",
+			"title": "Mago prismático genio [Capítulo 62]",
+			"url": "https://olympusbiblioteca.com/series/comic-mago-prismatico-genio-20260211-080959637",
+			"date_published": "2026-02-12T10:39:59.614Z"
+		},
+		{
 			"id": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 61]",
 			"title": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 61]",
 			"url": "https://olympusbiblioteca.com/series/comic-ascension-divina-mi-camino-a-la-cima-de-las-artes-marciales",
@@ -2995,12 +3001,6 @@
 			"title": "Regresando al Otro Mundo una vez mas. [Capítulo 128]",
 			"url": "https://olympusbiblioteca.com/series/comic-regresando-al-otro-mundo-una-vez-mas-20260126-080646075",
 			"date_published": "2026-01-26T01:25:35.214Z"
-		},
-		{
-			"id": "El chico problemático de la torre mágica [Capítulo 36]",
-			"title": "El chico problemático de la torre mágica [Capítulo 36]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-chico-problematico-de-la-torre-magica-20260125-081023309",
-			"date_published": "2026-01-25T22:16:33.457Z"
 		}
 	]
 }
