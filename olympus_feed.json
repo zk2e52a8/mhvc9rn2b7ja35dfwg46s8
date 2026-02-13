@@ -3,6 +3,42 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cazador de destinos de clase F [Capítulo 123]",
+			"title": "Cazador de destinos de clase F [Capítulo 123]",
+			"url": "https://olympusbiblioteca.com/series/comic-cazador20-225-e-clase-13424",
+			"date_published": "2026-02-13T01:51:58.573Z"
+		},
+		{
+			"id": "Emperador magico (magic emperor) [Capítulo 817]",
+			"title": "Emperador magico (magic emperor) [Capítulo 817]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
+			"date_published": "2026-02-13T01:51:58.573Z"
+		},
+		{
+			"id": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 142]",
+			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 142]",
+			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-al-juego-siendo-un-barbaro-bjorn-el-barbaro-20260212-081248172",
+			"date_published": "2026-02-13T01:51:58.573Z"
+		},
+		{
+			"id": "El Ascenso del Caballero Errante [Capítulo 24]",
+			"title": "El Ascenso del Caballero Errante [Capítulo 24]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-ascenso-del-caballero-errante",
+			"date_published": "2026-02-13T01:51:58.573Z"
+		},
+		{
+			"id": "Devorador de Medicina [Capítulo 150]",
+			"title": "Devorador de Medicina [Capítulo 150]",
+			"url": "https://olympusbiblioteca.com/series/comic-devorador-de-medicina-20260212-081230062",
+			"date_published": "2026-02-13T01:51:58.573Z"
+		},
+		{
+			"id": "La vida del regresor después del retiro [Capítulo 96]",
+			"title": "La vida del regresor después del retiro [Capítulo 96]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-regresor-despues-del-retiro-20260212-080414650",
+			"date_published": "2026-02-13T01:51:58.573Z"
+		},
+		{
 			"id": "Sangre Maldita [Capítulo 74]",
 			"title": "Sangre Maldita [Capítulo 74]",
 			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20260212-080803072",
@@ -2965,42 +3001,6 @@
 			"title": "*El Villano Del Destino [Capítulo 308]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
 			"date_published": "2026-01-27T01:24:39.324Z"
-		},
-		{
-			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 218]",
-			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 218]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin-20260127-080139980",
-			"date_published": "2026-01-27T01:24:39.324Z"
-		},
-		{
-			"id": "El enfermo terminal joven maestro Baek [Capítulo 91]",
-			"title": "El enfermo terminal joven maestro Baek [Capítulo 91]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-enfermo-terminal-joven-maestro-baek-20260127-080206901",
-			"date_published": "2026-01-26T22:17:38.305Z"
-		},
-		{
-			"id": "CUltivador de no muertos [Capítulo 11]",
-			"title": "CUltivador de no muertos [Capítulo 11]",
-			"url": "https://olympusbiblioteca.com/series/comic-cultivador-de-no-muertos",
-			"date_published": "2026-01-26T22:17:38.305Z"
-		},
-		{
-			"id": "Archimago trascendiendo a través de la regresión [Capítulo 185]",
-			"title": "Archimago trascendiendo a través de la regresión [Capítulo 185]",
-			"url": "https://olympusbiblioteca.com/series/comic-archima20-225-de-la-regresion13424",
-			"date_published": "2026-01-26T22:17:38.305Z"
-		},
-		{
-			"id": "Regresión absoluta [Capítulo 86]",
-			"title": "Regresión absoluta [Capítulo 86]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta-20260127-080603084",
-			"date_published": "2026-01-26T20:21:28.756Z"
-		},
-		{
-			"id": "Almacenes ocultos en el Apocalipsis [Capítulo 58]",
-			"title": "Almacenes ocultos en el Apocalipsis [Capítulo 58]",
-			"url": "https://olympusbiblioteca.com/series/comic-almacenes-ocultos-en-el-apocalipsis-20260127-081449854",
-			"date_published": "2026-01-26T20:21:28.756Z"
 		}
 	]
 }
