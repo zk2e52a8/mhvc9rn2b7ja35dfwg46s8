@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Demonio de la lanza inigualable [Capítulo 37]",
+			"title": "Demonio de la lanza inigualable [Capítulo 37]",
+			"url": "https://olympusbiblioteca.com/series/comic-demonio-de-la-lanza-inigualable",
+			"date_published": "2026-02-13T20:32:29.096Z"
+		},
+		{
+			"id": "Caballero en Eterna Regresión [Capítulo 96]",
+			"title": "Caballero en Eterna Regresión [Capítulo 96]",
+			"url": "https://olympusbiblioteca.com/series/comic-caballero-en-eterna-regresion-20260213-080535457",
+			"date_published": "2026-02-13T20:32:29.096Z"
+		},
+		{
+			"id": "Reencarne como el heredero loco [Capítulo 185]",
+			"title": "Reencarne como el heredero loco [Capítulo 185]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarne-como-el-heredero-loco-20260213-080553502",
+			"date_published": "2026-02-13T20:32:29.096Z"
+		},
+		{
 			"id": "Montañas de cadáveres y mar de sangre [Capítulo 25.1]",
 			"title": "Montañas de cadáveres y mar de sangre [Capítulo 25.1]",
 			"url": "https://olympusbiblioteca.com/series/comic-montanas-de-cadaveres-y-mar-de-sangre",
@@ -2983,24 +3001,6 @@
 			"title": "Manual de instrucciones del Reencarnado [Capítulo 174]",
 			"url": "https://olympusbiblioteca.com/series/comic-manual-de-instrucc20-225-l-reencarnado",
 			"date_published": "2026-01-27T20:18:37.577Z"
-		},
-		{
-			"id": "El chico problemático de la torre mágica [Capítulo 41]",
-			"title": "El chico problemático de la torre mágica [Capítulo 41]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-chico-problematico-de-la-torre-magica-20260127-080835179",
-			"date_published": "2026-01-27T18:32:22.111Z"
-		},
-		{
-			"id": "Regresión del bastardo del clan de la espada [Capítulo 80]",
-			"title": "Regresión del bastardo del clan de la espada [Capítulo 80]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresion10-05-20250152309",
-			"date_published": "2026-01-27T18:32:22.111Z"
-		},
-		{
-			"id": "Las conspiraciones del mercenario regresado [Capítulo 74]",
-			"title": "Las conspiraciones del mercenario regresado [Capítulo 74]",
-			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado-20260127-080648996",
-			"date_published": "2026-01-27T18:32:22.111Z"
 		}
 	]
 }
