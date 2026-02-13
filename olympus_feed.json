@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Rebelde de la Noble Familia Tiránica [Capítulo 8]",
+			"title": "El Rebelde de la Noble Familia Tiránica [Capítulo 8]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-rebelde-de-la-noble-familia-tiranica",
+			"date_published": "2026-02-13T04:17:24.359Z"
+		},
+		{
+			"id": "Aragi Kai, el Asesino en el Mundo Paralelo [Capítulo 125]",
+			"title": "Aragi Kai, el Asesino en el Mundo Paralelo [Capítulo 125]",
+			"url": "https://olympusbiblioteca.com/series/comic-aragi-kai-el-asesino-en-el-mundo-paralelo77",
+			"date_published": "2026-02-13T04:17:24.359Z"
+		},
+		{
+			"id": "El Perro Loco de la Mansión del Duque [Capítulo 42]",
+			"title": "El Perro Loco de la Mansión del Duque [Capítulo 42]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-perro-loco-de-la-mansion-del-duque",
+			"date_published": "2026-02-13T04:17:24.359Z"
+		},
+		{
+			"id": "Las conspiraciones del mercenario regresado [Capítulo 76]",
+			"title": "Las conspiraciones del mercenario regresado [Capítulo 76]",
+			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado-20260212-080736631",
+			"date_published": "2026-02-13T04:17:24.359Z"
+		},
+		{
+			"id": "Grupo de Estudio [Capítulo 308]",
+			"title": "Grupo de Estudio [Capítulo 308]",
+			"url": "https://olympusbiblioteca.com/series/comic-grupo-de-estudio-20260212-081234687",
+			"date_published": "2026-02-13T04:17:24.359Z"
+		},
+		{
 			"id": "Cazador de destinos de clase F [Capítulo 123]",
 			"title": "Cazador de destinos de clase F [Capítulo 123]",
 			"url": "https://olympusbiblioteca.com/series/comic-cazador20-225-e-clase-13424",
@@ -2971,36 +3001,6 @@
 			"title": "El Mago Devorador de Talentos [Capítulo 122]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mago-20-225-devorador-de-talentos13424",
 			"date_published": "2026-01-27T03:44:01.871Z"
-		},
-		{
-			"id": "Ciudad del pecado [Capítulo 13]",
-			"title": "Ciudad del pecado [Capítulo 13]",
-			"url": "https://olympusbiblioteca.com/series/comic-ciudad-del-pecado",
-			"date_published": "2026-01-27T03:44:01.871Z"
-		},
-		{
-			"id": "Las crónicas del clan Tang [Capítulo 34]",
-			"title": "Las crónicas del clan Tang [Capítulo 34]",
-			"url": "https://olympusbiblioteca.com/series/comic-las-cronicas-del-clan-tang-20260127-081528371",
-			"date_published": "2026-01-27T03:44:01.871Z"
-		},
-		{
-			"id": "Emperador del Juego en Solitario [Capítulo 41]",
-			"title": "Emperador del Juego en Solitario [Capítulo 41]",
-			"url": "https://olympusbiblioteca.com/series/comic-emperador-del-juego-en-solitario-20260127-080904031",
-			"date_published": "2026-01-27T01:24:39.324Z"
-		},
-		{
-			"id": "Lider Kim [Capítulo 225]",
-			"title": "Lider Kim [Capítulo 225]",
-			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20260127-081029653",
-			"date_published": "2026-01-27T01:24:39.324Z"
-		},
-		{
-			"id": "*El Villano Del Destino [Capítulo 308]",
-			"title": "*El Villano Del Destino [Capítulo 308]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
-			"date_published": "2026-01-27T01:24:39.324Z"
 		}
 	]
 }
