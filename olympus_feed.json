@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Me vuelvo invencible al sorprender a otros [Capítulo 115]",
+			"title": "Me vuelvo invencible al sorprender a otros [Capítulo 115]",
+			"url": "https://olympusbiblioteca.com/series/comic-me-vuelvo-invencible-al-sorprender-a-otros",
+			"date_published": "2026-02-14T10:21:48.705Z"
+		},
+		{
 			"id": "Asesino de nivel divino [Capítulo 91]",
 			"title": "Asesino de nivel divino [Capítulo 91]",
 			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-nivel-divino",
@@ -2995,12 +3001,6 @@
 			"title": "El Devoto Caballero [Capítulo 149]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-devoto-caballero-20260127-081342470",
 			"date_published": "2026-01-28T20:24:43.058Z"
-		},
-		{
-			"id": "El Asesino de la Luna a la Deriva [Capítulo 124]",
-			"title": "El Asesino de la Luna a la Deriva [Capítulo 124]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino20-225-de-la-luna-a-la-deriva13424",
-			"date_published": "2026-01-28T18:31:42.168Z"
 		}
 	]
 }
