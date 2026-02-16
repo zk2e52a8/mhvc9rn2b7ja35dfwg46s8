@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Maestro de la espada devorador de espadas [Capítulo 15]",
+			"title": "Maestro de la espada devorador de espadas [Capítulo 15]",
+			"url": "https://olympusbiblioteca.com/series/comic-maestro-de-la-espada-devorador-de-espadas-20260216-081719985",
+			"date_published": "2026-02-16T20:24:51.495Z"
+		},
+		{
+			"id": "Colorista [Capítulo 18]",
+			"title": "Colorista [Capítulo 18]",
+			"url": "https://olympusbiblioteca.com/series/comic-colorista-20260216-081616613",
+			"date_published": "2026-02-16T20:24:51.495Z"
+		},
+		{
 			"id": "El extra de la novela (remake) [Capítulo 146]",
 			"title": "El extra de la novela (remake) [Capítulo 146]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-ext20-225-ra-de-la-novela-remake13424",
@@ -2989,18 +3001,6 @@
 			"title": "Acumulador de rasgos [Capítulo 76]",
 			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos-20260131-080920598",
 			"date_published": "2026-01-30T20:23:30.229Z"
-		},
-		{
-			"id": "Ranker Salvaje [Capítulo 40]",
-			"title": "Ranker Salvaje [Capítulo 40]",
-			"url": "https://olympusbiblioteca.com/series/comic-ranker-salvaje-20260131-082113245",
-			"date_published": "2026-01-30T18:35:17.011Z"
-		},
-		{
-			"id": "El Perro Loco de la Mansión del Duque [Capítulo 41]",
-			"title": "El Perro Loco de la Mansión del Duque [Capítulo 41]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-perro-loco-de-la-mansion-del-duque",
-			"date_published": "2026-01-30T18:35:17.011Z"
 		}
 	]
 }
