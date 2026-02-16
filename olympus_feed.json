@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Regresión absoluta [Capítulo 89]",
+			"title": "Regresión absoluta [Capítulo 89]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresion-absoluta-20260216-080730264",
+			"date_published": "2026-02-16T22:22:24.514Z"
+		},
+		{
+			"id": "El gran demonio celestial soberano [Capítulo 40]",
+			"title": "El gran demonio celestial soberano [Capítulo 40]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-gran-demonio-celestial-soberano",
+			"date_published": "2026-02-16T22:22:24.514Z"
+		},
+		{
+			"id": "Sobreviviendo como un genio con tiempo prestado [Capítulo 69]",
+			"title": "Sobreviviendo como un genio con tiempo prestado [Capítulo 69]",
+			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-como-un-genio-con-tiempo-prestado-20260216-080823213",
+			"date_published": "2026-02-16T22:22:24.514Z"
+		},
+		{
 			"id": "Maestro de la espada devorador de espadas [Capítulo 15]",
 			"title": "Maestro de la espada devorador de espadas [Capítulo 15]",
 			"url": "https://olympusbiblioteca.com/series/comic-maestro-de-la-espada-devorador-de-espadas-20260216-081719985",
@@ -2983,24 +3001,6 @@
 			"title": "Soy el Rey de los Virus [Capítulo 96]",
 			"url": "https://olympusbiblioteca.com/series/comic-soy-el-rey-de-los-virus14314",
 			"date_published": "2026-01-30T20:23:30.230Z"
-		},
-		{
-			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 15]",
-			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 15]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes-20260131-081958672",
-			"date_published": "2026-01-30T20:23:30.230Z"
-		},
-		{
-			"id": "Actúe como un jefecito final, Sr. devorador [Capítulo 112]",
-			"title": "Actúe como un jefecito final, Sr. devorador [Capítulo 112]",
-			"url": "https://olympusbiblioteca.com/series/comic-actue-com20-225-l-sr-devorador",
-			"date_published": "2026-01-30T20:23:30.230Z"
-		},
-		{
-			"id": "Acumulador de rasgos [Capítulo 76]",
-			"title": "Acumulador de rasgos [Capítulo 76]",
-			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos-20260131-080920598",
-			"date_published": "2026-01-30T20:23:30.229Z"
 		}
 	]
 }
