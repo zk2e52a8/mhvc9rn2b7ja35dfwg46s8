@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Ecos del Mundo Invertido [Capítulo 22]",
+			"title": "Ecos del Mundo Invertido [Capítulo 22]",
+			"url": "https://olympusbiblioteca.com/series/comic-ecos-del-mundo-invertido",
+			"date_published": "2026-02-17T04:15:11.929Z"
+		},
+		{
+			"id": "Ciudad del pecado [Capítulo 16]",
+			"title": "Ciudad del pecado [Capítulo 16]",
+			"url": "https://olympusbiblioteca.com/series/comic-ciudad-del-pecado",
+			"date_published": "2026-02-17T04:15:11.929Z"
+		},
+		{
+			"id": "CUltivador de no muertos [Capítulo 14]",
+			"title": "CUltivador de no muertos [Capítulo 14]",
+			"url": "https://olympusbiblioteca.com/series/comic-cultivador-de-no-muertos",
+			"date_published": "2026-02-17T04:15:11.929Z"
+		},
+		{
+			"id": "El Mago Genio Destructor de Límites [Capítulo 46]",
+			"title": "El Mago Genio Destructor de Límites [Capítulo 46]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20260216-081508406",
+			"date_published": "2026-02-17T04:15:11.929Z"
+		},
+		{
+			"id": "Academia de la Ascensión [Capítulo 188]",
+			"title": "Academia de la Ascensión [Capítulo 188]",
+			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20260216-080451387",
+			"date_published": "2026-02-17T04:15:11.929Z"
+		},
+		{
 			"id": "Yo mate al jugador de la Academia [Capítulo 112]",
 			"title": "Yo mate al jugador de la Academia [Capítulo 112]",
 			"url": "https://olympusbiblioteca.com/series/comic-yo-mate-al-jugador-de-la-academia-20260216-080520802",
@@ -2971,36 +3001,6 @@
 			"title": "Que alguien detenga al Papa [Capítulo 69]",
 			"url": "https://olympusbiblioteca.com/series/comic-5zxzien-detenga-al-papa",
 			"date_published": "2026-01-31T01:27:58.790Z"
-		},
-		{
-			"id": "Odisea en la Mazmorra [Capítulo 146]",
-			"title": "Odisea en la Mazmorra [Capítulo 146]",
-			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
-			"date_published": "2026-01-31T01:27:58.790Z"
-		},
-		{
-			"id": "La evolución de la serpiente inmortal [Capítulo 73]",
-			"title": "La evolución de la serpiente inmortal [Capítulo 73]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-evolucion-de-la-serpiente-inmortal",
-			"date_published": "2026-01-31T01:27:58.790Z"
-		},
-		{
-			"id": "Lider Kim [Capítulo 227]",
-			"title": "Lider Kim [Capítulo 227]",
-			"url": "https://olympusbiblioteca.com/series/comic-lider-kim-20260131-081335005",
-			"date_published": "2026-01-30T22:20:13.588Z"
-		},
-		{
-			"id": "Asesino Pietro (Viejo sabroso)| [Capítulo 115]",
-			"title": "Asesino Pietro (Viejo sabroso)| [Capítulo 115]",
-			"url": "https://olympusbiblioteca.com/series/comic-asesino-pietro-viejo-sabroso-20260131-080456816",
-			"date_published": "2026-01-30T22:20:13.588Z"
-		},
-		{
-			"id": "El enfermo terminal joven maestro Baek [Capítulo 92]",
-			"title": "El enfermo terminal joven maestro Baek [Capítulo 92]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-enfermo-terminal-joven-maestro-baek-20260130-080052457",
-			"date_published": "2026-01-30T20:23:30.230Z"
 		}
 	]
 }
