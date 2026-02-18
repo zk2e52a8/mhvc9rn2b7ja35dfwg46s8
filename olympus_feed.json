@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Resurrección solitaria [Capítulo 82]",
+			"title": "Resurrección solitaria [Capítulo 82]",
+			"url": "https://olympusbiblioteca.com/series/comic-resurreccion-solitaria-20260217-080528839",
+			"date_published": "2026-02-18T10:39:37.018Z"
+		},
+		{
 			"id": "El regreso del mago ilegítimo [Capítulo 35]",
 			"title": "El regreso del mago ilegítimo [Capítulo 35]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-mago-ilegitimo-20260217-081445590",
@@ -2995,12 +3001,6 @@
 			"title": "Un niño criado por dragones quiere ser adoptado. [Capítulo 18]",
 			"url": "https://olympusbiblioteca.com/series/comic-un-nino-criado-por-dragones-quiere-ser-adoptado",
 			"date_published": "2026-02-01T04:26:33.662Z"
-		},
-		{
-			"id": "Mago prismático genio [Capítulo 61]",
-			"title": "Mago prismático genio [Capítulo 61]",
-			"url": "https://olympusbiblioteca.com/series/comic-mago-prismatico-genio-20260202-080842995",
-			"date_published": "2026-02-01T01:55:16.287Z"
 		}
 	]
 }
