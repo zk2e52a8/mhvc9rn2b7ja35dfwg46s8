@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 369]",
+			"title": "Soldado Esqueleto [Capítulo 369]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20260217-080914918",
+			"date_published": "2026-02-18T12:54:22.754Z"
+		},
+		{
 			"id": "Resurrección solitaria [Capítulo 82]",
 			"title": "Resurrección solitaria [Capítulo 82]",
 			"url": "https://olympusbiblioteca.com/series/comic-resurreccion-solitaria-20260217-080528839",
@@ -2994,12 +3000,6 @@
 			"id": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 31]",
 			"title": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 31]",
 			"url": "https://olympusbiblioteca.com/series/comic-cara-feliz-de-esclavo-a-leyenda-de-la-arena",
-			"date_published": "2026-02-01T04:26:33.662Z"
-		},
-		{
-			"id": "Un niño criado por dragones quiere ser adoptado. [Capítulo 18]",
-			"title": "Un niño criado por dragones quiere ser adoptado. [Capítulo 18]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-nino-criado-por-dragones-quiere-ser-adoptado",
 			"date_published": "2026-02-01T04:26:33.662Z"
 		}
 	]
