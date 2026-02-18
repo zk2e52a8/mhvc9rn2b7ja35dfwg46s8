@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El regreso del héroe de clase: Desastre [Capítulo 164]",
+			"title": "El regreso del héroe de clase: Desastre [Capítulo 164]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-cl20-225-ase-desastre13424",
+			"date_published": "2026-02-18T14:40:32.398Z"
+		},
+		{
+			"id": "La corona que conquistaré [Capítulo 6]",
+			"title": "La corona que conquistaré [Capítulo 6]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-corona-que-conquistare",
+			"date_published": "2026-02-18T14:40:32.398Z"
+		},
+		{
+			"id": "el bully de bullies [Capítulo 170]",
+			"title": "el bully de bullies [Capítulo 170]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-bully-de-bullies-20260217-080820859",
+			"date_published": "2026-02-18T14:40:32.397Z"
+		},
+		{
 			"id": "Soldado Esqueleto [Capítulo 369]",
 			"title": "Soldado Esqueleto [Capítulo 369]",
 			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20260217-080914918",
@@ -2983,24 +3001,6 @@
 			"title": "Emperador magico (magic emperor) [Capítulo 813]",
 			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
 			"date_published": "2026-02-01T06:43:02.460Z"
-		},
-		{
-			"id": "Goblin de nivel 999 [Capítulo 39]",
-			"title": "Goblin de nivel 999 [Capítulo 39]",
-			"url": "https://olympusbiblioteca.com/series/comic-goblin-de-nivel-999-20260202-081012515",
-			"date_published": "2026-02-01T06:43:02.460Z"
-		},
-		{
-			"id": "El Chetado (Overgeared) [Capítulo 310]",
-			"title": "El Chetado (Overgeared) [Capítulo 310]",
-			"url": "https://olympusbiblioteca.com/series/comic-27-220-225-565464565465",
-			"date_published": "2026-02-01T04:26:33.662Z"
-		},
-		{
-			"id": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 31]",
-			"title": "Cara Feliz: De esclavo a leyenda de la arena [Capítulo 31]",
-			"url": "https://olympusbiblioteca.com/series/comic-cara-feliz-de-esclavo-a-leyenda-de-la-arena",
-			"date_published": "2026-02-01T04:26:33.662Z"
 		}
 	]
 }
