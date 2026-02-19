@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "La luz de Arad: Aquel que camina primero [Capítulo 85]",
+			"title": "La luz de Arad: Aquel que camina primero [Capítulo 85]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-luz-de-arad-aquel-que-camina-primero-20260217-080533543",
+			"date_published": "2026-02-19T16:45:31.226Z"
+		},
+		{
+			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 150]",
+			"title": "Crónicas del Retorno del Dios Marcial [Capítulo 150]",
+			"url": "https://olympusbiblioteca.com/series/comic-cronica20-225-os-marcial13424",
+			"date_published": "2026-02-19T16:45:31.226Z"
+		},
+		{
+			"id": "Al caer la luz de la luna [Capítulo 22]",
+			"title": "Al caer la luz de la luna [Capítulo 22]",
+			"url": "https://olympusbiblioteca.com/series/comic-al-caer-la-luz-de-la-luna",
+			"date_published": "2026-02-19T16:45:31.226Z"
+		},
+		{
 			"id": "Viviendo como un Lord Vampiro [Capítulo 31]",
 			"title": "Viviendo como un Lord Vampiro [Capítulo 31]",
 			"url": "https://olympusbiblioteca.com/series/comic-viviendo-como-un-lord-vampiro",
@@ -2983,24 +3001,6 @@
 			"title": "Yo mate al jugador de la Academia [Capítulo 109]",
 			"url": "https://olympusbiblioteca.com/series/comic-yo-mate-al-jugador-de-la-academia-20260203-080430917",
 			"date_published": "2026-02-02T04:20:37.139Z"
-		},
-		{
-			"id": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 54]",
-			"title": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 54]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-ascenso-del-tercer-principe-del-reino-caido",
-			"date_published": "2026-02-02T04:20:37.139Z"
-		},
-		{
-			"id": "El dinero del Lord no disminuye [Capítulo 193]",
-			"title": "El dinero del Lord no disminuye [Capítulo 193]",
-			"url": "https://olympusbiblioteca.com/series/comic-lordin12410-05-2025124124124",
-			"date_published": "2026-02-02T04:20:37.138Z"
-		},
-		{
-			"id": "El amo de la plaga [Capítulo 101]",
-			"title": "El amo de la plaga [Capítulo 101]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-a10-05-2025mo-de-la-plaga",
-			"date_published": "2026-02-02T01:48:06.300Z"
 		}
 	]
 }
