@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Reencarnado [Capítulo 118]",
+			"title": "Reencarnado [Capítulo 118]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarnado-20260217-080342476",
+			"date_published": "2026-02-19T22:26:19.913Z"
+		},
+		{
+			"id": "Chamán del dinero [Capítulo 28]",
+			"title": "Chamán del dinero [Capítulo 28]",
+			"url": "https://olympusbiblioteca.com/series/comic-chaman-del-dinero",
+			"date_published": "2026-02-19T22:26:19.913Z"
+		},
+		{
+			"id": "El apóstol rebelde de la Diosa de la abundancia. [Capítulo 27]",
+			"title": "El apóstol rebelde de la Diosa de la abundancia. [Capítulo 27]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-apostol-rebelde-de-la-diosa-de-la-abundancia",
+			"date_published": "2026-02-19T22:26:19.913Z"
+		},
+		{
 			"id": "Nueva Cara [Capítulo 595]",
 			"title": "Nueva Cara [Capítulo 595]",
 			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20260217-081003393",
@@ -2983,24 +3001,6 @@
 			"title": "Regresor de la familia caída [Capítulo 119]",
 			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260203-080525576",
 			"date_published": "2026-02-02T18:36:47.046Z"
-		},
-		{
-			"id": "Mi Evolución a Partir de un Árbol Gigante [Capítulo 483]",
-			"title": "Mi Evolución a Partir de un Árbol Gigante [Capítulo 483]",
-			"url": "https://olympusbiblioteca.com/series/comic-arbol-mamv20-225-adisimo77213124",
-			"date_published": "2026-02-02T18:36:47.046Z"
-		},
-		{
-			"id": "Artes Marciales Globales [Capítulo 328]",
-			"title": "Artes Marciales Globales [Capítulo 328]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-m10-05-2025en-de-las-peleas",
-			"date_published": "2026-02-02T18:36:47.046Z"
-		},
-		{
-			"id": "El Indomable Rey Marcial [Capítulo 118]",
-			"title": "El Indomable Rey Marcial [Capítulo 118]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial-20260203-080626600",
-			"date_published": "2026-02-02T16:33:22.274Z"
 		}
 	]
 }
