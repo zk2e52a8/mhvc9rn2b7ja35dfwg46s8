@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Herrero Genio del Juego [Capítulo 42]",
+			"title": "El Herrero Genio del Juego [Capítulo 42]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-genio-del-juego",
+			"date_published": "2026-02-20T16:32:43.229Z"
+		},
+		{
+			"id": "El renacer del Filo y la Flor [Capítulo 12]",
+			"title": "El renacer del Filo y la Flor [Capítulo 12]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-renacer-del-filo-y-la-flor-20260219-233906669",
+			"date_published": "2026-02-20T16:32:43.229Z"
+		},
+		{
+			"id": "Helmut: El Niño Abandonado [Capítulo 122]",
+			"title": "Helmut: El Niño Abandonado [Capítulo 122]",
+			"url": "https://olympusbiblioteca.com/series/comic-helm20-225-ut-el-nino-abandonado13424",
+			"date_published": "2026-02-20T16:32:43.229Z"
+		},
+		{
 			"id": "Helmut: El Niño Abandonado [Capítulo 121]",
 			"title": "Helmut: El Niño Abandonado [Capítulo 121]",
 			"url": "https://olympusbiblioteca.com/series/comic-helm20-225-ut-el-nino-abandonado13424",
@@ -2982,24 +3000,6 @@
 			"id": "Nivelando Con Los Dioses [Capítulo 159]",
 			"title": "Nivelando Con Los Dioses [Capítulo 159]",
 			"url": "https://olympusbiblioteca.com/series/comic-nivel20-225-ando-con-los-dioses13424",
-			"date_published": "2026-02-03T16:46:04.403Z"
-		},
-		{
-			"id": "Destinado a ser Amado por Villanas [Capítulo 54]",
-			"title": "Destinado a ser Amado por Villanas [Capítulo 54]",
-			"url": "https://olympusbiblioteca.com/series/comic-destin10-05-2025do-por-villanas",
-			"date_published": "2026-02-03T16:46:04.403Z"
-		},
-		{
-			"id": "El Retorno del Patriarca Mil Años Después [Capítulo 25]",
-			"title": "El Retorno del Patriarca Mil Años Después [Capítulo 25]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-retorno-del-patriarca-mil-anos-despues",
-			"date_published": "2026-02-03T16:46:04.403Z"
-		},
-		{
-			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 220]",
-			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 220]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin-20260204-080156391",
 			"date_published": "2026-02-03T16:46:04.403Z"
 		}
 	]
