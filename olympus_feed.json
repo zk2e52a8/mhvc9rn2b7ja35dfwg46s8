@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Resurrección solitaria [Capítulo 83]",
+			"title": "Resurrección solitaria [Capítulo 83]",
+			"url": "https://olympusbiblioteca.com/series/comic-resurreccion-solitaria-20260219-233029788",
+			"date_published": "2026-02-20T08:35:28.965Z"
+		},
+		{
 			"id": "Los Breakers [Capítulo 48]",
 			"title": "Los Breakers [Capítulo 48]",
 			"url": "https://olympusbiblioteca.com/series/comic-los-breakers-20260219-233911308",
@@ -2995,12 +3001,6 @@
 			"title": "Soldado Esqueleto [Capítulo 367]",
 			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20260203-081318862",
 			"date_published": "2026-02-03T06:43:32.448Z"
-		},
-		{
-			"id": "El Regreso del Espadachín Oscuro [Capítulo 35]",
-			"title": "El Regreso del Espadachín Oscuro [Capítulo 35]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
-			"date_published": "2026-02-03T04:11:16.595Z"
 		}
 	]
 }
