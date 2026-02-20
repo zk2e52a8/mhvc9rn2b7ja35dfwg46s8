@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 106]",
+			"title": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 106]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-dios-caotico-de-fuerza-extraordinaria-20260219-232920315",
+			"date_published": "2026-02-20T12:48:04.675Z"
+		},
+		{
+			"id": "No te mueras! [Capítulo 2]",
+			"title": "No te mueras! [Capítulo 2]",
+			"url": "https://olympusbiblioteca.com/series/comic-no-te-mueras",
+			"date_published": "2026-02-20T12:48:04.675Z"
+		},
+		{
 			"id": "Resurrección solitaria [Capítulo 83]",
 			"title": "Resurrección solitaria [Capítulo 83]",
 			"url": "https://olympusbiblioteca.com/series/comic-resurreccion-solitaria-20260219-233029788",
@@ -2989,18 +3001,6 @@
 			"title": "El Héroe Regresa a la Academia [Capítulo 37]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-regresa-a-la-academia-20260203-082237249",
 			"date_published": "2026-02-03T16:46:04.403Z"
-		},
-		{
-			"id": "MIS HABILIDADES PASIVAS SON INVENCIBLES [Capítulo 139]",
-			"title": "MIS HABILIDADES PASIVAS SON INVENCIBLES [Capítulo 139]",
-			"url": "https://olympusbiblioteca.com/series/comic-mis-habilidades-pasivas-son-invencibles",
-			"date_published": "2026-02-03T10:34:50.337Z"
-		},
-		{
-			"id": "Soldado Esqueleto [Capítulo 367]",
-			"title": "Soldado Esqueleto [Capítulo 367]",
-			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20260203-081318862",
-			"date_published": "2026-02-03T06:43:32.448Z"
 		}
 	]
 }
