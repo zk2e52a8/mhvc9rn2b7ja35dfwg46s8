@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 18]",
+			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 18]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes-20260219-233838736",
+			"date_published": "2026-02-20T20:25:38.206Z"
+		},
+		{
 			"id": "Soldado Esqueleto [Capítulo 370]",
 			"title": "Soldado Esqueleto [Capítulo 370]",
 			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20260219-233403789",
@@ -2995,12 +3001,6 @@
 			"title": "Rayito [Capítulo 388]",
 			"url": "https://olympusbiblioteca.com/series/comic-rayito-20260204-081656642",
 			"date_published": "2026-02-03T20:30:38.530Z"
-		},
-		{
-			"id": "Deuda de Sangre [Capítulo 11]",
-			"title": "Deuda de Sangre [Capítulo 11]",
-			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260204-082304359",
-			"date_published": "2026-02-03T20:30:38.529Z"
 		}
 	]
 }
