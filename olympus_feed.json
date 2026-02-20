@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Los Breakers [Capítulo 48]",
+			"title": "Los Breakers [Capítulo 48]",
+			"url": "https://olympusbiblioteca.com/series/comic-los-breakers-20260219-233911308",
+			"date_published": "2026-02-20T06:49:39.710Z"
+		},
+		{
 			"id": "El Mago Genio Destructor de Límites [Capítulo 48]",
 			"title": "El Mago Genio Destructor de Límites [Capítulo 48]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mago-genio-destructor-de-limites-20260219-233738067",
@@ -2994,12 +3000,6 @@
 			"id": "El Regreso del Espadachín Oscuro [Capítulo 35]",
 			"title": "El Regreso del Espadachín Oscuro [Capítulo 35]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
-			"date_published": "2026-02-03T04:11:16.595Z"
-		},
-		{
-			"id": "Villano antihéroe [Capítulo 220]",
-			"title": "Villano antihéroe [Capítulo 220]",
-			"url": "https://olympusbiblioteca.com/series/comic-villano-antiheroe-20260203-081532733",
 			"date_published": "2026-02-03T04:11:16.595Z"
 		}
 	]
