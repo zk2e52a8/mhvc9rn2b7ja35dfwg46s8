@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 370]",
+			"title": "Soldado Esqueleto [Capítulo 370]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20260219-233403789",
+			"date_published": "2026-02-20T18:39:24.287Z"
+		},
+		{
 			"id": "El Herrero Genio del Juego [Capítulo 42]",
 			"title": "El Herrero Genio del Juego [Capítulo 42]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-genio-del-juego",
@@ -2995,12 +3001,6 @@
 			"title": "Deuda de Sangre [Capítulo 11]",
 			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260204-082304359",
 			"date_published": "2026-02-03T20:30:38.529Z"
-		},
-		{
-			"id": "Nivelando Con Los Dioses [Capítulo 159]",
-			"title": "Nivelando Con Los Dioses [Capítulo 159]",
-			"url": "https://olympusbiblioteca.com/series/comic-nivel20-225-ando-con-los-dioses13424",
-			"date_published": "2026-02-03T16:46:04.403Z"
 		}
 	]
 }
