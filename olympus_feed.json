@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Cómo criar villanos correctamente [Capítulo 23]",
+			"title": "Cómo criar villanos correctamente [Capítulo 23]",
+			"url": "https://olympusbiblioteca.com/series/comic-como-criar-villanos-correctamente-20260219-233848091",
+			"date_published": "2026-02-21T01:40:18.764Z"
+		},
+		{
+			"id": "La vida del cazador de clase S entre monstruos [Capítulo 33]",
+			"title": "La vida del cazador de clase S entre monstruos [Capítulo 33]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-vida-del-cazador-de-clase-s-entre-monstruos-20260219-233939183",
+			"date_published": "2026-02-21T01:40:18.764Z"
+		},
+		{
+			"id": "El Psicópata del Murim [Capítulo 14]",
+			"title": "El Psicópata del Murim [Capítulo 14]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-psicopata-del-murim-20260219-234034863",
+			"date_published": "2026-02-21T01:40:18.764Z"
+		},
+		{
+			"id": "La evolución de la serpiente inmortal [Capítulo 76]",
+			"title": "La evolución de la serpiente inmortal [Capítulo 76]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-evolucion-de-la-serpiente-inmortal",
+			"date_published": "2026-02-21T01:40:18.764Z"
+		},
+		{
 			"id": "Actúe como un jefecito final, Sr. devorador [Capítulo 115]",
 			"title": "Actúe como un jefecito final, Sr. devorador [Capítulo 115]",
 			"url": "https://olympusbiblioteca.com/series/comic-actue-com20-225-l-sr-devorador",
@@ -2977,30 +3001,6 @@
 			"title": "El Stream del Reencarnado [Capítulo 35]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-stream-del-reencarnado-20260204-082126296",
 			"date_published": "2026-02-03T22:24:49.065Z"
-		},
-		{
-			"id": "Las conspiraciones del mercenario regresado [Capítulo 75]",
-			"title": "Las conspiraciones del mercenario regresado [Capítulo 75]",
-			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado-20260204-080816909",
-			"date_published": "2026-02-03T20:30:38.530Z"
-		},
-		{
-			"id": "El maestro de la espada acogedor de estrellas [Capítulo 108]",
-			"title": "El maestro de la espada acogedor de estrellas [Capítulo 108]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-acogedor-de-estrellas-20260204-080324623",
-			"date_published": "2026-02-03T20:30:38.530Z"
-		},
-		{
-			"id": "El Psicópata del Murim [Capítulo 12]",
-			"title": "El Psicópata del Murim [Capítulo 12]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-psicopata-del-murim-20260204-082242896",
-			"date_published": "2026-02-03T20:30:38.530Z"
-		},
-		{
-			"id": "Regresión del bastardo del clan de la espada [Capítulo 81]",
-			"title": "Regresión del bastardo del clan de la espada [Capítulo 81]",
-			"url": "https://olympusbiblioteca.com/series/comic-regresion10-05-20250152309",
-			"date_published": "2026-02-03T20:30:38.530Z"
 		}
 	]
 }
