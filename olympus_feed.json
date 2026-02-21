@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Señor de Hielo [Capítulo 63]",
+			"title": "El Señor de Hielo [Capítulo 63]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-senor-de-hielo-20260219-233240797",
+			"date_published": "2026-02-21T06:35:53.959Z"
+		},
+		{
 			"id": "El Arquitecto de mazmorras [Capítulo 70]",
 			"title": "El Arquitecto de mazmorras [Capítulo 70]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-arquite5zxzorras",
@@ -2994,12 +3000,6 @@
 			"id": "Sólo un gato. [Capítulo 38]",
 			"title": "Sólo un gato. [Capítulo 38]",
 			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
-			"date_published": "2026-02-04T04:08:00.730Z"
-		},
-		{
-			"id": "Dios Marcial Celestial 2 [Capítulo 29]",
-			"title": "Dios Marcial Celestial 2 [Capítulo 29]",
-			"url": "https://olympusbiblioteca.com/series/comic-dios-marcial-celestial-2",
 			"date_published": "2026-02-04T04:08:00.730Z"
 		}
 	]
