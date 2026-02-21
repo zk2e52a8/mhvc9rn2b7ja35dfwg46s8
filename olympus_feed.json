@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Asesino Yu Ijin [Capítulo 276]",
+			"title": "El Asesino Yu Ijin [Capítulo 276]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-yu-ijin-20260219-233048169",
+			"date_published": "2026-02-21T18:28:04.294Z"
+		},
+		{
+			"id": "El Regreso del Legendario Caballero de la Lanza – extras [Capítulo 185]",
+			"title": "El Regreso del Legendario Caballero de la Lanza – extras [Capítulo 185]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-legendario-caballero-de-la-lanza-extras",
+			"date_published": "2026-02-21T18:28:04.294Z"
+		},
+		{
 			"id": "La voluntad de supervivencia del villano [Capítulo 45.05]",
 			"title": "La voluntad de supervivencia del villano [Capítulo 45.05]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-volunt10-05-2025-del-villano",
@@ -2989,18 +3001,6 @@
 			"title": "Me vuelvo invencible al sorprender a otros [Capítulo 114]",
 			"url": "https://olympusbiblioteca.com/series/comic-me-vuelvo-invencible-al-sorprender-a-otros",
 			"date_published": "2026-02-04T08:34:59.251Z"
-		},
-		{
-			"id": "El gran demonio celestial soberano [Capítulo 38]",
-			"title": "El gran demonio celestial soberano [Capítulo 38]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-gran-demonio-celestial-soberano",
-			"date_published": "2026-02-04T06:43:50.423Z"
-		},
-		{
-			"id": "Los Breakers [Capítulo 36]",
-			"title": "Los Breakers [Capítulo 36]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-breakers-20260204-082031967",
-			"date_published": "2026-02-04T06:43:50.423Z"
 		}
 	]
 }
