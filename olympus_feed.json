@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Asesino de nivel divino [Capítulo 93]",
+			"title": "Asesino de nivel divino [Capítulo 93]",
+			"url": "https://olympusbiblioteca.com/series/comic-asesino-de-nivel-divino",
+			"date_published": "2026-02-22T06:40:40.890Z"
+		},
+		{
 			"id": "Reencarnado [Capítulo 119]",
 			"title": "Reencarnado [Capítulo 119]",
 			"url": "https://olympusbiblioteca.com/series/comic-reencarnado-20260221-202250639",
@@ -2995,12 +3001,6 @@
 			"title": "El regreso del mago ilegítimo [Capítulo 33]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-mago-ilegitimo-20260206-082442944",
 			"date_published": "2026-02-05T06:52:23.617Z"
-		},
-		{
-			"id": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 104]",
-			"title": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 104]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-caotico-de-fuerza-extraordinaria-20260206-080906076",
-			"date_published": "2026-02-05T04:10:23.687Z"
 		}
 	]
 }
