@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Amigo de la Infancia del Zenit [Capítulo 95]",
+			"title": "Amigo de la Infancia del Zenit [Capítulo 95]",
+			"url": "https://olympusbiblioteca.com/series/comic-amigo-de20-225-e-zenith",
+			"date_published": "2026-02-22T16:23:57.013Z"
+		},
+		{
+			"id": "Jugador que regresó 10.000 años después [Capítulo 146]",
+			"title": "Jugador que regresó 10.000 años después [Capítulo 146]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugad20-225-reso-10000-anos-despues13424",
+			"date_published": "2026-02-22T16:23:57.013Z"
+		},
+		{
 			"id": "Manual de Reeducación de Damas Nobles [Capítulo 11]",
 			"title": "Manual de Reeducación de Damas Nobles [Capítulo 11]",
 			"url": "https://olympusbiblioteca.com/series/comic-manual-de-reeducacion-de-damas-nobles-20260222-121321238",
@@ -2989,18 +3001,6 @@
 			"title": "La luz de Arad: Aquel que camina primero [Capítulo 83]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-luz-de-arad-aquel-que-camina-primero-20260206-081107433",
 			"date_published": "2026-02-05T16:40:57.149Z"
-		},
-		{
-			"id": "Viaje de hielo y hierro [Capítulo 2]",
-			"title": "Viaje de hielo y hierro [Capítulo 2]",
-			"url": "https://olympusbiblioteca.com/series/comic-viaje-de-hielo-y-hierro",
-			"date_published": "2026-02-05T16:40:57.149Z"
-		},
-		{
-			"id": "El Genio entrenador de artes marciales [Capítulo 99]",
-			"title": "El Genio entrenador de artes marciales [Capítulo 99]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-genio-entrenador-de-artes-marciales-20260205-080656605",
-			"date_published": "2026-02-05T16:40:57.148Z"
 		}
 	]
 }
