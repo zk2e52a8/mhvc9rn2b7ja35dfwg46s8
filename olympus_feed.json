@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "No soy esa clase de talento [Capítulo 118.05]",
+			"title": "No soy esa clase de talento [Capítulo 118.05]",
+			"url": "https://olympusbiblioteca.com/series/comic-no-soy-esa-clase-de-talento-20260223-120654821",
+			"date_published": "2026-02-23T14:41:58.730Z"
+		},
+		{
+			"id": "Reencarnado [Capítulo 121]",
+			"title": "Reencarnado [Capítulo 121]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarnado-20260223-120225608",
+			"date_published": "2026-02-23T14:41:58.730Z"
+		},
+		{
+			"id": "El demonio celestial quiere una vida tranquila [Capítulo 64]",
+			"title": "El demonio celestial quiere una vida tranquila [Capítulo 64]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-demonio-celestial-quiere-una-vida-tranquila-20260223-120500864",
+			"date_published": "2026-02-23T14:41:58.730Z"
+		},
+		{
 			"id": "Mi esposa es la líder del culto demoníaco [Capítulo 50]",
 			"title": "Mi esposa es la líder del culto demoníaco [Capítulo 50]",
 			"url": "https://olympusbiblioteca.com/series/comic-mi-esposa-es-la-lider-del-culto-demoniaco-20260223-120554289",
@@ -2983,24 +3001,6 @@
 			"title": "Caballero en Eterna Regresión [Capítulo 95]",
 			"url": "https://olympusbiblioteca.com/series/comic-caballero-en-eterna-regresion-20260207-081025566",
 			"date_published": "2026-02-06T18:42:04.182Z"
-		},
-		{
-			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 16]",
-			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 16]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes-20260207-082447354",
-			"date_published": "2026-02-06T18:42:04.182Z"
-		},
-		{
-			"id": "El Herrero Genio del Juego [Capítulo 40]",
-			"title": "El Herrero Genio del Juego [Capítulo 40]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-herrero-genio-del-juego",
-			"date_published": "2026-02-06T16:38:24.178Z"
-		},
-		{
-			"id": "El Dios Demonio [Capítulo 16]",
-			"title": "El Dios Demonio [Capítulo 16]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-demonio",
-			"date_published": "2026-02-06T16:38:24.178Z"
 		}
 	]
 }
