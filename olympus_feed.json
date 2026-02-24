@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Regreso del Espadachín Oscuro [Capítulo 38]",
+			"title": "El Regreso del Espadachín Oscuro [Capítulo 38]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
+			"date_published": "2026-02-24T01:45:40.274Z"
+		},
+		{
+			"id": "El hombre más guapo se convirtió en esqueleto [Capítulo 79]",
+			"title": "El hombre más guapo se convirtió en esqueleto [Capítulo 79]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto-20260223-120509714",
+			"date_published": "2026-02-24T01:45:40.274Z"
+		},
+		{
 			"id": "*El Villano Del Destino [Capítulo 314]",
 			"title": "*El Villano Del Destino [Capítulo 314]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
@@ -2989,18 +3001,6 @@
 			"title": "El Indomable Rey Marcial [Capítulo 119]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial-20260207-080939640",
 			"date_published": "2026-02-07T10:21:01.109Z"
-		},
-		{
-			"id": "Los Breakers [Capítulo 43]",
-			"title": "Los Breakers [Capítulo 43]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-breakers-20260207-082553353",
-			"date_published": "2026-02-07T06:36:28.215Z"
-		},
-		{
-			"id": "Apocalipsis de Calor Extremo: Me Convertí en Dios Gracias a Mi Refugio [Capítulo 18]",
-			"title": "Apocalipsis de Calor Extremo: Me Convertí en Dios Gracias a Mi Refugio [Capítulo 18]",
-			"url": "https://olympusbiblioteca.com/series/comic-apocalipsis-de-calor-extremo-me-converti-en-dios-gracias-a-mi-refugio",
-			"date_published": "2026-02-07T06:36:28.214Z"
 		}
 	]
 }
