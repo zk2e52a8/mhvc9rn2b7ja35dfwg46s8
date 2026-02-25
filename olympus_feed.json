@@ -3,6 +3,48 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Pick me up, Gacha Infinito [Capítulo 190]",
+			"title": "Pick me up, Gacha Infinito [Capítulo 190]",
+			"url": "https://olympusbiblioteca.com/series/comic-pick-me-up-gacha-infinito-20260225-121032103",
+			"date_published": "2026-02-25T18:59:08.995Z"
+		},
+		{
+			"id": "Deuda de Sangre [Capítulo 14]",
+			"title": "Deuda de Sangre [Capítulo 14]",
+			"url": "https://olympusbiblioteca.com/series/comic-deuda-de-sangre-20260225-121359442",
+			"date_published": "2026-02-25T18:59:08.995Z"
+		},
+		{
+			"id": "El Mercenario que Reencarno entre Aristócratas [Capítulo 17]",
+			"title": "El Mercenario que Reencarno entre Aristócratas [Capítulo 17]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mercenario-que-reencarno-entre-aristocratas-20260225-121231571",
+			"date_published": "2026-02-25T18:59:08.995Z"
+		},
+		{
+			"id": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 171]",
+			"title": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 171]",
+			"url": "https://olympusbiblioteca.com/series/comic-maestr10-05-2025ede-ser-el-hijo-sagrado5324",
+			"date_published": "2026-02-25T18:59:08.995Z"
+		},
+		{
+			"id": "toxicólogo del clan tang de sichuan [Capítulo 76]",
+			"title": "toxicólogo del clan tang de sichuan [Capítulo 76]",
+			"url": "https://olympusbiblioteca.com/series/comic-toxicologo-del-clan-tang-de-sichuan-20260225-120520051",
+			"date_published": "2026-02-25T18:59:08.995Z"
+		},
+		{
+			"id": "El Arquitecto de mazmorras [Capítulo 71]",
+			"title": "El Arquitecto de mazmorras [Capítulo 71]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-arquite5zxzorras",
+			"date_published": "2026-02-25T18:59:08.995Z"
+		},
+		{
+			"id": "Maestro de la espada devorador de espadas [Capítulo 17]",
+			"title": "Maestro de la espada devorador de espadas [Capítulo 17]",
+			"url": "https://olympusbiblioteca.com/series/comic-maestro-de-la-espada-devorador-de-espadas-20260225-121258247",
+			"date_published": "2026-02-25T18:59:08.995Z"
+		},
+		{
 			"id": "El Asesino de la Luna a la Deriva [Capítulo 128]",
 			"title": "El Asesino de la Luna a la Deriva [Capítulo 128]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-asesino20-225-de-la-luna-a-la-deriva13424",
@@ -2959,48 +3001,6 @@
 			"title": "Ecos del Mundo Invertido [Capítulo 20]",
 			"url": "https://olympusbiblioteca.com/series/comic-ecos-del-mundo-invertido",
 			"date_published": "2026-02-08T20:21:09.783Z"
-		},
-		{
-			"id": "Hijos de la Runa [Capítulo 51]",
-			"title": "Hijos de la Runa [Capítulo 51]",
-			"url": "https://olympusbiblioteca.com/series/comic-hijoo5324s-de-la-runa",
-			"date_published": "2026-02-08T20:21:09.783Z"
-		},
-		{
-			"id": "*El asesino que retornó como el hijo del duque [Capítulo 113]",
-			"title": "*El asesino que retornó como el hijo del duque [Capítulo 113]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-que-retorno-como-el-hijo-del-duque-20260209-080604241",
-			"date_published": "2026-02-08T18:30:02.856Z"
-		},
-		{
-			"id": "El rey demonio tiene 18 años [Capítulo 3]",
-			"title": "El rey demonio tiene 18 años [Capítulo 3]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-tiene-18-anos",
-			"date_published": "2026-02-08T18:30:02.856Z"
-		},
-		{
-			"id": "Hijos de la Runa [Capítulo 50]",
-			"title": "Hijos de la Runa [Capítulo 50]",
-			"url": "https://olympusbiblioteca.com/series/comic-hijoo5324s-de-la-runa",
-			"date_published": "2026-02-08T18:30:02.856Z"
-		},
-		{
-			"id": "Acumulador de rasgos [Capítulo 78]",
-			"title": "Acumulador de rasgos [Capítulo 78]",
-			"url": "https://olympusbiblioteca.com/series/comic-acumulador-de-rasgos-20260209-080829833",
-			"date_published": "2026-02-08T16:24:25.101Z"
-		},
-		{
-			"id": "Amigo de la Infancia del Zenit [Capítulo 93]",
-			"title": "Amigo de la Infancia del Zenit [Capítulo 93]",
-			"url": "https://olympusbiblioteca.com/series/comic-amigo-de20-225-e-zenith",
-			"date_published": "2026-02-08T16:24:25.101Z"
-		},
-		{
-			"id": "Evolución Demoníaca [Capítulo 143]",
-			"title": "Evolución Demoníaca [Capítulo 143]",
-			"url": "https://olympusbiblioteca.com/series/comic-evolucion-demoniac1342-1n",
-			"date_published": "2026-02-08T16:24:25.101Z"
 		}
 	]
 }
