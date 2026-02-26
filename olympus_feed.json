@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Reencarnado [Capítulo 122]",
+			"title": "Reencarnado [Capítulo 122]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarnado-20260226-120632235",
+			"date_published": "2026-02-26T18:45:00.803Z"
+		},
+		{
+			"id": "El Despiadado Demonio Celestial [Capítulo 301]",
+			"title": "El Despiadado Demonio Celestial [Capítulo 301]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-despiadado-demonio-celestial-20260226-121100720",
+			"date_published": "2026-02-26T18:45:00.803Z"
+		},
+		{
+			"id": "El Hijo Menor del Renombrado Clan Mágico [Capítulo 118]",
+			"title": "El Hijo Menor del Renombrado Clan Mágico [Capítulo 118]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-hijo-m20-225-do-clan-magi13424",
+			"date_published": "2026-02-26T18:45:00.803Z"
+		},
+		{
+			"id": "Nueva Cara [Capítulo 596]",
+			"title": "Nueva Cara [Capítulo 596]",
+			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20260226-121221721",
+			"date_published": "2026-02-26T18:45:00.802Z"
+		},
+		{
 			"id": "Sin fin skills [Capítulo 247]",
 			"title": "Sin fin skills [Capítulo 247]",
 			"url": "https://olympusbiblioteca.com/series/comic-sin-fin-skills-20260226-121114900",
@@ -2977,30 +3001,6 @@
 			"title": "El Rey demonio tiene 18 años [Capítulo 25]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-tiene-18-anos",
 			"date_published": "2026-02-10T02:00:39.587Z"
-		},
-		{
-			"id": "Yo mate al jugador de la Academia [Capítulo 111]",
-			"title": "Yo mate al jugador de la Academia [Capítulo 111]",
-			"url": "https://olympusbiblioteca.com/series/comic-yo-mate-al-jugador-de-la-academia-20260210-080559530",
-			"date_published": "2026-02-10T02:00:39.587Z"
-		},
-		{
-			"id": "*El Villano Del Destino [Capítulo 311]",
-			"title": "*El Villano Del Destino [Capítulo 311]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
-			"date_published": "2026-02-10T02:00:39.587Z"
-		},
-		{
-			"id": "El Rey demonio tiene 18 años [Capítulo 20]",
-			"title": "El Rey demonio tiene 18 años [Capítulo 20]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-tiene-18-anos",
-			"date_published": "2026-02-09T22:41:44.699Z"
-		},
-		{
-			"id": "El Héroe Regresa a la Academia [Capítulo 38]",
-			"title": "El Héroe Regresa a la Academia [Capítulo 38]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-regresa-a-la-academia-20260210-081642766",
-			"date_published": "2026-02-09T21:59:28.998Z"
 		}
 	]
 }
