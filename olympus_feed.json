@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Ascenso del Caballero Errante [Capítulo 26]",
+			"title": "El Ascenso del Caballero Errante [Capítulo 26]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-ascenso-del-caballero-errante",
+			"date_published": "2026-02-26T06:54:41.187Z"
+		},
+		{
+			"id": "Las conspiraciones del mercenario regresado [Capítulo 78]",
+			"title": "Las conspiraciones del mercenario regresado [Capítulo 78]",
+			"url": "https://olympusbiblioteca.com/series/comic-las-conspiraciones-del-mercenario-regresado-20260225-120431344",
+			"date_published": "2026-02-26T06:54:41.187Z"
+		},
+		{
 			"id": "Me vuelvo invencible al sorprender a otros [Capítulo 116]",
 			"title": "Me vuelvo invencible al sorprender a otros [Capítulo 116]",
 			"url": "https://olympusbiblioteca.com/series/comic-me-vuelvo-invencible-al-sorprender-a-otros",
@@ -2989,18 +3001,6 @@
 			"title": "El Rey demonio tiene 18 años [Capítulo 17]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-tiene-18-anos",
 			"date_published": "2026-02-09T06:59:18.438Z"
-		},
-		{
-			"id": "El Rey demonio tiene 18 años [Capítulo 16]",
-			"title": "El Rey demonio tiene 18 años [Capítulo 16]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-tiene-18-anos",
-			"date_published": "2026-02-09T04:23:43.423Z"
-		},
-		{
-			"id": "Manual de Reeducación de Damas Nobles [Capítulo 8]",
-			"title": "Manual de Reeducación de Damas Nobles [Capítulo 8]",
-			"url": "https://olympusbiblioteca.com/series/comic-manual-de-reeducacion-de-damas-nobles-20260210-081728960",
-			"date_published": "2026-02-09T04:23:43.423Z"
 		}
 	]
 }
