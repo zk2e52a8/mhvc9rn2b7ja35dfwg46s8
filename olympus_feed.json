@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 1]",
+			"title": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 1]",
+			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-cazador-de-bestias-demoniacas",
+			"date_published": "2026-02-27T22:18:30.473Z"
+		},
+		{
+			"id": "Regresor de la familia caída [Capítulo 122]",
+			"title": "Regresor de la familia caída [Capítulo 122]",
+			"url": "https://olympusbiblioteca.com/series/comic-regresor-de-la-familia-caida-20260227-120243848",
+			"date_published": "2026-02-27T22:18:30.473Z"
+		},
+		{
+			"id": "El Regreso Del Genio De Las Artes Marciales [Capítulo 126]",
+			"title": "El Regreso Del Genio De Las Artes Marciales [Capítulo 126]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-genio-de-las-artes-marciales-20260227-120046188",
+			"date_published": "2026-02-27T22:18:30.473Z"
+		},
+		{
+			"id": "¡Que abundante cosecha, señor demonio! [Capítulo 56]",
+			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 56]",
+			"url": "https://olympusbiblioteca.com/series/comic-que-abundante-cosecha-senor-demonio-20260227-120607865",
+			"date_published": "2026-02-27T22:18:30.473Z"
+		},
+		{
 			"id": "Mi Evolución a Partir de un Árbol Gigante [Capítulo 488]",
 			"title": "Mi Evolución a Partir de un Árbol Gigante [Capítulo 488]",
 			"url": "https://olympusbiblioteca.com/series/comic-arbol-mamv20-225-adisimo77213124",
@@ -2977,30 +3001,6 @@
 			"title": "Come y crece [Capítulo 41]",
 			"url": "https://olympusbiblioteca.com/series/comic-come-y-crece-20260211-081532763",
 			"date_published": "2026-02-11T04:28:12.460Z"
-		},
-		{
-			"id": "Los Breakers [Capítulo 45]",
-			"title": "Los Breakers [Capítulo 45]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-breakers-20260211-081657839",
-			"date_published": "2026-02-11T04:28:12.460Z"
-		},
-		{
-			"id": "Perfilador de villanos [Capítulo 31]",
-			"title": "Perfilador de villanos [Capítulo 31]",
-			"url": "https://olympusbiblioteca.com/series/comic-perfilador-de-villanos",
-			"date_published": "2026-02-11T04:28:12.459Z"
-		},
-		{
-			"id": "Despues De Dejar De Actuar Como Un Perro, Me Convertí En Un Magnate Celestial Urbano [Capítulo 277]",
-			"title": "Despues De Dejar De Actuar Como Un Perro, Me Convertí En Un Magnate Celestial Urbano [Capítulo 277]",
-			"url": "https://olympusbiblioteca.com/series/comic-despues-de-dejar-de-actuar-como-un-perro-me-converti-en-un-magnate-celestial-urbano",
-			"date_published": "2026-02-11T01:56:34.733Z"
-		},
-		{
-			"id": "El maestro de la espada acogedor de estrellas [Capítulo 109]",
-			"title": "El maestro de la espada acogedor de estrellas [Capítulo 109]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-maestro-de-la-espada-acogedor-de-estrellas-20260211-080540587",
-			"date_published": "2026-02-11T01:56:34.733Z"
 		}
 	]
 }
