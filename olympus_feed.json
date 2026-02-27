@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Héroe Regresa a la Academia [Capítulo 43]",
+			"title": "El Héroe Regresa a la Academia [Capítulo 43]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-regresa-a-la-academia-20260226-121729844",
+			"date_published": "2026-02-27T01:42:34.367Z"
+		},
+		{
+			"id": "Mago devorador de dragones [Capítulo 133]",
+			"title": "Mago devorador de dragones [Capítulo 133]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago20-225-r-de-11251151515",
+			"date_published": "2026-02-27T01:42:34.367Z"
+		},
+		{
+			"id": "El bastardo devorador de armas. [Capítulo 76]",
+			"title": "El bastardo devorador de armas. [Capítulo 76]",
+			"url": "https://olympusbiblioteca.com/series/comic-o5324evorador-de-armas",
+			"date_published": "2026-02-27T01:42:34.367Z"
+		},
+		{
+			"id": "De duende a Dios Goblin [Capítulo 98]",
+			"title": "De duende a Dios Goblin [Capítulo 98]",
+			"url": "https://olympusbiblioteca.com/series/comic-de-duen10-05-2025de-a-dios-goblin",
+			"date_published": "2026-02-27T01:42:34.367Z"
+		},
+		{
 			"id": "Un hombre moderno que transmigró al mundo murim [Capítulo 166]",
 			"title": "Un hombre moderno que transmigró al mundo murim [Capítulo 166]",
 			"url": "https://olympusbiblioteca.com/series/comic-un-hombre-moderno-que-transmigro-al-mundo-murim-20260226-121712582",
@@ -2977,30 +3001,6 @@
 			"title": "Perfilador de villanos [Capítulo 30]",
 			"url": "https://olympusbiblioteca.com/series/comic-perfilador-de-villanos",
 			"date_published": "2026-02-10T13:02:48.001Z"
-		},
-		{
-			"id": "Odisea en la Mazmorra [Capítulo 147]",
-			"title": "Odisea en la Mazmorra [Capítulo 147]",
-			"url": "https://olympusbiblioteca.com/series/comic-prota-m20-225-ene-su-laberinto13424",
-			"date_published": "2026-02-10T10:51:20.469Z"
-		},
-		{
-			"id": "Ciudad del pecado [Capítulo 15]",
-			"title": "Ciudad del pecado [Capítulo 15]",
-			"url": "https://olympusbiblioteca.com/series/comic-ciudad-del-pecado",
-			"date_published": "2026-02-10T04:36:46.830Z"
-		},
-		{
-			"id": "CUltivador de no muertos [Capítulo 13]",
-			"title": "CUltivador de no muertos [Capítulo 13]",
-			"url": "https://olympusbiblioteca.com/series/comic-cultivador-de-no-muertos",
-			"date_published": "2026-02-10T04:36:46.830Z"
-		},
-		{
-			"id": "El Regreso del Espadachín Oscuro [Capítulo 36]",
-			"title": "El Regreso del Espadachín Oscuro [Capítulo 36]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-espadachin-oscuro",
-			"date_published": "2026-02-10T04:36:46.830Z"
 		}
 	]
 }
