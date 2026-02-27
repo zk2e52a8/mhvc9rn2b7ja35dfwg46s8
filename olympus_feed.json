@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 144]",
+			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 144]",
+			"url": "https://olympusbiblioteca.com/series/comic-sobreviviendo-al-juego-siendo-un-barbaro-bjorn-el-barbaro-20260226-121346306",
+			"date_published": "2026-02-27T04:08:56.453Z"
+		},
+		{
+			"id": "El guerrero despiadado [Capítulo 45]",
+			"title": "El guerrero despiadado [Capítulo 45]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado-20260226-121518471",
+			"date_published": "2026-02-27T04:08:56.453Z"
+		},
+		{
+			"id": "El Sentido Absoluto de las Espadas [Capítulo 170]",
+			"title": "El Sentido Absoluto de las Espadas [Capítulo 170]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-sentido-absoluto-de-las-espadas-20260226-120552226",
+			"date_published": "2026-02-27T04:08:56.453Z"
+		},
+		{
+			"id": "Emperador magico (magic emperor) [Capítulo 823]",
+			"title": "Emperador magico (magic emperor) [Capítulo 823]",
+			"url": "https://olympusbiblioteca.com/series/comic-emperador-magicos",
+			"date_published": "2026-02-27T04:08:56.453Z"
+		},
+		{
+			"id": "Apocalipsis de Calor Extremo: Me Convertí en Dios Gracias a Mi Refugio [Capítulo 23]",
+			"title": "Apocalipsis de Calor Extremo: Me Convertí en Dios Gracias a Mi Refugio [Capítulo 23]",
+			"url": "https://olympusbiblioteca.com/series/comic-apocalipsis-de-calor-extremo-me-converti-en-dios-gracias-a-mi-refugio",
+			"date_published": "2026-02-27T04:08:56.452Z"
+		},
+		{
 			"id": "El Héroe Regresa a la Academia [Capítulo 43]",
 			"title": "El Héroe Regresa a la Academia [Capítulo 43]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-heroe-regresa-a-la-academia-20260226-121729844",
@@ -2971,36 +3001,6 @@
 			"title": "Civilización Nebula [Capítulo 114]",
 			"url": "https://olympusbiblioteca.com/series/comic-civilizacion-nebula-20260211-080640762",
 			"date_published": "2026-02-10T14:54:04.665Z"
-		},
-		{
-			"id": "Mago Oscuro (Black Haze remake) [Capítulo 60.5]",
-			"title": "Mago Oscuro (Black Haze remake) [Capítulo 60.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-mago-oscuro-black-haze-remake",
-			"date_published": "2026-02-10T14:54:04.665Z"
-		},
-		{
-			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 112.5]",
-			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 112.5]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-marcial-que-regreso-al-nivel-2-20260211-081505516",
-			"date_published": "2026-02-10T13:02:48.001Z"
-		},
-		{
-			"id": "Sangre Maldita [Capítulo 73]",
-			"title": "Sangre Maldita [Capítulo 73]",
-			"url": "https://olympusbiblioteca.com/series/comic-sangre-maldita-20260210-080849953",
-			"date_published": "2026-02-10T13:02:48.001Z"
-		},
-		{
-			"id": "Sólo un gato. [Capítulo 40]",
-			"title": "Sólo un gato. [Capítulo 40]",
-			"url": "https://olympusbiblioteca.com/series/comic-solo-un-gato",
-			"date_published": "2026-02-10T13:02:48.001Z"
-		},
-		{
-			"id": "Perfilador de villanos [Capítulo 30]",
-			"title": "Perfilador de villanos [Capítulo 30]",
-			"url": "https://olympusbiblioteca.com/series/comic-perfilador-de-villanos",
-			"date_published": "2026-02-10T13:02:48.001Z"
 		}
 	]
 }
