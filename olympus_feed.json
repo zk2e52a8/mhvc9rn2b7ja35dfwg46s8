@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Tower Crush [Capítulo 163]",
+			"title": "Tower Crush [Capítulo 163]",
+			"url": "https://olympusbiblioteca.com/series/comic-tower-crush-20260227-120705589",
+			"date_published": "2026-02-28T04:51:36.060Z"
+		},
+		{
 			"id": "El dinero del Lord no disminuye [Capítulo 196.5]",
 			"title": "El dinero del Lord no disminuye [Capítulo 196.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-lordin12410-05-2025124124124",
@@ -2995,12 +3001,6 @@
 			"title": "Mago Oscuro (Black Haze remake) [Capítulo 61]",
 			"url": "https://olympusbiblioteca.com/series/comic-mago-oscuro-black-haze-remake",
 			"date_published": "2026-02-11T17:00:26.556Z"
-		},
-		{
-			"id": "El Asesino de la Luna a la Deriva [Capítulo 126]",
-			"title": "El Asesino de la Luna a la Deriva [Capítulo 126]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino20-225-de-la-luna-a-la-deriva13424",
-			"date_published": "2026-02-11T14:48:55.233Z"
 		}
 	]
 }
