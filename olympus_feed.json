@@ -3,6 +3,90 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 371]",
+			"title": "Soldado Esqueleto [Capítulo 371]",
+			"url": "https://olympusbiblioteca.com/series/comic-soldado-esqueleto-20260228-121021656",
+			"date_published": "2026-03-01T14:20:12.300Z"
+		},
+		{
+			"id": "Iniciando sesión en 10,000 años en el futuro [Capítulo 300]",
+			"title": "Iniciando sesión en 10,000 años en el futuro [Capítulo 300]",
+			"url": "https://olympusbiblioteca.com/series/comic-isecaikr20-225-arochino13424",
+			"date_published": "2026-03-01T14:20:12.300Z"
+		},
+		{
+			"id": "El Blinker genio de la academia mágica [Capítulo 88.5]",
+			"title": "El Blinker genio de la academia mágica [Capítulo 88.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica",
+			"date_published": "2026-03-01T14:20:12.300Z"
+		},
+		{
+			"id": "Mi Evolución a Partir de un Árbol Gigante [Capítulo 493]",
+			"title": "Mi Evolución a Partir de un Árbol Gigante [Capítulo 493]",
+			"url": "https://olympusbiblioteca.com/series/comic-arbol-mamv20-225-adisimo77213124",
+			"date_published": "2026-03-01T14:20:12.300Z"
+		},
+		{
+			"id": "Resurrección solitaria [Capítulo 84]",
+			"title": "Resurrección solitaria [Capítulo 84]",
+			"url": "https://olympusbiblioteca.com/series/comic-resurreccion-solitaria-20260228-120648689",
+			"date_published": "2026-03-01T14:20:12.300Z"
+		},
+		{
+			"id": "Una carta de amor del futuro [Capítulo 36]",
+			"title": "Una carta de amor del futuro [Capítulo 36]",
+			"url": "https://olympusbiblioteca.com/series/comic-5zxzamor-del-futuro",
+			"date_published": "2026-03-01T14:20:12.299Z"
+		},
+		{
+			"id": "La venganza del sabueso de sangre de hierro [Capítulo 152]",
+			"title": "La venganza del sabueso de sangre de hierro [Capítulo 152]",
+			"url": "https://olympusbiblioteca.com/series/comic-20-225-2sabueso13424",
+			"date_published": "2026-03-01T14:20:12.299Z"
+		},
+		{
+			"id": "Jugador que regresó 10.000 años después [Capítulo 147]",
+			"title": "Jugador que regresó 10.000 años después [Capítulo 147]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugad20-225-reso-10000-anos-despues13424",
+			"date_published": "2026-03-01T14:20:12.299Z"
+		},
+		{
+			"id": "Tower Crush [Capítulo 165]",
+			"title": "Tower Crush [Capítulo 165]",
+			"url": "https://olympusbiblioteca.com/series/comic-tower-crush-20260228-120940507",
+			"date_published": "2026-03-01T14:20:12.299Z"
+		},
+		{
+			"id": "Guía de estrategia de un cobarde para conquistar la torre [Capítulo 14]",
+			"title": "Guía de estrategia de un cobarde para conquistar la torre [Capítulo 14]",
+			"url": "https://olympusbiblioteca.com/series/comic-guia-de-estrategia-de-un-cobarde-para-conquistar-la-torre-20260228-121543286",
+			"date_published": "2026-03-01T14:20:12.299Z"
+		},
+		{
+			"id": "Evolución Demoníaca [Capítulo 144.5]",
+			"title": "Evolución Demoníaca [Capítulo 144.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-evolucion-demoniac1342-1n",
+			"date_published": "2026-03-01T14:20:12.299Z"
+		},
+		{
+			"id": "Guia de supervivencia del extra de la academia [Capítulo 94]",
+			"title": "Guia de supervivencia del extra de la academia [Capítulo 94]",
+			"url": "https://olympusbiblioteca.com/series/comic-guia-de-supervivencia-del-extra-de-la-academia-20260228-120458467",
+			"date_published": "2026-03-01T14:20:12.299Z"
+		},
+		{
+			"id": "El regreso del mago ilegítimo [Capítulo 36.5]",
+			"title": "El regreso del mago ilegítimo [Capítulo 36.5]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-mago-ilegitimo-20260228-121534079",
+			"date_published": "2026-03-01T14:20:12.299Z"
+		},
+		{
+			"id": "El legendario prodigio del ducado [Capítulo 37]",
+			"title": "El legendario prodigio del ducado [Capítulo 37]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado",
+			"date_published": "2026-03-01T14:20:12.299Z"
+		},
+		{
 			"id": "El Regreso del Legendario Caballero de la Lanza – extras [Capítulo 187]",
 			"title": "El Regreso del Legendario Caballero de la Lanza – extras [Capítulo 187]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-legendario-caballero-de-la-lanza-extras",
@@ -2917,90 +3001,6 @@
 			"title": "De duende a Dios Goblin [Capítulo 96.5]",
 			"url": "https://olympusbiblioteca.com/series/comic-de-duen10-05-2025de-a-dios-goblin",
 			"date_published": "2026-02-12T22:27:48.289Z"
-		},
-		{
-			"id": "Roman Dmitry [Capítulo 188]",
-			"title": "Roman Dmitry [Capítulo 188]",
-			"url": "https://olympusbiblioteca.com/series/comic-roman-dmitry-20260213-081116333",
-			"date_published": "2026-02-12T22:27:48.289Z"
-		},
-		{
-			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 17]",
-			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 17]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes-20260213-081406249",
-			"date_published": "2026-02-12T20:29:37.030Z"
-		},
-		{
-			"id": "Cómo criar villanos correctamente [Capítulo 22]",
-			"title": "Cómo criar villanos correctamente [Capítulo 22]",
-			"url": "https://olympusbiblioteca.com/series/comic-como-criar-villanos-correctamente-20260213-081415219",
-			"date_published": "2026-02-12T20:29:37.030Z"
-		},
-		{
-			"id": "Un hombre moderno que transmigró al mundo murim [Capítulo 162]",
-			"title": "Un hombre moderno que transmigró al mundo murim [Capítulo 162]",
-			"url": "https://olympusbiblioteca.com/series/comic-un-hombre-moderno-que-transmigro-al-mundo-murim-20260213-081518085",
-			"date_published": "2026-02-12T20:29:37.030Z"
-		},
-		{
-			"id": "Sin fin skills [Capítulo 245]",
-			"title": "Sin fin skills [Capítulo 245]",
-			"url": "https://olympusbiblioteca.com/series/comic-sin-fin-skills-20260213-080914088",
-			"date_published": "2026-02-12T18:56:37.499Z"
-		},
-		{
-			"id": "Construyendo un imperio industrial en un mundo mágico [Capítulo 73]",
-			"title": "Construyendo un imperio industrial en un mundo mágico [Capítulo 73]",
-			"url": "https://olympusbiblioteca.com/series/comic-construye10-05-2025en-un-mundo-magico",
-			"date_published": "2026-02-12T18:56:37.499Z"
-		},
-		{
-			"id": "¡Que abundante cosecha, señor demonio! [Capítulo 54]",
-			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 54]",
-			"url": "https://olympusbiblioteca.com/series/comic-que-abundante-cosecha-senor-demonio-20260213-080757316",
-			"date_published": "2026-02-12T18:56:37.499Z"
-		},
-		{
-			"id": "Nueva Cara [Capítulo 594]",
-			"title": "Nueva Cara [Capítulo 594]",
-			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20260213-081022343",
-			"date_published": "2026-02-12T18:56:37.499Z"
-		},
-		{
-			"id": "El Troll más fuerte del mundo [Capítulo 163]",
-			"title": "El Troll más fuerte del mundo [Capítulo 163]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-troll-mas-fuerte-del-mundo-20260213-080409400",
-			"date_published": "2026-02-12T18:56:37.498Z"
-		},
-		{
-			"id": "El Indomable Rey Marcial [Capítulo 120]",
-			"title": "El Indomable Rey Marcial [Capítulo 120]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-indomable-rey-marcial-20260213-080512894",
-			"date_published": "2026-02-12T16:53:12.724Z"
-		},
-		{
-			"id": "Registros del Erudito Espadachín [Capítulo 191]",
-			"title": "Registros del Erudito Espadachín [Capítulo 191]",
-			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025ito-espadachin5324",
-			"date_published": "2026-02-12T16:53:12.724Z"
-		},
-		{
-			"id": "Al caer la luz de la luna [Capítulo 21]",
-			"title": "Al caer la luz de la luna [Capítulo 21]",
-			"url": "https://olympusbiblioteca.com/series/comic-al-caer-la-luz-de-la-luna",
-			"date_published": "2026-02-12T16:53:12.724Z"
-		},
-		{
-			"id": "La luz de Arad: Aquel que camina primero [Capítulo 84]",
-			"title": "La luz de Arad: Aquel que camina primero [Capítulo 84]",
-			"url": "https://olympusbiblioteca.com/series/comic-la-luz-de-arad-aquel-que-camina-primero-20260213-080611471",
-			"date_published": "2026-02-12T16:53:12.724Z"
-		},
-		{
-			"id": "Roman Dmitry [Capítulo 187]",
-			"title": "Roman Dmitry [Capítulo 187]",
-			"url": "https://olympusbiblioteca.com/series/comic-roman-dmitry-20260212-081216748",
-			"date_published": "2026-02-12T14:43:26.298Z"
 		}
 	]
 }
