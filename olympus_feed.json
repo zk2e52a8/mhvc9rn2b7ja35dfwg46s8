@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "La segunda campaña del Berserker [Capítulo 14]",
+			"title": "La segunda campaña del Berserker [Capítulo 14]",
+			"url": "https://olympusbiblioteca.com/series/comic-la-segunda-campana-del-berserker-20260302-121508963",
+			"date_published": "2026-03-02T18:39:43.064Z"
+		},
+		{
+			"id": "Reencarne como el heredero loco [Capítulo 187]",
+			"title": "Reencarne como el heredero loco [Capítulo 187]",
+			"url": "https://olympusbiblioteca.com/series/comic-reencarne-como-el-heredero-loco-20260302-120435972",
+			"date_published": "2026-03-02T18:39:43.064Z"
+		},
+		{
+			"id": "El Genio entrenador de artes marciales [Capítulo 104]",
+			"title": "El Genio entrenador de artes marciales [Capítulo 104]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-genio-entrenador-de-artes-marciales-20260302-120412972",
+			"date_published": "2026-03-02T18:39:43.064Z"
+		},
+		{
 			"id": "El Rebelde de la Noble Familia Tiránica [Capítulo 11]",
 			"title": "El Rebelde de la Noble Familia Tiránica [Capítulo 11]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-rebelde-de-la-noble-familia-tiranica",
@@ -2983,24 +3001,6 @@
 			"title": "Demonio de la lanza inigualable [Capítulo 37]",
 			"url": "https://olympusbiblioteca.com/series/comic-demonio-de-la-lanza-inigualable",
 			"date_published": "2026-02-13T20:32:29.096Z"
-		},
-		{
-			"id": "Caballero en Eterna Regresión [Capítulo 96]",
-			"title": "Caballero en Eterna Regresión [Capítulo 96]",
-			"url": "https://olympusbiblioteca.com/series/comic-caballero-en-eterna-regresion-20260214-080639972",
-			"date_published": "2026-02-13T20:32:29.096Z"
-		},
-		{
-			"id": "Reencarne como el heredero loco [Capítulo 185]",
-			"title": "Reencarne como el heredero loco [Capítulo 185]",
-			"url": "https://olympusbiblioteca.com/series/comic-reencarne-como-el-heredero-loco-20260214-080658006",
-			"date_published": "2026-02-13T20:32:29.096Z"
-		},
-		{
-			"id": "Montañas de cadáveres y mar de sangre [Capítulo 25.1]",
-			"title": "Montañas de cadáveres y mar de sangre [Capítulo 25.1]",
-			"url": "https://olympusbiblioteca.com/series/comic-montanas-de-cadaveres-y-mar-de-sangre",
-			"date_published": "2026-02-13T18:40:10.657Z"
 		}
 	]
 }
