@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "*El Villano Del Destino [Capítulo 315]",
+			"title": "*El Villano Del Destino [Capítulo 315]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
+			"date_published": "2026-03-02T01:45:35.614Z"
+		},
+		{
 			"id": "Restaurante del mago [Capítulo 122]",
 			"title": "Restaurante del mago [Capítulo 122]",
 			"url": "https://olympusbiblioteca.com/series/comic-restaurante-del-mago-20260228-120531121",
@@ -2995,12 +3001,6 @@
 			"title": "El regreso del mago ilegítimo [Capítulo 34]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-mago-ilegitimo-20260213-081446627",
 			"date_published": "2026-02-13T08:37:28.010Z"
-		},
-		{
-			"id": "El soberano del hogar [Capítulo 67]",
-			"title": "El soberano del hogar [Capítulo 67]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-soberano-del-hogar-20260213-080714199",
-			"date_published": "2026-02-13T06:54:20.383Z"
 		}
 	]
 }
