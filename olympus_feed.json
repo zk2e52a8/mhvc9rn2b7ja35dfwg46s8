@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Mercenario que Reencarno entre Aristócratas [Capítulo 19]",
+			"title": "El Mercenario que Reencarno entre Aristócratas [Capítulo 19]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mercenario-que-reencarno-entre-aristocratas-20260228-121529508",
+			"date_published": "2026-03-02T04:09:46.482Z"
+		},
+		{
+			"id": "El guerrero despiadado [Capítulo 46]",
+			"title": "El guerrero despiadado [Capítulo 46]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-guerrero-despiadado-20260228-121408172",
+			"date_published": "2026-03-02T04:09:46.482Z"
+		},
+		{
+			"id": "el pasado oculto del jugador [Capítulo 110]",
+			"title": "el pasado oculto del jugador [Capítulo 110]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-pasado-oculto-del-jugador-20260228-121256187",
+			"date_published": "2026-03-02T04:09:46.482Z"
+		},
+		{
 			"id": "*El Villano Del Destino [Capítulo 315]",
 			"title": "*El Villano Del Destino [Capítulo 315]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-villan20-225-o-del-destino",
@@ -2983,24 +3001,6 @@
 			"title": "Jugador de la noble familia caída [Capítulo 32]",
 			"url": "https://olympusbiblioteca.com/series/comic-jugador-de-la-noble-familia-caida",
 			"date_published": "2026-02-13T14:38:11.732Z"
-		},
-		{
-			"id": "Como vivir como el principe enemigo [Capítulo 100]",
-			"title": "Como vivir como el principe enemigo [Capítulo 100]",
-			"url": "https://olympusbiblioteca.com/series/comic-como-v20-225-rincipe-enemigo5324",
-			"date_published": "2026-02-13T14:38:11.732Z"
-		},
-		{
-			"id": "Stream del Arquero Genio [Capítulo 100]",
-			"title": "Stream del Arquero Genio [Capítulo 100]",
-			"url": "https://olympusbiblioteca.com/series/comic-stream-del-arquero-genio-20260213-081401837",
-			"date_published": "2026-02-13T14:38:11.732Z"
-		},
-		{
-			"id": "El regreso del mago ilegítimo [Capítulo 34]",
-			"title": "El regreso del mago ilegítimo [Capítulo 34]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-regreso-del-mago-ilegitimo-20260213-081446627",
-			"date_published": "2026-02-13T08:37:28.010Z"
 		}
 	]
 }
