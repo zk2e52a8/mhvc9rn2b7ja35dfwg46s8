@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El mago pastor [Capítulo 9]",
+			"title": "El mago pastor [Capítulo 9]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago-pastor",
+			"date_published": "2026-03-03T20:27:39.081Z"
+		},
+		{
+			"id": "Convirtiéndome en el Perro Loco del Clan Cheon [Capítulo 10]",
+			"title": "Convirtiéndome en el Perro Loco del Clan Cheon [Capítulo 10]",
+			"url": "https://olympusbiblioteca.com/series/comic-convirtiendome-en-el-perro-loco-del-clan-cheon-20260303-121512592",
+			"date_published": "2026-03-03T20:27:39.081Z"
+		},
+		{
+			"id": "Realmente no quiero renacer [Capítulo 472]",
+			"title": "Realmente no quiero renacer [Capítulo 472]",
+			"url": "https://olympusbiblioteca.com/series/comic-otra-serie-chin10-05-2025encarnacion",
+			"date_published": "2026-03-03T20:27:39.081Z"
+		},
+		{
 			"id": "Academia de la Ascensión [Capítulo 190]",
 			"title": "Academia de la Ascensión [Capítulo 190]",
 			"url": "https://olympusbiblioteca.com/series/comic-academia-de-la-ascension-20260303-120122993",
@@ -2983,24 +3001,6 @@
 			"title": "El Blinker genio de la academia mágica [Capítulo 87]",
 			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica",
 			"date_published": "2026-02-14T18:27:56.859Z"
-		},
-		{
-			"id": "El legendario prodigio del ducado [Capítulo 35]",
-			"title": "El legendario prodigio del ducado [Capítulo 35]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-legendario-prodigio-del-ducado",
-			"date_published": "2026-02-14T16:22:48.909Z"
-		},
-		{
-			"id": "El Guerrero Escolta Reencarnado [Capítulo 138]",
-			"title": "El Guerrero Escolta Reencarnado [Capítulo 138]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-gu10-05-2025encarnado",
-			"date_published": "2026-02-14T16:22:48.909Z"
-		},
-		{
-			"id": "Heroe, regresa [Capítulo 141]",
-			"title": "Heroe, regresa [Capítulo 141]",
-			"url": "https://olympusbiblioteca.com/series/comic-dragon-20-225-y-heroe13424",
-			"date_published": "2026-02-14T16:22:48.909Z"
 		}
 	]
 }
