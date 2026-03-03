@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Mago devorador de dragones [Capítulo 134]",
+			"title": "Mago devorador de dragones [Capítulo 134]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-mago20-225-r-de-11251151515",
+			"date_published": "2026-03-03T22:24:18.657Z"
+		},
+		{
+			"id": "El apóstol rebelde de la Diosa de la abundancia. [Capítulo 29]",
+			"title": "El apóstol rebelde de la Diosa de la abundancia. [Capítulo 29]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-apostol-rebelde-de-la-diosa-de-la-abundancia",
+			"date_published": "2026-03-03T22:24:18.657Z"
+		},
+		{
+			"id": "Chamán del dinero [Capítulo 30]",
+			"title": "Chamán del dinero [Capítulo 30]",
+			"url": "https://olympusbiblioteca.com/series/comic-chaman-del-dinero",
+			"date_published": "2026-03-03T22:24:18.657Z"
+		},
+		{
 			"id": "El mago pastor [Capítulo 9]",
 			"title": "El mago pastor [Capítulo 9]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mago-pastor",
@@ -2983,24 +3001,6 @@
 			"title": "apocalipsis zombie 82 08 [Capítulo 107]",
 			"url": "https://olympusbiblioteca.com/series/comic-apocalipsis-zombie-82-08-20260215-080411368",
 			"date_published": "2026-02-14T20:20:23.218Z"
-		},
-		{
-			"id": "Artes Marciales Globales [Capítulo 331]",
-			"title": "Artes Marciales Globales [Capítulo 331]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-m10-05-2025en-de-las-peleas",
-			"date_published": "2026-02-14T20:20:23.218Z"
-		},
-		{
-			"id": "Los gemelos Baek [Capítulo 160]",
-			"title": "Los gemelos Baek [Capítulo 160]",
-			"url": "https://olympusbiblioteca.com/series/comic-los-gemelos-baek-20260215-081304269",
-			"date_published": "2026-02-14T18:27:56.859Z"
-		},
-		{
-			"id": "El Blinker genio de la academia mágica [Capítulo 87]",
-			"title": "El Blinker genio de la academia mágica [Capítulo 87]",
-			"url": "https://olympusbiblioteca.com/series/comic-20-225-e-la-academia-magica",
-			"date_published": "2026-02-14T18:27:56.859Z"
 		}
 	]
 }
