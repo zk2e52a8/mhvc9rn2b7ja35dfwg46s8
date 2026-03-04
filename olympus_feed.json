@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Chetado (Overgeared) [Capítulo 313]",
+			"title": "El Chetado (Overgeared) [Capítulo 313]",
+			"url": "https://olympusbiblioteca.com/series/comic-27-220-225-565464565465",
+			"date_published": "2026-03-04T06:40:51.621Z"
+		},
+		{
+			"id": "Renacido en el Campo de Batalla Demoníaco [Capítulo 21]",
+			"title": "Renacido en el Campo de Batalla Demoníaco [Capítulo 21]",
+			"url": "https://olympusbiblioteca.com/series/comic-renacido-en-el-campo-de-batalla-demoniaco-20260303-121223313",
+			"date_published": "2026-03-04T06:40:51.621Z"
+		},
+		{
 			"id": "Renacido en el Campo de Batalla Demoníaco [Capítulo 20]",
 			"title": "Renacido en el Campo de Batalla Demoníaco [Capítulo 20]",
 			"url": "https://olympusbiblioteca.com/series/comic-renacido-en-el-campo-de-batalla-demoniaco-20260303-121223313",
@@ -2989,18 +3001,6 @@
 			"title": "Murim jurasico [Capítulo 4]",
 			"url": "https://olympusbiblioteca.com/series/comic-murim-jurasico",
 			"date_published": "2026-02-15T14:22:14.829Z"
-		},
-		{
-			"id": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 62]",
-			"title": "Ascensión Divina: Mi camino a la Cima de las Artes Marciales [Capítulo 62]",
-			"url": "https://olympusbiblioteca.com/series/comic-ascension-divina-mi-camino-a-la-cima-de-las-artes-marciales",
-			"date_published": "2026-02-15T08:27:52.523Z"
-		},
-		{
-			"id": "Chamán del dinero [Capítulo 27]",
-			"title": "Chamán del dinero [Capítulo 27]",
-			"url": "https://olympusbiblioteca.com/series/comic-chaman-del-dinero",
-			"date_published": "2026-02-15T04:18:52.125Z"
 		}
 	]
 }
