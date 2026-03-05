@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Nueva Cara [Capítulo 597]",
+			"title": "Nueva Cara [Capítulo 597]",
+			"url": "https://olympusbiblioteca.com/series/comic-nueva-cara-20260304-120847378",
+			"date_published": "2026-03-05T22:26:27.341Z"
+		},
+		{
+			"id": "Registros del Erudito Espadachín [Capítulo 192]",
+			"title": "Registros del Erudito Espadachín [Capítulo 192]",
+			"url": "https://olympusbiblioteca.com/series/comic-10-05-2025ito-espadachin5324",
+			"date_published": "2026-03-05T22:26:27.341Z"
+		},
+		{
 			"id": "Roman Dmitry [Capítulo 189]",
 			"title": "Roman Dmitry [Capítulo 189]",
 			"url": "https://olympusbiblioteca.com/series/comic-roman-dmitry-20260304-120942967",
@@ -2989,18 +3001,6 @@
 			"title": "La corona que conquistaré [Capítulo 3]",
 			"url": "https://olympusbiblioteca.com/series/comic-la-corona-que-conquistare",
 			"date_published": "2026-02-16T04:21:27.925Z"
-		},
-		{
-			"id": "El Chetado (Overgeared) [Capítulo 311]",
-			"title": "El Chetado (Overgeared) [Capítulo 311]",
-			"url": "https://olympusbiblioteca.com/series/comic-27-220-225-565464565465",
-			"date_published": "2026-02-16T01:47:56.628Z"
-		},
-		{
-			"id": "el pasado oculto del jugador [Capítulo 108]",
-			"title": "el pasado oculto del jugador [Capítulo 108]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-pasado-oculto-del-jugador-20260216-081411922",
-			"date_published": "2026-02-16T01:47:56.628Z"
 		}
 	]
 }
