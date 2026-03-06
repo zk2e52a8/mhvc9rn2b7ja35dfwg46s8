@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Un héroe que sabe lo que hace [Capítulo 16]",
+			"title": "Un héroe que sabe lo que hace [Capítulo 16]",
+			"url": "https://olympusbiblioteca.com/series/comic-un-heroe-que-sabe-lo-que-hace",
+			"date_published": "2026-03-06T18:37:26.166Z"
+		},
+		{
+			"id": "Helmut: El Niño Abandonado [Capítulo 124]",
+			"title": "Helmut: El Niño Abandonado [Capítulo 124]",
+			"url": "https://olympusbiblioteca.com/series/comic-helm20-225-ut-el-nino-abandonado13424",
+			"date_published": "2026-03-06T18:37:26.166Z"
+		},
+		{
+			"id": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 108]",
+			"title": "El Dios Caotico de Fuerza Extraordinaria [Capítulo 108]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-dios-caotico-de-fuerza-extraordinaria-20260304-120310616",
+			"date_published": "2026-03-06T18:37:26.166Z"
+		},
+		{
+			"id": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 60]",
+			"title": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 60]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-ascenso-del-tercer-principe-del-reino-caido",
+			"date_published": "2026-03-06T18:37:26.166Z"
+		},
+		{
+			"id": "Jugador de la noble familia caída [Capítulo 35]",
+			"title": "Jugador de la noble familia caída [Capítulo 35]",
+			"url": "https://olympusbiblioteca.com/series/comic-jugador-de-la-noble-familia-caida",
+			"date_published": "2026-03-06T18:37:26.166Z"
+		},
+		{
 			"id": "Mi Vida Cuidando Dragonas [Capítulo 32]",
 			"title": "Mi Vida Cuidando Dragonas [Capítulo 32]",
 			"url": "https://olympusbiblioteca.com/series/comic-mi-vida-cuidando-dragonas-20260304-121231474",
@@ -2971,36 +3001,6 @@
 			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 222]",
 			"url": "https://olympusbiblioteca.com/series/comic-el-mundo-despues-del-fin-20260217-080134103",
 			"date_published": "2026-02-16T18:36:25.903Z"
-		},
-		{
-			"id": "El Rebelde de la Noble Familia Tiránica [Capítulo 9]",
-			"title": "El Rebelde de la Noble Familia Tiránica [Capítulo 9]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-rebelde-de-la-noble-familia-tiranica",
-			"date_published": "2026-02-16T16:37:18.132Z"
-		},
-		{
-			"id": "Al Diablo la Ventana de Estado [Capítulo 9]",
-			"title": "Al Diablo la Ventana de Estado [Capítulo 9]",
-			"url": "https://olympusbiblioteca.com/series/comic-al-diablo-la-ventana-de-estado-20260217-081607165",
-			"date_published": "2026-02-16T16:37:18.132Z"
-		},
-		{
-			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 112.6]",
-			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 112.6]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-dios-marcial-que-regreso-al-nivel-2-20260217-081235570",
-			"date_published": "2026-02-16T16:37:18.132Z"
-		},
-		{
-			"id": "*El asesino que retornó como el hijo del duque [Capítulo 114]",
-			"title": "*El asesino que retornó como el hijo del duque [Capítulo 114]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-asesino-que-retorno-como-el-hijo-del-duque-20260217-080411676",
-			"date_published": "2026-02-16T14:38:22.046Z"
-		},
-		{
-			"id": "El amo de la plaga [Capítulo 103]",
-			"title": "El amo de la plaga [Capítulo 103]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-a10-05-2025mo-de-la-plaga",
-			"date_published": "2026-02-16T14:38:22.046Z"
 		}
 	]
 }
