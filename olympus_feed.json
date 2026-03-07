@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 20]",
+			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 20]",
+			"url": "https://olympusbiblioteca.com/series/comic-el-rey-demonio-abrumado-por-heroes-20260304-121241087",
+			"date_published": "2026-03-07T01:27:50.245Z"
+		},
+		{
+			"id": "Ranker Salvaje [Capítulo 45]",
+			"title": "Ranker Salvaje [Capítulo 45]",
+			"url": "https://olympusbiblioteca.com/series/comic-ranker-salvaje-20260304-121337067",
+			"date_published": "2026-03-07T01:27:50.245Z"
+		},
+		{
 			"id": "Tower Crush [Capítulo 166]",
 			"title": "Tower Crush [Capítulo 166]",
 			"url": "https://olympusbiblioteca.com/series/comic-tower-crush-20260304-120713765",
@@ -2989,18 +3001,6 @@
 			"title": "Maestro de la espada devorador de espadas [Capítulo 15]",
 			"url": "https://olympusbiblioteca.com/series/comic-maestro-de-la-espada-devorador-de-espadas-20260217-081510032",
 			"date_published": "2026-02-16T20:24:51.495Z"
-		},
-		{
-			"id": "Colorista [Capítulo 18]",
-			"title": "Colorista [Capítulo 18]",
-			"url": "https://olympusbiblioteca.com/series/comic-colorista-20260217-081407387",
-			"date_published": "2026-02-16T20:24:51.495Z"
-		},
-		{
-			"id": "El extra de la novela (remake) [Capítulo 146]",
-			"title": "El extra de la novela (remake) [Capítulo 146]",
-			"url": "https://olympusbiblioteca.com/series/comic-el-ext20-225-ra-de-la-novela-remake13424",
-			"date_published": "2026-02-16T18:36:25.903Z"
 		}
 	]
 }
